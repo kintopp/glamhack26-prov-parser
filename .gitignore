@@ -3,3 +3,4 @@ old/
 __pycache__/
 Provenienz_Datenblatt/
 extracted/images/
+parsed/llm/cache/

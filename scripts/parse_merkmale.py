@@ -422,7 +422,7 @@ def main(src: Path, dst: Path):
             rec = {c: "" for c in COLUMNS}
             rec.update({
                 "Merkmal-ID": mid, "Quellzeile": m["nr"], "Inventarnummer": inv,
-                "Foto": m["bilder"][0]["datei"] if m.get("bilder") else "",
+                "Foto": "; ".join(b["datei"] for b in m.get("bilder") or []),
                 "Originalbeschreibung": beschr,
             })
             first = {}

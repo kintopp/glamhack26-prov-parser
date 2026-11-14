@@ -58,7 +58,7 @@ Exceptions: «(erschlossen)» in Art des Urhebers and Ereignis marks an inferenc
 | Merkmal-ID | `<Inventarnummer>#<nr>`, e.g. `5758.2#1` (same form `validate.py` prints) |
 | Quellzeile | `nr` of the mark in its Datenblatt |
 | Inventarnummer | from the PDF filename, as in `extracted/` |
-| Foto | first entry of the mark's `bilder[].datei`, relative to `extracted/`, e.g. `images/1007/1007_007_provenienzmerkmale.jpeg` |
+| Foto | all of the mark's `bilder[].datei`, relative to `extracted/`, joined with «; », e.g. `images/1007/1007_007_provenienzmerkmale.jpeg` |
 | Originalbeschreibung | `beschreibung`, unchanged |
 | Typ | Etiketten · Stempel · Beschriftungen · Markierungen · Inschriften · **Plaketten** · **Erwerbsnachweise** · **Dokumente** · Reste entfernter Provenienzmerkmale. Seals are «Stempel». |
 | Technik | gedruckt · handschriftlich · gestempelt · maschinenschriftlich · **Siegel** · **graviert** · **schabloniert** · **eingeritzt** |
