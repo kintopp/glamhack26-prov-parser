@@ -40,7 +40,7 @@ It writes `parsed/merkmale.json` (a `lauf` block with parser/schema hashes, then
 LLM layer (needs `ANTHROPIC_API_KEY`, read from the environment or `~/.env`; never print it):
 
 ```sh
-uv run scripts/llm_merkmale.py parsed extracted parsed/llm            # all candidates, Sonnet 5.5 (~$9)
+uv run scripts/llm_merkmale.py parsed extracted parsed/llm --fotos    # all candidates with photos, Sonnet 5.5 (~$10)
 uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --sample 55  # stratified test sample
 uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --ids 1713#3 4961#2
 ```
@@ -54,7 +54,8 @@ It writes `merkmale.json`/`.csv` (rule values plus LLM values, traces with `meth
 - Typ is decided by the first clause (up to the first «,», «;» or «»); later clauses often describe neighbouring things («verdeckt durch Etikett»). Erwerbsnachweise and Dokumente are checked before the Typ table.
 - Trace `methode` values: `regel` (rule), `verweis` (copied from the previous mark for «siehe vorausgehendes Provenienzmerkmal», with `von`), later `llm`.
 - LLM layer (`scripts/llm_merkmale.py`): the model may write only the interpretive columns, Bemerkungen, and Typ where the rules left it empty. Vocabulary columns are enums in the response schema and dates come as {wie_gelesen, iso} pairs, so neither needs repair afterwards. `merge()` rejects quotes not found in description/comment (chain too for Ort/Land), invalid ISO 8601-2 dates, Bemerkungen without a found quote, and Urheber/Besitz names that occur only in the sheet's provenance chain (the chain may normalise a name, not supply it; the work's artist counts for signatures). Sonnet 5.5 is the default; Haiku 5.5 confused lenders with issuers in testing.
-- The descriptions sometimes omit printed text that identifies the issuer (1713#3 MAT Securitas Express, 4961#2 «F. HODLER, ARCHIV»). Check doubtful marks against the photo in the `Foto` column.
+- The descriptions sometimes omit printed text that identifies the issuer (1196#7 Kunsthalle Basel, 4961#2 «F. HODLER, ARCHIV»). `--fotos` sends the mark photos; a value read only on the photo has `quelle: "foto"`, no span, skips the name check, and is listed as `foto` in `llm_probleme.tsv` for review.
+- Erwerbsnachweise: the model codes the issuer of the paper (auction house, dealer); `erwerbsnachweis()` adds SKKG (Institution / Stiftung) or, where named, Bruno Stefanini (Privatbesitz / Nachlass) as a further issuer, with a `regel` trace.
 - Several values are joined with «; »; doubt goes into Bemerkungen as one note per source passage naming every affected column. Values inferred from another word (Technik from a Schreibmittel) are put with `doubt=False`.
 
 For ad-hoc probing, `uv run --with pymupdf python script.py`; plain `uv run python` has no pymupdf.

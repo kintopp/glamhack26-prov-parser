@@ -5,9 +5,10 @@
 """LLM layer of the provenance-mark parser (schema: merkmal-schema.md).
 
 Usage: uv run scripts/llm_merkmale.py PARSED_DIR EXTRACTED_DIR OUT_DIR
-           [--model claude-sonnet-5-5] [--effort medium] [--sample N | --ids ID ...] [--workers 8]
+           [--model claude-sonnet-5-5] [--effort medium] [--sample N | --ids ID ...] [--workers 8] [--fotos]
 
-Reads PARSED_DIR/merkmale.json (rule layer) and fills the interpretive columns. Rule values
+Reads PARSED_DIR/merkmale.json (rule layer) and fills the interpretive columns; --fotos also
+sends the mark photos, and values read only on a photo are accepted with quelle «foto» for review. Rule values
 are fixed: the model sees them but can only write the LLM columns, Bemerkungen, and Typ where
 the rules left it empty. Vocabulary columns are enums in the output schema, and each date comes
 as one {wie_gelesen, iso} pair. Every value and every Bemerkung must quote its evidence; quotes
@@ -21,6 +22,7 @@ falling back to ~/.env.
 from __future__ import annotations
 
 import argparse
+import base64
 import collections
 import concurrent.futures as cf
 import csv
@@ -39,7 +41,8 @@ import anthropic
 from parse_merkmale import COPIED, LLM_COLUMNS, sha, write_csv
 
 ART = ["Kunsthandel / Galerie", "Auktionshaus", "Museum / Ausstellungsort", "Zoll", "Denkmalbehörde",
-       "Privatbesitz / Nachlass", "Künstlerbedarf", "Künstler:in", "Forschungsinstitut", "Transportunternehmen"]
+       "Privatbesitz / Nachlass", "Künstlerbedarf", "Künstler:in", "Forschungsinstitut", "Transportunternehmen",
+       "Rahmenmacher:in", "Restaurator:in", "Gutachter:in", "Institution / Stiftung"]
 EREIGNIS = ["Auktion", "Verkauf", "Vermietung", "Leihgabe", "Inventarisierung", "Zollabfertigung", "Ausfuhr"]
 TYP = ["Etiketten", "Stempel", "Beschriftungen", "Markierungen", "Inschriften", "Plaketten", "Erwerbsnachweise",
        "Dokumente", "Reste entfernter Provenienzmerkmale"]
@@ -53,9 +56,12 @@ FREI = ["urheber", "ort", "land", "besitz", "ausstellung"]  # in this order: Lan
 ERSCHLIESSBAR = {"art_des_urhebers", "ereignis"}  # «(erschlossen)» is part of the value here
 PHYSICAL = COPIED + ["Anbringungsort"]
 GLOSSE = {"Künstler:in": "Signaturen und Inschriften von Künstlerhand", "Forschungsinstitut": "z. B. SIK-ISEA",
-          "Transportunternehmen": "Kunstspediteure"}
+          "Transportunternehmen": "Kunstspediteure", "Rahmenmacher:in": "Rahmenbauer, Vergolder, Einrahmungsgeschäfte",
+          "Restaurator:in": "Restaurierungs- und Doublierungsvermerke", "Gutachter:in": "Experten, Echtheitszertifikate",
+          "Institution / Stiftung": "Kulturförderung, Firmen, Archive; nur wenn kein anderer Wert passt, also nicht für "
+                                    "Museen, Kunstvereine und -gesellschaften, Auktionshäuser, Händler oder die SKKG"}
 
-_D = r"(?:\d{4}|\d{3}X|\d{2}XX|XXXX)(?:-(?:\d{2}|XX)(?:-(?:\d{2}|XX))?)?[?~%]?"
+_D = r"[\dX]{4}(?:-[\dX]{2}(?:-[\dX]{2})?)?[?~%]?"  # X = unspecified digit, anywhere (EDTF level 2)
 ISO_DATE = re.compile(rf"^(?:{_D}|(?:{_D}|\.\.)/(?:{_D}|\.\.)|\[{_D}(?:\.\.{_D})?(?:,{_D}(?:\.\.{_D})?)*\])$")
 
 
@@ -91,25 +97,31 @@ Jeder Eintrag hat:
 ## Spalten
 
 - `art_des_urhebers`: Art dessen, der das Merkmal ausgestellt oder angebracht hat: {liste(ART)}.
-- `urheber`: wer das Merkmal ausgestellt oder angebracht hat, normalisiert («Galerie Dr. Raeber», «Kunsthaus Zürich», «Zollamt Zürich», «Bruno Stefanini»). Personen mit Vor- und Nachname, soweit belegt. Bei Signaturen, Monogrammen und Initialen ist es der Künstler aus `objekt`.
-- `ort`: Ort des Urhebers oder des Ereignisses, wie in Beschreibung, Kommentar oder (für ein genanntes Auktionshaus oder einen genannten Händler) Provenienzkette angegeben; deutscher Name (Genf, nicht Genève; Mailand, nicht Milano), ohne Strasse.
+- `urheber`: wer das Merkmal ausgestellt oder angebracht hat, normalisiert («Galerie Dr. Raeber», «Kunsthaus Zürich», «Zollamt Zürich», «Bruno Stefanini»). Personen mit Vor- und Nachname, soweit belegt. Bei Signaturen, Monogrammen und Initialen ist es der Künstler aus `objekt`; Ort und Jahr einer Signatur gehören zum Werk und kommen weder in `ort` noch in `daten`.
+- `ort`: Ort des Urhebers oder des Ereignisses, wie in Beschreibung, Kommentar oder (für ein genanntes Auktionshaus oder einen genannten Händler) Provenienzkette angegeben; deutscher Name (Genf, nicht Genève; Mailand, nicht Milano), ohne Strasse. Nicht der Wohnort eines Besitzers oder Leihgebers.
 - `land`: Land zu `ort` in heutiger deutscher Bezeichnung (Schweiz, Deutschland, Frankreich …), nur wenn der Ort es eindeutig macht oder es dasteht.
 - `ereignis`: Art des Provenienzereignisses, das das Merkmal festhält: {liste(EREIGNIS)}. Leer, wenn das Merkmal kein Ereignis festhält (Sammlerstempel, Lieferantenstempel, Signatur). Ein Ausstellungs- oder Transportetikett ist nur dann «Leihgabe», wenn es einen Leihgeber oder Besitzer nennt; sonst bleibt `ereignis` leer und die Ausstellung steht in `ausstellung`.
 - `besitz`: Eigentümer:in des Werks zur Zeit des Merkmals, normalisiert. Nicht dasselbe wie Urheber: Auktionshaus und Zoll stellen Merkmale aus, besitzen das Werk aber nicht. Das Lageretikett eines Händlers macht den Händler zu Urheber und Besitz. Ein Leihgeber auf einem Ausstellungsetikett ist Besitz. Anonymisierungen der SKKG («Privatperson», «Unbekannte:r Eigentümer:in») unverändert übernehmen, nie auflösen.
 - `ausstellung`: die Ausstellung, so wie das Merkmal sie nennt, mit Ort und Jahr, falls angegeben.
 - `daten`: Daten, an denen das Merkmal angebracht wurde oder das Ereignis stattfand, das es festhält; je Datum ein Eintrag mit `wie_gelesen` (genau wie auf dem Merkmal oder in Beschreibung bzw. Kommentar) und `iso` (dasselbe Datum nach ISO 8601-2:2019). Keine Datierungen des Werks, auch nicht die Jahreszahl einer Signatur oder eine Werkdatierung auf einem Ausstellungsetikett. ISO-Formen: `1996-12-10`, `1938-12`, `1865`; unsicher `1944?`; ungefähr `1900~`; beides `1900%`; unbestimmte Stellen `19XX`, `1996-XX`, `XXXX-09-16`; Intervall `1918-05/1918-06`; offen `1944/..`, `../1944`; eins von mehreren `[1996-12-10,1996-10-12]`. Ein Zeitraum «von … bis …» ist ein Datum (ein Intervall), nicht zwei. Zweistellige Jahre nur auflösen, wenn der Kontext das Jahrhundert klärt, sonst mit `XX` für die Jahrhundertstellen.
-- `sprache`: Sprache des Texts auf dem Merkmal: {liste(SPRACHE)}. Nur wenn das Merkmal Text in einer erkennbaren Sprache trägt; nicht bei Zahlen, Namen, Orten oder einzelnen Kürzeln wie «Lot».
+- `sprache`: Sprache des Texts auf dem Merkmal: {liste(SPRACHE)}. Nur wenn `beschreibung` Text des Merkmals wiedergibt (in «…») oder seine Sprache nennt und dieser Text Wörter einer erkennbaren Sprache enthält; nicht bei Zahlen, Namen, Orten oder einem einzelnen Wort oder Kürzel wie «Lot» oder «ZOLL». Beschreibt die Bearbeiterin das Merkmal nur, ohne seinen Text wiederzugeben, bleibt `sprache` leer.
 - `typ`: nur ausfüllen, wenn `regelwerte.Typ` leer ist: {liste(TYP)}. Signaturen und Monogramme sind «Inschriften».
 
-Erwerbsnachweise sind Zettel, mit denen die Erwerbungen der SKKG bzw. Bruno Stefaninis festgehalten wurden: Ereignis ist die Erwerbung (z. B. Auktion). Bruno Stefanini ist nur dann Urheber oder Besitz, wenn Merkmal oder Kommentar ihn nennen («verfasst von Bruno Stefanini»); sonst diese Spalten leer lassen.
+Erwerbsnachweise sind Zettel, mit denen die Erwerbungen der SKKG bzw. Bruno Stefaninis festgehalten wurden: Ereignis ist die Erwerbung (z. B. Auktion). Urheber ist hier, wer das Papier ausgestellt hat (das Auktionshaus des Katalogauszugs, der Händler der Rechnung); SKKG bzw. Bruno Stefanini als Verfasser des Nachweises werden automatisch ergänzt, nicht eintragen. Sonst ist Bruno Stefanini nur dann Urheber oder Besitz, wenn Merkmal oder Kommentar ihn nennen.
 
 ## `bemerkungen`
 
-Zweifel oder Fehler in der Quelle, kurz und deutsch, mit den betroffenen Spalten in `felder` und der zweifelhaften Stelle wörtlich in `zitat`: unsichere Lesung eines Namens oder Datums («[?]», «wohl»), Alternativen der Bearbeiterin, Widersprüche zwischen Beschreibung und Kommentar. Nur für Zweifel und Fehler, die in der Quelle stehen. Keine Bemerkung, wenn eine Spalte nur leer bleibt, wenn ein Vokabularwert fehlt (dafür gibt es `vokabular_vorschlaege`), um eigene Codierentscheide zu erklären (dafür gibt es `begruendung`), ein Urheber nicht bekannt ist oder sich eine Zahl keinem Ereignis zuordnen lässt: Fehlendes ist kein Zweifel. Im Zweifel keine Bemerkung.
+Zweifel oder Fehler in der Quelle, kurz und deutsch, mit den betroffenen Spalten in `felder` (leer, wenn der Zweifel nur die Transkription betrifft und keine Spalte; `typ` nur, wenn der Typ selbst zweifelhaft ist) und der zweifelhaften Stelle wörtlich in `zitat`: unsichere Lesung eines Namens oder Datums («[?]», «wohl»), Alternativen der Bearbeiterin, Widersprüche zwischen Beschreibung und Kommentar. Nur für Zweifel und Fehler, die in der Quelle stehen. Keine Bemerkung, wenn eine Spalte nur leer bleibt, wenn ein Vokabularwert fehlt (dafür gibt es `vokabular_vorschlaege`), um eigene Codierentscheide zu erklären (dafür gibt es `begruendung`), ein Urheber nicht bekannt ist oder sich eine Zahl keinem Ereignis zuordnen lässt: Fehlendes ist kein Zweifel. Im Zweifel keine Bemerkung.
 
 ## `vokabular_vorschlaege`
 
 Wenn ein Merkmal eindeutig einen Wert für `art_des_urhebers`, `ereignis` oder `typ` hätte, der im Vokabular fehlt, hier den passenden Begriff mit Begründung vorschlagen, statt einen falschen Vokabularwert zu wählen."""
+
+FOTO = """
+
+## Fotos
+
+Nach dem JSON folgen die Fotos des Merkmals aus dem Datenblatt. Sie zeigen oft gedruckten Text, den die Beschreibung auslässt (Firmenname eines Spediteurs, Briefkopf eines Formulars, Name eines Archivs). Was nur auf dem Foto lesbar ist, darf belegen: dann `quelle` = `foto` und in `zitat` genau der gelesene Text. Nur deutlich Lesbares verwenden, nichts erraten; was Beschreibung oder Kommentar belegen, mit diesen belegen. Die Beschreibung der Bearbeiterin geht vor: Widerspricht ihr das Foto, eine Bemerkung schreiben statt sie zu überstimmen. Ein Foto kann auch Nachbarmerkmale zeigen: nur das beschriebene Merkmal auswerten."""
 
 
 def obj(props: dict) -> dict:
@@ -126,24 +138,26 @@ def enum(vals: list[str]) -> dict:
 
 
 STR = {"type": "string"}
-QUELLE = enum(["beschreibung", "kommentar"])
-BELEG = {"zitat": STR, "quelle": QUELLE, "begruendung": STR}
 
 
-def eintrag(f: str) -> dict:
-    extra = {"erschlossen": {"type": "boolean"}} if f in ERSCHLIESSBAR else {}
-    return arr(obj({"wert": enum(VOCAB[f])} | extra | BELEG))
+def schema(fotos: bool) -> dict:
+    texte = ["beschreibung", "kommentar"] + (["foto"] if fotos else [])
+    beleg = {"zitat": STR, "quelle": enum(texte), "begruendung": STR}
 
+    def eintrag(f: str) -> dict:
+        extra = {"erschlossen": {"type": "boolean"}} if f in ERSCHLIESSBAR else {}
+        return arr(obj({"wert": enum(VOCAB[f])} | extra | beleg))
 
-# one list for the free-text columns: a list per column makes the compiled grammar too large
-SCHEMA = obj(
-    {f: eintrag(f) for f in VOCAB}
-    | {"werte": arr(obj({"feld": enum(FREI), "wert": STR} | BELEG
-                        | {"quelle": enum(["beschreibung", "kommentar", "provenienzkette"])})),
-       "daten": arr(obj({"wie_gelesen": STR, "iso": STR} | BELEG)),
-       "bemerkungen": arr(obj({"felder": arr(enum(list(FELDER))), "text": STR, "zitat": STR, "quelle": QUELLE})),
-       "vokabular_vorschlaege": arr(obj({"feld": enum(["art_des_urhebers", "ereignis", "typ"]), "wert": STR,
-                                        "begruendung": STR}))})
+    # one list for the free-text columns: a list per column makes the compiled grammar too large
+    return obj(
+        {f: eintrag(f) for f in VOCAB}
+        | {"werte": arr(obj({"feld": enum(FREI), "wert": STR} | beleg
+                            | {"quelle": enum(texte + ["provenienzkette"])})),
+           "daten": arr(obj({"wie_gelesen": STR, "iso": STR} | beleg)),
+           "bemerkungen": arr(obj({"felder": arr(enum(list(FELDER))), "text": STR, "zitat": STR,
+                                   "quelle": enum(texte)})),
+           "vokabular_vorschlaege": arr(obj({"feld": enum(["art_des_urhebers", "ereignis", "typ"]), "wert": STR,
+                                            "begruendung": STR}))})
 
 
 def load_key():
@@ -186,13 +200,20 @@ def eingabe(rec: dict, prev: dict | None, doc: dict) -> dict:
     return inp
 
 
-def call(client, model: str, effort: str, inp: dict) -> dict:
+def bild(path: Path) -> dict:
+    mt = "image/png" if path.suffix == ".png" else "image/jpeg"
+    return {"type": "image", "source": {"type": "base64", "media_type": mt,
+                                        "data": base64.b64encode(path.read_bytes()).decode()}}
+
+
+def call(client, model: str, effort: str, system: str, schema: dict, inp: dict, fotos: list[Path]) -> dict:
+    content = [{"type": "text", "text": json.dumps(inp, ensure_ascii=False, indent=1)}] + [bild(f) for f in fotos]
     resp = client.messages.create(
         model=model,
         max_tokens=16000,
-        system=[{"type": "text", "text": SYSTEM, "cache_control": {"type": "ephemeral"}}],
-        messages=[{"role": "user", "content": json.dumps(inp, ensure_ascii=False, indent=1)}],
-        output_config={"effort": effort, "format": {"type": "json_schema", "schema": SCHEMA}},
+        system=[{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}],
+        messages=[{"role": "user", "content": content}],
+        output_config={"effort": effort, "format": {"type": "json_schema", "schema": schema}},
     )
     if resp.stop_reason != "end_turn":
         raise RuntimeError(f"stop_reason {resp.stop_reason}")
@@ -205,7 +226,7 @@ def call(client, model: str, effort: str, inp: dict) -> dict:
                       "cache_read": u.cache_read_input_tokens or 0, "cache_write": u.cache_creation_input_tokens or 0}}
 
 
-ALIAS = {"skkg": "stiftung für kunst, kultur und geschichte"}
+ALIAS = {"skkg": "stiftung für kunst, kultur und geschichte", "sbb": "schweizerische bundesbahnen"}
 
 
 def fold(s: str) -> str:
@@ -258,14 +279,21 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
     artist = plain(re.sub(r"\s*\(.*?\)", "", inp["objekt"].get("kuenstler") or "")) if signatur else ""
 
     def belegt(w: dict, hays: dict) -> tuple[str, tuple[int, int] | None]:
-        """Source and span of the quote; the named source is searched first."""
+        """Source and span of the quote; the named source is searched first. A quote read only
+        on the photo («foto») has no span; it is accepted and listed for review."""
         # a source the column may not use (the chain outside Ort/Land) is ignored, not trusted
         return next(((q, sp) for q in dict.fromkeys([w["quelle"], *hays]) if q in hays
                      if (sp := find_span(hays[q], w["zitat"])) is not None), (w["quelle"], None))
 
     def trace(col: str, wert: str, w: dict, quelle: str, span):
         rec["trace"].append({"feld": col, "wert": wert, "methode": "llm", "modell": model, "quelle": quelle,
-                             "span": list(span), "zitat": w["zitat"], "begruendung": w["begruendung"]})
+                             "span": list(span) if span else None, "zitat": w["zitat"],
+                             "begruendung": w["begruendung"]})
+        if quelle == "foto":
+            probleme.append((mid, "foto", col, wert, w["begruendung"], w["zitat"]))
+
+    def unbelegt(quelle: str, span) -> bool:
+        return span is None and quelle != "foto"
 
     werte = collections.defaultdict(list)
     frei = sorted(ant["werte"], key=lambda w: FREI.index(w["feld"]))  # Ort before Land
@@ -275,9 +303,10 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
             continue
         quelle, span = belegt(w, mit_kette if f in {"ort", "land"} else quellen)
         fehler = (
-            "Zitat nicht in der Quelle" if span is None
+            "Zitat nicht in der Quelle" if unbelegt(quelle, span)
             else "Typ schon durch Regel gesetzt" if f == "typ" and ds["Typ"]
-            else "Name steht nicht im Merkmal" if f in {"urheber", "besitz"} and not named_in(wert, mark_text)
+            else "Name steht nicht im Merkmal" if f in {"urheber", "besitz"} and quelle != "foto"
+            and not named_in(wert, mark_text)
             and not (f == "urheber" and artist and named_in(wert, artist))
             else "Land ohne belegten Ort" if f == "land" and not werte["ort"] and not named_in(wert, mark_text)
             else None)
@@ -292,7 +321,7 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
     for d in ant["daten"]:
         gelesen, iso = norm_ws(d["wie_gelesen"]), norm_ws(d["iso"])
         quelle, span = belegt(d, quellen)
-        fehler = ("Zitat nicht in der Quelle" if span is None
+        fehler = ("Zitat nicht in der Quelle" if unbelegt(quelle, span)
                   else "kein ISO-8601-2-Datum" if not ISO_DATE.match(iso) else None)
         if fehler:
             probleme.append((mid, "abgelehnt", "Datum", f"{gelesen} → {iso}", fehler, d["zitat"]))
@@ -301,25 +330,39 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
             werte["datum_iso"].append(iso)
             trace(FELDER["datum_wie_gelesen"], gelesen, d, quelle, span)
             trace(FELDER["datum_iso"], iso, d, quelle, span)
+    erwerbsnachweis(rec, quellen, werte)
     for f, vs in werte.items():
         ds[FELDER[f]] = "; ".join(vs)
 
     notes = [ds["Bemerkungen"]] if ds["Bemerkungen"] else []
     for b in ant["bemerkungen"]:
         quelle, span = belegt(b, quellen)
-        if span is None:
+        if unbelegt(quelle, span):
             probleme.append((mid, "verworfen", "Bemerkungen", b["text"], "Zitat nicht in der Quelle", b["zitat"]))
             continue
         cols = ", ".join(dict.fromkeys(FELDER[f] for f in b["felder"]))
         text = f"{cols}: {norm_ws(b['text'])}" if cols else norm_ws(b["text"])
         notes.append(text)
-        rec["trace"].append({"feld": "Bemerkungen", "wert": text, "methode": "llm", "modell": model,
-                             "quelle": quelle, "span": list(span), "zitat": b["zitat"],
-                             "begruendung": "Zweifel oder Fehler in der Quelle"})
+        trace("Bemerkungen", text, b | {"begruendung": "Zweifel oder Fehler in der Quelle"}, quelle, span)
     ds["Bemerkungen"] = "; ".join(notes)
     for v in ant["vokabular_vorschlaege"]:
         probleme.append((mid, "vorschlag", FELDER[v["feld"]], v["wert"], v["begruendung"], ""))
     rec["offen"]["felder"] = [c for c in rec["offen"]["felder"] if not ds[c]]
+
+
+def erwerbsnachweis(rec: dict, quellen: dict, werte: dict):
+    """Every Erwerbsnachweis was compiled by SKKG or by Stefanini himself: add that side as a further issuer."""
+    hit = next(((q, m) for q, t in quellen.items() if (m := re.search(r"Erwerbsnachweis\w*", t))), None)
+    if not hit:
+        return
+    q, m = hit
+    named = re.search(r"Bruno Stefanini|Stefanini", " ".join(quellen.values()))
+    wer, art = ("Bruno Stefanini", "Privatbesitz / Nachlass") if named else ("SKKG", "Institution / Stiftung")
+    for f, wert in [("art_des_urhebers", art), ("urheber", wer)]:
+        if wert not in (v.removesuffix(" (erschlossen)") for v in werte[f]):
+            werte[f].append(wert)
+            rec["trace"].append({"feld": FELDER[f], "wert": wert, "methode": "regel", "regel": "erwerbsnachweis.verfasser",
+                                 "quelle": q, "span": list(m.span()), "zitat": m.group()})
 
 
 def kandidat(rec: dict) -> bool:
@@ -364,6 +407,7 @@ def main():
     ap.add_argument("--sample", type=int)
     ap.add_argument("--ids", nargs="+")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--fotos", action="store_true", help="send the mark photos (Foto column) to the model")
     a = ap.parse_args()
 
     data = json.loads((a.parsed / "merkmale.json").read_text())
@@ -382,13 +426,17 @@ def main():
     docs = {inv: json.loads((a.extracted / "json" / f"{inv}.json").read_text())
             for inv in {r["datensatz"]["Inventarnummer"] for r in todo}}
 
-    prompt_sha = hashlib.sha256((SYSTEM + json.dumps(SCHEMA, sort_keys=True)).encode()).hexdigest()[:12]
+    system, schema_ = (SYSTEM + FOTO, schema(True)) if a.fotos else (SYSTEM, schema(False))
+    prompt_sha = hashlib.sha256((system + json.dumps(schema_, sort_keys=True)).encode()).hexdigest()[:12]
     cache = a.out / "cache" / a.model
     cache.mkdir(parents=True, exist_ok=True)
     inputs = {r["datensatz"]["Merkmal-ID"]: eingabe(r, prev.get(r["datensatz"]["Merkmal-ID"]),
                                                      docs[r["datensatz"]["Inventarnummer"]]) for r in todo}
 
-    keys = {mid: hashlib.sha256(f"{prompt_sha}{a.effort}{json.dumps(inp, sort_keys=True)}".encode()).hexdigest()
+    fotos = {r["datensatz"]["Merkmal-ID"]: [a.extracted / f for f in r["datensatz"]["Foto"].split("; ") if f]
+             if a.fotos else [] for r in todo}
+    keys = {mid: hashlib.sha256(f"{prompt_sha}{a.effort}{json.dumps(inp, sort_keys=True)}".encode()
+                                + b"".join(hashlib.sha256(f.read_bytes()).digest() for f in fotos[mid])).hexdigest()
             for mid, inp in inputs.items()}
 
     def cache_file(mid):
@@ -409,10 +457,11 @@ def main():
         client = anthropic.Anthropic(max_retries=4)
         with cf.ThreadPoolExecutor(a.workers) as ex:
             # first call alone, so the others read the system prompt from the cache
-            first = ex.submit(call, client, a.model, a.effort, inputs[missing[0]])
+            def submit(mid):
+                return ex.submit(call, client, a.model, a.effort, system, schema_, inputs[mid], fotos[mid])
+            first = submit(missing[0])
             cf.wait([first])
-            futs = {first: missing[0]}
-            futs |= {ex.submit(call, client, a.model, a.effort, inputs[mid]): mid for mid in missing[1:]}
+            futs = {first: missing[0]} | {submit(mid): mid for mid in missing[1:]}
             for n, fut in enumerate(cf.as_completed(futs), 1):
                 mid = futs[fut]
                 try:
@@ -442,7 +491,7 @@ def main():
         if s["methode"] == "llm":
             s.update({"status": "gelaufen", "skript": "scripts/llm_merkmale.py",
                       "skript_sha256": sha(Path(__file__).resolve()), "modell": a.model,
-                      "effort": a.effort, "prompt_sha256": prompt_sha, "merkmale": len(results),
+                      "effort": a.effort, "fotos": a.fotos, "prompt_sha256": prompt_sha, "merkmale": len(results),
                       "lauf": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")})
     a.out.mkdir(parents=True, exist_ok=True)
     (a.out / "merkmale.json").write_text(json.dumps({"lauf": lauf, "merkmale": out_recs}, ensure_ascii=False, indent=1))
