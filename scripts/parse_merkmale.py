@@ -393,10 +393,10 @@ def llm_reasons(src: str, quotes: list[tuple[int, int]], kommentar: str | None) 
 
 def write_csv(path: Path, records: list[dict]):
     with path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=COLUMNS + ["LLM-Gründe"])
+        w = csv.DictWriter(f, fieldnames=COLUMNS + ["LLM-Auswahlgrund"])
         w.writeheader()
         for r in records:
-            w.writerow({**r["datensatz"], "LLM-Gründe": "; ".join(r["offen"]["llm_gruende"])})
+            w.writerow({**r["datensatz"], "LLM-Auswahlgrund": "; ".join(r["offen"]["llm_auswahlgrund"])})
 
 
 def sha(path: Path) -> str:
@@ -452,7 +452,7 @@ def main(src: Path, dst: Path):
                 "trace": sorted(mk.trace, key=lambda t: (t["span"][0], t["feld"])),
                 "kontext": {"seite": m.get("seite"), "kommentar": m.get("kommentar"),
                             "transkriptionen": [beschr[a:b] for a, b in mk.quotes]},
-                "offen": {"felder": LLM_COLUMNS, "llm_gruende": reasons},
+                "offen": {"felder": LLM_COLUMNS, "llm_auswahlgrund": reasons},
             }
             records.append(prev)
 
@@ -478,7 +478,7 @@ def main(src: Path, dst: Path):
               "Farbe der Schrift", "Schreibmittel", "Anbringungsort", "Bemerkungen"):
         k = sum(bool(r["datensatz"][c]) for r in records)
         print(f"  {c:<22} {k:>5} ({100 * k / n:.0f}%)")
-    llm = sum(bool(r["offen"]["llm_gruende"]) for r in records)
+    llm = sum(bool(r["offen"]["llm_auswahlgrund"]) for r in records)
     print(f"  LLM-Kandidaten         {llm:>5} ({100 * llm / n:.0f}%)")
     kinds = collections.Counter()
     for (kind, _), ids in unknown.items():

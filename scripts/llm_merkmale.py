@@ -51,6 +51,9 @@ SPRACHE = ["Deutsch", "Französisch", "Italienisch", "Englisch", "Niederländisc
 # output field -> column; "typ" only applies where the rules left Typ empty; dates come as pairs ("daten")
 FELDER = dict(zip(["art_des_urhebers", "urheber", "ort", "land", "ereignis", "besitz", "ausstellung",
                    "datum_wie_gelesen", "datum_iso", "sprache", "typ"], LLM_COLUMNS + ["Typ"], strict=True))
+# Bemerkungen name both date columns as "daten", like the output does
+BEM_FELDER = {f: [c] for f, c in FELDER.items() if not f.startswith("datum_")} | {
+    "daten": [FELDER["datum_wie_gelesen"], FELDER["datum_iso"]]}
 VOCAB = {"art_des_urhebers": ART, "ereignis": EREIGNIS, "sprache": SPRACHE, "typ": TYP}
 FREI = ["urheber", "ort", "land", "besitz", "ausstellung"]  # in this order: Land is checked against Ort
 ERSCHLIESSBAR = {"art_des_urhebers", "ereignis"}  # «(erschlossen)» is part of the value here
@@ -61,8 +64,31 @@ GLOSSE = {"Künstler:in": "Signaturen und Inschriften von Künstlerhand", "Forsc
           "Institution / Stiftung": "Kulturförderung, Firmen, Archive; nur wenn kein anderer Wert passt, also nicht für "
                                     "Museen, Kunstvereine und -gesellschaften, Auktionshäuser, Händler oder die SKKG"}
 
-_D = r"[\dX]{4}(?:-[\dX]{2}(?:-[\dX]{2})?)?[?~%]?"  # X = unspecified digit, anywhere (EDTF level 2)
+_M = r"(?:0[1-9X]|1[0-2X]|X[\dX])"
+_T = r"(?:0[1-9X]|[12][\dX]|3[01X]|X[\dX])"
+# X = unspecified digit, anywhere (EDTF level 2); 21-24 = season
+_D = rf"[\dX]{{4}}(?:-(?:{_M}(?:-{_T})?|2[1-4]))?[?~%]?"
 ISO_DATE = re.compile(rf"^(?:{_D}|(?:{_D}|\.\.)/(?:{_D}|\.\.)|\[{_D}(?:\.\.{_D})?(?:,{_D}(?:\.\.{_D})?)*\])$")
+JAHRESZEIT = {"frühling": "21", "frühjahr": "21", "sommer": "22", "herbst": "23", "winter": "24"}
+
+
+def datum_fehler(gelesen: str, iso: str, belege: str) -> str | None:
+    """Reasons a well-formed ISO date does not fit what was read."""
+    if not ISO_DATE.match(iso):
+        return "kein ISO-8601-2-Datum"
+    g = gelesen.lower()
+    codes = set(re.findall(r"\d{4}-(2[1-4])\b", iso))
+    erwartet = {c for w, c in JAHRESZEIT.items() if w in g}
+    if codes and codes != erwartet:  # a season written as months («1978-09/1978-11») is fine
+        return "Jahreszeit passt nicht zum gelesenen Datum"
+    # every full year must be in the sources: as written, as its last two digits, or its decade
+    # («1885/6» → 1886, «1990er» → 1999); an open bound may be one year off («vor 2004» → ../2003)
+    hay = re.sub(r"[\[\]?]", "", belege)
+    for y in re.findall(r"(?<![\dX])\d{4}(?![\dX])", iso):
+        nah = [y] + ([str(int(y) + 1), str(int(y) - 1)] if ".." in iso else [])
+        if not any(n[:3] in hay or re.search(rf"(?<!\d){n[2:]}(?!\d)", hay) for n in nah):
+            return f"Jahr {y} steht nicht in der Quelle"
+    return None
 
 
 def liste(vals: list[str]) -> str:
@@ -103,7 +129,7 @@ Jeder Eintrag hat:
 - `ereignis`: Art des Provenienzereignisses, das das Merkmal festhält: {liste(EREIGNIS)}. Leer, wenn das Merkmal kein Ereignis festhält (Sammlerstempel, Lieferantenstempel, Signatur). Ein Ausstellungs- oder Transportetikett ist nur dann «Leihgabe», wenn es einen Leihgeber oder Besitzer nennt; sonst bleibt `ereignis` leer und die Ausstellung steht in `ausstellung`.
 - `besitz`: Eigentümer:in des Werks zur Zeit des Merkmals, normalisiert. Nicht dasselbe wie Urheber: Auktionshaus und Zoll stellen Merkmale aus, besitzen das Werk aber nicht. Das Lageretikett eines Händlers macht den Händler zu Urheber und Besitz. Ein Leihgeber auf einem Ausstellungsetikett ist Besitz. Anonymisierungen der SKKG («Privatperson», «Unbekannte:r Eigentümer:in») unverändert übernehmen, nie auflösen.
 - `ausstellung`: die Ausstellung, so wie das Merkmal sie nennt, mit Ort und Jahr, falls angegeben.
-- `daten`: Daten, an denen das Merkmal angebracht wurde oder das Ereignis stattfand, das es festhält; je Datum ein Eintrag mit `wie_gelesen` (genau wie auf dem Merkmal oder in Beschreibung bzw. Kommentar) und `iso` (dasselbe Datum nach ISO 8601-2:2019). Keine Datierungen des Werks, auch nicht die Jahreszahl einer Signatur oder eine Werkdatierung auf einem Ausstellungsetikett. ISO-Formen: `1996-12-10`, `1938-12`, `1865`; unsicher `1944?`; ungefähr `1900~`; beides `1900%`; unbestimmte Stellen `19XX`, `1996-XX`, `XXXX-09-16`; Intervall `1918-05/1918-06`; offen `1944/..`, `../1944`; eins von mehreren `[1996-12-10,1996-10-12]`. Ein Zeitraum «von … bis …» ist ein Datum (ein Intervall), nicht zwei. Zweistellige Jahre nur auflösen, wenn der Kontext das Jahrhundert klärt, sonst mit `XX` für die Jahrhundertstellen.
+- `daten`: Daten, an denen das Merkmal angebracht wurde oder das Ereignis stattfand, das es festhält; je Datum ein Eintrag mit `wie_gelesen` (genau wie auf dem Merkmal oder in Beschreibung bzw. Kommentar) und `iso` (dasselbe Datum nach ISO 8601-2:2019). Keine Datierungen des Werks, auch nicht die Jahreszahl einer Signatur oder eine Werkdatierung auf einem Ausstellungsetikett. ISO-Formen: `1996-12-10`, `1938-12`, `1865`; Jahreszeiten `1979-21` (Frühling), `-22` (Sommer), `-23` (Herbst), `-24` (Winter); unsicher `1944?`; ungefähr `1900~`; beides `1900%`; unbestimmte Stellen `19XX`, `1996-XX`, `XXXX-09-16`; Intervall `1918-05/1918-06`; offen `1944/..`, `../1944`; eins von mehreren `[1996-12-10,1996-10-12]`. Ein Zeitraum «von … bis …» ist ein Datum (ein Intervall), nicht zwei. Zweistellige Jahre nur auflösen, wenn der Kontext das Jahrhundert klärt, sonst mit `XX` für die Jahrhundertstellen.
 - `sprache`: Sprache des Texts auf dem Merkmal: {liste(SPRACHE)}. Nur wenn `beschreibung` Text des Merkmals wiedergibt (in «…») oder seine Sprache nennt und dieser Text Wörter einer erkennbaren Sprache enthält; nicht bei Zahlen, Namen, Orten oder einem einzelnen Wort oder Kürzel wie «Lot» oder «ZOLL». Beschreibt die Bearbeiterin das Merkmal nur, ohne seinen Text wiederzugeben, bleibt `sprache` leer.
 - `typ`: nur ausfüllen, wenn `regelwerte.Typ` leer ist: {liste(TYP)}. Signaturen und Monogramme sind «Inschriften».
 
@@ -154,7 +180,7 @@ def schema(fotos: bool) -> dict:
         | {"werte": arr(obj({"feld": enum(FREI), "wert": STR} | beleg
                             | {"quelle": enum(texte + ["provenienzkette"])})),
            "daten": arr(obj({"wie_gelesen": STR, "iso": STR} | beleg)),
-           "bemerkungen": arr(obj({"felder": arr(enum(list(FELDER))), "text": STR, "zitat": STR,
+           "bemerkungen": arr(obj({"felder": arr(enum(list(BEM_FELDER))), "text": STR, "zitat": STR,
                                    "quelle": enum(texte)})),
            "vokabular_vorschlaege": arr(obj({"feld": enum(["art_des_urhebers", "ereignis", "typ"]), "wert": STR,
                                             "begruendung": STR}))})
@@ -182,14 +208,14 @@ def kette(doc: dict) -> list[str]:
 
 def eingabe(rec: dict, prev: dict | None, doc: dict) -> dict:
     ds, kx = rec["datensatz"], rec["kontext"]
-    obj = doc.get("objekt") or {}
+    o = doc.get("objekt") or {}
     inp = {
         "merkmal_id": ds["Merkmal-ID"],
         "seite": kx["seite"],
         "beschreibung": ds["Originalbeschreibung"],
         "kommentar": kx["kommentar"],
         "regelwerte": {k: ds[k] for k in PHYSICAL},
-        "objekt": {"kuenstler": obj.get("kuenstler"), "titel": obj.get("titel"), "datierung": obj.get("datierung")},
+        "objekt": {"kuenstler": o.get("kuenstler"), "titel": o.get("titel"), "datierung": o.get("datierung")},
         "provenienzkette": kette(doc),
     }
     text = f"{ds['Originalbeschreibung']} {kx['kommentar'] or ''}"
@@ -247,10 +273,12 @@ GENERIC = {"galerie", "galleria", "gallery", "auktion", "sammlung", "nachlass", 
            "museum", "kunsthaus", "herr", "frau", "prof", "und", "von", "der", "die", "des"}
 
 
-def named_in(wert: str, text: str) -> bool:
-    """Some word of the value (≥ 3 letters, not a generic word) occurs in the text."""
+def named_in(wert: str, text: str, ganz: bool = True) -> bool:
+    """Some word of the value (≥ 3 letters, not a generic word) occurs in the text: as a whole word
+    (a genitive -s allowed: «Stefaninis») for names, as a word start for countries («Schweizer» → Schweiz)."""
     words = [w for w in re.findall(r"[^\W\d_]{3,}", fold(wert)) if w not in GENERIC]
-    return any(w in text for w in words) if words else True
+    ende = r"s?(?![^\W\d_])" if ganz else ""
+    return any(re.search(rf"(?<![^\W\d_]){re.escape(w)}{ende}", text) for w in words) if words else True
 
 
 def find_span(hay: str, quote: str) -> tuple[int, int] | None:
@@ -308,7 +336,7 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
             else "Name steht nicht im Merkmal" if f in {"urheber", "besitz"} and quelle != "foto"
             and not named_in(wert, mark_text)
             and not (f == "urheber" and artist and named_in(wert, artist))
-            else "Land ohne belegten Ort" if f == "land" and not werte["ort"] and not named_in(wert, mark_text)
+            else "Land ohne belegten Ort" if f == "land" and not werte["ort"] and not named_in(wert, mark_text, ganz=False)
             else None)
         if fehler:
             probleme.append((mid, "abgelehnt", FELDER[f], wert, fehler, w["zitat"]))
@@ -322,7 +350,7 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
         gelesen, iso = norm_ws(d["wie_gelesen"]), norm_ws(d["iso"])
         quelle, span = belegt(d, quellen)
         fehler = ("Zitat nicht in der Quelle" if unbelegt(quelle, span)
-                  else "kein ISO-8601-2-Datum" if not ISO_DATE.match(iso) else None)
+                  else datum_fehler(gelesen, iso, " ".join([gelesen, d["zitat"], *quellen.values()])))
         if fehler:
             probleme.append((mid, "abgelehnt", "Datum", f"{gelesen} → {iso}", fehler, d["zitat"]))
         elif (gelesen, iso) not in zip(werte["datum_wie_gelesen"], werte["datum_iso"]):
@@ -340,7 +368,7 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
         if unbelegt(quelle, span):
             probleme.append((mid, "verworfen", "Bemerkungen", b["text"], "Zitat nicht in der Quelle", b["zitat"]))
             continue
-        cols = ", ".join(dict.fromkeys(FELDER[f] for f in b["felder"]))
+        cols = ", ".join(dict.fromkeys(c for f in b["felder"] for c in BEM_FELDER[f]))
         text = f"{cols}: {norm_ws(b['text'])}" if cols else norm_ws(b["text"])
         notes.append(text)
         trace("Bemerkungen", text, b | {"begruendung": "Zweifel oder Fehler in der Quelle"}, quelle, span)
@@ -366,15 +394,15 @@ def erwerbsnachweis(rec: dict, quellen: dict, werte: dict):
 
 
 def kandidat(rec: dict) -> bool:
-    return bool(rec["offen"]["llm_gruende"]) or not rec["datensatz"]["Typ"]
+    return bool(rec["offen"]["llm_auswahlgrund"]) or not rec["datensatz"]["Typ"]
 
 
 def stichprobe(recs: list[dict], n: int, seed: int = 1) -> list[dict]:
-    """Stratified: round-robin over llm_gruende, plus a few non-candidates and untyped marks as controls."""
+    """Stratified: round-robin over llm_auswahlgrund, plus a few non-candidates and untyped marks as controls."""
     rng = random.Random(seed)
     pools = collections.defaultdict(list)
     for r in recs:
-        for g in r["offen"]["llm_gruende"]:
+        for g in r["offen"]["llm_auswahlgrund"]:
             pools[g].append(r)
         if not r["datensatz"]["Typ"]:
             pools["ohne Typ"].append(r)
@@ -451,7 +479,10 @@ def main():
             missing.append(mid)
     print(f"{len(todo)} marks, {len(results)} cached, {len(missing)} to call ({a.model}, effort {a.effort})",
           file=sys.stderr)
-    errors = {}
+    errors, usage = {}, collections.Counter()
+    # errors every request would hit: stop instead of paying for and retrying all of them
+    fatal = (anthropic.AuthenticationError, anthropic.PermissionDeniedError, anthropic.NotFoundError,
+             anthropic.BadRequestError)
     if missing:
         load_key()
         client = anthropic.Anthropic(max_retries=4)
@@ -460,15 +491,23 @@ def main():
             def submit(mid):
                 return ex.submit(call, client, a.model, a.effort, system, schema_, inputs[mid], fotos[mid])
             first = submit(missing[0])
-            cf.wait([first])
+            if isinstance(first.exception(), fatal):
+                sys.exit(f"first call failed, nothing else sent: {first.exception()}")
             futs = {first: missing[0]} | {submit(mid): mid for mid in missing[1:]}
             for n, fut in enumerate(cf.as_completed(futs), 1):
                 mid = futs[fut]
+                if fut.cancelled():
+                    errors.setdefault(mid, "nicht gesendet (Abbruch)")
+                    continue
                 try:
                     res = fut.result() | {"key": keys[mid], "eingabe": inputs[mid]}
                 except (anthropic.APIError, RuntimeError, json.JSONDecodeError) as e:
                     errors[mid] = f"{type(e).__name__}: {e}"
+                    if isinstance(e, fatal):
+                        for f in futs:
+                            f.cancel()
                     continue
+                usage.update(res["usage"])
                 cache_file(mid).write_text(
                     json.dumps(res, ensure_ascii=False, indent=1))
                 results[mid] = res
@@ -482,14 +521,10 @@ def main():
             merge(r, inputs[mid], results[mid], a.model, probleme)
     # a full run passes non-candidates through, so OUT holds the whole dataset
     out_recs = todo if (a.ids or a.sample) else recs
-    usage = collections.Counter()
-    for res in results.values():
-        usage.update(res["usage"])
-
     lauf = data["lauf"]
     for s in lauf["schichten"]:
         if s["methode"] == "llm":
-            s.update({"status": "gelaufen", "skript": "scripts/llm_merkmale.py",
+            s.update({"status": "unvollständig" if errors else "gelaufen", "fehler": len(errors), "skript": "scripts/llm_merkmale.py",
                       "skript_sha256": sha(Path(__file__).resolve()), "modell": a.model,
                       "effort": a.effort, "fotos": a.fotos, "prompt_sha256": prompt_sha, "merkmale": len(results),
                       "lauf": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")})
@@ -504,7 +539,7 @@ def main():
     fill = collections.Counter(t["feld"] for r in out_recs for t in r["trace"] if t["methode"] == "llm")
     print("filled:", ", ".join(f"{c} {fill[c]}" for c in FELDER.values()), file=sys.stderr)
     print("problems:", dict(collections.Counter(p[1] for p in probleme)), file=sys.stderr)
-    print(f"tokens: {dict(usage)}", file=sys.stderr)
+    print(f"tokens (this run's calls only): {dict(usage)}", file=sys.stderr)
 
 
 if __name__ == "__main__":
