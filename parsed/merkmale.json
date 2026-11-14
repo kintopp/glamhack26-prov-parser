@@ -1,11 +1,11 @@
 {
  "lauf": {
   "parser": "scripts/parse_merkmale.py",
-  "parser_sha256": "5671d8988501",
+  "parser_sha256": "aed525ba37df",
   "schema": "merkmal-schema.md",
   "schema_sha256": "b24fa948357b",
   "eingabe": "extracted/json",
-  "lauf": "2026-11-14T12:29:22+00:00",
+  "lauf": "2026-11-14T12:41:08+00:00",
   "schichten": [
    {
     "methode": "regel",
@@ -93886,6 +93886,7 @@
      "Sprache"
     ],
     "llm_gruende": [
+     "Transkription mit Wörtern",
      "Kommentar"
     ]
    }
@@ -124055,7 +124056,9 @@
      "Datum (ISO 8601-2:2019)",
      "Sprache"
     ],
-    "llm_gruende": []
+    "llm_gruende": [
+     "Transkription mit Wörtern"
+    ]
    }
   },
   {
@@ -129606,6 +129609,7 @@
      "Sprache"
     ],
     "llm_gruende": [
+     "Transkription mit Wörtern",
      "Kommentar"
     ]
    }
@@ -162644,6 +162648,7 @@
      "Sprache"
     ],
     "llm_gruende": [
+     "Transkription mit Wörtern",
      "Kommentar"
     ]
    }

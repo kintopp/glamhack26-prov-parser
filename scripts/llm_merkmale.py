@@ -259,7 +259,8 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
 
     def belegt(w: dict, hays: dict) -> tuple[str, tuple[int, int] | None]:
         """Source and span of the quote; the named source is searched first."""
-        return next(((q, sp) for q in dict.fromkeys([w["quelle"], *hays])
+        # a source the column may not use (the chain outside Ort/Land) is ignored, not trusted
+        return next(((q, sp) for q in dict.fromkeys([w["quelle"], *hays]) if q in hays
                      if (sp := find_span(hays[q], w["zitat"])) is not None), (w["quelle"], None))
 
     def trace(col: str, wert: str, w: dict, quelle: str, span):

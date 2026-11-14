@@ -135,7 +135,6 @@ unbekannt	Kompassmotiv	4	1330#2 5708#2 5708#3 5708#5
 unbekannt	Kreis	4	459#2 5206#7 655#10 7524#6
 unbekannt	Kunsthauses	4	15042#2 4084#3 4159#10 4764#9
 unbekannt	Leihgeberin	4	5222#3 5222#6 5222#15 910#3
-unbekannt	Provenienzmerkmal	4	1966#2 471#10 5400#3 5616#6
 unbekannt	Stuker	4	2740#4 346#2 6453#1 7427#4
 unbekannt	Transport	4	5211#3 5222#6 5222#9 5222#15
 unbekannt	Zeichen	4	1523#11 2001#3 2001#6 5393#3
@@ -199,6 +198,7 @@ unbekannt	Palette	2	3951#3 5708#4
 unbekannt	Papierstück	2	1662#4 1662#5
 unbekannt	Parkettierung	2	464#2 464#5
 unbekannt	Phillips	2	1007#12 4744#8
+unbekannt	Provenienzmerkmal	2	1966#2 5616#6
 unbekannt	Rades	2	2001#3 2001#6
 unbekannt	Rahmenlinie	2	5188#14 646#4
 unbekannt	Rhombus	2	1007#3 561#5
@@ -231,13 +231,11 @@ unbekannt	linierter	2	306#11 5387#2
 unbekannt	maschinen	2	1230.1#2 1230.2#3
 unbekannt	mindestens	2	1541#12 655#1
 unbekannt	nachgezogen	2	1528#3 4519#10
-unbekannt	ne	2	5393#6 876#7
 unbekannt	obere	2	2001#2 39159#2
 unbekannt	orangem	2	1666#5 544#8
 unbekannt	perforiertem	2	458#17 559#5
 unbekannt	perforierter	2	1857#15 544#3
 unbekannt	rosafarbenes	2	15042#3 3603#6
-unbekannt	siehe	2	471#10 5400#3
 unbekannt	stark	2	5218#1 8436#10
 unbekannt	unbekanntem	2	3887#2 8346#4
 unbekannt	unleserlicher	2	1798#2 5458#6
@@ -246,7 +244,6 @@ unbekannt	unterschiedlicher	2	2525#2 4515#5
 unbekannt	verblasster	2	459#9 71#3
 unbekannt	versehen	2	4177#2 4177#3
 unbekannt	vollflächig	2	458#2 655#9
-unbekannt	vorausgehendes	2	471#10 5400#3
 unbekannt	weiss-blaues	2	1857#15 6#2
 unbekannt	wobei	2	5222#14 5638#7
 unbekannt	zudem	2	5222#14 5669#4
@@ -281,7 +278,7 @@ unbekannt	Brüssel	1	5222#16
 unbekannt	Buchstabens	1	463#17
 unbekannt	Burkard	1	4169#4
 unbekannt	Bügel	1	5725#10
-unbekannt	Ch	1	876#7
+unbekannt	Chêne	1	876#7
 unbekannt	Company	1	4552#2
 unbekannt	Comuzzi	1	2602#1
 unbekannt	Cours	1	1271#6
@@ -295,6 +292,7 @@ unbekannt	Dobiaschofsky	1	7306#2
 unbekannt	Dokumente	1	6613#3
 unbekannt	Doppelpfeil	1	5725#13
 unbekannt	Doppelrahmung	1	306#11
+unbekannt	Déménagements	1	1900#5
 unbekannt	Dörfler	1	2776#5
 unbekannt	Echtheitsbescheinigung	1	1637#3
 unbekannt	Eingangsnummer	1	4043#7
@@ -320,7 +318,7 @@ unbekannt	Glas	1	3999#5
 unbekannt	Gloggner	1	6613#4
 unbekannt	Gottardo	1	1637#3
 unbekannt	Grad	1	6549#2
-unbekannt	Grand-Ch	1	5393#6
+unbekannt	Grand-Chêne	1	5393#6
 unbekannt	Granges	1	3285#3
 unbekannt	Grundierung	1	7528#3
 unbekannt	Hans	1	2592#3
@@ -531,7 +529,6 @@ unbekannt	mehr	1	458#2
 unbekannt	mehrfarbig	1	4768#4
 unbekannt	nachgebessert	1	4084#10
 unbekannt	nachträglich	1	655#9
-unbekannt	nagements	1	1900#5
 unbekannt	nasse	1	31462#1
 unbekannt	neuen	1	6#5
 unbekannt	neuere	1	2592#2

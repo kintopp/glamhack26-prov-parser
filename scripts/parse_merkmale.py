@@ -42,7 +42,7 @@ LLM_COLUMNS = [
 
 # ---------------------------------------------------------------- vocabulary
 
-W = r"[A-Za-zÄÖÜäöüß]"
+W = r"[^\W\d_]"  # any letter, so «Société» stays one word
 INFL = r"(?:e|er|es|em|en|n|r|s)?"
 COLOUR_BASE = (r"(?:(?:hell|dunkel|blass|tief)-?)?(?:weiss|schwarz|rot|blau|grün|gelb|braun|beige|grau|orange|"
                r"violett|rosa|pink|magenta|gold|silber|ocker|lila|türkis|creme)(?:braun|rot|blau|grün|gelb|grau|schwarz)?")
@@ -65,7 +65,7 @@ TECHNIK = [
 ]
 # naming a writing medium implies handwriting: "Reste einer Aufschrift mit weisser Kreide"
 MEDIUM_NOUN = (r"(?:Schreibmittel|Bleistift|Kreide|Farbstift|Wachsstift|Wachskreide|Wachsfarbe|Tinte|Kugelschreiber|"
-               r"Filzstift|Fettstift|Buntstift|Stift|Farbe|Pinsel|Tusche)\w*")
+               r"Filzstift|Fettstift|Buntstift|Stift|Farbe|Pinsel|Tusche)(?:e|en|n|s|es|ns)?\b")
 FORM = [
     ("form.langrechteckig", "langrechteckig", rf"\blangrechteckig{INFL}\b"),
     ("form.rechteckig", "rechteckig", rf"\brechteckig{INFL}\b"),
@@ -225,6 +225,12 @@ class Mark:
         for t in gone:
             if not any(u["feld"] == t["feld"] and u["wert"] == t["wert"] for u in self.trace):
                 self.values[t["feld"]].remove(t["wert"])
+            # a doubt about the dropped value («vermutlich beschrieben») goes with it
+            for (a, b), d in list(self.doubts.items()):
+                if a <= t["span"][0] < b and t["feld"] in d["felder"]:
+                    d["felder"].remove(t["feld"])
+                    if not d["felder"]:
+                        del self.doubts[(a, b)]
 
     def finditer(self, pattern: str, flags=0):
         return re.finditer(pattern, self.masked, flags)
@@ -251,7 +257,9 @@ def apply_rules(mk: Mark, position: str):
                 claimed.append(m.span())
                 mk.put(field, value, rule, m.span())
 
-    head = re.match(r"[^,;«]*", mk.masked[mk.offset:])
+    # the first clause ends at «,», «;» or a transcription; masking blanked «, so mark quote starts again
+    marked = "".join("«" if any(i == a for a, _ in mk.quotes) else ch for i, ch in enumerate(mk.masked))
+    head = re.match(r"[^,;«]*", marked[mk.offset:])
     head_end = mk.offset + (head.end() if head else 0)
     for m in mk.finditer(rf"\bmit\s+(?:{COLOUR}\s+)?{MEDIUM_NOUN}"):
         mk.put("Technik", "handschriftlich", "technik.schreibmittel", m.span(), doubt=False)
@@ -260,25 +268,24 @@ def apply_rules(mk: Mark, position: str):
         mk.drop("technik.beschrieben")
 
     body = mk.masked[mk.offset:]
-    erwerb = re.match(r"[^,;«]*?\b(Erwerbsnachweis\w*)", body)
+    # only adjectives may precede it («angehefteter»), not prepositions («unter Erwerbsnachweis»)
+    erwerb = re.match(r"\s*(?:(?!(?:unter|hinter|über|von|durch|mit|neben|auf)\b)[a-zäöüß]+e[nrs]?\s+)*"
+                      r"(Erwerbsnachweis\w*)", body)
     # only «…» blanked here, so "(Kopie)" counts; first two clauses, so "gemäss Auktionskatalog …" later does not
     unquoted = "".join(" " if any(a <= i < b for a, b in mk.quotes) else ch for i, ch in enumerate(mk.src))
     two = re.match(r"[^,;]*(?:[,;][^,;]*)?", unquoted[mk.offset:])
     doc = re.search(DOKUMENT, two.group(0)) if two else None
-    reste = re.match(r"[^,;«]*?\b(?:Klebe|Über)?[Rr]est", body)
+    reste = re.match(r"[^,;«]*?\b(?:Klebe|Über)?[Rr]este?n?\b", marked[mk.offset:])
     if erwerb:
         mk.put("Typ", "Erwerbsnachweise", "typ.erwerbsnachweis",
                (mk.offset + erwerb.start(1), mk.offset + erwerb.end(1)))
     elif doc and not reste:
         mk.put("Typ", "Dokumente", "typ.dokument", (mk.offset + doc.start(), mk.offset + doc.end()))
-    for rule, value, pat in ([] if mk.values["Typ"] else TYP):
-        m = next((m for m in mk.finditer(pat) if m.start() < head_end), None)
+    if not mk.values["Typ"]:
+        m = next(((rule, value, m) for rule, value, pat in TYP for m in mk.finditer(pat) if m.start() < head_end),
+                 None)
         if m:
-            mk.put("Typ", value, rule, m.span())
-            break
-    else:
-        if mk.values["Typ"]:
-            pass
+            mk.put("Typ", m[1], m[0], m[2].span())
         elif m := next(mk.finditer(r"\bhandschriftlich\w*|\bmaschinen\w+|\b(?:ge|be)druckt\w*|\bbeschrieben\b|\bschabloniert\w*|\w*[Ss]chablone\w*|\bhand(?:be|ge)schrieben\w*|"
                          rf"\bmit\s+(?:{COLOUR}\s+)?{MEDIUM_NOUN}"), None):
             mk.put("Typ", "Beschriftungen", "typ.beschriftung", m.span())
@@ -297,7 +304,7 @@ def apply_rules(mk: Mark, position: str):
         for v in (a, b):
             if v:
                 mk.put("Schreibmittel", v, "schreibmittel.ellipse", m.span())
-        if m.group(2) == "oder":
+        if m.group(2) == "oder" and (a or b):
             mk.note("Schreibmittel", m.start(), m.end(), "schreibmittel.ellipse")
     for m in mk.finditer(rf"\b{W}+\b"):
         w = m.group(0).lower()
@@ -324,8 +331,6 @@ def apply_rules(mk: Mark, position: str):
             g = "c" if m.group("c") else "c2"
             span = m.span(g)
             if any(a < span[1] and span[0] < b for a, b in mk.colour_used):
-                continue
-            if rule == "farbe.schreibmittel" and m.group("n").lower().startswith(("umrandung", "bordüre", "rand")):
                 continue
             mk.colour_used.append(span)
             for c in colours_in(m.group(g)):
@@ -435,11 +440,12 @@ def main(src: Path, dst: Path):
                     if rec[c]:
                         mk.trace.append({"feld": c, "wert": rec[c], "methode": "verweis", "regel": "verweis.vorausgehend",
                                          "von": prev["datensatz"]["Merkmal-ID"], "span": span, "quelle": beschr[offset:]})
-                rec["Bemerkungen"] = f"Physische Angaben aus {prev['datensatz']['Merkmal-ID']} übernommen (Verweis)"
-                mk.trace.append({"feld": "Bemerkungen", "wert": rec["Bemerkungen"], "methode": "verweis",
+                verweis = f"Physische Angaben aus {prev['datensatz']['Merkmal-ID']} übernommen (Verweis)"
+                rec["Bemerkungen"] = "; ".join(filter(None, [rec["Bemerkungen"], verweis]))
+                mk.trace.append({"feld": "Bemerkungen", "wert": verweis, "methode": "verweis",
                                  "regel": "verweis.vorausgehend", "span": span, "quelle": beschr[offset:]})
             reasons = llm_reasons(beschr, mk.quotes, m.get("kommentar"))
-            for kind, w in unknown_words(mk):
+            for kind, w in [] if ref else unknown_words(mk):
                 unknown[(kind, w)].append(mid)
             prev = {
                 "datensatz": rec,
