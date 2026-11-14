@@ -1,6 +1,6 @@
 # glamhack26-prov-parser
 
-Extracts structured data from the provenance research data sheets (Provenienz-Datenblätter) of the Stiftung für Kunst, Kultur und Geschichte (SKKG), Winterthur, and parses the provenance marks (labels, stamps, inscriptions) they describe.
+For the [Provenance Pursuit](https://hack.glam.opendata.ch/project/304) challenge at [GLAMhack 2026](https://hack.glam.opendata.ch/event/13), this project extracts structured data from the provenance research data sheets (Provenienz-Datenblätter) of the Stiftung für Kunst, Kultur und Geschichte (SKKG), Winterthur, and parses the provenance marks (labels, stamps, inscriptions) they describe.
 
 ## Pipeline
 
