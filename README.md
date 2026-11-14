@@ -2,6 +2,10 @@
 
 For the [Provenance Pursuit](https://hack.glam.opendata.ch/project/304) challenge at [GLAMhack 2026](https://hack.glam.opendata.ch/event/13), this project extracts structured data from the provenance research data sheets (Provenienz-Datenblätter) of the Stiftung für Kunst, Kultur und Geschichte (SKKG), Winterthur, and parses the provenance marks (labels, stamps, inscriptions) they describe.
 
+<p align="center">
+  <img src="docs/screenshot.jpg" alt="Search UI: detail view of provenance mark 910#3 with its photo and the traced rule and LLM values" width="100%">
+</p>
+
 ## Pipeline
 
 1. `scripts/extract_datenblatt.py` reads the PDF data sheets and writes JSON, CSV, Excel and images to `extracted/`.
