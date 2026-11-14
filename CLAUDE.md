@@ -47,6 +47,12 @@ uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --ids 1713#3 4961#2
 
 It writes `merkmale.json`/`.csv` (rule values plus LLM values, traces with `methode: "llm"`, quote, span and reason), `llm_probleme.tsv` (rejected values, vocabulary proposals, API errors) and `cache/<model>/<id>.json`. The cache key covers prompt, schema, effort and the mark's input, so a rerun after a validation-only change costs nothing.
 
+Search UI for the marks (`ui/`, static, no build): serve the repository root, since it loads `../parsed/…/merkmale.json`, `../merkmal-schema.md` (facet hints from the Columns table), `../extracted/` (photos, work data) and `../Provenienz_Datenblatt/` (PDF links).
+
+```sh
+python3 -m http.server 8000   # then http://localhost:8000/ui/ (?data=../parsed/merkmale.json for rules only)
+```
+
 ## Merkmal parser (`scripts/parse_merkmale.py`)
 
 - The user decides all vocabulary. A new value goes into both the parser and `merkmal-schema.md` (revision 7 lists the values that came from the Datenblätter).

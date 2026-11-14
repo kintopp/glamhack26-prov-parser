@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Provenienzmerkmale – Entwurf</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Provenienzmerkmale <span class="badge">Entwurf</span></h1>
+      <p id="run" class="run"></p>
+    </div>
+    <label class="source">
+      Datenquelle
+      <select id="source"></select>
+    </label>
+  </header>
+
+  <section class="searchbar" aria-label="Suche">
+    <div class="search-field">
+      <input id="q" type="search" placeholder="Suchen … (mehrere Wörter = alle müssen vorkommen, «Phrase» in Anführungszeichen)" autocomplete="off">
+    </div>
+    <label>
+      in
+      <select id="field"><option value="">allen Feldern</option></select>
+    </label>
+    <div id="year-filter" class="year-filter" hidden>
+      <label>Jahr von <input id="year-from" type="number" inputmode="numeric" min="1000" max="2999" placeholder="z.B. 1900"></label>
+      <label>bis <input id="year-to" type="number" inputmode="numeric" min="1000" max="2999" placeholder="z.B. 2000"></label>
+    </div>
+  </section>
+
+  <div class="layout">
+    <aside id="facets" class="facets" aria-label="Facetten"></aside>
+
+    <main>
+      <div class="toolbar">
+        <p id="stats" class="stats" aria-live="polite"></p>
+        <div class="toolbar-right">
+          <label>Sortieren nach <select id="sort"></select></label>
+          <button id="sort-dir" type="button" title="Sortierrichtung umkehren" aria-label="Sortierrichtung umkehren">↑</button>
+        </div>
+      </div>
+      <div id="chips" class="chips"></div>
+      <div id="results"></div>
+    </main>
+  </div>
+
+  <dialog id="detail" aria-labelledby="detail-title">
+    <div id="detail-body"></div>
+  </dialog>
+
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>
