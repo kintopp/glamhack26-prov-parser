@@ -260,7 +260,7 @@ def apply_rules(mk: Mark, position: str):
         mk.drop("technik.beschrieben")
 
     body = mk.masked[mk.offset:]
-    erwerb = re.match(r"\s*(?:angeheftete[rs]?\s+)?(Erwerbsnachweis\w*)", body)
+    erwerb = re.match(r"[^,;«]*?\b(Erwerbsnachweis\w*)", body)
     # only «…» blanked here, so "(Kopie)" counts; first two clauses, so "gemäss Auktionskatalog …" later does not
     unquoted = "".join(" " if any(a <= i < b for a, b in mk.quotes) else ch for i, ch in enumerate(mk.src))
     two = re.match(r"[^,;]*(?:[,;][^,;]*)?", unquoted[mk.offset:])
@@ -386,6 +386,14 @@ def llm_reasons(src: str, quotes: list[tuple[int, int]], kommentar: str | None) 
 
 # ---------------------------------------------------------------- main
 
+def write_csv(path: Path, records: list[dict]):
+    with path.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=COLUMNS + ["LLM-Gründe"])
+        w.writeheader()
+        for r in records:
+            w.writerow({**r["datensatz"], "LLM-Gründe": "; ".join(r["offen"]["llm_gruende"])})
+
+
 def sha(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()[:12]
 
@@ -451,11 +459,7 @@ def main(src: Path, dst: Path):
     }
     (dst / "merkmale.json").write_text(json.dumps({"lauf": run, "merkmale": records}, ensure_ascii=False, indent=1),
                                        encoding="utf-8")
-    with (dst / "merkmale.csv").open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=COLUMNS + ["LLM-Gründe"])
-        w.writeheader()
-        for r in records:
-            w.writerow({**r["datensatz"], "LLM-Gründe": "; ".join(r["offen"]["llm_gruende"])})
+    write_csv(dst / "merkmale.csv", records)
     with (dst / "unbekannt.tsv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f, delimiter="\t")
         w.writerow(["art", "wort", "anzahl", "beispiele"])

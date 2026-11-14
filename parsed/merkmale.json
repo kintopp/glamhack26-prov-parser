@@ -1,11 +1,11 @@
 {
  "lauf": {
   "parser": "scripts/parse_merkmale.py",
-  "parser_sha256": "a3ed5ae6a2f5",
+  "parser_sha256": "5671d8988501",
   "schema": "merkmal-schema.md",
-  "schema_sha256": "0df5b12458f4",
+  "schema_sha256": "b24fa948357b",
   "eingabe": "extracted/json",
-  "lauf": "2026-11-14T12:20:34+00:00",
+  "lauf": "2026-11-14T12:29:22+00:00",
   "schichten": [
    {
     "methode": "regel",
