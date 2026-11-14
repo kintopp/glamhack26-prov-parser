@@ -1,49 +1,371 @@
 Merkmal-ID	Art	Spalte	Wert	Grund	Zitat
-1496#3	abgelehnt	Besitz	Unbekannte:r Eigentümer:in	Zitat nicht in der Quelle	eingeliefert von unbekannt
-201#9	abgelehnt	Besitz	Berthe Hodler	Zitat nicht in der Quelle	um 1920: Berthe Hodler-Jacques (1868–1957), Genf
+1091#4	abgelehnt	Besitz	Marguerite Buscarlet-Calame	Zitat nicht in der Quelle	mindestens 15. April 1922 bis o. D.: Marguerite Buscarlet-Calame, Genf
+1230.2#2	abgelehnt	Urheber (normalisiert)	Cuno Amiet	Name steht nicht im Merkmal	Datierung (1908)
+1230.2#7	abgelehnt	Besitz	Privatbesitz, Schweiz	Zitat nicht in der Quelle	eingeliefert aus Schweizer Privatbesitz
+15042#6	abgelehnt	Besitz	Carlo Böcklin	Zitat nicht in der Quelle	1901 bis spätestens 1927: Erbinnen und Erben von Arnold Böcklin (Carlo Böcklin beziehungsweise Clara Bruckmann-Böcklin)
+1541#5	abgelehnt	Urheber (normalisiert)	Adolf Dietrich	Name steht nicht im Merkmal	handschriftlich mit schwarzem Schreibmittel «Garten im Frühling mit Blaumeise»
+1803#2	abgelehnt	Land	Schweiz	Land ohne belegten Ort	Conservateur des Musées du Valais
+2090#2	abgelehnt	Urheber (normalisiert)	François Diday	Name steht nicht im Merkmal	Bezeichnung und Datierung
 2592#4	abgelehnt	Datum	23. April 1987 → 1987-04-23	Zitat nicht in der Quelle	gedruckten konservatorischem Hinweis vom 23. April 1987
-2779#1	abgelehnt	Urheber (normalisiert)	Hôtel Drouot	Zitat nicht in der Quelle	13.–22. März 1865: Auktion Hôtel Drouot (Vente Calame), Paris
-293#3	abgelehnt	Besitz	Privatbesitz	Name steht nicht im Merkmal	Ich konnte mich jedoch nicht | von d. Werke trennen, der Künstler verstand es.
-2944#1	abgelehnt	Besitz	Duri Capaul	Zitat nicht in der Quelle	eingeliefert von Duri Capaul
+2776#4	abgelehnt	Land	Schweiz	Land ohne belegten Ort	[SWITZER]LAND
+2806#16	abgelehnt	Land	Frankreich	Land ohne belegten Ort	möglicherweise Etikett eines französischen Rahmenbauers
 3468#4	abgelehnt	Besitz	Kunst-Galerie Meisterschwanden	Zitat nicht in der Quelle	o. D.: Kunst-Galerie Meisterschwanden, Mario Manazza
-3999#4	abgelehnt	Urheber (normalisiert)	Schweizerische Bundesbahnen	Name steht nicht im Merkmal	vermutlich zugehörig zum SBB-Aufkleber (siehe vorausgehendes Provenienzmerkmal)
-4159#5	abgelehnt	Land	Schweiz	Zitat nicht in der Quelle	Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 1003, Sommerliche Eichenlandschaft mit rastender Spaziergängruppe unter einem Baum), Bern
-4552#17	abgelehnt	Besitz	Sandoz AG	Zitat nicht in der Quelle	spätestens 1947: Sandoz AG, Basel, wahrscheinlich angekauft von der Galerie Moos
+3513#6	abgelehnt	Besitz	Gloria Füri	Name steht nicht im Merkmal	Hinweis auf Jura Brüschweiler («Brüschi»), der das Werk vermittelte und die Expertise verfasste, und auf die Vorbesitzerin
+4159#5	abgelehnt	Besitz	Hans Rudolf Speich	Name steht nicht im Merkmal	entspricht Erwerbsort 1986
+4422#5	abgelehnt	Urheber (normalisiert)	Kunsthaus Lempertz	Zitat nicht in der Quelle	21.–23. Mai 1970: Auktion Kunsthaus Lempertz (Alte Kunst. Gemälde, Skulpturen, Porzellan […], Lot 407, Der gefesselte Prometheus), Köln
 4575#2	abgelehnt	Urheber (normalisiert)	Hôtel Drouot	Zitat nicht in der Quelle	1865: Auktion Hôtel Drouot (Vente Calame), Paris
 4575#5	abgelehnt	Urheber (normalisiert)	Kunsthandlung Anton Stöckl	Zitat nicht in der Quelle	5./6. Dezember 1910: Auktion Kunsthandlung Anton Stöckl
-4769#6	abgelehnt	Land	Schweiz	Land ohne belegten Ort	Wahrscheinlich derselbe Stempel wie auf der Mittelstrebe, siehe vorausgehendes Provenienzmerkmal.
+466#2	abgelehnt	Urheber (normalisiert)	Félix Vallotton	Name steht nicht im Merkmal	handschriftlich «La Risle près Berville s/mer 1924»
 4952#1	abgelehnt	Besitz	Berthe Hodler-Jacques	Zitat nicht in der Quelle	1918 bis vermutlich mindestens 24. März 1924: Berthe Hodler-Jacques (1868–1957), Genf
-5393#11	abgelehnt	Besitz	Rosemarie Faidutti	Zitat nicht in der Quelle	eingeliefert von Rosemarie Faidutti aus Nachlass Claude Vallotton
+5196#7	abgelehnt	Besitz	Cécile Du Bois-Anker	Zitat nicht in der Quelle	«№ 50 | Cécile Du Bois-Anker[er]»
 5393#8	abgelehnt	Urheber (normalisiert)	Nachlass Félix Vallotton	Name steht nicht im Merkmal	entspricht Nachlassnummer
 5393#8	abgelehnt	Besitz	Nachlass Félix Vallotton	Name steht nicht im Merkmal	entspricht Nachlassnummer
-559#4	abgelehnt	Besitz	Marguerite Chappuis-Biéler	Name steht nicht im Merkmal	Lotnummer und Datum der Auktion Sotheby’s
-5606#2	abgelehnt	Besitz	Privatbesitz	Zitat nicht in der Quelle	mindestens 1954 bis mindestens 1962: Privatbesitz, Liestal
-5659#4	abgelehnt	Datum	18 | 9 | 64 → XX64-09-18	kein ISO-8601-2-Datum	möglicherweise eine Datumsangabe (18. September 1964)
-5722#3	abgelehnt	Art des Urhebers	Forschungsinstitut	Zitat nicht in der Quelle	Echtheitsbezugung von Max Huggler
+5433#10	abgelehnt	Urheber (normalisiert)	Auktionshaus Zofingen	Zitat nicht in der Quelle	9. Juni 2001: Auktion Auktionshaus Zofingen (Lot 2802, Rosen in Glasvase), Zofingen
+5433#12	abgelehnt	Urheber (normalisiert)	Auktionshaus Zofingen	Zitat nicht in der Quelle	9. Juni 2001: Auktion Auktionshaus Zofingen (Lot 2802, Rosen in Glasvase), Zofingen
+5722#3	abgelehnt	Art des Urhebers	Gutachter:in	Zitat nicht in der Quelle	Echtheitsbezugung von Max Huggler
+5758.1#13	abgelehnt	Urheber (normalisiert)	Dogana Italiana	Name steht nicht im Merkmal	italienisches Zolletikett
+5760#14	abgelehnt	Urheber (normalisiert)	Salles Léopold Robert	Zitat nicht in der Quelle	Ausstellung Salles Léopold Robert (Exposition Albert Anker, Nr. 81), Neuchâtel
 6509#2	abgelehnt	Land	Frankreich	Land ohne belegten Ort	DELF Cadres d’Art ist ein französischer Rahmenbauer.
-6582#5	abgelehnt	Besitz	Heinrich Blattmann-Ziegler	Zitat nicht in der Quelle	1928: Heinrich Blattmann-Ziegler (1869–1939), Wädenswil
-7063#4	abgelehnt	Urheber (normalisiert)	Cécile Du Bois-Anker	Zitat nicht in der Quelle	Nachlass des Künstlers im Besitz von Cécile Du Bois-Anker
+6549#1	abgelehnt	Sprache	Latein	Zitat nicht in der Quelle	«Anā Barbara Lavater | Aetatis 6 A[nn]o 1759»
+7061#1	abgelehnt	Urheber (normalisiert)	Albert Anker	Name steht nicht im Merkmal	Datierung des Werks
 7063#4	abgelehnt	Besitz	Cécile Du Bois-Anker	Zitat nicht in der Quelle	Nachlass des Künstlers im Besitz von Cécile Du Bois-Anker
-7410#2	abgelehnt	Urheber (normalisiert)	Hôtel des Ventes	Name steht nicht im Merkmal	Auktionskatalog Lausanne 2012
-1856#1	verworfen	Bemerkungen	Das Objekt ist anonym und nur irrtümlich Hodler zugeschrieben; die Signatur ist daher wohl nicht von Hodler.	Zitat nicht in der Quelle	Anonym, irrtümlich Ferdinand Hodler (1853–1918) / zugeschrieben
-1196#3	vorschlag	Art des Urhebers	Restaurator:in	Restaurator ist im Vokabular nicht vorhanden und passt nicht eindeutig zu Künstlerbedarf.	
-1330#2	vorschlag	Art des Urhebers	Einrahmungsgeschäft	Ein Einrahmungsgeschäft passt nicht eindeutig zu den vorhandenen Vokabularwerten.	
-1330#3	vorschlag	Art des Urhebers	Rahmenatelier	Rahmenateliers/Einrahmungsgeschäfte passen nicht eindeutig zu Künstlerbedarf; ein eigener Begriff wäre genauer.	
-1600#4	vorschlag	Art des Urhebers	Rahmenatelier	Der Kommentar nennt ein Rahmenatelier als wahrscheinlichen Urheber, das im Vokabular fehlt.	
-2806#16	vorschlag	Art des Urhebers	Rahmenbauer / Einrahmer	Das Etikett stammt möglicherweise von einem Rahmenbauer, im Vokabular fehlt diese Art des Urhebers.	
-3247#2	vorschlag	Art des Urhebers	Rahmenbauer	Der Kommentar bezeichnet den Urheber als Rahmenbauer; dafür fehlt ein passender Wert im Vokabular.	
-4552#17	vorschlag	Art des Urhebers	Unternehmen / Firma	Die Plakette stammt von einer Firma (Sandoz AG), die im Vokabular fehlt.	
-4552#9	vorschlag	Art des Urhebers	Rahmenbauer	Der Kommentar nennt möglicherweise einen Rahmenbauer als Urheber des Brandstempels; im Vokabular fehlt diese Art.	
-463#17	vorschlag	Art des Urhebers	Kulturförderungsinstitution	Pro Helvetia ist eine Kulturstiftung, die weder Galerie noch Museum ist.	
-464#5	vorschlag	Art des Urhebers	Gutachter:in / Experte	Ein Echtheitszertifikat eines individuellen Kunsthistorikers passt nicht sicher zu einem Forschungsinstitut.	
-4951#11	vorschlag	Art des Urhebers	Rahmenbauer / Rahmenhandwerk	Rahmenbauer passt nicht eindeutig zu einem bestehenden Vokabularwert.	
-4961#9	vorschlag	Art des Urhebers	Einrahmungsatelier	Rahmenwerkstätten sind weder Kunsthandel noch Künstlerbedarf im engeren Sinn und könnten einen eigenen Begriff erhalten.	
-5203#3	vorschlag	Art des Urhebers	Rahmenatelier	Der Kommentar nennt ein Rahmenatelier als vermutlichen Urheber; dieser Wert fehlt im Vokabular.	
-5222#10	vorschlag	Art des Urhebers	Rahmenhersteller	Das Etikett mit Massangaben stammt laut Kommentar vom Rahmenhersteller, was im Vokabular fehlt.	
-5387#2	vorschlag	Art des Urhebers	Restaurator:in	Der Urheber ist ein Restaurator, was im Vokabular fehlt.	
-5400#5	vorschlag	Art des Urhebers	Rahmenbauer	Das Merkmal stammt laut Kommentar von einem Rahmenbauer; im Vokabular fehlt eine passende Kategorie (Rahmenmacher / Rahmenwerkstatt).	
-544#4	vorschlag	Art des Urhebers	Bibliothek / Archiv	Die Burgerbibliothek Bern ist eine Bibliothek bzw. ein Archiv, was im Vokabular fehlt.	
-5708#3	vorschlag	Art des Urhebers	Rahmenbauer	Der Stempel stammt laut Kommentar von einem Rahmenbauer, was im Vokabular fehlt.	
-5722#3	vorschlag	Art des Urhebers	Kunstwissenschaftler:in / Gutachter:in	Echtheitsbezeugung durch einen Einzelgutachter passt nicht eindeutig zu den vorhandenen Werten.	
-6499#3	vorschlag	Art des Urhebers	Rahmenatelier / Rahmenmacher	Ein Rahmenatelier ist weder Künstlerbedarf im engeren Sinn noch ein anderer Vokabularwert.	
-71#9	vorschlag	Art des Urhebers	Rahmenatelier	Rahmenateliers fehlen im Vokabular und sind keinem vorhandenen Wert eindeutig zuzuordnen.	
+910#4	abgelehnt	Besitz	Baron Otto von Steinhart	Name steht nicht im Merkmal	Auktion Sotheby’s 2000 mit Lotnummer und Datum
+9835#1	abgelehnt	Urheber (normalisiert)	Nachlass Consuelo de Saint-Exupéry	Name steht nicht im Merkmal	möglicherweise Nachlassnummer
+1007#12	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch.	Phillips Auktionen, Zürich, Auktion vom 29. November 2000
+1007#9	foto	Ort	Lausanne	Das gedruckte Etikett nennt Lausanne als Sitz der Kunsthandlung.	7, rue Grand-Chêne LAUSANNE (Suisse)
+1007#9	foto	Land	Schweiz	Das Foto nennt die Schweiz ausdrücklich.	LAUSANNE (Suisse)
+1098#14	foto	Datum (wie gelesen)	Juni 86	Das Foto zeigt das Datum der Auktion; das Jahrhundert ergibt sich aus 1986 in der Beschreibung.	Fischer, Gemälde, Juni 86
+1098#14	foto	Datum (ISO 8601-2:2019)	1986-06	Das Foto zeigt das Datum der Auktion; das Jahrhundert ergibt sich aus 1986 in der Beschreibung.	Fischer, Gemälde, Juni 86
+1098#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch, z. B. «Stadtpark in Ludwigshafen» und «Nr.», aber die Beschreibung gibt keinen Text wieder.	Stadtpark in Ludwigshafen
+1098#5	foto	Sprache	Deutsch	Der gedruckte Formulartext ist deutsch.	Name des Künstlers
+1196#7	foto	Art des Urhebers	Museum / Ausstellungsort (erschlossen)	Das gedruckte Etikett stammt von der Kunsthalle Basel, einem Ausstellungsort.	KUNSTHALLE BAS
+1196#7	foto	Urheber (normalisiert)	Kunsthalle Basel	Der gedruckte Kopf nennt die Kunsthalle Basel als Aussteller des Etiketts.	KUNSTHALLE BAS
+1196#7	foto	Ort	Basel	Die Kunsthalle Basel befindet sich in Basel.	KUNSTHALLE BAS
+1196#7	foto	Land	Schweiz	Basel liegt eindeutig in der Schweiz.	KUNSTHALLE BAS
+1196#7	foto	Ausstellung	Arnold Boecklin, Kunsthalle Basel, 23. Juni bis 19. August 1951	Das Etikett nennt die Ausstellung mit Datum, Ort aus dem Kopf.	Ausstellung: ARNOLD BOECKLIN
+1196#7	foto	Datum (wie gelesen)	23. Juni bis 19. August 1951	Ausstellungszeitraum auf dem Etikett als Intervall.	23. Juni bis 19. August 1951
+1196#7	foto	Datum (ISO 8601-2:2019)	1951-06-23/1951-08-19	Ausstellungszeitraum auf dem Etikett als Intervall.	23. Juni bis 19. August 1951
+1230.1#2	foto	Art des Urhebers	Auktionshaus	Der gedruckte Kopf des Zettels nennt die Galerie Jürg Stuker AG als Auktionshaus.	Galerie Jürg Stuker AG Bern, Auktion vom 12.-25.11.1987
+1230.1#2	foto	Ereignis	Auktion	Der Zettel nennt ausdrücklich eine Auktion und ist laut Kommentar ein Erwerbsnachweis mit Zuschlagspreis.	Galerie Jürg Stuker AG Bern, Auktion vom 12.-25.11.1987
+1230.1#2	foto	Sprache	Deutsch	Der gedruckte Katalogtext auf dem Zettel ist deutsch.	Zwei Blumenstilleben. Vor gelber Mauer in einer gebauchten Vase Strauss
+1230.1#2	foto	Urheber (normalisiert)	Galerie Jürg Stuker	Das Auktionshaus hat den Katalogauszug ausgestellt.	Galerie Jürg Stuker AG Bern, Auktion vom 12.-25.11.1987
+1230.1#2	foto	Datum (wie gelesen)	12.-25.11.1987	Der Zeitraum der Auktion ist als Intervall angegeben.	Auktion vom 12.-25.11.1987
+1230.1#2	foto	Datum (ISO 8601-2:2019)	1987-11-12/1987-11-25	Der Zeitraum der Auktion ist als Intervall angegeben.	Auktion vom 12.-25.11.1987
+1230.2#3	foto	Art des Urhebers	Auktionshaus	Der gedruckte Kopf des Zettels nennt die Galerie Jürg Stuker AG als Auktionshaus.	Galerie Jürg Stuker AG Bern, Auktion vom 12.-25.11.
+1230.2#3	foto	Ereignis	Auktion	Der Zettel ist ein Katalogauszug einer Auktion mit Zuschlagspreis.	Galerie Jürg Stuker AG Bern, Auktion vom 12.-25.11.
+1230.2#3	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch.	Zwei Blumenstilleben. Vor gelber Mauer in einer gebauchten Vase Strauss
+1230.2#3	foto	Urheber (normalisiert)	Galerie Jürg Stuker	Das Auktionshaus hat den Katalogauszug ausgestellt.	Galerie Jürg Stuker AG Bern, Auktion vom 12.-25.11.
+1230.2#3	foto	Ort	Bern	Ort des Auktionshauses laut Briefkopf.	Galerie Jürg Stuker AG Bern, Auktion vom 12.-25.11.
+1230.2#3	foto	Datum (wie gelesen)	12.-25.11.	Auktionszeitraum; das Jahr 1987 ergibt sich aus der Provenienzkette.	Auktion vom 12.-25.11.
+1230.2#3	foto	Datum (ISO 8601-2:2019)	1987-11-12/1987-11-25	Auktionszeitraum; das Jahr 1987 ergibt sich aus der Provenienzkette.	Auktion vom 12.-25.11.
+1271#7	foto	Art des Urhebers	Auktionshaus	Der gedruckte Katalogauszug stammt vom Auktionshaus Gabus.	Galerie Pierre-Yves Gabus SA, Bevaix, Auktion vom 5.-8.12.1991
+1271#7	foto	Sprache	Französisch	Der gedruckte Katalogtext ist französisch.	Huile sur toile; 60 x 77 cm; signée; datée
+1271#7	foto	Urheber (normalisiert)	Galerie Pierre-Yves Gabus SA	Das Auktionshaus ist auf dem Katalogauszug als Herausgeber genannt.	Galerie Pierre-Yves Gabus SA, Bevaix, Auktion vom 5.-8.12.1991
+1271#7	foto	Datum (wie gelesen)	Auktion vom 5.-8.12.1991	Der Katalogauszug nennt den Auktionszeitraum als Intervall.	Auktion vom 5.-8.12.1991
+1271#7	foto	Datum (ISO 8601-2:2019)	1991-12-05/1991-12-08	Der Katalogauszug nennt den Auktionszeitraum als Intervall.	Auktion vom 5.-8.12.1991
+1299#2	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	Galerie Kornfeld, Bern, Auktion
+1299#2	foto	Datum (wie gelesen)	19. - 21. Juni 1991	Der Zeitraum der Auktion steht gedruckt auf dem Foto.	Galerie Kornfeld, Bern, Auktion 206 vom 19. - 21. Juni 1991
+1299#2	foto	Datum (ISO 8601-2:2019)	1991-06-19/1991-06-21	Der Zeitraum der Auktion steht gedruckt auf dem Foto.	Galerie Kornfeld, Bern, Auktion 206 vom 19. - 21. Juni 1991
+1312#4	foto	Datum (wie gelesen)	Okt. 81	Datum der Auktion auf dem Zettel gelesen.	Germann Okt. 81
+1312#4	foto	Datum (ISO 8601-2:2019)	1981-10	Datum der Auktion auf dem Zettel gelesen.	Germann Okt. 81
+1330#3	foto	Urheber (normalisiert)	Palette AG	Das Foto nennt die Firma Palette AG als Urheberin des Etiketts.	Palette AG Zeltweg 40 CH-8032 Zürich
+1330#3	foto	Ort	Zürich	Die Adresse auf dem Etikett nennt Zürich als Ort des Rahmenateliers.	CH-8032 Zürich
+1330#3	foto	Land	Schweiz	Die Länderkennung CH und Zürich zeigen die Schweiz.	CH-8032 Zürich
+1330#4	foto	Datum (wie gelesen)	5. Dezember 2000	Auktionsdatum laut Katalogauszug auf dem Foto.	Christie’s Zürich, Auktion Felix, 5. Dezember 2000
+1330#4	foto	Datum (ISO 8601-2:2019)	2000-12-05	Auktionsdatum laut Katalogauszug auf dem Foto.	Christie’s Zürich, Auktion Felix, 5. Dezember 2000
+1399#1	foto	Sprache	Französisch	Der gedruckte Text auf dem Etikett ist französisch.	Expertise de M. Louis Gielly, Genève, conservateur du Musée des beaux-arts
+1456#6	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	Auktion Koller, Ende Mai 1979
+1456#6	foto	Datum (wie gelesen)	Ende Mai 1979	Das gedruckte Datum auf dem Zettel nennt Ende Mai 1979; als Monat codiert.	Auktion Koller, Ende Mai 1979
+1456#6	foto	Datum (ISO 8601-2:2019)	1979-05	Das gedruckte Datum auf dem Zettel nennt Ende Mai 1979; als Monat codiert.	Auktion Koller, Ende Mai 1979
+1493#3	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett «Künstler: / Titel des Werkes:» ist deutsch.	Künstler:
+1523#4	foto	Urheber (normalisiert)	SIK-ISEA	Das Foto zeigt den gedruckten Text SIK-ISEA als Aussteller des Etiketts.	SIK-ISEA Ktr.-Nr. 33280
+1523#5	foto	Art des Urhebers	Forschungsinstitut	Das Etikett trägt den Aufdruck SIK-ISEA, also stammt es vom Forschungsinstitut.	SIK-ISEA Ktr.-Nr. 33280
+1523#5	foto	Urheber (normalisiert)	SIK-ISEA	Der Urheber des Etiketts ist auf dem Foto als SIK-ISEA lesbar.	SIK-ISEA Ktr.-Nr. 33280
+1523#5	foto	Ort	Zürich	SIK-ISEA hat seinen Hauptsitz in Zürich.	SIK-ISEA Ktr.-Nr. 33280
+1523#5	foto	Land	Schweiz	Zürich liegt in der Schweiz.	SIK-ISEA Ktr.-Nr. 33280
+1523#7	foto	Sprache	Französisch	Der Text auf den Etiketten ist französisch (Huile sur toile, Tableaux de maîtres).	Huile sur toile
+1529#3	foto	Datum (wie gelesen)	ca Sept 81	Datum auf dem Zettel ist lesbar als «ca Sept 81»; das Jahrhundert ergibt sich aus der Provenienzkette (1981).	ca Sept 81
+1529#3	foto	Datum (ISO 8601-2:2019)	1981-09~	Datum auf dem Zettel ist lesbar als «ca Sept 81»; das Jahrhundert ergibt sich aus der Provenienzkette (1981).	ca Sept 81
+1575#3	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch (Auktion, Slg., und).	Auktion 146, Slg. A. Stoll
+1666#8	foto	Ereignis	Auktion	Der Zettel hält die Auktion Stuker im Herbst 1979 mit Losnummer 2572 fest.	Auktion Stuker, Herbst 1979
+1666#8	foto	Datum (wie gelesen)	Herbst 1979	Der Zettel nennt Herbst 1979 als Zeitpunkt der Auktion.	Auktion Stuker, Herbst 1979
+1666#8	foto	Datum (ISO 8601-2:2019)	1979-23	Der Zettel nennt Herbst 1979 als Zeitpunkt der Auktion.	Auktion Stuker, Herbst 1979
+1803#2	foto	Sprache	Französisch	Der gedruckte und getippte Text der Karte ist französisch.	LE CONSERVATEUR DES MUSÉES DU VALAIS
+1803#3	foto	Sprache	Französisch	Der gedruckte Text enthält französische Sätze wie «Signé et daté 1925 en haut à gauche».	Saviésanne à la Coiffe
+1803#3	foto	Sprache	Deutsch	Die Kopfzeile ist auf Deutsch maschinenschriftlich ergänzt.	Auktion vom 17. 6.1991
+1803#3	foto	Datum (wie gelesen)	17. 6.1991	Das Auktionsdatum steht gedruckt auf dem Zettel.	Auktion vom 17. 6.1991
+1803#3	foto	Datum (ISO 8601-2:2019)	1991-06-17	Das Auktionsdatum steht gedruckt auf dem Zettel.	Auktion vom 17. 6.1991
+1833#4	foto	Art des Urhebers	Auktionshaus	Der gedruckte Katalogauszug stammt vom Auktionshaus Galerie Jürg Stuker.	Galerie Jürg Stuker AG, Bern, Auktion vom 22. 5. - 5. 6.1991
+1833#4	foto	Ereignis	Auktion	Der Auszug hält die Auktion und den Zuschlag fest.	Auktion vom 22. 5. - 5. 6.1991
+1833#4	foto	Urheber (normalisiert)	Galerie Jürg Stuker	Auf dem Foto ist das Auktionshaus als Herausgeber des Katalogs genannt.	Galerie Jürg Stuker AG, Bern, Auktion vom 22. 5. - 5. 6.1991
+1833#4	foto	Ort	Bern	Das Auktionshaus sitzt in Bern.	Galerie Jürg Stuker AG, Bern, Auktion vom 22. 5. - 5. 6.1991
+1833#4	foto	Datum (wie gelesen)	22. 5. - 5. 6.1991	Zeitraum der Auktion als Intervall.	Auktion vom 22. 5. - 5. 6.1991
+1833#4	foto	Datum (ISO 8601-2:2019)	1991-05-22/1991-06-05	Zeitraum der Auktion als Intervall.	Auktion vom 22. 5. - 5. 6.1991
+1856#3	foto	Art des Urhebers	Museum / Ausstellungsort	Das gedruckte Etikett stammt vom Aargauer Kunsthaus Aarau als Ausstellungsort.	AARGAUER KUNSTHAUS AARAU
+1856#3	foto	Urheber (normalisiert)	Aargauer Kunsthaus Aarau	Der gedruckte Name auf dem Etikett nennt den Aussteller.	AARGAUER KUNSTHAUS AARAU
+1953#10	foto	Ort	Zürich	Das Foto nennt Christie's Zürich als Auktionsort.	Christie's Zürich, Auktion Nadja, 7. Juni 2004
+1953#10	foto	Land	Schweiz	Zürich liegt in der Schweiz.	Christie's Zürich, Auktion Nadja, 7. Juni 2004
+1953#10	foto	Datum (wie gelesen)	7. Juni 2004	Auktionsdatum laut Foto.	Christie's Zürich, Auktion Nadja, 7. Juni 2004
+1953#10	foto	Datum (ISO 8601-2:2019)	2004-06-07	Auktionsdatum laut Foto.	Christie's Zürich, Auktion Nadja, 7. Juni 2004
+1953#2	foto	Sprache	Englisch	Auf dem Foto sind die englischen Wörter STORAGE und PACKING gedruckt.	STORAGE
+1966#6	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	Kunstmuseum Bern Ausstellung
+201#15	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch (z. B. «nicht bezeichnet, rückseitig mit Zertifikatsstempel Mme. B. Hodler versehen»).	FREIHANDKAUF
+201#15	foto	Datum (wie gelesen)	13.3.1987	Datum des Freihandkaufs auf dem Zettel gedruckt.	13.3.1987
+201#15	foto	Datum (ISO 8601-2:2019)	1987-03-13	Datum des Freihandkaufs auf dem Zettel gedruckt.	13.3.1987
+2072#6	foto	Art des Urhebers	Forschungsinstitut	Das Etikett trägt den Namen des Forschungsinstituts SIK-ISEA mit der SIK-Nummer.	SIK-ISEA 33'268
+2072#6	foto	Urheber (normalisiert)	SIK-ISEA	Auf dem Etikett ist SIK-ISEA als Aussteller gedruckt.	SIK-ISEA 33'268
+2200#4	foto	Sprache	Französisch	Der maschinengeschriebene Text auf dem Zettel ist französisch.	Ce tableau peint sur bois, étude signée authentique ci-dessus
+2200#4	foto	Ort	Genf	Der Zettel nennt Genève als Ausstellungsort.	Genève le 1er août 1981
+2200#4	foto	Land	Schweiz	Genf liegt in der Schweiz.	Genève le 1er août 1981
+2203#3	foto	Sprache	Deutsch	Der gedruckte Text der Kopfzeile ist deutsch (Kunstauktion).	Galerie Fischer, Luzern, Kunstauktion vom 17. - 19. 5.1988
+2203#3	foto	Datum (wie gelesen)	17. - 19.5.1988	Die Kopfzeile nennt den Zeitraum der Auktion als Intervall.	Galerie Fischer, Luzern, Kunstauktion vom 17. - 19. 5.1988
+2203#3	foto	Datum (ISO 8601-2:2019)	1988-05-17/1988-05-19	Die Kopfzeile nennt den Zeitraum der Auktion als Intervall.	Galerie Fischer, Luzern, Kunstauktion vom 17. - 19. 5.1988
+2262#14	foto	Datum (wie gelesen)	3.12.1987	Das Etikett nennt auf dem Foto das genaue Auktionsdatum.	3.12.1987
+2262#14	foto	Datum (ISO 8601-2:2019)	1987-12-03	Das Etikett nennt auf dem Foto das genaue Auktionsdatum.	3.12.1987
+2489#9	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch.	Auktion vom 12.-21.11.1987
+2489#9	foto	Datum (wie gelesen)	Auktion vom 12.-21.11.1987	Der Zettel nennt den Zeitraum der Auktion als Intervall.	Auktion vom 12.-21.11.1987
+2489#9	foto	Datum (ISO 8601-2:2019)	1987-11-12/1987-11-21	Der Zettel nennt den Zeitraum der Auktion als Intervall.	Auktion vom 12.-21.11.1987
+2525#3	foto	Sprache	Französisch	Der gedruckte Text auf dem Etikett «CADRES D'ART GRAVURES TABLEAUX» ist französisch.	CADRES D'ART
+2592#4	foto	Sprache	Italienisch	Der gedruckte Text auf dem Foto ist italienisch; der Kommentar nennt eine italienische Übersetzung.	Questo quadro è stato molto in pericolo e non deve essere, in nessuno caso, tirato via dalla cornice.
+2592#7	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch.	Porträt von Emilio Longoni, Maler
+268#5	foto	Sprache	Deutsch	Der Text auf dem Etikett enthält deutsche Wörter wie «Oel auf Leinwand» und «unten rechts signiert».	Oel auf Leinwand,
+2740#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch.	Galerie Jürg Stuker AG, Bern, Auktion 24.05. - 04.06.1994
+2740#4	foto	Ort	Bern	Auf dem Zettel steht Bern als Ort des Auktionshauses.	Galerie Jürg Stuker AG, Bern, Auktion 24.05. - 04.06.1994
+2740#4	foto	Land	Schweiz	Bern liegt in der Schweiz.	Galerie Jürg Stuker AG, Bern, Auktion 24.05. - 04.06.1994
+2740#4	foto	Datum (wie gelesen)	24.05. - 04.06.1994	Zeitraum der Auktion laut gedrucktem Kopf des Zettels.	Auktion 24.05. - 04.06.1994
+2740#4	foto	Datum (ISO 8601-2:2019)	1994-05-24/1994-06-04	Zeitraum der Auktion laut gedrucktem Kopf des Zettels.	Auktion 24.05. - 04.06.1994
+294#12	foto	Art des Urhebers	Forschungsinstitut	Das Etikett nennt SIK-ISEA, ein Forschungsinstitut, als Urheber der Nummer.	SIK-ISEA Ktr.-Nr. 33279
+294#12	foto	Urheber (normalisiert)	SIK-ISEA	Auf dem Foto ist SIK-ISEA als Aussteller des Aufklebers gedruckt.	SIK-ISEA Ktr.-Nr. 33279
+294#9	foto	Sprache	Englisch	Gedruckte Wörter «PROPERTY No», «ITEM No.», «SUB ITEM» sind englisch.	PROPERTY No
+294#9	foto	Datum (wie gelesen)	10 6 92	Handschriftliches Datum auf dem Etikett, als Tag Monat Jahr gelesen.	10 6 92
+294#9	foto	Datum (ISO 8601-2:2019)	1992-06-10	Handschriftliches Datum auf dem Etikett, als Tag Monat Jahr gelesen.	10 6 92
+296#3	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch, die Beschreibung gibt ihn aber nicht wieder.	Kunstmuseum Bern 1960 AUSSTELLUNG ANKER Nr. 171 Strick.Mädchen (Bertha und Rosa Gugger-Küefer) vor 1899.
+31462#7	foto	Sprache	Französisch	Der gedruckte Text auf dem Foto ist französisch (Dorure, Encadrements, Téléph.).	DORURE-ENCADREMENTS
+3247#3	foto	Datum (wie gelesen)	Auktion Herbst 1978	Auf dem Foto steht gedruckt «Fischer, Auktion Herbst 1978»; Herbst als Intervall codiert.	Fischer, Auktion Herbst 1978
+3247#3	foto	Datum (ISO 8601-2:2019)	1978-09/1978-11	Auf dem Foto steht gedruckt «Fischer, Auktion Herbst 1978»; Herbst als Intervall codiert.	Fischer, Auktion Herbst 1978
+3285#3	foto	Sprache	Französisch	Das Etikett trägt französischen Text wie «GALERIE DES GRANGES», «ANNEXE» und «Année».	GALERIE DES GRANGES
+3285#5	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch.	Die schlafende Joséphine Baker. Feder in Tusche. 40,6 : 24,5 cm, Blattgrösse.
+3285#5	foto	Ort	Bern	Das Foto nennt Bern als Ort der Galerie Kornfeld.	Galerie Kornfeld, Bern, Auktion 230, II. Teil, 19. Juni 2003
+3285#5	foto	Datum (wie gelesen)	19. Juni 2003	Auf dem Zettel steht das Auktionsdatum.	Galerie Kornfeld, Bern, Auktion 230, II. Teil, 19. Juni 2003
+3285#5	foto	Datum (ISO 8601-2:2019)	2003-06-19	Auf dem Zettel steht das Auktionsdatum.	Galerie Kornfeld, Bern, Auktion 230, II. Teil, 19. Juni 2003
+3513#3	foto	Sprache	Italienisch	Der Text auf dem Etikett ist überwiegend italienisch (olio s/tela, coll. Fond. per arte).	coll. Fond. per arte, cultura e storia
+3563#8	foto	Datum (wie gelesen)	11. Juni 1983	Das Datum steht gedruckt auf dem Zettel und bezeichnet den Auktionstag.	11. Juni 1983
+3563#8	foto	Datum (ISO 8601-2:2019)	1983-06-11	Das Datum steht gedruckt auf dem Zettel und bezeichnet den Auktionstag.	11. Juni 1983
+4043#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	rechts unten signiert
+4043#7	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	Hodler-Gedächtnis-Ausstellung Bern 1921
+4043#7	foto	Ausstellung	Hodler-Gedächtnis-Ausstellung Bern 1921	Titel der Ausstellung steht gedruckt auf dem Etikett.	Hodler-Gedächtnis-Ausstellung Bern 1921
+4043#8	foto	Sprache	Deutsch	Die gedruckten und handschriftlichen Wörter auf dem Etikett («Katalog Nr.», «Titel», «Besitzer») sind deutsch.	Katalog Nr. 24
+4043#8	foto	Ausstellung	Hodler-Gedächtnis-Ausstellung, Thun 1953	Der gedruckte Titel auf dem Etikett nennt die Ausstellung mit Ort und Jahr, die Beschreibung nennt «Ausstellung Thun 1953».	HODLER-GEDÄCHTNIS-AUSSTELLUNG THUN 1953
+4159#10	foto	Sprache	Deutsch	Der gedruckte und getippte Text auf dem Etikett ist deutsch.	überbracht durch H.Boissonas.
+4159#10	foto	Besitz	Dr. Speich	Das Etikett nennt Dr. Speich als Besitzer.	Besitzer: Dr. Speich,
+4159#8	foto	Sprache	Deutsch	Der Text auf dem Zettel ist deutsch (Sommerlandschaft, Spaziergänger unter Baum, mit Archivauszug).	Sommerlandschaft m.
+4169#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch, die Beschreibung gibt ihn aber nicht wieder.	Prachtvolles, grossformatiges Werk des bedeuten-
+4177#2	foto	Sprache	Französisch	Der auf dem Foto lesbare gedruckte Text ist französisch.	graphier couleur
+4177#3	foto	Ereignis	Auktion (erschlossen)	Das Etikett mit Losnummer und Schätzpreis stammt aus einem Auktionskatalog der Galerie Gabus.	2580 BIELER Ernest (1863-1948). Suisse, Valais
+4177#3	foto	Sprache	Französisch	Der gedruckte Text auf dem Etikett ist französisch.	Tempera à l’oeuf sur toile marouflée sur un carton
+4177#7	foto	Ereignis	Auktion	Der Zettel hält die Auktion fest, Zuschlagspreis handschriftlich vermerkt.	Auktion vom 5.-8.12.1991
+4177#7	foto	Sprache	Französisch	Der gedruckte Katalogtext ist französisch.	Tempera à l’oeuf sur toile marouflée sur un carton
+4177#7	foto	Ort	Bevaix	Ort der Galerie steht im Zettelkopf.	Galerie Pierre-Yves Gabus SA, Bevaix
+4177#7	foto	Datum (wie gelesen)	5.-8.12.1991	Auktionszeitraum laut Zettelkopf.	Auktion vom 5.-8.12.1991
+4177#7	foto	Datum (ISO 8601-2:2019)	1991-12-05/1991-12-08	Auktionszeitraum laut Zettelkopf.	Auktion vom 5.-8.12.1991
+4177#7	foto	Bemerkungen	Datum (ISO 8601-2:2019): Der Zettel nennt als Auktionsdatum 5.-8.12.1991, die Provenienzkette 29. November bis 8. Dezember 1991.	Zweifel oder Fehler in der Quelle	Auktion vom 5.-8.12.1991
+4282#3	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	Pionier der abstrakten Malerei
+4282#3	foto	Land	Schweiz	Chur liegt in der Schweiz, auf dem Etikett steht CH.	CH-7000 CHUR
+4282#3	foto	Datum (wie gelesen)	20.6.–13.9.1981	Ausstellungszeitraum auf dem Etikett als Intervall.	20.6.—13.9.1981
+4282#3	foto	Datum (ISO 8601-2:2019)	1981-06-20/1981-09-13	Ausstellungszeitraum auf dem Etikett als Intervall.	20.6.—13.9.1981
+4531#2	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist überwiegend deutsch.	Sotheby's AG Zürich, Auktion vom 5. Dezember 1991
+4552#10	foto	Sprache	Deutsch	Der Text auf dem Etikett enthält deutsche Wörter wie «Auktion».	Auktion 146, Slg. A. Stoll
+4552#2	foto	Sprache	Englisch	Der gedruckte Text auf dem Etikett ist englisch.	ROYAL ART FRAMING CO. INC.
+459#12	foto	Art des Urhebers	Museum / Ausstellungsort	Das gedruckte Etikett nennt das Kunstmuseum Bern als Ausstellungsort und Urheber.	Kunstmuseum Bern 1960
+459#12	foto	Urheber (normalisiert)	Kunstmuseum Bern	Das Etikett ist im Kopf mit Kunstmuseum Bern bedruckt.	Kunstmuseum Bern 1960
+459#14	foto	Sprache	Deutsch	Gedruckter Text «Anker-Ausstellung INS 1977» ist deutsch.	Anker-Ausstellung
+459#14	foto	Ausstellung	Anker-Ausstellung, Ins, 1977	Das Etikett nennt die Ausstellung mit Ort und Jahr; im Kommentar ebenfalls Ins 1977.	Anker-Ausstellung
+459#7	foto	Sprache	Deutsch	Auf dem Foto steht «70 Jahre» als deutscher Text.	70 Jahre
+459#7	foto	Sprache	Französisch	Auf dem Foto steht «70 ans» als französischer Text.	70 ans
+459#7	foto	Sprache	Italienisch	Auf dem Foto steht «70 anni» als italienischer Text.	70 anni
+459#7	foto	Sprache	Englisch	Auf dem Foto ist oben rechts ein englischer Text zu lesen.	70 years
+463#4	foto	Sprache	Italienisch	Der gedruckte Text des Etiketts ist italienisch (Mostra coll., Autore, Titolo, Presso).	Città di Lugano
+466#8	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	EIGENTUM VON HERRN KURT GRATWOHL
+466#8	foto	Besitz	Kurt Gratwohl	Das Etikett nennt Gratwohl ausdrücklich als Eigentümer.	EIGENTUM VON HERRN KURT GRATWOHL
+4744#8	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch.	Phillips Auktionen, Zürich, Auktion vom 29. November 2000
+4762#14	foto	Sprache	Deutsch	Der gedruckte Text auf dem Beleg ist deutsch.	Christie's Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4763#2	foto	Ort	Zürich	Ort der Auktion laut gedrucktem Kopf.	Christie’s Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4763#2	foto	Land	Schweiz	Zürich liegt in der Schweiz.	Christie’s Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4763#2	foto	Datum (wie gelesen)	5. Dezember 2005	Auktionsdatum im gedruckten Kopf.	Christie’s Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4763#2	foto	Datum (ISO 8601-2:2019)	2005-12-05	Auktionsdatum im gedruckten Kopf.	Christie’s Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4763#5	foto	Art des Urhebers	Museum / Ausstellungsort	Das gedruckte Etikett nennt den Kunstverein Winterthur als Veranstalter der Ausstellung.	Kunstverein Winterthur
+4763#5	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	Ausstellung „Der frühe Hodler“
+4763#5	foto	Urheber (normalisiert)	Kunstverein Winterthur	Der Kunstverein ist auf dem Etikett als Veranstalter gedruckt.	Kunstverein Winterthur
+4763#5	foto	Ausstellung	Der frühe Hodler, Kunstverein Winterthur, 1932	Die Ausstellung ist mit Titel, Ort und Jahr auf dem Etikett genannt.	Ausstellung „Der frühe Hodler“
+4763#5	foto	Datum (wie gelesen)	Sept.-Okt. 1932	Der Ausstellungszeitraum ist als Intervall gedruckt.	Sept.-Okt. 1932
+4763#5	foto	Datum (ISO 8601-2:2019)	1932-09/1932-10	Der Ausstellungszeitraum ist als Intervall gedruckt.	Sept.-Okt. 1932
+4764#7	foto	Sprache	Deutsch	Der gedruckte und getippte Text auf dem Etikett ist deutsch.	Ausstellung: ARNOLD BOECKLIN
+4764#7	foto	Ausstellung	Arnold Böcklin, Kunsthalle Basel 1951	Das Etikett nennt die Ausstellung Arnold Boecklin; Ort und Jahr stehen in der Beschreibung.	Ausstellung: ARNOLD BOECKLIN
+4764#7	foto	Datum (wie gelesen)	23. Juni bis 19. August 1951	Der Ausstellungszeitraum steht gedruckt auf dem Etikett.	23. Juni bis 19. August 1951
+4764#7	foto	Datum (ISO 8601-2:2019)	1951-06-23/1951-08-19	Der Ausstellungszeitraum steht gedruckt auf dem Etikett.	23. Juni bis 19. August 1951
+4768#11	foto	Sprache	Englisch	Das Foto zeigt englischen Text wie «SALE», «DONE BY», «NOTES».	SALE : 2634
+4768#9	foto	Sprache	Italienisch	Der gedruckte Text auf dem Etikett ist italienisch.	XV. Esposizione Internazionale d'Arte della Città di Venezia - 1926
+4770#3	foto	Art des Urhebers	Auktionshaus	Der Katalogauszug stammt vom Auktionshaus Christie's Zürich.	Christie's Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4770#3	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto enthält deutsche Wörter wie «Auktion», «Dezember» und «Provenienz», aber die Beschreibung gibt den Text nicht wieder.	Christie's Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4770#3	foto	Urheber (normalisiert)	Christie's	Das Auktionshaus steht im Kopf des Katalogauszugs.	Christie's Zürich, Auktion Bergbach-1328, 5. Dezember 2005
+4770#3	foto	Land	Schweiz	Zürich liegt in der Schweiz.	Christie's Zürich
+4770#3	foto	Datum (wie gelesen)	5. Dezember 2005	Das Auktionsdatum steht im Kopf des Katalogauszugs.	Auktion Bergbach-1328, 5. Dezember 2005
+4770#3	foto	Datum (ISO 8601-2:2019)	2005-12-05	Das Auktionsdatum steht im Kopf des Katalogauszugs.	Auktion Bergbach-1328, 5. Dezember 2005
+4946#2	foto	Art des Urhebers	Museum / Ausstellungsort (erschlossen)	Das Etikett des Seedamm-Kulturzentrums hält eine Ausstellung fest, das Zentrum ist somit Ausstellungsort.	SEEDAMM-KULTURZEN
+4946#2	foto	Sprache	Deutsch	Der maschinengeschriebene Text auf dem Etikett ist deutsch, die Beschreibung gibt ihn aber nicht wieder.	Der frühe Hodler 1981
+4946#2	foto	Urheber (normalisiert)	Seedamm-Kulturzentrum	Der gedruckte Briefkopf nennt das Seedamm-Kulturzentrum als Aussteller des Etiketts.	SEEDAMM-KULTURZEN
+4946#2	foto	Land	Schweiz	PLZ 8808 und Kürzel SZ zeigen Pfäffikon SZ in der Schweiz.	8808 Pfäffikon/SZ (an der N3)
+4946#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch (u. a. «des Werkes:»).	ZÜRCHER KUNSTGESELL
+4951#5	foto	Ereignis	Leihgabe (erschlossen)	Das Etikett nennt als Besitzer «Privatbesitz», also einen Leihgeber.	Privatbesitz
+4951#5	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch.	Dame mit rotem Schirm (um 1885)
+4951#5	foto	Sprache	Französisch	Der Text auf dem Etikett ist auch französisch.	La dame au parapluie
+4951#5	foto	Besitz	Privatbesitz	Das Etikett nennt Privatbesitz als Leihgeber.	Privatbesitz
+4952#1	foto	Sprache	Französisch	Der Text auf dem Foto ist französisch (Bestätigung und Légalisation).	Je soussignée, Berthe Hodler née Jacques
+4961#1	foto	Sprache	Englisch	Die gedruckten Feldbezeichnungen «Artist», «Title» und «Lender» auf dem Foto sind englisch.	Lender:
+4970#3	foto	Sprache	Englisch	Auf dem Foto steht der englische Text «PREPARED BY».	PREPARED BY
+5000#23	foto	Art des Urhebers	Museum / Ausstellungsort	Das Etikett ist von der Kunsthalle Basel als Ausstellungsort ausgestellt.	KUNSTHALLE BASEL
+5000#23	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	AUSSTELLUNG V. WERKEN DES 19. JAHRHUNDERTS AUS BASLER PRIVATBESITZ
+5000#23	foto	Urheber (normalisiert)	Kunsthalle Basel	Das Etikett nennt die Kunsthalle Basel als Veranstalterin.	KUNSTHALLE BASEL
+5000#23	foto	Datum (wie gelesen)	MAI-JUNI 1943	Der Ausstellungszeitraum steht auf dem Etikett.	MAI-JUNI 1943
+5000#23	foto	Datum (ISO 8601-2:2019)	1943-05/1943-06	Der Ausstellungszeitraum steht auf dem Etikett.	MAI-JUNI 1943
+5000#25	foto	Sprache	Deutsch	Der gedruckte Text des Etiketts ist deutsch.	Hodler-Gedächtnis-Ausstellung Bern 1921
+5000#25	foto	Ausstellung	Hodler-Gedächtnis-Ausstellung Bern 1921	Der Ausstellungstitel steht gedruckt auf dem Etikett.	Hodler-Gedächtnis-Ausstellung Bern 1921
+5004#3	foto	Sprache	Deutsch	Der Text auf dem Etikett enthält deutsche Wörter wie «gemalt» und «Nachlass».	um 1930 gemalt
+5004#4	foto	Sprache	Französisch	Der gedruckte Text auf dem Etikett enthält französische Wörter.	ANTIQUITÉS DORURE RESTAURATION ENCADREMENTS
+5186#3	foto	Sprache	Englisch	Die gedruckten Feldbezeichnungen «Artist», «Title» und «Lender» sind englisch.	Artist: GIOVANNI SEGANTINI Title: LEOPOLDINA GRUBICY Lender:
+5188#14	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch.	Kunsthalle Bern ALBERT ANKER Oktober 1928
+5188#14	foto	Datum (wie gelesen)	Oktober 1928	Das Etikett nennt als Datum Oktober 1928.	Oktober 1928
+5188#14	foto	Datum (ISO 8601-2:2019)	1928-10	Das Etikett nennt als Datum Oktober 1928.	Oktober 1928
+5196#6	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	Anker-Jahrhundertausstellung 1931
+5196#6	foto	Ausstellung	Anker-Jahrhundertausstellung, Kunstmuseum Bern, 1931	Das Etikett nennt die Ausstellung mit Jahr 1931, abweichend vom Kommentar.	Anker-Jahrhundertausstellung 1931
+5196#6	foto	Datum (wie gelesen)	1931	Das Etikett nennt das Ausstellungsjahr 1931.	Anker-Jahrhundertausstellung 1931
+5196#6	foto	Datum (ISO 8601-2:2019)	1931	Das Etikett nennt das Ausstellungsjahr 1931.	Anker-Jahrhundertausstellung 1931
+5203#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	Anker-Ausstellung
+5203#4	foto	Ausstellung	Anker-Ausstellung Ins 1977	Das Etikett nennt die Ausstellung mit Ort und Jahr.	Anker-Ausstellung
+5205#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch (Ankerausstellung, Kat.Nr.).	Ankerausstellung Ins
+5205#4	foto	Ausstellung	Ankerausstellung Ins 1985	Das Etikett nennt die Ausstellung mit Ort und Jahr.	Ankerausstellung Ins
+5206#2	foto	Sprache	Deutsch	Der maschinengeschriebene Text auf dem Etikett ist deutsch.	Ankerausstellung Ins
+5206#3	foto	Art des Urhebers	Museum / Ausstellungsort	Das Etikett trägt den gedruckten Namen des Kunstmuseums Winterthur als Aussteller.	KUNSTMUSEUM WINTERTHUR
+5206#3	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch (Ausstellung, Besitzer, Katalog-Nr.).	Ausstellung Albert Anker
+5206#3	foto	Urheber (normalisiert)	Kunstmuseum Winterthur	Das Museum hat das Ausstellungsetikett ausgestellt.	KUNSTMUSEUM WINTERTHUR
+5206#5	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto enthält deutsche Wörter (UND, STRASSE).	KURT UND MYRTHA MEISSNER
+5206#5	foto	Land	Schweiz	Die Postleitzahl mit CH zeigt die Schweiz.	CH-8702 ZOLLIKON
+5211#3	foto	Urheber (normalisiert)	MAT Securitas Express AG	Das gedruckte Etikett nennt die Firma MAT Securitas Express AG/SA als Urheberin.	MAT Securitas Express AG/SA
+5211#5	foto	Art des Urhebers	Museum / Ausstellungsort (erschlossen)	Das Ausstellungsetikett nennt die Parkhausrondelle St. Moritz als Ausstellungsort und damit als Urheber.	Parkhausrondelle St.Moritz
+5211#5	foto	Sprache	Deutsch	Der Ausstellungstitel und die Zeitangabe sind deutsch gedruckt.	Das Oberengadin in der Malerei
+5211#5	foto	Sprache	Italienisch	Der Titel ist zusätzlich auf Italienisch gedruckt.	L’Engadina alta nella pittura
+5211#5	foto	Urheber (normalisiert)	Parkhausrondelle St. Moritz	Der Ausstellungsort ist auf dem Etikett genannt und gilt als Urheber.	Parkhausrondelle St.Moritz
+5211#5	foto	Datum (wie gelesen)	20. 6.–20. 10. 1985	Die Ausstellungsdauer ist als Intervall auf dem Etikett gedruckt.	20. 6.–20. 10. 1985
+5211#5	foto	Datum (ISO 8601-2:2019)	1985-06-20/1985-10-20	Die Ausstellungsdauer ist als Intervall auf dem Etikett gedruckt.	20. 6.–20. 10. 1985
+5215#3	foto	Art des Urhebers	Museum / Ausstellungsort	Das Etikett nennt das Kunstmuseum Bern als Ausstellungsort und Aussteller.	Kunstmuseum Bern 1960
+5215#3	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch.	Bauer, die Zeitung lesend.1881
+5215#3	foto	Urheber (normalisiert)	Kunstmuseum Bern	Das Etikett ist vom Kunstmuseum Bern ausgestellt.	Kunstmuseum Bern 1960
+5215#3	foto	Ausstellung	Ausstellung Anker, Kunstmuseum Bern, 1960	Das Etikett nennt die Ausstellung Anker im Kunstmuseum Bern 1960.	AUSSTELLUNG ANKER
+5215#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	Ankerausstellung Ins
+5217#2	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch (Ankerausstellung, Kat.Nr.).	Ankerausstellung Ins
+5222#12	foto	Sprache	Französisch	Der gedruckte Text auf dem Foto (Dossier, Préteur, Titre) ist französisch.	Dossier : Félix VALLOTTON au M.B.A Lyon
+5222#15	foto	Sprache	Französisch	Die gedruckten Feldbezeichnungen Artiste, Titre, Prêteur und N/Réf. sind französisch.	Preteur
+5222#15	foto	Ort	Gentilly	Die Adresse im Briefkopf nennt Gentilly als Sitz des Urhebers.	54, avenue Lénine - 94250 GENTILLY
+5222#15	foto	Land	Frankreich	Gentilly mit französischer Postleitzahl liegt in Frankreich.	54, avenue Lénine - 94250 GENTILLY
+5222#16	foto	Sprache	Französisch	Der gedruckte Text auf dem Foto ist französisch.	Expesition les Symbolistes et Richard Wagner
+5222#25	foto	Sprache	Französisch	Der gedruckte Text «Huile sur toile» auf dem Foto ist französisch.	Huile sur toile
+5222#3	foto	Sprache	Englisch	Die Formularfelder auf dem Foto sind englisch beschriftet (Artist, Title, Lender).	Title:
+5222#6	foto	Sprache	Französisch	Der gedruckte und maschinengeschriebene Text auf dem Foto ist französisch (Retour Exposition, Titre, Préteur).	"Retour Exposition .""VALLOTTON"" - 21147/MCH"
+5222#6	foto	Ort	Gentilly	Der Briefkopf der Transportfirma nennt Gentilly als Sitz.	54, avenue Lénine - 94250 GENTILLY
+5222#9	foto	Sprache	Englisch	Das Foto zeigt englischen Text wie «FINE ARTS DIVISION», «EXHIBT.» und «CASE NO.».	FINE ARTS DIVISION
+5269#1	foto	Sprache	Deutsch	Der Text «Freie Kopie nach» auf dem Etikett ist deutsch.	Freie Kopie  nach Phil. Jakob Loutherburg ( II )
+5269#1	foto	Bemerkungen	Die Lebensdaten Caspar Wolfs auf dem Etikett (1735–1798) weichen von den Angaben zum Objekt (1735–1783) ab.	Zweifel oder Fehler in der Quelle	Caspar Wolf  (1735 - 1798)
+5310#5	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto enthält deutsche Wörter wie «OFFEN» und «1 GEMAELDE», die beschreibung gibt den Text aber nicht wieder.	1 GEMAELDE
+5310#7	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch.	Huri vor einem Wasserfall.
+5387#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch (Schweizer Kunst, Ausblick von Flüelen auf den Urnersee, Zuschlag).	SCHWEIZER KUNST
+5390#8	foto	Sprache	Französisch	Der gedruckte Text auf dem Etikett ist französisch (Tableaux de maîtres, Femme nue couchée dans les blés, Huile).	Tableaux de maîtres
+5390#8	foto	Land	Schweiz	Das Etikett nennt Lausanne (Suisse).	Lausanne (Suisse)
+5393#11	foto	Sprache	Deutsch	Der gedruckte Katalogtext auf dem Zettel ist deutsch.	Unten rechts vom Künstler in Pinsel in Olfarbe voll signiert und datiert
+5393#6	foto	Sprache	Französisch	Der gedruckte Text des Etiketts «Tableaux modernes» ist französisch.	TABLEAUX MODERNES
+5400#6	foto	Urheber (normalisiert)	Sotheby's	Der gedruckte Briefkopf nennt Sotheby's als Aussteller des Katalogauszugs.	SOTHEBY'S Zürich, CH-Kunst & Helvetica, 8.12.1994
+5400#6	foto	Ort	Zürich	Der Briefkopf nennt Zürich als Ort des Auktionshauses.	SOTHEBY'S Zürich, CH-Kunst & Helvetica, 8.12.1994
+5400#6	foto	Land	Schweiz	Zürich liegt in der Schweiz.	SOTHEBY'S Zürich, CH-Kunst & Helvetica, 8.12.1994
+5400#6	foto	Datum (wie gelesen)	8.12.1994	Auktionsdatum im gedruckten Briefkopf.	8.12.1994
+5400#6	foto	Datum (ISO 8601-2:2019)	1994-12-08	Auktionsdatum im gedruckten Briefkopf.	8.12.1994
+5406#7	foto	Sprache	Deutsch	Der Zettel enthält deutschen Text (Titel, Technikangabe, Monogrammhinweis).	Krokusse in Blumentöpfen
+5434#3	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch, handschriftlich «Ausstellung 1957».	Künstler:
+544#6	foto	Art des Urhebers	Auktionshaus (erschlossen)	Der Katalogauszug ist auf dem Foto als Papier der Galerie Koller AG lesbar, die die Auktion durchführte.	Galerie Koller AG, Hardturm, Zürich, Auktion 81 vom 14. - 18.11.1991
+544#6	foto	Ereignis	Auktion	Der Katalogauszug nennt ausdrücklich die Auktion 81.	Galerie Koller AG, Hardturm, Zürich, Auktion 81 vom 14. - 18.11.1991
+544#6	foto	Urheber (normalisiert)	Galerie Koller	Das Auktionshaus hat den Katalogauszug ausgestellt.	Galerie Koller AG, Hardturm, Zürich, Auktion 81 vom 14. - 18.11.1991
+544#6	foto	Datum (wie gelesen)	14. - 18.11.1991	Das Foto nennt den Zeitraum der Auktion als Intervall.	Auktion 81 vom 14. - 18.11.1991
+544#6	foto	Datum (ISO 8601-2:2019)	1991-11-14/1991-11-18	Das Foto nennt den Zeitraum der Auktion als Intervall.	Auktion 81 vom 14. - 18.11.1991
+5606#3	foto	Sprache	Deutsch	Auf dem Foto steht deutscher Text «Ankerausstellung Ins 1981 Kat.Nr. 45».	Ankerausstellung
+5722#8	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	Galerie Jürg Stuker AG, Bern Auktion vom 13.-27. Mai 1993
+5722#8	foto	Datum (wie gelesen)	13.-27. Mai 1993	Auf dem Foto ist der Auktionszeitraum als Intervall gedruckt.	Galerie Jürg Stuker AG, Bern Auktion vom 13.-27. Mai 1993
+5722#8	foto	Datum (ISO 8601-2:2019)	1993-05-13/1993-05-27	Auf dem Foto ist der Auktionszeitraum als Intervall gedruckt.	Galerie Jürg Stuker AG, Bern Auktion vom 13.-27. Mai 1993
+5725#2	foto	Art des Urhebers	Museum / Ausstellungsort	Das Etikett ist im Kopf mit dem Kunstmuseum Winterthur bedruckt, das die Ausstellung veranstaltete.	KUNSTMUSEUM WINTERTHUR
+5725#2	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	Ausstell. Adolf Dietrich und die neue Sachlichkeit 4. Sept.–20. Nov. 94
+5725#2	foto	Datum (wie gelesen)	4. Sept.–20. Nov. 94	Ausstellungszeitraum auf dem Etikett; Jahrhundert durch den Kommentar (1994) geklärt.	4. Sept.–20. Nov. 94
+5725#2	foto	Datum (ISO 8601-2:2019)	1994-09-04/1994-11-20	Ausstellungszeitraum auf dem Etikett; Jahrhundert durch den Kommentar (1994) geklärt.	4. Sept.–20. Nov. 94
+5725#3	foto	Ort	Winterthur	Auf dem Etikett ist Winterthur als Ort gedruckt.	WINTERTHUR
+5725#3	foto	Land	Schweiz	Winterthur liegt eindeutig in der Schweiz.	WINTERTHUR
+5725#8	foto	Art des Urhebers	Museum / Ausstellungsort	Das gedruckte Etikett stammt vom Kunsthaus Zürich als Ausstellungsort.	Kunsthaus Zürich, Heimplatz 1, CH-8001 Zürich
+5725#8	foto	Ereignis	Leihgabe (erschlossen)	Das Ausstellungsetikett nennt die Besitzerin als Leihgeberin.	Besitzer: Frau M. Bosshart-Dietrich
+5725#8	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch.	Zweck: Ausstellung Schweiz 30er-Jahre
+5758.1#13	foto	Sprache	Italienisch	Auf dem Foto ist gedruckt «VERIFICATO» und «DOGANA ITALIANA» zu lesen, das ist Italienisch.	DOGANA ITALIANA
+5758.1#4	foto	Art des Urhebers	Museum / Ausstellungsort (erschlossen)	Das Etikett nennt den Basler Kunstverein als Absender, der als Kunstverein und Ausstellungsort unter Museum / Ausstellungsort fällt.	Abs. Basler Kunstverein, Kunsthalle Basel
+5758.1#4	foto	Sprache	Deutsch	Der Etikettentext ist deutsch.	Für die Ausstellung in Venedig
+5758.1#4	foto	Urheber (normalisiert)	Basler Kunstverein	Der Kunstverein ist als Absender des Etiketts genannt.	Abs. Basler Kunstverein, Kunsthalle Basel
+5758.1#4	foto	Ort	Basel	Der Absender sitzt in der Kunsthalle Basel.	Abs. Basler Kunstverein, Kunsthalle Basel
+5758.1#4	foto	Land	Schweiz	Basel liegt in der Schweiz.	Abs. Basler Kunstverein, Kunsthalle Basel
+5758.1#4	foto	Ausstellung	Ausstellung in Venedig	Das Etikett nennt die Ausstellung in Venedig ohne Jahr.	Für die Ausstellung in Venedig
+5758.1#5	foto	Art des Urhebers	Museum / Ausstellungsort	Das Etikett ist im Kopf mit Kunstmuseum Basel bedruckt, das die Ausstellung ausrichtete.	KUNSTMUSEUM BASEL
+5758.1#5	foto	Sprache	Deutsch	Der Text des Etiketts ist deutsch (Künstler, Titel, Leihgeber, Ausstellung).	Leihgeber: Dr.Thomas Speiser, Basel
+5758.1#5	foto	Urheber (normalisiert)	Kunstmuseum Basel	Das Etikett trägt den gedruckten Kopf des Kunstmuseums Basel.	KUNSTMUSEUM BASEL
+5758.1#8	foto	Art des Urhebers	Museum / Ausstellungsort (erschlossen)	Das gedruckte Etikett stammt von der Ausstellungsverwaltung der Biennale Venedig 1926.	Esposizione Internazionale d'Arte della Città di Venezia - 1926
+5758.1#8	foto	Sprache	Italienisch	Der gedruckte Text auf dem Etikett ist italienisch.	Esposizione Internazionale d'Arte della Città di Venezia - 1926
+5758.1#8	foto	Urheber (normalisiert)	Esposizione Internazionale d'Arte della Città di Venezia	Das gedruckte Etikett nennt die Ausstellungsveranstalterin.	Esposizione Internazionale d'Arte della Città di Venezia - 1926
+5758.1#8	foto	Ort	Venedig	Der Ausstellungsort steht auf dem Etikett.	Esposizione Internazionale d'Arte della Città di Venezia - 1926
+5758.1#8	foto	Land	Italien	Venedig liegt in Italien.	Esposizione Internazionale d'Arte della Città di Venezia - 1926
+5758.1#9	foto	Art des Urhebers	Auktionshaus	Der gedruckte Kopf des Zettels nennt die Galerie Kornfeld als Auktionshaus, das den Katalogauszug ausgestellt hat.	Galerie Kornfeld, Bern, Auk
+5758.1#9	foto	Urheber (normalisiert)	Galerie Kornfeld	Der Briefkopf des Zettels nennt die Galerie Kornfeld als Aussteller.	Galerie Kornfeld, Bern, Auk
+5758.1#9	foto	Datum (wie gelesen)	20.–22. Juni 1990	Der Briefkopf nennt den Zeitraum der Auktion als Intervall.	vom 20. - 22. Juni 1990
+5758.1#9	foto	Datum (ISO 8601-2:2019)	1990-06-20/1990-06-22	Der Briefkopf nennt den Zeitraum der Auktion als Intervall.	vom 20. - 22. Juni 1990
+5758.2#4	foto	Art des Urhebers	Museum / Ausstellungsort	Das Etikett trägt den gedruckten Namen des Kunstmuseums Basel als Aussteller.	KUNSTMUSEUM BASEL. AUSSTELLUNG
+5758.2#4	foto	Sprache	Deutsch	Die Etikettenfelder 'Künstler', 'Titel' und 'Leihgeber' sind deutsch.	Künstler: Arnold Böcklin
+5758.2#4	foto	Urheber (normalisiert)	Kunstmuseum Basel	Das Etikett ist im Kopf als Kunstmuseum Basel bedruckt.	KUNSTMUSEUM BASEL. AUSSTELLUNG
+5758.2#4	foto	Ort	Basel	Das Kunstmuseum Basel hat seinen Sitz in Basel.	KUNSTMUSEUM BASEL. AUSSTELLUNG
+5758.2#5	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	Galerie Kornfeld, Bern, Auktion 204, vom 20. - 22. Juni 1990
+5758.2#5	foto	Datum (wie gelesen)	Auktion 204, vom 20. - 22. Juni 1990	Das Foto nennt den Auktionszeitraum als Intervall.	Galerie Kornfeld, Bern, Auktion 204, vom 20. - 22. Juni 1990
+5758.2#5	foto	Datum (ISO 8601-2:2019)	1990-06-20/1990-06-22	Das Foto nennt den Auktionszeitraum als Intervall.	Galerie Kornfeld, Bern, Auktion 204, vom 20. - 22. Juni 1990
+646#4	foto	Datum (wie gelesen)	Oktober 1928	Das Foto zeigt den gedruckten Text «Oktober 1928» als Ausstellungsdatum.	Oktober 1928
+646#4	foto	Datum (ISO 8601-2:2019)	1928-10	Das Foto zeigt den gedruckten Text «Oktober 1928» als Ausstellungsdatum.	Oktober 1928
+655#4	foto	Urheber (normalisiert)	Sotheby's	Der Kopf des Katalogauszugs nennt Sotheby's als Aussteller.	SOTHEBY'S Zürich, CH-Kunst & Helvetica, 8.12.1994
+655#4	foto	Ort	Zürich	Das Foto nennt Zürich als Ort der Auktion.	SOTHEBY'S Zürich, CH-Kunst & Helvetica, 8.12.1994
+655#4	foto	Datum (wie gelesen)	8.12.1994	Auktionsdatum im Kopf des gedruckten Zettels.	SOTHEBY'S Zürich, CH-Kunst & Helvetica, 8.12.1994
+655#4	foto	Datum (ISO 8601-2:2019)	1994-12-08	Auktionsdatum im Kopf des gedruckten Zettels.	SOTHEBY'S Zürich, CH-Kunst & Helvetica, 8.12.1994
+6613#3	foto	Sprache	Französisch	Der handschriftliche Text des Gutachtens auf dem Foto ist französisch.	Certificat
+6613#4	foto	Ort	Luzern	Der Ort des Auktionshauses steht auf dem Foto.	Galerie Gloggner, Luzern, Auktion vom 7. November 2009
+6613#4	foto	Land	Schweiz	Luzern liegt in der Schweiz.	Galerie Gloggner, Luzern, Auktion vom 7. November 2009
+6726#2	foto	Sprache	Französisch	Der gedruckte Text auf dem Zettel ist französisch.	Aquarelle originale signée. Vers 1943. – Le Petit Prince en pied, avec un cache-nez qui vole au vent
+6726#2	foto	Urheber (normalisiert)	Galerie Pierre-Yves Gabus	Der Briefkopf nennt Pierre-Yves Gabus als Aussteller des Katalogauszugs.	ARTS ANCIENS * PIERRE-YVES GABUS, BEVAIS, 12/86
+6726#2	foto	Datum (wie gelesen)	12/86	Der Briefkopf trägt das Datum Dezember 1986.	ARTS ANCIENS * PIERRE-YVES GABUS, BEVAIS, 12/86
+6726#2	foto	Datum (ISO 8601-2:2019)	1986-12	Der Briefkopf trägt das Datum Dezember 1986.	ARTS ANCIENS * PIERRE-YVES GABUS, BEVAIS, 12/86
+7014#15	foto	Art des Urhebers	Museum / Ausstellungsort	Das Etikett ist auf dem Foto als Formular des Kunsthaus Zürich lesbar.	Kunsthaus Zürich, Heimplatz 1, CH-8024 Zürich
+7014#15	foto	Datum (wie gelesen)	19.8.-23.10.1983	Ausstellungszeitraum auf dem Etikett.	19.8.-23.10.1983
+7014#15	foto	Datum (ISO 8601-2:2019)	1983-08-19/1983-10-23	Ausstellungszeitraum auf dem Etikett.	19.8.-23.10.1983
+7014#16	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	KUNSTHALLE BASEL AUSSTELLUNG V. WERKEN DES 19. JAHRHUNDERTS AUS BASLER PRIVATBESITZ MAI-JUNI 1943
+7014#16	foto	Datum (wie gelesen)	MAI-JUNI 1943	Der Ausstellungszeitraum steht auf dem Etikett als Intervall.	MAI-JUNI 1943
+7014#16	foto	Datum (ISO 8601-2:2019)	1943-05/1943-06	Der Ausstellungszeitraum steht auf dem Etikett als Intervall.	MAI-JUNI 1943
+7014#4	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	HELMHAUS Baugeschichtliches Ausstellung vom 9. Juni bis 22. Juli 1951 HODLER ALS HISTORIENMALER
+7014#4	foto	Ausstellung	Hodler als Historienmaler, Helmhaus Zürich, 1951	Der Titel der Ausstellung steht auf dem Etikett, Ort und Jahr im Kommentar.	HODLER ALS HISTORIENMALER
+7014#4	foto	Datum (wie gelesen)	vom 9. Juni bis 22. Juli 1951	Der Ausstellungszeitraum ist als Intervall angegeben.	Ausstellung vom 9. Juni bis 22. Juli 1951
+7014#4	foto	Datum (ISO 8601-2:2019)	1951-06-09/1951-07-22	Der Ausstellungszeitraum ist als Intervall angegeben.	Ausstellung vom 9. Juni bis 22. Juli 1951
+7014#5	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch.	Der frühe Hodler 10.4.-14.6.
+7014#7	foto	Sprache	Deutsch	Der gedruckte Text auf dem Foto ist deutsch.	Ausstellung F. Hodler 1968
+7061#11	foto	Sprache	Deutsch	Der gedruckte Text auf dem Etikett ist deutsch.	Anker-Jahrhundertausstellung 1931
+7061#11	foto	Ausstellung	Anker-Jahrhundertausstellung, Kunstmuseum Bern, 1931	Das Etikett nennt die Ausstellung mit Ort und Jahr.	Anker-Jahrhundertausstellung 1931
+7061#9	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch (Ankerausstellung, Kat.Nr.).	Ankerausstellung Ins 1981 Kat.Nr. 105
+7410#2	foto	Urheber (normalisiert)	Hôtel des Ventes	Der Briefkopf des Katalogauszugs nennt das Auktionshaus.	Hôtel des Ventes, Bois-Genoud 1, 1023 Grissier / Lausanne, Auktion 30. Juni
+7410#2	foto	Datum (wie gelesen)	30. Juni 2012	Auktionsdatum laut Provenienzkette, auf dem Foto angeschnitten sichtbar.	Auktion 30. Juni 2
+7410#2	foto	Datum (ISO 8601-2:2019)	2012-06-30	Auktionsdatum laut Provenienzkette, auf dem Foto angeschnitten sichtbar.	Auktion 30. Juni 2
+7528#6	foto	Sprache	Deutsch	Der Text auf dem Etikett ist deutsch (Ankerausstellung, Kat. Nr.).	Ankerausstellung Ins
+7528#6	foto	Ausstellung	Ankerausstellung Ins 1985	Das Etikett nennt die Ausstellung mit Ort und Jahr.	Ankerausstellung Ins
+876#6	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch (Katalogtext).	Unten rechts signiert und
+1856#1	verworfen	Bemerkungen	Das Werk ist laut Objektangabe anonym und Hodler irrtümlich zugeschrieben; die Signatur stammt daher vermutlich nicht von Hodler.	Zitat nicht in der Quelle	Anonym, irrtümlich Ferdinand Hodler (1853–1918) / zugeschrieben
+1528#1	vorschlag	Art des Urhebers	Notar:in	Beglaubigung durch einen Notar passt zu keinem vorhandenen Wert.	
