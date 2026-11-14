@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Extracts structured data and images from SKKG (Stiftung für Kunst, Kultur und Geschichte) provenance research data sheets: 236 PDFs in `Provenienz_Datenblatt/` named `Datenblatt_Provenienzforschung_<Inventarnummer>_<YYMMDD>.pdf`. Output goes to `extracted/` (generated; safe to delete and rebuild).
+Extracts structured data and images from SKKG (Stiftung für Kunst, Kultur und Geschichte) provenance research data sheets: 236 PDFs in `Provenienz_Datenblatt/` named `Datenblatt_Provenienzforschung_<Inventarnummer>_<YYMMDD>.pdf`. Output goes to `extracted/` (generated; safe to delete and rebuild). `extracted/` (except images) and `parsed/` are committed, so a rebuild shows up in `git diff`; `Provenienz_Datenblatt/`, `old/` and `parsed/llm/cache/` are gitignored. Never delete `parsed/llm/cache/`: it is the only copy of the LLM responses (~$10 to redo).
 
 `old/` is earlier work on a different source, the SKKG label register spreadsheet; it is not used by the current pipeline.
 
@@ -14,7 +14,9 @@ Extracts structured data and images from SKKG (Stiftung für Kunst, Kultur und G
 
 ## Commands
 
-Both scripts carry PEP 723 dependency headers, so `uv run` needs no venv.
+All scripts carry PEP 723 dependency headers, so `uv run` needs no venv.
+
+Pipeline order: `extract_datenblatt.py` → `parse_merkmale.py` → `llm_merkmale.py` → `ui/` (which loads `parsed/llm/merkmale.json` by default).
 
 ```sh
 # full run (~30 s): JSON, CSV, Excel, images
@@ -29,7 +31,7 @@ uv run scripts/validate.py Provenienz_Datenblatt extracted
 
 There are no unit tests; `validate.py` is the test. It checks object fields, footnote numbering and references, that every image is placed, and that every body word in the PDF appears in the JSON. It needs a full run: it reads `OUT/json/<inv>.json` for every PDF in SRC, so it crashes on a single-document OUT. Expected output on a clean run is exactly three source-data findings: `3542-1 vs 3542.1` (filename uses "-", sheet uses "."), `3542-2 vs 3541.2` (typo in the PDF), and mark `5758.2#1` has no photo. Anything else is a regression.
 
-Provenance-mark parser (schema: `merkmal-schema.md`), rule layer only so far; reads `extracted/json/`:
+Provenance-mark parser, rule layer (schema: `merkmal-schema.md`); reads `extracted/json/`:
 
 ```sh
 uv run scripts/parse_merkmale.py extracted parsed
@@ -45,7 +47,7 @@ uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --sample 55  # stratifi
 uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --ids 1713#3 4961#2
 ```
 
-It writes `merkmale.json`/`.csv` (rule values plus LLM values, traces with `methode: "llm"`, quote, span and reason), `llm_probleme.tsv` (rejected values, vocabulary proposals, API errors) and `cache/<model>/<id>.json`. The cache key covers prompt, schema, effort and the mark's input, so a rerun after a validation-only change costs nothing.
+It writes `merkmale.json`/`.csv` (rule values plus LLM values, traces with `methode: "llm"`, quote, span and reason), `llm_probleme.tsv` (rejected values, vocabulary proposals, API errors) and `cache/<model>/<id>.json`. The cache key covers prompt, schema, effort, the mark's input and its photo bytes, so a rerun after a validation-only change costs nothing.
 
 Search UI for the marks (`ui/`, static, no build): serve the repository root, since it loads `../parsed/…/merkmale.json`, `../merkmal-schema.md` (facet hints from the Columns table), `../extracted/` (photos, work data) and `../Provenienz_Datenblatt/` (PDF links).
 
@@ -62,7 +64,7 @@ python3 -m http.server 8000   # then http://localhost:8000/ui/ (?data=../parsed/
 - Trace `methode` values: `regel` (rule), `verweis` (copied from the previous mark for «siehe vorausgehendes Provenienzmerkmal», with `von`), later `llm`.
 - LLM layer (`scripts/llm_merkmale.py`): the model may write only the interpretive columns, Bemerkungen, and Typ where the rules left it empty. Vocabulary columns are enums in the response schema and dates come as {wie_gelesen, iso} pairs, so neither needs repair afterwards. `merge()` rejects quotes not found in description/comment (chain too for Ort/Land), invalid ISO 8601-2 dates, dates not on the mark itself (found only in the comment or chain; the user's rule: Datum never comes from or is refined by the comment or chain), Bemerkungen without a found quote, and Urheber/Besitz names that occur only in the sheet's provenance chain (the chain may normalise a name, not supply it; the work's artist counts for signatures). Sonnet 5.5 is the default; Haiku 5.5 confused lenders with issuers in testing.
 - The descriptions sometimes omit printed text that identifies the issuer (1196#7 Kunsthalle Basel, 4961#2 «F. HODLER, ARCHIV»). `--fotos` sends the mark photos; a value read only on the photo has `quelle: "foto"`, no span, skips the name check, and is listed as `foto` in `llm_probleme.tsv` for review.
-- Name normalisation: `namen-normalisierung.tsv` (decided by the user) maps name variants in Urheber and Besitz to one standard name after validation, with a `normalisierung` trace keeping the original (`von`). Rows with Status `getrennt` stay as they are; former firm names (Kornfeld und Klipstein, Sotheby Parke Bernet) are kept on purpose. Applying it needs no LLM call.
+- Name normalisation: `namen-normalisierung.tsv` (decided by the user) maps name variants in Urheber and Besitz to one standard name after validation, with a `normalisierung` trace keeping the original (`von`). Rows with Status `getrennt` stay as they are; former firm names (Kornfeld und Klipstein, Sotheby Parke Bernet) are kept on purpose. After editing it, rerun the same `llm_merkmale.py` command: every mark is answered from the cache.
 - Erwerbsnachweise: the model codes the issuer of the paper (auction house, dealer); `erwerbsnachweis()` adds SKKG (Institution / Stiftung) or, where named, Bruno Stefanini (Privatbesitz / Nachlass) as a further issuer, with a `regel` trace.
 - Several values are joined with «; »; doubt goes into Bemerkungen as one note per source passage naming every affected column. Values inferred from another word (Technik from a Schreibmittel) are put with `doubt=False`.
 
