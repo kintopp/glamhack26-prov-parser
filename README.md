@@ -7,6 +7,7 @@ Extracts structured data from the provenance research data sheets (Provenienz-Da
 1. `scripts/extract_datenblatt.py` reads the PDF data sheets and writes JSON, CSV, Excel and images to `extracted/`.
 2. `scripts/parse_merkmale.py` fills the physical columns of each provenance mark with rules and writes `parsed/`.
 3. `scripts/llm_merkmale.py` fills the interpretive columns (issuer, place, event, owner, dates, language) with Claude and writes `parsed/llm/`. Every value has a trace that shows its source and evidence.
+4. `ui/` is a search page for the parsed marks.
 
 The column vocabulary is defined in `merkmal-schema.md`.
 
@@ -37,6 +38,16 @@ uv run scripts/validate.py Provenienz_Datenblatt extracted
 uv run scripts/parse_merkmale.py extracted parsed
 uv run scripts/llm_merkmale.py parsed extracted parsed/llm --fotos   # needs ANTHROPIC_API_KEY
 ```
+
+## Search UI
+
+`ui/` is a static page with no build step. It searches the final marks (`parsed/llm/merkmale.json`) by full text, facets per column and a year range, and shows each value with its trace. Serve the repository root, because the page loads files from `parsed/`, `extracted/` and `Provenienz_Datenblatt/`:
+
+```sh
+python3 -m http.server 8000
+```
+
+Then open http://localhost:8000/ui/. Add `?data=../parsed/merkmale.json` to see the rule layer only. Mark photos and links to the PDFs appear only if `extracted/images/` and `Provenienz_Datenblatt/` exist locally.
 
 ## License
 
