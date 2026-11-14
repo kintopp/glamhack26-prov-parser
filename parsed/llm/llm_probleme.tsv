@@ -1,64 +1,276 @@
 Merkmal-ID	Art	Spalte	Wert	Grund	Zitat
+1091#2	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Jürg Stuker 1981
+1098#3	abgelehnt	Datum	1986 → 1986	Datum steht nicht auf dem Merkmal	Auktion Galerie Fischer 1986, Lot 1178
+1098#4	abgelehnt	Datum	frühestens 1980 → 1980/..	Datum steht nicht auf dem Merkmal	Das Etikett wurde frühestens 1980 aufgebracht
+1098#5	abgelehnt	Datum	1961 → 1961	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthalle Baden-Baden 1961, Nr. 47
+1196#2	abgelehnt	Datum	1988 → 1988	Datum steht nicht auf dem Merkmal	dem Jahr der Erwerbsauktion Galerie Koller (Auktionsnummer 66, Lotnummer 1170)
+1196#3	abgelehnt	Datum	Januar 1988 → 1988-01	Datum steht nicht auf dem Merkmal	der das Werk im Januar 1988 doubliert haben dürfte
 1230.2#2	abgelehnt	Urheber (normalisiert)	Cuno Amiet	Name steht nicht im Merkmal	Datierung (1908)
 1230.2#3	abgelehnt	Datum	12.-25.11. → 1987-11-12/1987-11-25	Jahr 1987 steht nicht in der Quelle	12.-25.11.
+1230.2#7	abgelehnt	Datum	1987 → 1987	Datum steht nicht auf dem Merkmal	Auktion Galerie Jürg Stuker 1987, Lot 2009
+1271#3	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Die letztere Angabe entspricht der Lotnummer der Auktion Galerie Pierre-Yves Gabus 1991.
+1271#5	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Fotografierhinweis der Erwerbsauktion 1991
 1271#7	abgelehnt	Urheber (normalisiert)	Pierre-Yves Gabus	Zitat nicht in der Quelle	Auktion Pierre-Yves Gabus (Peintures importantes, anciennes et modernes, Lot 2180
+1312#2	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Germann 1981
+1330#3	abgelehnt	Datum	vor 2004 → ../2003	Datum steht nicht auf dem Merkmal	muss das Etikett vor 2004 angebracht worden sein
+1330#3	abgelehnt	Datum	um 2000 → 2000~	Datum steht nicht auf dem Merkmal	möglicherweise um 2000 im Zusammenhang mit der Christie’s-Auktion
 1392#2	abgelehnt	Urheber (normalisiert)	Alexandre Blanchet	Name steht nicht im Merkmal	handschriftlich mit schwarzem Schreibmittel «1915.»
+1392#6	abgelehnt	Datum	Juni 79 → 1979-06	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Kornfeld 1979, Lot 113
+1399#1	abgelehnt	Datum	1922 bis 1946 → 1922/1946	Datum steht nicht auf dem Merkmal	von 1922 bis 1946 Konservator am Kunstmuseum Genf. Der Nachweis muss also in diesen Jahren angebracht worden sein.
+1432#6	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Kurt Huber 1979, verfasst von Bruno Stefanini
+1451#1	abgelehnt	Datum	November 1979 → 1979-11	Datum steht nicht auf dem Merkmal	Auktion Kurt Huber, Villa Ulmberg, Zürich, November 1979
+1456#2	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	Auktion Galerie Koller 1979, Lot 5176
+1493#4	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Auktion F85, Galerie Jürg Stuker 1985
+1493#5	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Jürg Stuker 1985
+1493#6	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Jürg Stuker 1985
 1496#3	abgelehnt	Besitz	Unbekannte:r Eigentümer:in	Zitat nicht in der Quelle	eingeliefert von unbekannt
+1496#3	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Auktion Galerie Jürg Stuker 1985, Lot 1726 (1727)
+15042#16	abgelehnt	Datum	1927/28 → 1927/1928	Datum steht nicht auf dem Merkmal	entspricht der Katalognummer in der Ausstellung in Berlin 1927/28
+15042#7	abgelehnt	Datum	1951 → 1951	Datum steht nicht auf dem Merkmal	für die Ausstellung Basel 1951
+1523#6	abgelehnt	Datum	1970 → 1970?	Datum steht nicht auf dem Merkmal	vermutlich angebracht im Rahmen der Ausstellung in Bologna 1970
 1528#3	abgelehnt	Besitz	Berthe Hodler-Jacques	Zitat nicht in der Quelle	17. Mai 1920: Berthe Hodler-Jacques (1868–1957), Genf
+1528#3	abgelehnt	Datum	17. Mai 1920 → 1920-05-17	Datum steht nicht auf dem Merkmal	Echtheitsbestätigung von Berthe Hodler vom 17. Mai 1920
 1541#5	abgelehnt	Urheber (normalisiert)	Adolf Dietrich	Name steht nicht im Merkmal	handschriftlich mit schwarzem Schreibmittel «Garten im Frühling mit Blaumeise»
+1557#2	abgelehnt	Datum	Nov. 79 → 1979-11	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Kurt Huber 1979
+1575#2	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Galerie Koller 1981
+1575#7	abgelehnt	Datum	1972 → 1972	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Galerie Kornfeld und Klipstein 1972
+1637#2	abgelehnt	Datum	1974 → 1974	Datum steht nicht auf dem Merkmal	Das Werk wurde 1974 am SIK registriert
+1666#4	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Galerie Jürg Stuker 1979
+1669#1	abgelehnt	Datum	Juli 1979 → 1979-07	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Klopfer, Zürich, Juli 1979
+1713#3	abgelehnt	Datum	1983/84 → 1983/1984	Datum steht nicht auf dem Merkmal	Spedition nach Japan 1983/84 aufgebracht
+1803#2	abgelehnt	Datum	25. November 1959 → 1959-11-25	Datum steht nicht auf dem Merkmal	Echtheitserklärung von Albert de Wolff, 25. November 1959
 1833#2	abgelehnt	Besitz	Louise Oser-Anker	Zitat nicht in der Quelle	mindestens 12. Juli 1927: Louise Oser-Anker (1865–1954), Basel
 1855#5	abgelehnt	Urheber (normalisiert)	Cuno Amiet	Name steht nicht im Merkmal	Werktitel mit Datierung
+1855#8	abgelehnt	Datum	1918 → 1918	Datum steht nicht auf dem Merkmal	Ausstellung Berlin 1918, Nr. 1
+1856#3	abgelehnt	Datum	1977 → 1977	Datum steht nicht auf dem Merkmal	Ausstellung Aarau 1977, Nr. 19
+1856#6	abgelehnt	Datum	1996 → 1996	Datum steht nicht auf dem Merkmal	Auktion Sotheby’s 1996, Lot 96
+1900#5	abgelehnt	Datum	von 1953 bis 1974 → 1953/1974	Datum steht nicht auf dem Merkmal	bestand unter diesem Namen von 1953 bis 1974
+1966#6	abgelehnt	Datum	1968 → 1968	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1968, Nr. 13, mit Angabe des Leihgebers
+1990#1	abgelehnt	Datum	Mai 1978 → 1978-05	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Koller, Zürich, Mai 1978
+2001#5	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Basel 1979
 201#4	abgelehnt	Besitz	Berthe Hodler-Jacques	Zitat nicht in der Quelle	um 1920: Berthe Hodler-Jacques (1868–1957), Genf
 2090#2	abgelehnt	Urheber (normalisiert)	François Diday	Name steht nicht im Merkmal	Bezeichnung und Datierung
+2200#4	abgelehnt	Datum	1. August 1981 → 1981-08-01	Datum steht nicht auf dem Merkmal	Echtheitsbescheinigung von Paulette Magnenat Hodler vom 1. August 1981
+2200#5	abgelehnt	Datum	1988 → 1988	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Galerie Pierre-Yves Gabus 1988
+2203#3	abgelehnt	Datum	1988 → 1988	Datum steht nicht auf dem Merkmal	Ankaufsbeleg Auktion Galerie Fischer 1988 mit Zuschlagspreis
+2262#10	abgelehnt	Datum	Dezember 1987 → 1987-12	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Sotheby’s, Zürich, Dezember 1987
+2262#13	abgelehnt	Datum	Dezember 1987 → 1987-12	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Sotheby’s, Zürich, Dezember 1987
 2592#4	abgelehnt	Ort	Regensberg	Zitat nicht in der Quelle	handschriftlichem Hinweis des Restaurators Hans Arnold, Regensberg
 2592#4	abgelehnt	Land	Schweiz	Zitat nicht in der Quelle	handschriftlichem Hinweis des Restaurators Hans Arnold, Regensberg
 2592#7	abgelehnt	Besitz	Dr. Giancarlo a Marca	Zitat nicht in der Quelle	2. Oktober 1986: Dr. Giancarlo a Marca, Zürich
+2600#8	abgelehnt	Datum	1921 → 1921?	Datum steht nicht auf dem Merkmal	wahrscheinlich Ausstellung Bern 1921
+2740#3	abgelehnt	Datum	1994 → 1994	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Jürg Stuker 1994
 2740#4	abgelehnt	Ort	Bern	Zitat nicht in der Quelle	Bern), wohl eingeliefert aus Churer Privatbesitz
 2740#4	abgelehnt	Land	Schweiz	Zitat nicht in der Quelle	Bern), wohl eingeliefert aus Churer Privatbesitz
 2766#3	abgelehnt	Besitz	Unbekannte:r Eigentümer:in	Zitat nicht in der Quelle	eingeliefert von unbekannt
+2766#3	abgelehnt	Datum	1978 → 1978	Datum steht nicht auf dem Merkmal	Auktion Galerie Jürg Stuker 1978, Lot 1868
+2766#5	abgelehnt	Datum	1978 → 1978	Datum steht nicht auf dem Merkmal	Auktion Galerie Jürg Stuker 1978, Lot 1868
 2766#8	abgelehnt	Besitz	Unbekannte:r Eigentümer:in	Zitat nicht in der Quelle	eingeliefert von unbekannt
+2776#1	abgelehnt	Datum	November 1977 → 1977-11	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Koller, Zürich, November 1977
+2777#2	abgelehnt	Datum	vor 1931 → ../1931	Datum steht nicht auf dem Merkmal	entsprechend auf vor 1931 zu datieren
+2806#1	abgelehnt	Datum	1982 → 1982	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Kurt Huber, Villa Ulmberg, 1982
 2806#16	abgelehnt	Land	Frankreich	Land ohne belegten Ort	möglicherweise Etikett eines französischen Rahmenbauers
+2832#10	abgelehnt	Datum	1978 → 1978	Datum steht nicht auf dem Merkmal	Auktion Galerie Jürg Stuker 1978, Lot 1867
 293#3	abgelehnt	Sprache	Deutsch	Zitat nicht in der Quelle	«[Dieses] wundervolles Frühwerk | wählte 1954: Cuno Amiet
+294#2	abgelehnt	Datum	24./25. November 1992 → 1992-11-24/1992-11-25	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Erwerbsauktion Sotheby’s, Zürich, 24./25. November 1992
 2944#1	abgelehnt	Besitz	Duri Capaul	Zitat nicht in der Quelle	eingeliefert von Duri Capaul
+2944#1	abgelehnt	Datum	Mai 1980 → 1980-05	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Fischer, Luzern, Mai 1980
+296#3	abgelehnt	Datum	1960 → 1960	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1960, Nr. 171
+306#12	abgelehnt	Datum	1987 → 1987	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Galerie Kornfeld 1987
+306#5	abgelehnt	Datum	1933 → 1933	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion G. & L. Bollag 1933
+306#7	abgelehnt	Datum	1932 oder 1933 → [1932,1933]	Datum steht nicht auf dem Merkmal	vermutlich Bezug zur Auktion G. & L. Bollag 1932 oder 1933
+3078#1	abgelehnt	Datum	1983 → 1983	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Galerie Koller 1983
+31462#2	abgelehnt	Datum	1978 → 1978	Datum steht nicht auf dem Merkmal	Auktion Kurt Huber, Villa Ulmberg 1978
+31462#4	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	Auktion Kurt Huber, Villa Ulmberg, Zürich, 1979
+3247#3	abgelehnt	Datum	1978 → 1978	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Fischer 1978 (Lot 770)
 3285#5	abgelehnt	Art des Urhebers	Auktionshaus	Zitat nicht in der Quelle	angeheftete Zettel der Auktion Galerie Kornfeld 2003
+3468#2	abgelehnt	Datum	1982 → 1982	Datum steht nicht auf dem Merkmal	Auktion Galerie Kornfeld 1982, Lot 1053
 3468#4	abgelehnt	Besitz	Kunst-Galerie Meisterschwanden	Zitat nicht in der Quelle	o. D.: Kunst-Galerie Meisterschwanden, Mario Manazza
+3513#3	abgelehnt	Datum	1984 → 1984	Datum steht nicht auf dem Merkmal	Ausstellung Lugano 1984, Nr. 99
 3513#6	abgelehnt	Ort	Basel	Zitat nicht in der Quelle	o. d. bis 16. März 1981: Gloria Füri, Basel
+3603#4	abgelehnt	Datum	1905 → 1905	Datum steht nicht auf dem Merkmal	9. Internationale Kunstausstellung, Glaspalast München 1905
+3776#1	abgelehnt	Datum	Mai 1980 → 1980-05	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Koller, Mai 1980
+3999#11	abgelehnt	Datum	1968 → 1968	Datum steht nicht auf dem Merkmal	Käuferkürzel der Auktion Dobiaschofsky 1968
+3999#3	abgelehnt	Datum	zwischen 1928 und 1965 → 1928/1965	Datum steht nicht auf dem Merkmal	aufgebracht zwischen 1928 und 1965
+3999#3	abgelehnt	Datum	21. Juni 1955 → 1955-06-21?	Datum steht nicht auf dem Merkmal	möglicherweise 21. Juni 1955
+3999#5	abgelehnt	Datum	zwischen 1928 und 1965 → 1928/1965	Datum steht nicht auf dem Merkmal	wohl aus der Zeit zwischen 1928 und 1965
 4043#8	abgelehnt	Sprache	Deutsch	Zitat nicht in der Quelle	Besitzer «Dr F. Meyer, Zürich» und der Katalognummer
+4084#12	abgelehnt	Datum	1988 → 1988	Datum steht nicht auf dem Merkmal	Erwerbsnachweis des Ankaufs 1988, verfasst von Bruno Stefanini
+4084#2	abgelehnt	Datum	1957 → 1957	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthaus Zürich 1957, Nr. 3
+4084#3	abgelehnt	Datum	1957 → 1957	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthaus Zürich 1957
+4159#5	abgelehnt	Datum	1986 → 1986	Datum steht nicht auf dem Merkmal	entspricht Erwerbsort 1986
+4166#2	abgelehnt	Datum	nach 1935 → 1935/..	Datum steht nicht auf dem Merkmal	Das Etikett wurde nach 1935 angebracht.
+4251#3	abgelehnt	Datum	Auktion Herbst 1978 → 1978-23	Datum steht nicht auf dem Merkmal	Auktion Galerie Koller 1978
 4251#5	abgelehnt	Besitz	Unbekannte:r Eigentümer:in	Zitat nicht in der Quelle	eingeliefert von unbekannt
+4251#5	abgelehnt	Datum	1978 → 1978	Datum steht nicht auf dem Merkmal	Auktion Galerie Koller 1978, Lot 5005
+4422#1	abgelehnt	Datum	1970 → 1970	Datum steht nicht auf dem Merkmal	entspricht der Lotnummer der Auktion Lempertz 1970
 4422#5	abgelehnt	Urheber (normalisiert)	Kunsthaus Lempertz	Zitat nicht in der Quelle	Auktion Kunsthaus Lempertz (Alte Kunst. Gemälde, Skulpturen, Porzellan […], Lot 407, Der gefesselte Prometheus), Köln
+4515#4	abgelehnt	Datum	frühestens 1941 → 1941/..	Datum steht nicht auf dem Merkmal	Der Literaturverweis wurde frühestens 1941 aufgebracht, siehe Wälchli 1941.
+4552#12	abgelehnt	Datum	1972 → 1972	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Galerie Kornfeld und Klipstein 1972
 4575#5	abgelehnt	Urheber (normalisiert)	Kunsthandlung Anton Stöckl	Name steht nicht im Merkmal	Das Etikett entspricht den Angaben im Auktionskatalog Wien 1910.
+4575#5	abgelehnt	Datum	1910 → 1910	Datum steht nicht auf dem Merkmal	Das Etikett entspricht den Angaben im Auktionskatalog Wien 1910.
+458#18	abgelehnt	Datum	1983 → 1983	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Galerie Koller 1983
+459#12	abgelehnt	Datum	1960 → 1960	Datum steht nicht auf dem Merkmal	Ausstellung Bern 1960, Nr. 125
+459#14	abgelehnt	Datum	1977 → 1977	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1977, Nr. 40
+459#7	abgelehnt	Datum	Auktion 1996 → 1996	Datum steht nicht auf dem Merkmal	wahrscheinlich aufgebracht im Zusammenhang mit der Auktion 1996
+460#3	abgelehnt	Datum	Auktion Christie’s 1999 → 1999	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Christie’s 1999
+4605#2	abgelehnt	Datum	1977 → 1977	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Fischer 1977
+463#15	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	entspricht vermutlich Lotnummer der Auktion Sotheby’s 1979
+463#17	abgelehnt	Datum	Ende der 1970er-Jahre → 197X	Datum steht nicht auf dem Merkmal	Auslandausstellung Ende der 1970er-Jahre aufgebracht
+464#2	abgelehnt	Datum	17 gennaio 1937 → 1937-01-17	Datum steht nicht auf dem Merkmal	Milano 17 gennaio 1937
+466#10	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	aufgebracht im Zusammenhang mit der Ausstellung Paris 1979
+466#11	abgelehnt	Datum	1978/79 → 1978/1979	Datum steht nicht auf dem Merkmal	möglicherweise Winterthur 1978/79
 466#2	abgelehnt	Urheber (normalisiert)	Félix Vallotton	Name steht nicht im Merkmal	handschriftlich «La Risle près Berville s/mer 1924»
+466#4	abgelehnt	Datum	1924 → 1924	Datum steht nicht auf dem Merkmal	1924 von der Galerie Druet aufgebracht
+466#9	abgelehnt	Datum	1979 → 1979	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Sotheby’s 1979
+471#19	abgelehnt	Datum	1938 → 1938	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Solothurn 1938
+471#3	abgelehnt	Datum	1982 → 1982	Datum steht nicht auf dem Merkmal	Ausstellung Pont-Aven 1982
+471#7	abgelehnt	Datum	1938 → 1938	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthaus Zürich 1938, Nr. 114
+4762#10	abgelehnt	Datum	1927 → 1927	Datum steht nicht auf dem Merkmal	Katalognummer im Ausstellungskatalog Berlin 1927
+4763#2	abgelehnt	Datum	2005 → 2005	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Christie’s 2005
+4764#6	abgelehnt	Datum	1927/28 → 1927/1928	Datum steht nicht auf dem Merkmal	Katalognummer der Ausstellung Berlin 1927/28
+4768#13	abgelehnt	Datum	1926 → 1926	Datum steht nicht auf dem Merkmal	anlässlich Verzollung für Einfuhr nach Venedig 1926
+4768#14	abgelehnt	Datum	1926 → 1926	Datum steht nicht auf dem Merkmal	Ausstellung in Venedig 1926
+4768#9	abgelehnt	Datum	1926 → 1926	Datum steht nicht auf dem Merkmal	Ausstellung Venedig 1926, Nr. 1496
+4769#12	abgelehnt	Datum	1921 → 1921	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1921
+4946#2	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Ausstellung Pfäffikon 1981, Nr. 44
+4951#10	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Sotheby’s 1991
+4951#2	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Sotheby’s 1991
+4951#5	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Ausstellung Seedamm-Kulturzentrum Pfäffikon 1981, Nr. 107
 4952#1	abgelehnt	Besitz	Berthe Hodler-Jacques	Zitat nicht in der Quelle	1918 bis vermutlich mindestens 24. März 1924: Berthe Hodler-Jacques (1868–1957), Genf
+4952#1	abgelehnt	Datum	24. März 1924 → 1924-03-24	Datum steht nicht auf dem Merkmal	notariell beglaubigt von Ernest Ramseyer, Bern, 24. März 1924
+4961#1	abgelehnt	Datum	1992 → 1992?	Datum steht nicht auf dem Merkmal	wahrscheinlich aufgebracht im Zusammenhang mit der Ausstellung Langenthal 1992
+4961#12	abgelehnt	Datum	1990 → 1990	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Sotheby’s 1990
+4961#4	abgelehnt	Datum	2001 → 2001	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Kornfeld 2001
+4961#6	abgelehnt	Datum	2001 → 2001	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Kornfeld 2001
+4961#9	abgelehnt	Datum	frühestens 1946 → 1946/..	Datum steht nicht auf dem Merkmal	Etikett frühestens 1946 aufgebracht
+4970#11	abgelehnt	Datum	1970 → 1970	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Christie’s 1970
+4991#3	abgelehnt	Datum	1999/2000 → 1999/2000	Datum steht nicht auf dem Merkmal	Ausstellung 1999/2000
+4991#4	abgelehnt	Datum	um 1932 → 1932~	Datum steht nicht auf dem Merkmal	Es dürfte nach der Entfernung aufgebracht worden sein (um 1932).
+5000#10	abgelehnt	Datum	1949 → 1949	Datum steht nicht auf dem Merkmal	Ausstellung Neuenburg 1949, Nr. 41
+5000#13	abgelehnt	Datum	1936 → 1936	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthalle Bern 1936, Nr. 92
+5000#25	abgelehnt	Datum	1921 → 1921	Datum steht nicht auf dem Merkmal	Ausstellung Bern 1921, Nr. 33
 5187#4	abgelehnt	Besitz	Gabriele Grünebaum	Name steht nicht im Merkmal	Auktion Christie’s 1991, Lot 444
+5187#4	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Auktion Christie’s 1991, Lot 444
+5188#6	abgelehnt	Datum	1950 → 1950?	Datum steht nicht auf dem Merkmal	vermutlich aufgebracht für die Ausstellung Konolfingen 1950
+5195#7	abgelehnt	Datum	2001 → 2001	Datum steht nicht auf dem Merkmal	Auktion Galerie Koller 2001
+5196#2	abgelehnt	Datum	1993 → 1993	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Sotheby’s 1993
 5196#7	abgelehnt	Urheber (normalisiert)	Cécile Du Bois-Anker	Zitat nicht in der Quelle	«№ 50 | Cécile Du Bois-Anker»
+5203#4	abgelehnt	Datum	1977 → 1977	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1977, Nr. 27
+5204#2	abgelehnt	Datum	1997 → 1997	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Jürg Stuker 1997
+5205#4	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1985 (Werk nicht im Katalog)
+5206#2	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1985, Nr. 205
+5206#3	abgelehnt	Datum	1982 → 1982	Datum steht nicht auf dem Merkmal	Ausstellung Winterthur 1982, Leihgeber: Kurt Meissner
+5215#2	abgelehnt	Datum	1980 → 1980	Datum steht nicht auf dem Merkmal	Falls «89»: Lotnummer Auktion Sotheby Parke Bernet 1980
+5215#3	abgelehnt	Datum	1960 → 1960	Datum steht nicht auf dem Merkmal	Ausstellung Bern 1960, Nr. 81
+5215#4	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1985, Nr. 144
+5216#3	abgelehnt	Datum	27. November 1981 → 1981-11-27	Datum steht nicht auf dem Merkmal	Auktion Christie’s, 27. November 1981, Lot 89
+5217#2	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1985, Nr. 200
+5217#3	abgelehnt	Datum	1960 → 1960	Datum steht nicht auf dem Merkmal	Leihgeber für die Ausstellung Kunstmuseum Bern 1960
+5217#4	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Kornfeld 1981
+5217#7	abgelehnt	Datum	1960 → 1960	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1960, Nr. 98
+5222#12	abgelehnt	Datum	vom 22. Februar bis zum 20. Mai 2001 → 2001-02-22/2001-05-20	Datum steht nicht auf dem Merkmal	vom 22. Februar bis zum 20. Mai 2001
+5222#16	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Ausstellung Brüssel 1991 (Les Symbolistes et Richard Wagner)
 5222#3	abgelehnt	Besitz	Galerie Paul Vallotton	Zitat nicht in der Quelle	o. D. bis 1998: Galerie Paul Vallotton, Lausanne, Nr. 960437
+5222#6	abgelehnt	Datum	1997/98 → 1997/1998	Datum steht nicht auf dem Merkmal	Musée Maillol, Paris, 1997/98
+5269#2	abgelehnt	Datum	1983 → 1983	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Jürg Stuker 1983
+5310#7	abgelehnt	Datum	1990 → 1990	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Solothurn 1990, Nr. 4.8
+5310#9	abgelehnt	Datum	1914 → 1914	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Salon Bollag 1914
 5393#11	abgelehnt	Besitz	Rosemarie Faidutti	Zitat nicht in der Quelle	eingeliefert von Rosemarie Faidutti aus Nachlass Claude Vallotton
 5393#2	abgelehnt	Urheber (normalisiert)	Félix Vallotton	Name steht nicht im Merkmal	«[Bai?]gneuse[?] 1910 ne pas vernir»
 5393#8	abgelehnt	Besitz	Nachlass Félix Vallotton	Name steht nicht im Merkmal	entspricht Nachlassnummer
+5400#7	abgelehnt	Datum	1931 → 1931	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1931, Nr. 25
+5400#9	abgelehnt	Datum	1994 → 1994	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Sotheby’s 1994
+5406#7	abgelehnt	Datum	1986 → 1986	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Koller 1986
+5433#10	abgelehnt	Datum	2001 → 2001	Datum steht nicht auf dem Merkmal	Auktion Zofingen 2001, Lot 2802, mit Schätzpreis
 5433#12	abgelehnt	Urheber (normalisiert)	Auktionshaus Zofingen	Zitat nicht in der Quelle	9. Juni 2001: Auktion Auktionshaus Zofingen (Lot 2802, Rosen in Glasvase), Zofingen
+5433#12	abgelehnt	Datum	2001 → 2001	Datum steht nicht auf dem Merkmal	Auktion Zofingen 2001, Lot 2802, mit Schätzpreis
+5434#10	abgelehnt	Datum	1957 → 1957	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthaus Zürich 1957, Nr. 12
+5434#3	abgelehnt	Datum	1957 → 1957	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthaus Zürich 1957
 5434#5	abgelehnt	Besitz	Privatbesitz	Zitat nicht in der Quelle	eingeliefert aus Privatbesitz
+5434#5	abgelehnt	Datum	1997 → 1997	Datum steht nicht auf dem Merkmal	Auktion Sotheby’s 1997, Lot 358
 5434#7	abgelehnt	Besitz	Privatbesitz	Zitat nicht in der Quelle	eingeliefert aus Privatbesitz
+544#1	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Auktionsnummer (81) und Lotnummer (5301) der Auktion Koller 1991
 544#5	abgelehnt	Besitz	Familie Bitzius	Zitat nicht in der Quelle	eingeliefert von Nachkommen aus der Familie Bitzius
+544#5	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Auktion Koller 1991, vergleiche Etikett auf Vorderseite
+544#8	abgelehnt	Datum	1991 → 1991	Datum steht nicht auf dem Merkmal	Auktion Koller 1991, vergleiche Etiketten weiter oben
+5458#1	abgelehnt	Datum	1980 → 1980	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Dobiaschofsky 1980
 5606#2	abgelehnt	Besitz	Privatbesitz	Name steht nicht im Merkmal	Wohnort des Eigentümers oder der Eigentümerin von 1954/1962
+5606#2	abgelehnt	Datum	1954/1962 → [1954,1962]	Datum steht nicht auf dem Merkmal	Wohnort des Eigentümers oder der Eigentümerin von 1954/1962
+5606#3	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1981, Nr. 45
+5606#4	abgelehnt	Datum	1954 → 1954	Datum steht nicht auf dem Merkmal	Ausstellung Konolfingen 1954, Nr. 89d
+5638#9	abgelehnt	Datum	1922 → 1922?	Datum steht nicht auf dem Merkmal	sehr wahrscheinlich von der Ausstellung Pittsburgh 1922
+5659#3	abgelehnt	Datum	Mai 2005 → 2005-05	Datum steht nicht auf dem Merkmal	vermutlich von der Auktion Sotheby’s, Zürich, Mai 2005
 5659#8	abgelehnt	Besitz	unbekannt	Zitat nicht in der Quelle	eingeliefert von unbekannt
+5669#4	abgelehnt	Datum	25. November 2002 → 2002-11-25	Datum steht nicht auf dem Merkmal	Auktion Sotheby’s, 25. November 2002, Lot 6
+5669#5	abgelehnt	Datum	wohl Ende der 1970er- bis 1990er-Jahre → 1975/1999	Datum steht nicht auf dem Merkmal	wohl Ende der 1970er- bis 1990er-Jahre
+5722#3	abgelehnt	Datum	Bern 1. März 1972 → 1972-03-01	Datum steht nicht auf dem Merkmal	Bern 1. März 1972 Prof. m. Huggler
+5725#8	abgelehnt	Datum	1981/82 → 1981/1982	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthaus Zürich 1981/82
+5747#10	abgelehnt	Datum	1975 → 1975	Datum steht nicht auf dem Merkmal	Fotografierhinweis von Kurt Meissner 1975
+5747#12	abgelehnt	Datum	1962 → 1962	Datum steht nicht auf dem Merkmal	Nummer des Werks im Werkkatalog 1962.
+5747#7	abgelehnt	Datum	1962 → 1962	Datum steht nicht auf dem Merkmal	Nummer des Werks im Werkkatalog 1962
+5758.1#11	abgelehnt	Datum	1926 → 1926	Datum steht nicht auf dem Merkmal	Ausstellung 1926 in Venedig
+5758.1#13	abgelehnt	Datum	1926 → 1926	Datum steht nicht auf dem Merkmal	aufgebracht 1926 bei der Einfuhr
+5758.1#8	abgelehnt	Datum	1926 → 1926	Datum steht nicht auf dem Merkmal	Die Annotation bezeichnet den Eigentümer für die Ausstellung Venedig 1926.
+5760#14	abgelehnt	Datum	1910 → 1910	Datum steht nicht auf dem Merkmal	Ausstellung Neuchâtel 1910, Nr. 81
+5760#15	abgelehnt	Datum	1931 → 1931	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1931, Nr. 157
+5760#16	abgelehnt	Datum	1993 → 1993	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Jürg Stuker 1993
+5760#8	abgelehnt	Datum	1931 → 1931	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1931, Nr. 157
+5770#3	abgelehnt	Datum	1929 → 1929	Datum steht nicht auf dem Merkmal	Lotnummer Auktion G. & L. Bollag 1929
+646#1	abgelehnt	Datum	1931 → 1931	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1931, Nr. 160
+646#3	abgelehnt	Datum	1984 → 1984	Datum steht nicht auf dem Merkmal	Auktion Galerie Jürg Stuker 1984, Lot 378
+646#7	abgelehnt	Datum	1931 → 1931	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1931, Nr. 160
 6509#2	abgelehnt	Land	Frankreich	Land ohne belegten Ort	DELF Cadres d’Art ist ein französischer Rahmenbauer.
 655#4	abgelehnt	Urheber (normalisiert)	Sotheby's	Name steht nicht im Merkmal	Erwerbsnachweis mit Zuschlagspreis und SKKG-Inventarnummer
+655#8	abgelehnt	Datum	1994 → 1994	Datum steht nicht auf dem Merkmal	Lotnummer der Auktion Sotheby’s 1994
+6582#13	abgelehnt	Datum	1928 → 1928	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthalle Bern 1928, Nr. 103
+6582#5	abgelehnt	Datum	1928 → 1928	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthalle Bern 1928, Nr. 103
+6613#3	abgelehnt	Datum	14. August 1986 → 1986-08-14	Datum steht nicht auf dem Merkmal	Zürich, 14. August 1986
+6792.1#3	abgelehnt	Datum	1921 → 1921	Datum steht nicht auf dem Merkmal	vermutlich aufgebracht für Ausstellung Kunstmuseum Bern 1921
 6792.1#4	abgelehnt	Art des Urhebers	Museum / Ausstellungsort	Zitat nicht in der Quelle	vermutlich aufgebracht für Ausstellung Kunstmuseum Bern 1921, Eingangsnummer 414
 6792.1#4	abgelehnt	Urheber (normalisiert)	Kunstmuseum Bern	Zitat nicht in der Quelle	vermutlich aufgebracht für Ausstellung Kunstmuseum Bern 1921, Eingangsnummer 414
 6792.1#4	abgelehnt	Ort	Bern	Zitat nicht in der Quelle	vermutlich aufgebracht für Ausstellung Kunstmuseum Bern 1921, Eingangsnummer 414
 6792.1#4	abgelehnt	Land	Schweiz	Zitat nicht in der Quelle	vermutlich aufgebracht für Ausstellung Kunstmuseum Bern 1921, Eingangsnummer 414
+6792.1#6	abgelehnt	Datum	1921 → 1921	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1921
 6792.2#4	abgelehnt	Art des Urhebers	Privatbesitz / Nachlass	Zitat nicht in der Quelle	Eigentümerin Stéphanie Guerzoni, Eingangsnummer 416
 6792.2#4	abgelehnt	Urheber (normalisiert)	Stéphanie Guerzoni	Zitat nicht in der Quelle	Eigentümerin Stéphanie Guerzoni, Eingangsnummer 416
 6792.2#4	abgelehnt	Besitz	Stéphanie Guerzoni	Zitat nicht in der Quelle	Eigentümerin Stéphanie Guerzoni, Eingangsnummer 416
+692#5	abgelehnt	Datum	1994 → 1994	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Galerie Koller 1994, Lot 3084a
+7014#12	abgelehnt	Datum	1943 → 1943	Datum steht nicht auf dem Merkmal	Ausstellung Basel 1943, Nr. 361
+7014#5	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Ausstellung Seedamm-Kulturzentrum, Pfäffikon SZ, 1981
+7014#7	abgelehnt	Datum	1968 → 1968	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1968, Nr. 20
 7061#1	abgelehnt	Urheber (normalisiert)	Albert Anker	Name steht nicht im Merkmal	Datierung des Werks
+7061#10	abgelehnt	Datum	1936 → 1936	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthalle Bern 1936, Nr. 20
+7061#11	abgelehnt	Datum	1931 → 1931	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1931, Nr. 187
+7061#12	abgelehnt	Datum	1937 → 1937	Datum steht nicht auf dem Merkmal	Ausstellung Kunsthalle Basel 1937, Nr. 168
+7061#2	abgelehnt	Datum	1931 → 1931	Datum steht nicht auf dem Merkmal	Ausstellung Kunstmuseum Bern 1931, Nr. 187
+7061#9	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1981, Nr. 105
+7062#4	abgelehnt	Datum	2011 → 2011	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Hôtel des Ventes 2011
 7063#4	abgelehnt	Besitz	Cécile Du Bois-Anker	Zitat nicht in der Quelle	Nachlass des Künstlers im Besitz von Cécile Du Bois-Anker
+71#4	abgelehnt	Datum	Auktion 1988 → 1988	Datum steht nicht auf dem Merkmal	im Zusammenhang mit der Auktion 1988
+71#6	abgelehnt	Datum	1872 → 1872	Datum steht nicht auf dem Merkmal	vergeben 1872
 7410#2	abgelehnt	Datum	30. Juni 2012 → 2012-06-30	Zitat nicht in der Quelle	30. Juni 2012: Auktion Hôtel des Ventes (Lot 526, Jeune fille tressant ses cheveux), Lausanne
 7467#2	abgelehnt	Besitz	Unbekannte:r Eigentümer:in	Zitat nicht in der Quelle	eingeliefert von unbekannt
+7467#2	abgelehnt	Datum	Juni 1978 → 1978-06	Datum steht nicht auf dem Merkmal	Lotnummer der Erwerbsauktion Galerie Fischer Juni 1978
 7467#6	abgelehnt	Besitz	Unbekannte:r Eigentümer:in	Zitat nicht in der Quelle	eingeliefert von unbekannt
+7467#6	abgelehnt	Datum	Juni → 1978-06	Jahr 1978 steht nicht in der Quelle	«Fischer/Juni | 445»
 7519#5	abgelehnt	Besitz	Privatbesitz, Schweiz	Name steht nicht im Merkmal	Auktion Christie’s 2012, Lot 84
+7519#5	abgelehnt	Datum	2012 → 2012	Datum steht nicht auf dem Merkmal	Auktion Christie’s 2012, Lot 84
+7524#3	abgelehnt	Datum	2012 → 2012	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Sotheby’s 2012
 7528#2	abgelehnt	Besitz	Cécile Du Bois-Anker	Zitat nicht in der Quelle	o. D. bis spätestens 1957: Cécile Du Bois-Anker (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters
+7528#6	abgelehnt	Datum	1985 → 1985	Datum steht nicht auf dem Merkmal	Ausstellung Ins 1985, Nr. 76
 8346#3	abgelehnt	Besitz	Privatbesitz, England	Name steht nicht im Merkmal	Auktion Sotheby’s 1980, Lot 41
+8346#3	abgelehnt	Datum	1980 → 1980	Datum steht nicht auf dem Merkmal	Auktion Sotheby’s 1980, Lot 41
+8351#1	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Koller 1981
 8378#2	abgelehnt	Besitz	Powell-Kottmann	Zitat nicht in der Quelle	eingeliefert von Powell-Kottmann
+8378#2	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Lotnummer Auktion Galerie Kornfeld 1981
+8378#9	abgelehnt	Datum	1981 → 1981	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Galerie Kornfeld 1981
+84090#5	abgelehnt	Datum	1995 → 1995	Datum steht nicht auf dem Merkmal	aufgebracht für Auktion Sotheby’s 1995
+84090#7	abgelehnt	Datum	12. Juni 1995 → 1995-06-12	Datum steht nicht auf dem Merkmal	Erwerbsnachweis Auktion Sotheby’s vom 12. Juni 1995, Lot 56
+8436#13	abgelehnt	Datum	1986 → 1986	Datum steht nicht auf dem Merkmal	Auktion Galerie Kornfeld 1986
+8436#5	abgelehnt	Datum	14. Juni 2010 → 2010-06-14	Datum steht nicht auf dem Merkmal	Auktion Sotheby’s, 14. Juni 2010, Lot 45
+858#2	abgelehnt	Datum	1980 → 1980	Datum steht nicht auf dem Merkmal	entspricht Lotnummer der Auktion Sotheby’s 1980
+910#13	abgelehnt	Datum	um 1895 → 1895~	Datum steht nicht auf dem Merkmal	Umzug von Ilse Leembruggen von Wien nach Den Haag um 1895
 9836#1	abgelehnt	Urheber (normalisiert)	Nachlass Consuelo de Saint-Exupéry	Name steht nicht im Merkmal	möglicherweise Nachlassnummer
 9841#2	abgelehnt	Besitz	Nachlass Consuelo de Saint-Exupéry	Name steht nicht im Merkmal	vermutlich Nachlassnummer
 1007#12	foto	Sprache	Deutsch	Der gedruckte Text auf dem Zettel ist deutsch.	Phillips Auktionen, Zürich, Auktion vom 29. November 2000

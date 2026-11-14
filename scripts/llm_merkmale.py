@@ -81,8 +81,9 @@ def datum_fehler(gelesen: str, iso: str, belege: str) -> str | None:
     erwartet = {c for w, c in JAHRESZEIT.items() if w in g}
     if codes and codes != erwartet:  # a season written as months («1978-09/1978-11») is fine
         return "Jahreszeit passt nicht zum gelesenen Datum"
-    # every full year must be in the sources: as written, as its last two digits, or its decade
-    # («1885/6» → 1886, «1990er» → 1999); an open bound may be one year off («vor 2004» → ../2003)
+    # every full year must be in what was read: as written, as its last two digits (the century may be
+    # completed), or its decade («1885/6» → 1886, «1990er» → 1999); an open bound may be one year off
+    # («vor 2004» → ../2003). A year the mark does not show stays XXXX («Juni» → XXXX-06).
     hay = re.sub(r"[\[\]?]", "", belege)
     for y in re.findall(r"(?<![\dX])\d{4}(?![\dX])", iso):
         nah = [y] + ([str(int(y) + 1), str(int(y) - 1)] if ".." in iso else [])
@@ -348,9 +349,14 @@ def merge(rec: dict, inp: dict, out: dict, model: str, probleme: list):
             trace(FELDER[f], wert, w, quelle, span)
     for d in ant["daten"]:
         gelesen, iso = norm_ws(d["wie_gelesen"]), norm_ws(d["iso"])
-        quelle, span = belegt(d, quellen)
-        fehler = ("Zitat nicht in der Quelle" if unbelegt(quelle, span)
-                  else datum_fehler(gelesen, iso, " ".join([gelesen, d["zitat"], *quellen.values()])))
+        # only dates on the mark itself (description, transcription, photo): not the researcher's comment
+        merkmal = {"beschreibung": quellen["beschreibung"]}
+        quelle, span = belegt(d, merkmal)
+        if unbelegt(quelle, span):  # the quote may come from the comment while the date itself is on the mark
+            quelle, span = belegt({"zitat": gelesen, "quelle": "beschreibung"}, merkmal)
+        fehler = ("Datum steht nicht auf dem Merkmal" if unbelegt(quelle, span) and find_span(quellen["kommentar"], d["zitat"])
+                  else "Zitat nicht in der Quelle" if unbelegt(quelle, span)
+                  else datum_fehler(gelesen, iso, gelesen))
         if fehler:
             probleme.append((mid, "abgelehnt", "Datum", f"{gelesen} → {iso}", fehler, d["zitat"]))
         elif (gelesen, iso) not in zip(werte["datum_wie_gelesen"], werte["datum_iso"]):

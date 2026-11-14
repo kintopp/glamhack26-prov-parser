@@ -77,7 +77,7 @@ Exceptions: «(erschlossen)» in Art des Urhebers and Ereignis marks an inferenc
 | **Ereignis** | see below |
 | **Besitz** | see below |
 | **Ausstellung** | see below |
-| Datum (wie gelesen) | when the mark was made or the event it records took place; not dates of the work, including the year in a signature |
+| Datum (wie gelesen) | when the mark was made or the event it records took place, only as far as the mark itself shows it (description, transcription, photo); never taken or made more precise from the comment or the provenance chain; not dates of the work, including the year in a signature |
 | **Datum (ISO 8601-2:2019)** | see below |
 | Sprache | |
 | **Bemerkungen** | free text: doubts or errors only (revision 6, *Several values*) |
