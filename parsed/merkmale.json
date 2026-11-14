@@ -1,11 +1,11 @@
 {
  "lauf": {
   "parser": "scripts/parse_merkmale.py",
-  "parser_sha256": "6109830c9a1b",
+  "parser_sha256": "a3ed5ae6a2f5",
   "schema": "merkmal-schema.md",
   "schema_sha256": "0df5b12458f4",
   "eingabe": "extracted/json",
-  "lauf": "2026-11-14T12:01:51+00:00",
+  "lauf": "2026-11-14T12:20:34+00:00",
   "schichten": [
    {
     "methode": "regel",
@@ -70821,7 +70821,7 @@
     "Inventarnummer": "3120",
     "Foto": "images/3120/3120_010_provenienzmerkmale.jpeg",
     "Originalbeschreibung": "o. l. Rückseitenschutz: angehefteter Erwerbsnachweis der Auktion Galerie Villa Ulmberg (Kurt Huber), November 1981",
-    "Typ": "",
+    "Typ": "Erwerbsnachweise",
     "Technik": "",
     "Form": "",
     "Rand / Ecken": "",
@@ -70864,6 +70864,17 @@
       36
      ],
      "quelle": "angehefteter"
+    },
+    {
+     "feld": "Typ",
+     "wert": "Erwerbsnachweise",
+     "methode": "regel",
+     "regel": "typ.erwerbsnachweis",
+     "span": [
+      37,
+      52
+     ],
+     "quelle": "Erwerbsnachweis"
     }
    ],
    "kontext": {

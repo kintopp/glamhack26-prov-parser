@@ -37,12 +37,24 @@ uv run scripts/parse_merkmale.py extracted parsed
 
 It writes `parsed/merkmale.json` (a `lauf` block with parser/schema hashes, then records with a per-value `trace`: method, rule id and character span in Originalbeschreibung, for the planned HTML trace pages), `parsed/merkmale.csv` and `parsed/unbekannt.tsv` (words outside «…» that no rule explained, grouped by kind). Rules fill the physical columns; the interpretive columns are left for the LLM layer, which takes precedence there (the reverse of the Rijksmuseum parser). There is no automated check yet: after a rule change, compare the column fill rates the script prints and spot-check records.
 
+LLM layer (needs `ANTHROPIC_API_KEY`, read from the environment or `~/.env`; never print it):
+
+```sh
+uv run scripts/llm_merkmale.py parsed extracted parsed/llm            # all candidates, Sonnet 5.5 (~$9)
+uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --sample 55  # stratified test sample
+uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --ids 1713#3 4961#2
+```
+
+It writes `merkmale.json`/`.csv` (rule values plus LLM values, traces with `methode: "llm"`, quote, span and reason), `llm_probleme.tsv` (rejected values, vocabulary proposals, API errors) and `cache/<model>/<id>.json`. The cache key covers prompt, schema, effort and the mark's input, so a rerun after a validation-only change costs nothing.
+
 ## Merkmal parser (`scripts/parse_merkmale.py`)
 
 - The user decides all vocabulary. A new value goes into both the parser and `merkmal-schema.md` (revision 7 lists the values that came from the Datenblätter).
 - Rules run on `Mark.masked`: «…», […] and (…) are blanked with spaces so offsets stay valid. Transcriptions are for the LLM layer, not for rules.
 - Typ is decided by the first clause (up to the first «,», «;» or «»); later clauses often describe neighbouring things («verdeckt durch Etikett»). Erwerbsnachweise and Dokumente are checked before the Typ table.
 - Trace `methode` values: `regel` (rule), `verweis` (copied from the previous mark for «siehe vorausgehendes Provenienzmerkmal», with `von`), later `llm`.
+- LLM layer (`scripts/llm_merkmale.py`): the model may write only the interpretive columns, Bemerkungen, and Typ where the rules left it empty. `merge()` rejects values outside the vocabularies, invalid ISO 8601-2 dates, quotes not found in description/comment, and Urheber/Besitz names that occur only in the sheet's provenance chain (the chain may normalise a name, not supply it). Sonnet 5.5 is the default; Haiku 5.5 confused lenders with issuers in testing.
+- The descriptions sometimes omit printed text that identifies the issuer (1713#3 MAT Securitas Express, 4961#2 «F. HODLER, ARCHIV»). Check doubtful marks against the photo in the `Foto` column.
 - Several values are joined with «; »; doubt goes into Bemerkungen as one note per source passage naming every affected column. Values inferred from another word (Technik from a Schreibmittel) are put with `doubt=False`.
 
 For ad-hoc probing, `uv run --with pymupdf python script.py`; plain `uv run python` has no pymupdf.

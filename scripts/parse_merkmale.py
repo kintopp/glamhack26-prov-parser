@@ -260,7 +260,7 @@ def apply_rules(mk: Mark, position: str):
         mk.drop("technik.beschrieben")
 
     body = mk.masked[mk.offset:]
-    erwerb = re.match(r"\s*(Erwerbsnachweis\w*)", body)
+    erwerb = re.match(r"\s*(?:angeheftete[rs]?\s+)?(Erwerbsnachweis\w*)", body)
     # only «…» blanked here, so "(Kopie)" counts; first two clauses, so "gemäss Auktionskatalog …" later does not
     unquoted = "".join(" " if any(a <= i < b for a, b in mk.quotes) else ch for i, ch in enumerate(mk.src))
     two = re.match(r"[^,;]*(?:[,;][^,;]*)?", unquoted[mk.offset:])

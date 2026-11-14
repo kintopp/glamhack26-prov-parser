@@ -28,6 +28,7 @@ Based on `old/schema-notes.md` (25 columns, label register). Everything there st
    - Form: new values **quadratisch**, **hochrechteckig**, **achteckig**, **wappenförmig**. Form is the outline of the carrier (label, stamp, seal, slip); shapes of drawn symbols or perforation patterns («sternförmige Markierung», «kreuzförmig perforiert») are not Form. Each outline is its own value: «quadratisch» is kept separate from «viereckig» (any four-cornered shape); the two are not ordered as broader and narrower.
    - Schreibmittel: new values **Tinte**, **Kugelschreiber**, **Pinsel**, **Filzstift**, **Fettstift**, **Stift** (unspecified). Paint («mit schwarzer Farbe») is not a Schreibmittel.
    - Rand / Ecken: «gezahnt» is coded as **gezackter Rand**.
+   - Art des Urhebers: new values **Künstler:in** (signatures and inscriptions by the artist), **Forschungsinstitut** (SIK-ISEA control-number labels), **Transportunternehmen** (art shippers such as MAT Securitas Express).
    - Not recorded: «verbräunt» and «vergilbt» describe condition, not colour, so they go in no colour column. Later changes to a mark (unterstrichen, durchgestrichen, eingekreist) are not recorded, and their colour is not Farbe der Schrift.
 
 ## Cross-references
@@ -68,14 +69,14 @@ Exceptions: «(erschlossen)» in Art des Urhebers and Ereignis marks an inferenc
 | Farbe der Schrift | colour of ink, print, stamp or seal wax |
 | Schreibmittel | Bleistift · Kreide · Farbstift · **Wachsstift** · **Tinte** · **Kugelschreiber** · **Pinsel** · **Filzstift** · **Fettstift** · **Stift**; only where the source names it |
 | Anbringungsort | Leinwand · Keilrahmen · Kupferplatte · Holztafel · Zierrahmen · Malkarton; also recto, angeheftet, Mitte links |
-| Art des Urhebers | Kunsthandel / Galerie · Auktionshaus · Museum / Ausstellungsort · Zoll · Denkmalbehörde · Privatbesitz / Nachlass · Künstlerbedarf; «(erschlossen)» = inferred |
+| Art des Urhebers | Kunsthandel / Galerie · Auktionshaus · Museum / Ausstellungsort · Zoll · Denkmalbehörde · Privatbesitz / Nachlass · Künstlerbedarf · **Künstler:in** · **Forschungsinstitut** · **Transportunternehmen**; «(erschlossen)» = inferred |
 | Urheber (normalisiert) | who issued or applied the mark |
 | Ort | German place names |
 | Land | |
 | **Ereignis** | see below |
 | **Besitz** | see below |
 | **Ausstellung** | see below |
-| Datum (wie gelesen) | |
+| Datum (wie gelesen) | when the mark was made or the event it records took place; not dates of the work, including the year in a signature |
 | **Datum (ISO 8601-2:2019)** | see below |
 | Sprache | |
 | **Bemerkungen** | free text: doubts or errors only (revision 6, *Several values*) |
@@ -87,6 +88,7 @@ Auktion · Verkauf · Vermietung · Leihgabe · Inventarisierung · Zollabfertig
 - Several values are combined with «; », e.g. `Leihgabe; Verkauf`.
 - «(erschlossen)» = inferred, as in Art des Urhebers, e.g. `Auktion (erschlossen)` from a bare «Lot 191».
 - Empty when the mark records no event, e.g. a collector's stamp or a supplier's stamp.
+- An exhibition label is «Leihgabe» only when it names a lender or owner; otherwise Ereignis stays empty and the exhibition goes in Ausstellung.
 
 ### Besitz
 
@@ -94,6 +96,7 @@ The owner the mark names or implies at the time of the mark, as a normalised nam
 
 - Besitz is not the same as Urheber. An auction house or a customs office issues a mark but does not own the work. A dealer's stock label makes the dealer both Urheber and Besitz.
 - A lender named on an exhibition label is Besitz («Leihgeber Herrn K.A. Haegler» → `K.A. Haegler`).
+- Erwerbsnachweise: Bruno Stefanini is Urheber or Besitz only where the mark or the Datenblatt comment names him («verfasst von Bruno Stefanini»); there is no default.
 - Keep SKKG's anonymisation («Privatperson», «Unbekannte:r Eigentümer:in»). Do not resolve it.
 
 ### Ausstellung
