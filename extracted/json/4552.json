@@ -1,0 +1,1041 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4552_230921.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "21. September 2023",
+  "stand_iso": "2023-09-21",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4552",
+      "Ferdinand Hodler (1853–1918)",
+      "Bildnis Jean Lacroix",
+      "1886",
+      "Öl auf Leinwand",
+      "55 × 46 cm (Bildmass)",
+      "76 × 65,5 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4552",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bildnis Jean Lacroix",
+    "masse": [
+      "55 × 46 cm (Bildmass)",
+      "76 × 65,5 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1886",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4552/4552_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          251.9,
+          263.4,
+          489.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Brunner 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "frühestens 1886 bis spätestens 1909",
+      "besitzer": "möglicherweise Jean Lacroix (1830–1909), Genf",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Im Werkkatalog ist Jean Lacroix nicht als erste Provenienzstation angegeben, doch wird darauf verwiesen, dass der Fotograf Lacroix den Künstler und seine Werke mehrfach fotografiert habe, siehe Brunner 2012. Daher ist denkbar, dass Hodler das Porträt für Lacroix gemalt und es diesem gehört hat. Hodler malte auch das Bildnis von dessen Bruder Henri, siehe Auktionskatalog Bern 1972."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1913 bis mindestens 1918",
+      "besitzer": "Louis S. Günzburger, Genf",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Brunner 2012. Die Angaben im Werkkatalog sind verwirrend; Günzburger muss das Werk bis mindestens 1918 besessen haben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11. März 1913",
+      "besitzer": "Auktion Hugo Helbing (Die Sammlung des Louis S. Günzburger in Genf. Ölgemälde, Aquarelle und Zeichnungen moderner Meister, Lot 45, Bildnis des Herrn L.), München, vermutlich eingeliefert von Louis S. Günzburger, vermutlich unverkauft",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog München 1913, Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 1918, spätestens 1928 bis spätestens 1947",
+      "besitzer": "Max Moos, Genf, wahrscheinlich angekauft oder eingeliefert von Louis S. Günzburger",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Brunner 2012. 1918 wurde das Werk in der Galerie Moos ausgestellt, siehe Ausstellungsstempel auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. März 1935",
+      "besitzer": "Auktion Galerie Moos (Tableaux modernes. Dessins, aquarelles et gouaches, Lot 58, Portrait de M. Lacroix), Genf, eingeliefert von Max Moos, wahrscheinlich unverkauft",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Genf 1935, Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1947",
+      "besitzer": "Sandoz AG, Basel, wahrscheinlich angekauft von der Galerie Moos",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Plakette auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1947–1971",
+      "besitzer": "Arthur Stoll (1887–1971), Arlesheim, erhalten als Geschenk von der Sandoz AG",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ebd. sowie Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18. November 1972",
+      "besitzer": "Auktion Kornfeld und Klipstein (Kunstwerke aus der Sammlung Arthur Stoll, Lot 95, Bildnis Jean Lacroix), Bern, eingeliefert von den Erbinnen und Erben von Arthur Stoll",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Etikett der Galerie Kornfeld auf der Werkrückseite, Auktionskatalog Bern 1972 sowie Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. Mai 1982",
+      "besitzer": "Auktion Dobiaschofsky (Auktion 55. Im Monbijou […], Lot 340, Bildnis Jean Lacroix), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Auktionskatalog Bern 1982, Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. Mai 1982",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Dobiaschofsky, Zuschlagspreis: 25 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe annotierten Auktionskatalog Bern 1982 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Monika Brunner, Bildnis Jean Lacroix, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 740, https://www.ferdinand-hodler.ch/werke.aspx?id=6005955 [21. September 2023].",
+        "bilder": [
+          {
+            "datei": "images/4552/4552_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              142.1,
+              460.0,
+              230.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4552/4552_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              236.6,
+              318.5,
+              329.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Die Sammlung des Louis S. Günzburger in Genf. Ölgemälde, Aquarelle und Zeichnungen moderner Meister, Auktionskatalog Hugo Helbing, München, 11. März 1913, München 1913, Lot 45.",
+        "bilder": [
+          {
+            "datei": "images/4552/4552_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              386.0,
+              377.2,
+              426.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          },
+          {
+            "datei": "images/4552/4552_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              432.8,
+              304.2,
+              574.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Tableaux modernes. Dessins, aquarelles et gouaches, Auktionskatalog Galerie Moos, Genf, 23. März 1935, Genf 1935, Lot 58."
+          },
+          {
+            "datei": "images/4552/4552_006_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              618.4,
+              369.5,
+              683.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Kunstwerke aus der Sammlung Arthur Stoll, Auktionskatalog Galerie Kornfeld und Klipstein, Bern, 18. November 1972, Bern 1972, Lot 95."
+          },
+          {
+            "datei": "images/4552/4552_007_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              142.1,
+              413.3,
+              305.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Auktion 55. Im Monbijou. Gemälde, Aquarelle, Zeichnungen, Druckgraphik und Helvetica des 16. bis 20. Jahrhunderts. Asiatica, Skulpturen und Antiquitäten aus in- und ausländischen Sammlungen und Nachlässen, Auktionskatalog Dobiaschofsky, Bern, 5.–8. Mai 1982, Bern 1982, Lot 340."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Exposition F. Hodler à l’occasion du 30me anniversaire de la mort du grand peintre national. Collection du Prof. Dr. A. Stoll, Ausstellungskatalog Musée Jenisch, Vevey, Vevey 1948, Nr. 2 [nicht konsultiert].\n\nExposition B. Menn, F. Hodler, P. Pignolat. Collection du Prof. Dr. A. Stoll, Ausstellungskatalog Musée des Beaux-arts, Neuchâtel, Neuchâtel 1949, Nr. 15 [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Marcel Fischer, Sammlung Arthur Stoll. Skulpturen und Gemälde des 19. und 20. Jahrhunderts, Zürich 1961, S. 327."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Galerie Moos, Genf, Exposition Ferdinand Hodler, 11. Mai bis 30. Juni 1918, Nr. 37 (Portrait de M. L.)\n\n– Galerie Moos, Genf, Exposition Ferdinand Hodler, 15. Mai bis 30. Juni 1928, Nr. 10\n\n– Galerie Moos, Genf, Ferdinand Hodler. Exposition organisée à l’occasion du XIVe Congrès international d’Histoire de l’Art, 8.– 30. September 1936, Nr. 23 (Portrait de M. Lacroix)\n\n– Musée Jenisch, Vevey, Exposition F. Hodler à l’occasion du 30me anniversaire de la mort du grand peintre national. Collection du Prof. Dr. A. Stoll, 2.–31. Oktober 1948, Nr. 2\n\n– Musée des Beaux-arts, Neuchâtel, Exposition B. Menn, F. Hodler, P. Pignolat. Collection du Prof. Dr. A. Stoll, 2. April bis 6. Juni 1949, Nr. 15"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (39 Ergebnisse) für Suche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 39,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Lacroix›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche nach Volltext/Metadaten «Jean Lacroix» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Bildnis des» und Autor «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Titel «Bildnis des» und Autor «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlername «Hodler» und Schlagwort «Lacroix» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlername «Hodler» und Schlagwort «Jean» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "1 Treffer (9 Ergebnisse) für Künstlername «Hodler» und Schlagwort «Bildnis des» [20. September 2023]: Auktion Hugo Helbing, München, 1913 (siehe oben).",
+            "treffer": 1,
+            "ergebnisse": 9,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "21. September 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (7 Ergebnisse) für Suchbegriff «Lacroix»\n\n0 Treffer (0 Ergebnisse) für Suchbegriff «Bildnis des Herrn»\n\n0 Treffer (24 Ergebnisse) für Suchbegriff «Bildnis des»"
+    },
+    {
+      "datum": "21. September 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4552/4552_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            469.6,
+            533.0,
+            618.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1982, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4552/4552_009_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          344.8,
+          297.4,
+          612.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit rotem Schreibmittel «F. Hodler 1886»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «F. Hodler 1886»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              651.9,
+              299.1,
+              690.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Etikett der Royal Art Framing Company",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Etikett der Royal Art Framing Company",
+        "kommentar": "Rahmenbauer, New York",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              142.1,
+              221.5,
+              204.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: Reste eines langrechteckigen Etiketts, handschriftlich mit blauem Schreibmittel «ZH» oder «2H» und «110» oder «HO»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "Reste eines langrechteckigen Etiketts, handschriftlich mit blauem Schreibmittel «ZH» oder «2H» und «110» oder «HO»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              216.6,
+              299.2,
+              271.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «# | 1814»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «# | 1814»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.5,
+              283.5,
+              180.4,
+              340.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich mit rötlichem Schreibmittel undeutliche Buchstaben, möglicherweise «F H»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich mit rötlichem Schreibmittel undeutliche Buchstaben, möglicherweise «F H»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              352.7,
+              267.8,
+              426.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Spannrahmen: handschriftlich mit hellblauem Schreibmittel «G 16 1986»",
+        "position_traeger": "m. Mittelstrebe Spannrahmen",
+        "merkmal": "handschriftlich mit hellblauem Schreibmittel «G 16 1986»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.5,
+              439.0,
+              299.2,
+              476.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. Mittelstrebe Spannrahmen: handschriftlich mit rotem Schreibmittel «4694»",
+        "position_traeger": "r. Mittelstrebe Spannrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «4694»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              489.2,
+              221.3,
+              524.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. Mittelstrebe Spannrahmen: handschriftlich mit dunklem Schreibmittel «55 x 46»",
+        "position_traeger": "r. Mittelstrebe Spannrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «55 x 46»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              536.4,
+              294.9,
+              579.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: runder Brandstempel mit Ankersymbol",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "runder Brandstempel mit Ankersymbol",
+        "kommentar": "möglicherweise vom Rahmenbauer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.9,
+              599.5,
+              231.0,
+              691.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Spannrahmen: Etikett der Galerie Kornfeld und Klipstein, Bern, 18. November 1972",
+        "position_traeger": "u. l. Spannrahmen",
+        "merkmal": "Etikett der Galerie Kornfeld und Klipstein, Bern, 18. November 1972",
+        "kommentar": "Auktion Galerie Kornfeld und Klipstein 1972",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              142.1,
+              298.4,
+              216.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: gezahntes beiges Etikett mit blauem Dekorrahmen, handschriftlich mit schwarzer Tinte «22»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "gezahntes beiges Etikett mit blauem Dekorrahmen, handschriftlich mit schwarzer Tinte «22»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              229.6,
+              193.0,
+              277.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Filzstift «95»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Filzstift «95»",
+        "kommentar": "entspricht Lotnummer der Auktion Galerie Kornfeld und Klipstein 1972",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              289.3,
+              192.9,
+              333.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "l. Spannrahmen: handschriftlich mit blauem Schreibmittel «Portrait de M L (1886»",
+        "position_traeger": "l. Spannrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «Portrait de M L (1886»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              377.7,
+              299.1,
+              396.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "l. Mittelstrebe Spannrahmen: Etikett der Galerie Moos, Genf, mit der Nummer 4694",
+        "position_traeger": "l. Mittelstrebe Spannrahmen",
+        "merkmal": "Etikett der Galerie Moos, Genf, mit der Nummer 4694",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              416.1,
+              232.4,
+              490.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "l. Mittelstrebe Spannrahmen (unter Etikett): schwarz gestempelt «[EXPOSITION F. HOD-LER] | [MAI-JUI]N 1918 | [GALERIE M]OOS, GENÈVE» (teilweise verdeckt)",
+        "position_traeger": "l. Mittelstrebe Spannrahmen (unter Etikett)",
+        "merkmal": "schwarz gestempelt «[EXPOSITION F. HOD-LER] | [MAI-JUI]N 1918 | [GALERIE M]OOS, GENÈVE» (teilweise verdeckt)",
+        "kommentar": "Ausstellung Galerie Moos 1918",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_024_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              503.1,
+              297.7,
+              577.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4552/4552_025_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              137.0,
+              608.8,
+              299.5,
+              686.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Zum Vergleich"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Das Vergleichsbild stammt aus der Recherchedokumentation zum Werk mit der SKKG-Inventarnummer 4968, das in derselben Ausstellung zu sehen war."
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter Zettel, handschriftlich mit schwarzem Schreibmittel «Dobia | 340 Hodler, Ferd. | Bildnis Jean Lacroix | 25’», schwarz gestempelt «- - Mai 1982»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter Zettel, handschriftlich mit schwarzem Schreibmittel «Dobia | 340 Hodler, Ferd. | Bildnis Jean Lacroix | 25’», schwarz gestempelt «- - Mai 1982»",
+        "kommentar": "Erwerbsnachweis Auktion Dobiaschofsky 1982",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_026_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              142.1,
+              298.2,
+              251.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Messingplakette mit Inschrift, «Herrn Professor Dr.Dr.h.c.A.Stoll | in Anerkennung der hervorragenden Verdienste für | die Entwicklung unserer Gesellschaft während seiner 30 jährigen Tätigkeit | gewidmet von Verwaltungsrat und Direktion der Sandoz A.G. Basel | 1917 – 1947»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Messingplakette mit Inschrift, «Herrn Professor Dr.Dr.h.c.A.Stoll | in Anerkennung der hervorragenden Verdienste für | die Entwicklung unserer Gesellschaft während seiner 30 jährigen Tätigkeit | gewidmet von Verwaltungsrat und Direktion der Sandoz A.G. Basel | 1917 – 1947»",
+        "kommentar": "Widmung der Firma Sandoz zum 30. Dienstjubiläum von Arthur Stoll",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_027_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              264.1,
+              299.1,
+              316.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Arthur Stoll trat 1917 in den Dienst der Firma Sandoz, siehe auch https://hls-dhs-dss.ch/de/articles/028955/2011-03-03 [27. November 2024]."
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Klebestreifen, handschriftlich mit Bleistift «STL 28»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Klebestreifen, handschriftlich mit Bleistift «STL 28»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_028_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              403.1,
+              221.2,
+              436.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «STL 28»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «STL 28»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_029_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              449.0,
+              221.3,
+              491.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 20,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges Etikett, schwarz gedruckt «No.5 - Portrait de M.Lacroix, 1886.»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges Etikett, schwarz gedruckt «No.5 - Portrait de M.Lacroix, 1886.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_030_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              503.5,
+              298.9,
+              539.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 21,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: rechteckiges Etikett mit gezahntem Rand, schwarz gedruckt «211»",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "rechteckiges Etikett mit gezahntem Rand, schwarz gedruckt «211»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_031_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              552.0,
+              193.2,
+              585.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 22,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: gestempelt «DOUA-NES»",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "gestempelt «DOUA-NES»",
+        "kommentar": "unbekannter Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4552/4552_032_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              597.8,
+              215.4,
+              679.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Brunner 2012."
+    },
+    {
+      "nr": 2,
+      "text": "Im Werkkatalog ist Jean Lacroix nicht als erste Provenienzstation angegeben, doch wird darauf verwiesen, dass der Fotograf Lacroix den Künstler und seine Werke mehrfach fotografiert habe, siehe Brunner 2012. Daher ist denkbar, dass Hodler das Porträt für Lacroix gemalt und es diesem gehört hat. Hodler malte auch das Bildnis von dessen Bruder Henri, siehe Auktionskatalog Bern 1972."
+    },
+    {
+      "nr": 3,
+      "text": "Brunner 2012. Die Angaben im Werkkatalog sind verwirrend; Günzburger muss das Werk bis mindestens 1918 besessen haben."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog München 1913, Brunner 2012."
+    },
+    {
+      "nr": 5,
+      "text": "Brunner 2012. 1918 wurde das Werk in der Galerie Moos ausgestellt, siehe Ausstellungsstempel auf der Werkrückseite."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Genf 1935, Brunner 2012."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Plakette auf der Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Ebd. sowie Brunner 2012."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Etikett der Galerie Kornfeld auf der Werkrückseite, Auktionskatalog Bern 1972 sowie Brunner 2012."
+    },
+    {
+      "nr": 10,
+      "text": "Auktionskatalog Bern 1982, Brunner 2012."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe annotierten Auktionskatalog Bern 1982 im Archiv SKKG."
+    },
+    {
+      "nr": 12,
+      "text": "Das Vergleichsbild stammt aus der Recherchedokumentation zum Werk mit der SKKG-Inventarnummer 4968, das in derselben Ausstellung zu sehen war."
+    },
+    {
+      "nr": 13,
+      "text": "Arthur Stoll trat 1917 in den Dienst der Firma Sandoz, siehe auch https://hls-dhs-dss.ch/de/articles/028955/2011-03-03 [27. November 2024]."
+    }
+  ],
+  "bilder_anzahl": 32
+}

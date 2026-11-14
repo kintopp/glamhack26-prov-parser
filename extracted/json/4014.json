@@ -1,0 +1,629 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4014_231123.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "23. November 2023",
+  "stand_iso": "2023-11-23",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4014",
+      "Ferdinand Hodler (1853–1918)",
+      "Blick auf den Grammont und die",
+      "Savoyer Alpen",
+      "um 1910",
+      "Öl auf Karton",
+      "35 × 76 cm (Bildmass)",
+      "56 × 96 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4014",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Blick auf den Grammont und die Savoyer Alpen",
+    "masse": [
+      "35 × 76 cm (Bildmass)",
+      "56 × 96 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1910",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4014/4014_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          345.7,
+          436.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Laut Werkkatalog ist die Zuschreibung zu Hodler zweifelhaft. Vermutlich handelt es sich um eine Studie, eine Werkstattarbeit oder gar um eine Fälschung, siehe Müller 2008. Laut Kaufquittung von Kurt Meissner 1986 im Archiv SKKG war das Werk vom SIK anerkannt (wohl im Zuge der Begutachtung 1984), vom Hodler-Experten Jura Brüschweiler hingegen nicht."
+      },
+      {
+        "nr": 2,
+        "text": "Originaltitel nach Müller 2008."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "15. November bis 15. Dezember 1956",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen, Lot 3367, Bergkette), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1956, Müller 2008. Das Lot 3367 lief am 14. Dezember 1956."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1984",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Müller 2008."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18.–20. Juni 1986",
+      "besitzer": "Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 1017, Gebirgskette von der Ferne, vermutlich die Alpen vom Jura aus gesehen), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1986, Müller 2008. Das Lot 1017 lief am 20. Juni 1986."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 18. November 1986",
+      "besitzer": "Kurt Meissner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 18. November 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Kurt Meissner, Ankaufspreis: 55 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller, Blick auf den Grammont und die Savoyer Alpen, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 1. Die Landschaften, Teilband 2, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2008, Nr. D43, https://www.ferdinand-hod-ler.ch/werke.aspx?id=6005225 [22. November 2023].",
+        "bilder": [
+          {
+            "datei": "images/4014/4014_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.2,
+              533.8,
+              463.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4014/4014_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              469.7,
+              358.9,
+              551.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Auktionen. Porzellan-Sammlung Herbert Pick, Amsterdam. Bedeutende Privat-Kollektionen. Genfer Gemäldesammlung N. N., Auktionskatalog Galerie Stuker, 15.–22. November und 14./15. Dezember 1956, Bern 1956, Lot 3367 [nicht konsultiert, fehlt im Archiv SKKG].\n\nModerne Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, 18.–20. Juni 1986, Bern 1986, Lot 1017.",
+        "bilder": [
+          {
+            "datei": "images/4014/4014_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              139.8,
+              454.4,
+              211.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche mit Filter: Künstler «Ferdinand Hodler» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Grammont›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Savoyer›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Jura›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Grammont›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Savoyer›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Jura›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (42 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler Gebirgskette» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 42,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Gramont» und Autor «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Gramont» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Jura» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Jura» und Autor «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Alpen» und Autor «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [22. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-11-21"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Darunter finden sich mehrere Einträge ohne weitere Grunddaten für «1 Landschaft»."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "13. November 2024",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich",
+      "betreff": "Gibt es, wie im Auktionskatalog Bern 1986 angedeutet, Unterlagen zum Werk D43 (Inventarnummer 52392, Kontrollnummer 19572), vor allem zur fraglichen Zuschreibung?",
+      "antwort": "13. November 2024: Verweis auf Verantwortliche des Werkkatalogprojekts (wurde nicht weiterverfolgt)"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4014/4014_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            247.0,
+            535.2,
+            367.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte Kopie der Quittung des Freihandkaufs bei Kurt Meissner, Zürich, vom 18. November 1986 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4014/4014_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          290.1,
+          298.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Karton (Bildträger): handschriftlich mit grauer Farbe «F. H.»",
+        "position_traeger": "u. r. Karton (Bildträger)",
+        "merkmal": "handschriftlich mit grauer Farbe «F. H.»",
+        "kommentar": "Initialen des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              336.2,
+              237.9,
+              394.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: rechteckiges oranges Etikett, schwarz gedruckt «129.»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "rechteckiges oranges Etikett, schwarz gedruckt «129.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              407.3,
+              237.9,
+              466.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Spannrahmen: handschriftlich mit Bleistift «283», eingekreist",
+        "position_traeger": "u. r. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «283», eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              479.2,
+              237.7,
+              552.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit Bleistift «Hodler»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Hodler»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              565.1,
+              290.1,
+              615.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen (unter Bleistiftnotat): ovaler Stempel, unleserlich",
+        "position_traeger": "u. m. Zierrahmen (unter Bleistiftnotat)",
+        "merkmal": "ovaler Stempel, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              628.6,
+              290.2,
+              729.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit Bleistift «59 [?] 35»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «59 [?] 35»",
+        "kommentar": "möglicherweise Massangaben",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              291.8,
+              204.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Karton (Bildträger): handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "position_traeger": "u. l. Karton (Bildträger)",
+        "merkmal": "handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              216.5,
+              291.8,
+              288.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges weisses Etikett, schwarz gedruckt «19572», unterstrichen",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «19572», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4014/4014_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              301.3,
+              232.8,
+              340.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Laut Werkkatalog ist die Zuschreibung zu Hodler zweifelhaft. Vermutlich handelt es sich um eine Studie, eine Werkstattarbeit oder gar um eine Fälschung, siehe Müller 2008. Laut Kaufquittung von Kurt Meissner 1986 im Archiv SKKG war das Werk vom SIK anerkannt (wohl im Zuge der Begutachtung 1984), vom Hodler-Experten Jura Brüschweiler hingegen nicht."
+    },
+    {
+      "nr": 2,
+      "text": "Originaltitel nach Müller 2008."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1956, Müller 2008. Das Lot 3367 lief am 14. Dezember 1956."
+    },
+    {
+      "nr": 4,
+      "text": "Müller 2008."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1986, Müller 2008. Das Lot 1017 lief am 20. Juni 1986."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Darunter finden sich mehrere Einträge ohne weitere Grunddaten für «1 Landschaft»."
+    }
+  ],
+  "bilder_anzahl": 14
+}

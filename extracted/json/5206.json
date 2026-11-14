@@ -1,0 +1,737 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5206_241114.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5206",
+      "Albert Anker (1831–1910)",
+      "Mädchen, die Haare flechtend",
+      "1887",
+      "Öl auf Leinwand",
+      "71 × 54 × 3 cm (Bildmass)",
+      "93 × 77 × 10 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5206",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Mädchen, die Haare flechtend",
+    "masse": [
+      "71 × 54 × 3 cm (Bildmass)",
+      "93 × 77 × 10 cm (Rahmenmass)"
+    ],
+    "datierung": "1887",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5206/5206_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.3,
+          519.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Jeune fille se coiffant."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "19. August 1887 bis o. D.",
+      "besitzer": "Georges Wenger, Lausanne, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 19. August 1887 in Albert Ankers Livre de vente: «de M. Wenger […] pour une fille se coiffant 350». Georges Wenger war Kunsthändler in Lausanne und kaufte im letzten Viertel des 19. Jahrhunderts regelmässig Werke von Albert Anker, siehe Kuthy/Bhattacharya-Stettler 1995, S. 47."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1950",
+      "besitzer": "Hans Willenegger-Anker (1866–1954), Clarens",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Hans Willenegger-Anker war Schiffskapitän und Kunstsammler, siehe Kontextinformationen. Gemäss der Expertise von Eduard Hüttinger vom 3. Februar 1975 blieb das Werk bis 1950 bei Willenegger-Anker, siehe Archiv intern. Durch seine Gattin war Hans Willenegger mit Albert Anker verwandt und mit diesem selbst bekannt, siehe Kontextinformationen. Ob er das Werk über verwandtschaftliche Verbindungen oder im Kunsthandel erworben hat, ist nicht bekannt. Laut Eduard Hüttinger war Willenegger mit einer Nichte Ankers verheiratet."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Olten",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Luzern",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1981/82",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Der Leihgeber/Besitzer des Werks, das 1981/82 im Kunstmuseum Bern und Winterthur gezeigt wurde, ist bekannt, die Angabe ist jedoch vertraulich, siehe Anfragen und Archive extern."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1982 bis 14. Mai 1997",
+      "besitzer": "Kurt Meissner (1909–2004) und Myrtha Meissner-Eppler, Zollikon",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 mit der Angabe «Privatbesitz». Gemäss dem Ausstellungsetikett des Kunstmuseums Winterthur auf der Werkrückseite waren Kurt und Myrtha Meissner Leihgeber für die Ausstellung im Jahr 1982."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 14. Mai 1997",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, von Myrtha Meissner-Eppler, Ankaufspreis: 1 000 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Rechnung von Myrtha Meissner, Zollikon, an Bruno Stefanini, Winterthur, vom 14. Mai 1997 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 185, Nr. 378.",
+        "bilder": [
+          {
+            "datei": "images/5206/5206_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.1,
+              313.6,
+              549.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Anker in seiner Zeit, Ausstellungskatalog Kunstmuseum Bern / Kunstmuseum Winterthur, hrsg. von Sandor Kuthy, Bern 1981, Nr. 24.",
+        "bilder": [
+          {
+            "datei": "images/5206/5206_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              306.9,
+              156.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          },
+          {
+            "datei": "images/5206/5206_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              162.3,
+              308.2,
+              217.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Obschon das Werk im Ausstellungskatalog nicht mit einem Asterisk versehen ist, wurde es offenbar ebenfalls im Kunstmuseum Winterthur ausgestellt, siehe Ausstellungsetikett des Kunstmuseums Winterthur auf der Werkrückseite sowie Kuthy/Bhattacharya-Stettler 1995."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Volltextsuche «Mädchen» und «Haare» und «flechten» und «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (154 Ergebnisse) für Volltextsuche «jeune fille» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 154,
+            "datum": "2023-03-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "2. März 2023",
+      "institution": "Kunstmuseum Bern",
+      "betreff": "Leihgeber für Ausstellung im Kunstmuseum Bern 1981",
+      "antwort": "21. November 2023: Angabe des Leihgebers (vertraulich)"
+    },
+    {
+      "datum": "7. März 2023",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft, Zürich",
+      "betreff": "Adressat:in der Expertise von Eduard Hüttinger",
+      "antwort": "8. März 2023: Im SIK-Kunstarchiv liegen dazu keine Informationen vor."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "2. März 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.2\n\nExpertise von Eduard Hüttinger, Zürich, vom 3. Februar 1975",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Für wen Hüttinger die Expertise verfasst hat, konnte nicht eruiert werden. Das Archiv des SIK hat keine Informationen, siehe Korrespondenz."
+        }
+      ]
+    },
+    {
+      "datum": "2. März 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.2\n\nExpertise von Werner Sumowski zum Werk, undatiert"
+    },
+    {
+      "datum": "2. März 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.2\n\nBrief von Therese Bhattacharya-Stettler an Kurt Meissner vom 27. März 1997"
+    },
+    {
+      "datum": "2. März 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1406.4.2\n\nRechnung von Myrtha Meissner, Zollikon, an Bruno Stefanini, Winterthur, vom 14. Mai 1997 mit\n\nAngabe des Kaufpreises von 1 000 000 Franken"
+    },
+    {
+      "datum": "2. März 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "B.121.1301\n\nVereinbarung zwischen Myrtha Meissner und SKKG zur Begleichung des Kaufpreises in zwei Raten, unterzeichnet am 14. Juli 1997"
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "21. November 2023",
+      "institution": "Archiv Kunstmuseum Bern",
+      "bestand": "Leihgeberliste für die Ausstellung «Anker in seiner Zeit», 1981, Akte C-0298 mit Angabe des Leihgebers (vertraulich)"
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Hans Willenegger",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5206/5206_005_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            165.6,
+            335.8,
+            296.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Anzeige des 25. Dienstjubiläums von Hans Willenegger, in: Der Murtenbieter, Jg. 65, Nr. 35, 30. April 1919, S. 2, https://www.e-newspa-perarchives.ch/?a=d&d=DMR19190430-01.2.11.11 [2. März 2023]."
+        },
+        {
+          "datei": "images/5206/5206_006_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            352.7,
+            333.5,
+            480.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Hans Willenegger, in: Der Murtenbieter, Jg. 100, Nr. 13, 17. Februar 1954, S. 2, https://www.e-newspaperar-chives.ch/?a=d&d=DMR19540217-01.2.14.8 [2. März 2023]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5206/5206_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          184.0,
+          275.0,
+          440.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Zierrahmen mit Rückseitenschutz"
+      },
+      {
+        "datei": "images/5206/5206_008_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          465.4,
+          275.0,
+          739.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Keilrahmen (unter Rückseitenschutz)"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit rotem Schreibmittel «Anker | 1887»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «Anker | 1887»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              283.3,
+              226.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit blauem Schreibmittel «205»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit blauem Schreibmittel «205»",
+        "kommentar": "Ausstellung Ins 1985, Nr. 205",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              239.4,
+              283.2,
+              302.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: verbräuntes rechteckiges Etikett mit abgerundeten Ecken, maschinenbeschrieben",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett mit abgerundeten Ecken, maschinenbeschrieben",
+        "kommentar": "Ausstellung Winterthur 1982, Leihgeber: Kurt Meissner",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              315.4,
+              283.3,
+              396.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: rechteckiges weisses Etikett mit abgerundeten Ecken, maschinengeschrieben «Hans Willenegger-Anker | Clarens»",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, maschinengeschrieben «Hans Willenegger-Anker | Clarens»",
+        "kommentar": "Eigentümer: Hans Willenegger-Anker, Clarens",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              409.2,
+              283.3,
+              488.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: rechteckiges weisses Etikett, schwarz bedruckt",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt",
+        "kommentar": "Eigentümer: Kurt und Myrtha Meissner, Zollikon",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              510.3,
+              283.2,
+              568.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: Klebereste eines weissen Etiketts",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "Klebereste eines weissen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              586.0,
+              231.7,
+              649.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: handschriftlich mit schwarzem Schreibmittel durchgestrichener Kreis",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel durchgestrichener Kreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              662.2,
+              229.4,
+              749.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA Ktr.- Nr. 20558», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA Ktr.- Nr. 20558», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              239.2,
+              166.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «20558», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «20558», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              215.5,
+              203.7,
+              249.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA Ktr.- Nr. 20558», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA Ktr.- Nr. 20558», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              291.3,
+              239.1,
+              316.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «20558», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «20558», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5206/5206_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              367.0,
+              203.7,
+              404.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Jeune fille se coiffant."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 19. August 1887 in Albert Ankers Livre de vente: «de M. Wenger […] pour une fille se coiffant 350». Georges Wenger war Kunsthändler in Lausanne und kaufte im letzten Viertel des 19. Jahrhunderts regelmässig Werke von Albert Anker, siehe Kuthy/Bhattacharya-Stettler 1995, S. 47."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Hans Willenegger-Anker war Schiffskapitän und Kunstsammler, siehe Kontextinformationen. Gemäss der Expertise von Eduard Hüttinger vom 3. Februar 1975 blieb das Werk bis 1950 bei Willenegger-Anker, siehe Archiv intern. Durch seine Gattin war Hans Willenegger mit Albert Anker verwandt und mit diesem selbst bekannt, siehe Kontextinformationen. Ob er das Werk über verwandtschaftliche Verbindungen oder im Kunsthandel erworben hat, ist nicht bekannt. Laut Eduard Hüttinger war Willenegger mit einer Nichte Ankers verheiratet."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Der Leihgeber/Besitzer des Werks, das 1981/82 im Kunstmuseum Bern und Winterthur gezeigt wurde, ist bekannt, die Angabe ist jedoch vertraulich, siehe Anfragen und Archive extern."
+    },
+    {
+      "nr": 7,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 mit der Angabe «Privatbesitz». Gemäss dem Ausstellungsetikett des Kunstmuseums Winterthur auf der Werkrückseite waren Kurt und Myrtha Meissner Leihgeber für die Ausstellung im Jahr 1982."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Rechnung von Myrtha Meissner, Zollikon, an Bruno Stefanini, Winterthur, vom 14. Mai 1997 im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Obschon das Werk im Ausstellungskatalog nicht mit einem Asterisk versehen ist, wurde es offenbar ebenfalls im Kunstmuseum Winterthur ausgestellt, siehe Ausstellungsetikett des Kunstmuseums Winterthur auf der Werkrückseite sowie Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 10,
+      "text": "Für wen Hüttinger die Expertise verfasst hat, konnte nicht eruiert werden. Das Archiv des SIK hat keine Informationen, siehe Korrespondenz."
+    }
+  ],
+  "bilder_anzahl": 19
+}

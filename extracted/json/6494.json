@@ -1,0 +1,514 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6494_221011.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "11. Oktober 2022",
+  "stand_iso": "2022-10-11",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6494",
+      "Alexandre Calame (1810–1864)",
+      "Abend auf der Alp",
+      "o. J.",
+      "Öl auf Leinwand",
+      "101 × 142 cm (Bildmass)",
+      "126 × 167 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6494",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Abend auf der Alp",
+    "masse": [
+      "101 × 142 cm (Bildmass)",
+      "126 × 167 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6494/6494_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          298.9,
+          431.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG aus unbekannter Quelle, möglicherweise nach Auktionskatalog."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Rückseitenetikett ist das Werk signiert, siehe Provenienzmerkmale. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, möglicherweise Freihandkauf, Ankaufsreferenz: 385, Ankaufspreis: 34 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Zum Ankauf liegen keine weiteren Informationen vor."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht verzeichnet].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Calame», Filter 1: «Suchmeldungen», Filter 2: «Malerei» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (47 Ergebnisse) für Volltextsuche «Calame» [11. Oktober 2022]:",
+            "treffer": 2,
+            "ergebnisse": 47,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "Heinemann-Nummer: 4087, Werktitel: Dans la montagne, Eingangsdatum: 20. Januar 1898, Ankaufspreis: 2000 Francs, Ausgangsdatum: 27. April 1898, Kunde: Bon. N. de Steengracht Moyland, Nizza, Käufer, http://heinemann.gnm.de/de/kunstwerk-18366.htm [11. Oktober 2022].",
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "Bei folgendem möglichen Treffer weichen Datierung (1857) und minimal auch die Masse (102 × 151 cm) ab:"
+          },
+          {
+            "text": "Heinemann-Nummer: 18923, Werktitel: Partie aus dem Berner Oberland, Eingangsdatum: 10. März 1932, Ankaufspreis: 2700 Francs, Ausgangsdatum: 3. Mai 1933, Kunden: Galerie Hansen, Luzern, Käufer / Hugo Helbing, München, Auktionshaus, http://heine-mann.gnm.de/de/kunstwerk-1825.htm [11. Oktober 2022].",
+            "datum": "2022-10-11"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/6494/6494_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              637.1,
+              533.2,
+              738.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          },
+          {
+            "datei": "images/6494/6494_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              241.0,
+              533.2,
+              372.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          },
+          {
+            "datei": "images/6494/6494_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              379.3,
+              476.6,
+              555.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          },
+          {
+            "datei": "images/6494/6494_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              567.2,
+              476.5,
+              745.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (251 Ergebnisse) für freie Suche «Calame» UND «Abend» UND «Berg» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 251,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (22 Ergebnisse) für freie Suche «Calame» UND «Sonnenuntergang» UND «Alp» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 22,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für freie Suche «Calame» UND «Abendsonne» UND «Alp» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Alp», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für freie Suche «Alpen», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnisse) für freie Suche «Abend», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für freie Suche «Montagne», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (22 Ergebnisse) für freie Suche «Berglandschaft», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 22,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (9 Ergebnisse) für freie Suche «Abendstimmung», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-10-11"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für freie Suche «Sonnenuntergang», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6494/6494_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          442.0,
+          341.9,
+          652.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: aufgeschraubtes Schild, graviert «DERNIÈRE ŒUVRE DE CALAME»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "aufgeschraubtes Schild, graviert «DERNIÈRE ŒUVRE DE CALAME»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6494/6494_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              689.6,
+              341.6,
+              724.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges beiges Etikett, handschriftlich «275 | 8338»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, handschriftlich «275 | 8338»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6494/6494_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              204.4,
+              234.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 4,
+            "text": "Offenbar wurde ein früherer Rückseitenschutz entfernt. Ob sich darauf weitere Provenienzmerkmale befunden haben, ist nicht bekannt."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Zierrahmen: Fragmente eines unbekannten Etiketts",
+        "position_traeger": "m. r. Zierrahmen",
+        "merkmal": "Fragmente eines unbekannten Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6494/6494_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              246.8,
+              208.3,
+              314.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: Reste eines runden Siegels oder Etiketts",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "Reste eines runden Siegels oder Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6494/6494_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              327.1,
+              209.5,
+              397.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter Zettel, handschriftlich mit Bleistift «385 A Calame | Abend auf der Alp | 34’»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter Zettel, handschriftlich mit Bleistift «385 A Calame | Abend auf der Alp | 34’»",
+        "kommentar": "Erwerbsnachweis SKKG",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6494/6494_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              409.2,
+              302.0,
+              517.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines alten Etiketts",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines alten Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6494/6494_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              530.0,
+              302.0,
+              596.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: weisses langrechteckiges Etikett, handschriftlich «Attention! A gauche sous le papier […] | les restes de l’etiquette d’aut[…] | avec la signature „Alex. Calame, Genève“»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "weisses langrechteckiges Etikett, handschriftlich «Attention! A gauche sous le papier […] | les restes de l’etiquette d’aut[…] | avec la signature „Alex. Calame, Genève“»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6494/6494_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              609.0,
+              342.5,
+              658.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG aus unbekannter Quelle, möglicherweise nach Auktionskatalog."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Rückseitenetikett ist das Werk signiert, siehe Provenienzmerkmale. Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Zum Ankauf liegen keine weiteren Informationen vor."
+    },
+    {
+      "nr": 4,
+      "text": "Offenbar wurde ein früherer Rückseitenschutz entfernt. Ob sich darauf weitere Provenienzmerkmale befunden haben, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 13
+}

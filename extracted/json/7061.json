@@ -1,0 +1,765 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7061_230608.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7061",
+      "Albert Anker (1831–1910)",
+      "Weg zwischen Getreidefeldern",
+      "1885",
+      "Öl auf Holzfaserplatte",
+      "21 × 32 cm (Bildmass)",
+      "27,3 × 38,3 × 2,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "7061",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Weg zwischen Getreidefeldern",
+    "masse": [
+      "21 × 32 cm (Bildmass)",
+      "27,3 × 38,3 × 2,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1885",
+    "technik": "Öl auf Holzfaserplatte",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7061/7061_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          315.9,
+          403.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Chemin dans les champs."
+      },
+      {
+        "nr": 2,
+        "text": "Im Auktionskatalog Genf 2011 wird als Technik «huile sur toile marouflée sur carton» angegeben."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1.–31. November 1910",
+      "besitzer": "Ausstellung Salles Léopold Robert (Exposition Albert Anker, Nr. 88), Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "7. Mai bis 5. Juni 1911",
+      "besitzer": "Ausstellung Kunsthaus Zürich (Ausstellung Albert Anker, Nr. 155, Kornfelder)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1931 bis spätestens 1957",
+      "besitzer": "Cécile Du Bois-Anker (Dubois) (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd. 1931 wurde das Werk im Kunstmuseum Bern gezeigt, Leihgeberin war gemäss Ausstellungskatalog Bern 1931 «Frau D. B.-A., Genf», also Cécile Du Bois-Anker. Sie war auch Leihgeberin für die Ausstellung 1936 in der Kunsthalle Bern, wo das Werk unter dem Titel Weg durch die Kornfelder ausgestellt war, siehe Provenienzmerkmale und Ausstellungskatalog Bern 1936. Wann der auf das Eigentum von Cécile Du Bois-Anker verweisende Nachlassstempel auf der Werkrückseite aufgebracht wurde, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1957 bis 9. März 2011",
+      "besitzer": "Jean (geb. 1907) und Janine Du Bois (um 1930 bis 2010), Genf, erworben im Erbgang von der Mutter/Schwiegermutter",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Gemäss Auktionskatalog Genf 2011 stammt das Werk aus dem Nachlass der Familie Du Bois."
+        }
+      ]
+    },
+    {
+      "zeitraum": "7.–9. März 2011",
+      "besitzer": "Auktion Hôtel des Ventes (Collection Anker […], Lot 1390, Chemin dans les champs), Genf, eingeliefert aus dem Nachlass von Jean und Janine Du Bois",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Genf 2011."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 9. März 2011",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Hôtel des Ventes, Zuschlagspreis: 28 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 280, Nr. 733.",
+        "bilder": [
+          {
+            "datei": "images/7061/7061_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              372.7,
+              314.6,
+              450.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/7061/7061_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              456.7,
+              314.5,
+              522.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Collection Anker. Extrême-Orient. Arts Premiers. Tableaux. Mobilier, Auktionskatalog Hôtel des Ventes, Genf, 7.–9. März 2011, Genf 2011, Lot 1390.",
+        "bilder": [
+          {
+            "datei": "images/7061/7061_004_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              579.2,
+              438.1,
+              632.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          },
+          {
+            "datei": "images/7061/7061_005_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              639.2,
+              437.8,
+              706.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Albert Anker. Jahrhundertausstellung. 20. Juni bis 23. August 1931, Ausstellungskatalog Kunstmuseum Bern, Bern 1931, S. 18, Nr. 187.",
+        "bilder": [
+          {
+            "datei": "images/7061/7061_006_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.1,
+              330.6,
+              204.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Schweizer Malerei im 19. Jahrhundert, Ausstellungskatalog Kunsthalle Bern, 23. August bis 11. September 1936, Bern 1936, Nr. 20."
+          },
+          {
+            "datei": "images/7061/7061_007_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              249.5,
+              437.7,
+              281.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Salles Léopold Robert, Neuchâtel, Exposition Albert Anker, 1.– 30. November 1910, Nr. 88."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (213 Ergebnisse) für Volltextsuche «Anker» und «chemin» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 213,
+            "datum": "2023-03-28"
+          },
+          {
+            "text": "0 Treffer (36 Ergebnisse) für Volltextsuche «Anker» und «Kornfelder» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 36,
+            "datum": "2023-03-28"
+          },
+          {
+            "text": "0 Treffer (162 Ergebnisse) für Volltextsuche «Anker» und «Getreidefelder» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 162,
+            "datum": "2023-03-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "29. März 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7061/7061_008_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            505.0,
+            534.4,
+            574.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Genf 2011 (Erwerbsnachweis)"
+        }
+      ]
+    },
+    {
+      "datum": "13. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A 212.626, NF_0056\n\nKopie des Auktionskatalogs Genf 2011"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7061/7061_009_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          291.7,
+          506.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Holzfaserplatte: handschriftlich mit dunkler Farbe «23 Juillet | 85»",
+        "position_traeger": "u. m. Holzfaserplatte",
+        "merkmal": "handschriftlich mit dunkler Farbe «23 Juillet | 85»",
+        "kommentar": "Datierung des Werks",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              543.8,
+              244.0,
+              605.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: verbräuntes rechteckiges Etikett, handschriftlich mit schwarzer Tinte und Bleistift «[Ei]ng. Nr. 183 | Kat. “ 187»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, handschriftlich mit schwarzer Tinte und Bleistift «[Ei]ng. Nr. 183 | Kat. “ 187»",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1931, Nr. 187",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              618.4,
+              244.0,
+              675.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. Karton: handschriftlich mit Bleistift «Madame Du Bois | 10 Chemin Peschier | Champel | Genève»",
+        "position_traeger": "o. Karton",
+        "merkmal": "handschriftlich mit Bleistift «Madame Du Bois | 10 Chemin Peschier | Champel | Genève»",
+        "kommentar": "Adresse von Cécile Du Bois-Anker, Tochter des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              139.8,
+              291.5,
+              194.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: ovaler schwarzer Stempel, «succession | A. Anker | .C.»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "ovaler schwarzer Stempel, «succession | A. Anker | .C.»",
+        "kommentar": "«C» steht vermutlich für «Cécile»; Nachlass des Künstlers im Eigentum von Cécile Du Bois-Anker",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              228.2,
+              230.6,
+              281.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. Karton: handschriftlich mit blauer Tinte «№ 17 | Cécile Du Bois-Anker»",
+        "position_traeger": "m. Karton",
+        "merkmal": "handschriftlich mit blauer Tinte «№ 17 | Cécile Du Bois-Anker»",
+        "kommentar": "Tochter des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              316.6,
+              293.2,
+              381.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. Karton: rechteckiges weisses Etikett, schwarz gedruckt «15»",
+        "position_traeger": "m. Karton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «15»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              395.1,
+              207.2,
+              429.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Karton: Reste eines weissen, teilweise gezahnten Etiketts, darüber handschriftlich mit Bleistift «[…]58»",
+        "position_traeger": "m. r. Karton",
+        "merkmal": "Reste eines weissen, teilweise gezahnten Etiketts, darüber handschriftlich mit Bleistift «[…]58»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_016_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              442.4,
+              207.2,
+              506.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Karton: handschriftlich mit blauem Schreibmittel «W 12»",
+        "position_traeger": "m. r. Karton",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «W 12»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_017_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              519.4,
+              207.1,
+              556.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Karton: rechteckiges weisses Etikett mit abgerundeten Ecken, maschinenbeschrieben",
+        "position_traeger": "u. l. Karton",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, maschinenbeschrieben",
+        "kommentar": "Ausstellung Ins 1981, Nr. 105",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_018_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              569.4,
+              207.1,
+              615.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: rechteckiges beiges Etikett, schwarz bedruckt, handschriftlich mit verbräunter Tinte «( A. Anker ) | No. 20 | Weg durch die Kornfelder | Mdme. Prof. Dubois | Genève.»",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "rechteckiges beiges Etikett, schwarz bedruckt, handschriftlich mit verbräunter Tinte «( A. Anker ) | No. 20 | Weg durch die Kornfelder | Mdme. Prof. Dubois | Genève.»",
+        "kommentar": "Ausstellung Kunsthalle Bern 1936, Nr. 20, Leihgeberin: Cécile Du Bois-Anker",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_019_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              632.5,
+              294.3,
+              723.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: rechteckiges verbräuntes Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "rechteckiges verbräuntes Etikett, schwarz bedruckt",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1931, Nr. 187",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_020_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              251.4,
+              200.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit Bleistift «168»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «168»",
+        "kommentar": "Ausstellung Kunsthalle Basel 1937, Nr. 168",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_021_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              212.8,
+              194.0,
+              258.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit Bleistift «WL 1»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «WL 1»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_022_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              275.9,
+              251.4,
+              330.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit Bleistift «Dubois»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Dubois»",
+        "kommentar": "Cécile Du Bois-Anker, Tochter des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7061/7061_023_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              342.8,
+              251.4,
+              398.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Chemin dans les champs."
+    },
+    {
+      "nr": 2,
+      "text": "Im Auktionskatalog Genf 2011 wird als Technik «huile sur toile marouflée sur carton» angegeben."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd. 1931 wurde das Werk im Kunstmuseum Bern gezeigt, Leihgeberin war gemäss Ausstellungskatalog Bern 1931 «Frau D. B.-A., Genf», also Cécile Du Bois-Anker. Sie war auch Leihgeberin für die Ausstellung 1936 in der Kunsthalle Bern, wo das Werk unter dem Titel Weg durch die Kornfelder ausgestellt war, siehe Provenienzmerkmale und Ausstellungskatalog Bern 1936. Wann der auf das Eigentum von Cécile Du Bois-Anker verweisende Nachlassstempel auf der Werkrückseite aufgebracht wurde, ist nicht bekannt."
+    },
+    {
+      "nr": 6,
+      "text": "Gemäss Auktionskatalog Genf 2011 stammt das Werk aus dem Nachlass der Familie Du Bois."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Genf 2011."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 23
+}

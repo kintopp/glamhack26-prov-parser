@@ -1,0 +1,444 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4169_221108.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. November 2022",
+  "stand_iso": "2022-11-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4169",
+      "Alexandre Calame (1810–1864)",
+      "Der Föhnsturm im Gebirgstal",
+      "o. J.",
+      "Öl auf Leinwand",
+      "100 × 130 cm (Bildmass)",
+      "128 × 160 × 10 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4169",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Der Föhnsturm im Gebirgstal",
+    "masse": [
+      "100 × 130 cm (Bildmass)",
+      "128 × 160 × 10 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4169/4169_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          342.7,
+          448.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Luzern 1987."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1881 bis mindestens 1930",
+      "besitzer": "Sammlung Fürst von Liechtenstein, Stadtpalais Liechtenstein, Bankgasse 9, Wien",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Möglicherweise war das Werk bis in die 1950er-Jahre im Eigentum des Fürsten von Liechtenstein, siehe Notiz im annotierten Auktionskatalog Luzern 1987 im Archiv SKKG."
+        },
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Luzern 1987 sowie Auskunft des Direktionssekretariats Fürstliche Sammlungen, Wien, vom 8. November 2022. Das Werk war als Landschaft registriert. Zum Erwerb und zur weiteren Veräusserung ist nichts bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4./5. Dezember 1987",
+      "besitzer": "Auktion Burkard (22. Auktion, Lot 1133, Der Föhnsturm im Gebirgstal), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Luzern 1987."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Dezember 1987",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Burkard, Zuschlagspreis: 46 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "22. Auktion, Auktionskatalog Auktion Burkard, Luzern, Nr. 22, 4./5. Dezember 1987, Luzern 1987, Lot 1133."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht eindeutig identifizierbar].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Calame», Filter 1: Suchmeldungen, Filter 2: Malerei [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» UND «Föhnsturm» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (347 Ergebnisse) für Volltextsuche «Calame» UND «Felsen» UND «Sturm» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 347,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (103 Ergebnisse) für Volltextsuche «Calame» UND «Liechtenstein» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 103,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Föhnsturm», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Volltextsuche «Gebirgstal», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (20 Ergebnisse) für Volltextsuche «Gewitter», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 20,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (44 Ergebnisse) für Volltextsuche «Felsen», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 44,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "2. November 2022",
+      "institution": "Fürstenhaus Lichtenstein",
+      "betreff": "–",
+      "antwort": "8. November 2022\n\nLaut dem Archivar der Fürstlichen Sammlungen Vaduz/Wien respektive dem Direktionssekretariat ist ein Gemälde von Calame mit dem Titel Landschaft (98 × 130 cm) für den Zeitraum 1881–1930 im Stadtpalais in der Bankgasse nachweisbar. Es hing nie in der Galerie, eine Inventarnummer wurde nicht vergeben. Erwerbs- und Verkaufsinformationen fehlen."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4169/4169_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            190.6,
+            533.0,
+            246.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1987, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4169/4169_003_provenienzmerkmale.png",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.4,
+          333.8,
+          386.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges braunes Etikett, schwarz gedruckt «D. [?] K. V. | 1067»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges braunes Etikett, schwarz gedruckt «D. [?] K. V. | 1067»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4169/4169_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              448.6,
+              228.0,
+              502.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. sowie l. u. Zierrahmen: zweimal identisches, auf Digitalisat nicht entzifferbares Etikett",
+        "position_traeger": "r. m. sowie l. u. Zierrahmen",
+        "merkmal": "zweimal identisches, auf Digitalisat nicht entzifferbares Etikett",
+        "kommentar": "möglicherweise vom Fürstenhaus Liechtenstein",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4169/4169_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              514.1,
+              330.0,
+              591.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges braunes Etikett, schwarz gedruckt «446»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges braunes Etikett, schwarz gedruckt «446»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4169/4169_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              603.1,
+              199.7,
+              674.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel der Auktion Galerie Burkard, Dezember 1987, Lot 1133",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel der Auktion Galerie Burkard, Dezember 1987, Lot 1133",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4169/4169_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              334.8,
+              204.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier-/Keilrahmen: handschriftlich mit gelber Kreide «2483» und zweimal «Calame»",
+        "position_traeger": "o. l. Zier-/Keilrahmen",
+        "merkmal": "handschriftlich mit gelber Kreide «2483» und zweimal «Calame»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4169/4169_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              216.5,
+              334.8,
+              311.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 7,
+        "text": "Zur Signatur siehe Fn. 2."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Luzern 1987."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Möglicherweise war das Werk bis in die 1950er-Jahre im Eigentum des Fürsten von Liechtenstein, siehe Notiz im annotierten Auktionskatalog Luzern 1987 im Archiv SKKG."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Luzern 1987 sowie Auskunft des Direktionssekretariats Fürstliche Sammlungen, Wien, vom 8. November 2022. Das Werk war als Landschaft registriert. Zum Erwerb und zur weiteren Veräusserung ist nichts bekannt."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Luzern 1987."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 7,
+      "text": "Zur Signatur siehe Fn. 2."
+    }
+  ],
+  "bilder_anzahl": 8
+}

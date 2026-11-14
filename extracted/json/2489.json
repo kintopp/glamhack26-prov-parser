@@ -1,0 +1,594 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2489_250811.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "11. August 2025",
+  "stand_iso": "2025-08-11",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2489",
+      "Augusto Giacometti (1877–1947)",
+      "Rosen II",
+      "1929",
+      "Öl auf Leinwand",
+      "33 × 41 cm (Bildmass)",
+      "49 × 57 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2489",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Rosen II",
+    "masse": [
+      "33 × 41 cm (Bildmass)",
+      "49 × 57 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1929",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2489/2489_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          316.0,
+          461.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Stutzer 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1936",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Stutzer 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 20. November 1987",
+      "besitzer": "Michel (Michael) Bernhard, Blonay",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Auktionsabrechnung von Galerie Koller, Zürich, an Michel Bernhard, Blonay, vom 11. Dezember 1987 im Archiv SKKG. Es ist denkbar, dass Bernhard das Werk von seinem im Vorjahr in Schwyz verstorbenen Vater geerbt hatte, siehe Todesanzeige Frédéric Oscar Bernhard, in: Neue Zürcher Zeitung, Jg. 207, Nr. 18, 23. Januar 1986, S. 57, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19860123-01.2.68.2 [11. August 2025]. Jedenfalls deckt sich die Adresse der Trauerfamilie mit jener auf der Auktionsabrechnung."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19.–21. November 1987",
+      "besitzer": "Auktion Galerie Koller (Gemälde. Moderne Graphik und Plastiken […], Lot 5211, Rosen), Zürich, eingeliefert von Michel (Michael) Bernard",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1987, Stutzer 2023."
+        },
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 20. November 1987",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 48 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Beat Stutzer, Rosen II, in: Augusto Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 244, https://recherche.sik-isea.ch/sik:work-14723368 [2. Dezember 2024].",
+        "bilder": [
+          {
+            "datei": "images/2489/2489_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              322.4,
+              533.2,
+              604.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde. Moderne Graphik und Plastiken. Zeichnungen und Aquarelle. Helvetica. Bücher. Alte Graphik, Auktionskatalog Galerie Koller, Zürich, 19.–21. November 1987, Nr. 65/2, Zürich 1987, Lot 5211.",
+        "bilder": [
+          {
+            "datei": "images/2489/2489_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              661.2,
+              429.5,
+              705.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [2. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [2. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [2. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [2. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Giacometti», Filter 1: Conflict/War «World War II», Filter 2: Place «Germany, Switzerland, Austria, Italy» [11. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2024-12-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm [15. August 2023].",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/2489/2489_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              486.1,
+              391.4,
+              603.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (169 Ergebnisse) für Volltextsuche «Giacometti» [11. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 169,
+            "datum": "2024-12-11"
+          },
+          {
+            "text": "0 Treffer (47 Ergebnisse) für Volltextsuche «Giacometti» und «Rosen» [11. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 47,
+            "datum": "2024-12-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [11. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [2. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [2. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Augusto Giacometti» in Verkaufskatalogen [11. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2024-12-11"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "18. März 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "(Signatur unbekannt)",
+      "bilder": [
+        {
+          "datei": "images/2489/2489_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            410.1,
+            533.1,
+            475.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierter lotspezifischer Ausschnitt aus Auktionskatalog Zürich 1987 (Erwerbsnachweis)"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "(Signatur unbekannt)",
+      "bilder": [
+        {
+          "datei": "images/2489/2489_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            158.4,
+            530.2,
+            392.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionsabrechnung von Galerie Koller, Zürich, an Michel Bernhard, Blonay, vom 11. Dezember 1987"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2489/2489_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          305.4,
+          374.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit roter Farbe «a. g[.]»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit roter Farbe «a. g[.]»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              411.9,
+              214.1,
+              456.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «41»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «41»",
+        "kommentar": "Bildmass (Breite)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              475.0,
+              213.9,
+              531.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: Klebestreifen, handschriftlich mit rotem Filzstift «39,5 × 31,5»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "Klebestreifen, handschriftlich mit rotem Filzstift «39,5 × 31,5»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.8,
+              544.5,
+              302.6,
+              582.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «41» (spiegelverkehrt)",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «41» (spiegelverkehrt)",
+        "kommentar": "Bildmass (Breite)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              607.6,
+              229.0,
+              676.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «Gebrüder Scholl Zürich»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «Gebrüder Scholl Zürich»",
+        "kommentar": "Zürcher Geschäft für Schreibwaren und Künstlerbedarf",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              689.1,
+              229.1,
+              748.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Kugelschreiber «3», halb eingekreist",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Kugelschreiber «3», halb eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              229.1,
+              195.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: handschriftlich mit schwarzer Farbe «AUGUSTO GIACOMETTI | 1929. | „Rosen.“» und mit roter Farbe «c.», wohl von der Hand des Künstlers",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «AUGUSTO GIACOMETTI | 1929. | „Rosen.“» und mit roter Farbe «c.», wohl von der Hand des Künstlers",
+        "kommentar": "Signatur, Datierung und Bildtitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              207.8,
+              305.5,
+              292.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Leinwand: handschriftlich mit schwarzem Schreibmittel «M»",
+        "position_traeger": "o. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «M»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              304.7,
+              199.9,
+              362.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, schwarz bedruckt (Kopie)",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, schwarz bedruckt (Kopie)",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Koller 1987",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2489/2489_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              375.7,
+              305.5,
+              434.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Stutzer 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Stutzer 2023."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Auktionsabrechnung von Galerie Koller, Zürich, an Michel Bernhard, Blonay, vom 11. Dezember 1987 im Archiv SKKG. Es ist denkbar, dass Bernhard das Werk von seinem im Vorjahr in Schwyz verstorbenen Vater geerbt hatte, siehe Todesanzeige Frédéric Oscar Bernhard, in: Neue Zürcher Zeitung, Jg. 207, Nr. 18, 23. Januar 1986, S. 57, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19860123-01.2.68.2 [11. August 2025]. Jedenfalls deckt sich die Adresse der Trauerfamilie mit jener auf der Auktionsabrechnung."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1987, Stutzer 2023."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    }
+  ],
+  "bilder_anzahl": 16
+}

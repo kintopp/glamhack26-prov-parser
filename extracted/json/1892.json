@@ -1,0 +1,615 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1892_260211.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "11. Februar 2026",
+  "stand_iso": "2026-02-11",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1892",
+      "Ferdinand Hodler (1853–1918)",
+      "Bildnis Samuel Meyer",
+      "um 1884",
+      "Öl auf Leinwand",
+      "37 × 25 cm (Bildmass)",
+      "56 × 45 × 5,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "1892",
+    "status": "Klar",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bildnis Samuel Meyer",
+    "masse": [
+      "37 × 25 cm (Bildmass)",
+      "56 × 45 × 5,5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1884",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1892/1892_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          259.2,
+          520.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Walter 2012. Zu Entstehungskontext und Erwerbsumständen siehe ebd. sowie Auktionskatalog Luzern 1977."
+      },
+      {
+        "nr": 2,
+        "text": "Zur Datierung siehe Walter 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "um 1884 bis vermutlich 1917",
+      "besitzer": "Samuel Meyer (um 1833 bis 1917), Genf, erworben vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Walter 2012. Die Lebensdaten beruhen auf Samuel Meyers Todesanzeige in: La Tribune de Genève, Jg. 39, Nr. 32, 8. Februar 1917, S. 6, https://www.e-newspaperarchives.ch/?a=d&d=TDG19170208-05.2.41.2 [11. Februar 2026]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1917 bis 1918",
+      "besitzer": "Frédéric Meyer, Genf, vermutlich erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Walter 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1918–1956",
+      "besitzer": "Albert Malche (1876–1956), Genf",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Walter 2012. Zu Albert Malche siehe Kontextinformationen. In wessen Eigentum oder Besitz das Werk zwischen 1956 und 1971 genau war, ist nicht klar; sehr wahrscheinlich blieb es in der Familie Malche. Vielleicht war es zwischenzeitlich bei Marie Malche-Mottaz (um 1882 bis 1965, siehe Kontextinformationen), Gattin von Albert Malche und Mutter von Jean Malche."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Juli 1930",
+      "besitzer": "Galerie Moos (Nr. 1449), Genf",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Walter 2012, siehe auch Galerieetikett auf der Werkrückseite. Worauf das im Werkkatalog angegebene Datum beruht, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1956, mindestens 1971 bis 1977",
+      "besitzer": "Jean Malche (1904–1978), Genf, vermutlich erworben im Erbgang vom Vater (Albert Malche)",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Walter 2012, siehe auch Expertise sowie Schätzung von Jura Brüschweiler für Madame Jean Malche vom 4. Dezember 1971 im Archiv SKKG. Zu Jean Malche siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15.–19. November 1977",
+      "besitzer": "Auktion Galerie Fischer (Bedeutende Jubiläums-Auktionen in Luzern, Lot 2139, Porträt des Samuel Meyer), Luzern, wahrscheinlich eingeliefert von Jean Malche",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Walter 2012, Auktionskatalog Luzern 1977. Das Lot 2139 wurde am 19. November 1977 ausgerufen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 8. August 1980",
+      "besitzer": "Kunsthandlung Max Wydler, Zürich",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Quittung von Max Wydler für Bruno Stefanini vom 8. August 1980 im Archiv SKKG. Zum Kunsthändler Max Wydler siehe https://www.proveana.de/de/link/act00001298 [21. Juli 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. August bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft von Kunsthandlung Max Wydler, Ankaufspreis: 25 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe Fn. 9. Walter 2012 mit unrichtiger Jahresangabe."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Bernadette Walter, Bildnis Samuel Meyer, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 724, https://recherche.sik-isea.ch/sik:work-6006205 [21. Juli 2022].",
+        "bilder": [
+          {
+            "datei": "images/1892/1892_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              370.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1892/1892_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              376.0,
+              533.2,
+              507.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bedeutende Jubiläums-Auktionen in Luzern. Nachlass Schloss Binz auf Rügen und aus weiterem Besitz, Auktionskatalog Galerie Fischer, Luzern, 15.–19. November 1977, Luzern 1977, Lot 2139.",
+        "bilder": [
+          {
+            "datei": "images/1892/1892_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.2,
+              563.4,
+              475.4,
+              648.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Carl Albert Loosli, Ferdinand Hodler. Leben, Werk und Nachlass, Bd. 4, Bern 1924, Nr. 1480.",
+        "bilder": [
+          {
+            "datei": "images/1892/1892_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              717.0,
+              533.2,
+              737.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Weitere Literatur"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Samuel Meyer» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Samuel Meyer», Filter 1: War/Conflict «World War II», Filter 2: Title Collection «Holocaust» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Samuel Meyer» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Samuel Meyer» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "6. Januar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.1377",
+      "bilder": [
+        {
+          "datei": "images/1892/1892_006_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            209.4,
+            533.0,
+            444.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Expertise von Jura Brüschweiler für Madame Jean Malche vom 4. Dezember 1971"
+        }
+      ]
+    },
+    {
+      "datum": "6. Januar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.1377",
+      "bilder": [
+        {
+          "datei": "images/1892/1892_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            520.0,
+            533.0,
+            693.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schätzung von Jura Brüschweiler für Madame Jean Malche vom 4. Dezember 1971"
+        }
+      ]
+    },
+    {
+      "datum": "6. Januar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1892/1892_008_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            140.4,
+            533.4,
+            187.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1977, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "6. Januar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.1377",
+      "bilder": [
+        {
+          "datei": "images/1892/1892_009_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            249.5,
+            532.9,
+            480.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Quittung von Max Wydler für Bruno Stefanini vom 8. August 1980"
+        }
+      ]
+    },
+    {
+      "datum": "6. Januar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.1377",
+      "bilder": [
+        {
+          "datei": "images/1892/1892_010_archiv_intern.png",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            158.4,
+            532.7,
+            337.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Quittung von Bruno Stefanini für Max Wydler vom 13. August 1980, nicht unterzeichnet"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Albert Malche (1876–1956)",
+      "information": "Jacques Barrelet, Malche, Albert, in: Historisches Lexikon der Schweiz (HLS), 3. Dezember 2009, übersetzt aus dem Französischen, https://hls-dhs-dss.ch/de/articles/006492/2009-12-03 [11. Februar 2026].\n\nAlbert Malche n’est plus, in: La Tribune de Genève, Jg. 78, Nr. 307, 31. Dezember 1956 / 1. Januar 1957, S. 3, https://www.e-newspa-perarchives.ch/?a=d&d=TDG19561231-01.2.11.5 [6. Januar 2026]."
+    },
+    {
+      "thema": "Marie Malche-Mottaz (um 1882 bis 1965)",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/1892/1892_011_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            139.8,
+            324.0,
+            263.9
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Marie Malche, in: La Tribune de Genève, Nr. 262, 9. November 1965, S. 9, https://www.e-newspaperarchi-ves.ch/?a=d&d=TDG19651109-01.2.20 [6. Januar 2026]."
+        }
+      ]
+    },
+    {
+      "thema": "Jean Malche (1904–1978)",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/1892/1892_012_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            320.7,
+            328.0,
+            436.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Jean Malche, in: Courrier de Genève, Jg. 109, Nr. 106, 11. Mai 1978, S. 12, https://www.e-newspaperarchi-ves.ch/?a=d&d=COU19780511-01 [6. Januar 2026]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1892/1892_013_provenienzmerkmale.jpeg",
+        "seite": 9,
+        "bbox": [
+          62.5,
+          165.3,
+          319.5,
+          487.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: schwarz gestempelt und handschriftlich mit schwarzem Schreibmittel «F. Hodler[-Archiv?] | […] | 1480.»",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "schwarz gestempelt und handschriftlich mit schwarzem Schreibmittel «F. Hodler[-Archiv?] | […] | 1480.»",
+        "kommentar": "Ferdinand-Hodler-Archiv von Carl Albert Loosli, Nr. 1480 (siehe Loosli 1924)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1892/1892_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              550.4,
+              249.2,
+              640.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: verbräuntes rechteckiges Etikett mit blauem Rahmen, dreiseitig gezahnt, blau gedruckt «Galerie Moos | Genève», schwarz gestempelt «1449»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett mit blauem Rahmen, dreiseitig gezahnt, blau gedruckt «Galerie Moos | Genève», schwarz gestempelt «1449»",
+        "kommentar": "Galerie Moos, Nr. 1449",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1892/1892_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              653.0,
+              248.9,
+              736.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «[…]yer» (verdeckt)",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «[…]yer» (verdeckt)",
+        "kommentar": "vermutlich Werktitel beziehungsweise Name des Porträtierten (Samuel Meyer)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1892/1892_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              248.8,
+              186.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «10111», mit schwarzem Schreibmittel unterstrichen",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «10111», mit schwarzem Schreibmittel unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1892/1892_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              228.2,
+              248.9,
+              269.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber «Interimszettel | S. Meyer; F. Hodler | ca 1[8]80; [V]on | Kunsthändler Wydler | Z[üri]ch. ca 25’», rot gestempelt «20. Juni 1981»",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber «Interimszettel | S. Meyer; F. Hodler | ca 1[8]80; [V]on | Kunsthändler Wydler | Z[üri]ch. ca 25’», rot gestempelt «20. Juni 1981»",
+        "kommentar": "Erwerbsnachweis, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1892/1892_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              303.9,
+              321.6,
+              428.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit dunklem Schreibmittel «800»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «800»",
+        "kommentar": "möglicherweise Preisangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1892/1892_019_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              440.9,
+              214.6,
+              516.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Walter 2012. Zu Entstehungskontext und Erwerbsumständen siehe ebd. sowie Auktionskatalog Luzern 1977."
+    },
+    {
+      "nr": 2,
+      "text": "Zur Datierung siehe Walter 2012."
+    },
+    {
+      "nr": 3,
+      "text": "Walter 2012. Die Lebensdaten beruhen auf Samuel Meyers Todesanzeige in: La Tribune de Genève, Jg. 39, Nr. 32, 8. Februar 1917, S. 6, https://www.e-newspaperarchives.ch/?a=d&d=TDG19170208-05.2.41.2 [11. Februar 2026]."
+    },
+    {
+      "nr": 4,
+      "text": "Walter 2012."
+    },
+    {
+      "nr": 5,
+      "text": "Walter 2012. Zu Albert Malche siehe Kontextinformationen. In wessen Eigentum oder Besitz das Werk zwischen 1956 und 1971 genau war, ist nicht klar; sehr wahrscheinlich blieb es in der Familie Malche. Vielleicht war es zwischenzeitlich bei Marie Malche-Mottaz (um 1882 bis 1965, siehe Kontextinformationen), Gattin von Albert Malche und Mutter von Jean Malche."
+    },
+    {
+      "nr": 6,
+      "text": "Walter 2012, siehe auch Galerieetikett auf der Werkrückseite. Worauf das im Werkkatalog angegebene Datum beruht, ist nicht bekannt."
+    },
+    {
+      "nr": 7,
+      "text": "Walter 2012, siehe auch Expertise sowie Schätzung von Jura Brüschweiler für Madame Jean Malche vom 4. Dezember 1971 im Archiv SKKG. Zu Jean Malche siehe Kontextinformationen."
+    },
+    {
+      "nr": 8,
+      "text": "Walter 2012, Auktionskatalog Luzern 1977. Das Lot 2139 wurde am 19. November 1977 ausgerufen."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Quittung von Max Wydler für Bruno Stefanini vom 8. August 1980 im Archiv SKKG. Zum Kunsthändler Max Wydler siehe https://www.proveana.de/de/link/act00001298 [21. Juli 2022]."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Fn. 9. Walter 2012 mit unrichtiger Jahresangabe."
+    }
+  ],
+  "bilder_anzahl": 19
+}

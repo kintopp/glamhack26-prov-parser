@@ -1,0 +1,415 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2090_221101.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2090",
+      "François Diday (1802–1877)",
+      "Souvenir de Paestum",
+      "1873",
+      "Öl auf Leinwand",
+      "33 × 56 cm (Bildmass)",
+      "49 × 72 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und",
+      "Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2090",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Souvenir de Paestum",
+    "masse": [
+      "33 × 56 cm (Bildmass)",
+      "49 × 72 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "1873",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2090/2090_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.4,
+          361.3,
+          435.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel. Die ursprüngliche Schreibweise lautet «Souvenir de Pestum», siehe Provenienzmerkmale, Bezeichnung auf der Werkvorderseite."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 25. Juli 1989",
+      "besitzer": "vermutlich Enrico G. Peyer, Limmat Galerie, Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Zu Enrico G. Peyer siehe Anmerkungen zu den Archivalien im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. Juli 1989",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, wahrscheinlich Freihandkauf bei Enrico G. Peyer",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Der Ankaufspreis ist nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Diday Francois›» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «Paestum», Filter 2: Volltext/Metadaten «Tempel», Filter 3: Volltext/Metadaten «Leinwand» [3. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Souvenir de Pestum / Souvenir de Paestum›» [30. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-30"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹24. Avril 1873›» [30. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "0 Treffer für Suche Filter 1: Object Type «painting», Filter 2: Keywords «Paestum» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [26. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "31. August 2022",
+      "institution": "Peyer Gallery, Enrico Peyer (Junior?), Geschäftsführer",
+      "betreff": "Archivanfrage Provenienzforschung\n\nAnfrage betreffend Archivmaterialien an (vermutete) Nachfolgegalerie (Peyer) in Zürich",
+      "antwort": "–"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "30. August 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.252, NF_0051\n\nEnrico G. Peyer scheint als «Kunstexperte» und Händler geschäftlich an unterschiedlicher Adresse in Zürich gemeldet gewesen zu sein. In den hauseigenen Archivalien sind keine Informationen zu Ankäufen aus dem Jahr 1989 und damit auch nichts zum Objekt mit der Inventarnummer 2090 vorhanden (Lücke zwischen 1987 und 1991).\n\nEs wurde nicht überprüft, von wann bis wann die Galerie Limmat bestand beziehungsweise Enrico G. Peyer als\n\nKunsthändler aktiv war oder wann und wo er seinen Firmensitz hatte.\n\nStefanini stand von 1980 bis 2000 in geschäftlicher Verbindung mit Peyer.\n\nEine kurze Recherche im Handelsregister des Kantons Zürich ergab den Hinweis auf eine noch heute bestehende Zürcher Galerie unter der Leitung eines Enrico Peyer. Inwiefern die beiden gleichnamigen und in Zürich tätigen Kunsthändler miteinander verbunden sind oder waren, ist noch unklar; eine Verbindung ist aber zu vermuten, da teils an selber Adresse genannt, der Rämistrasse 45 (der heutigen Adresse des Kunsthauses).",
+      "bilder": [
+        {
+          "datei": "images/2090/2090_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            331.2,
+            398.4,
+            532.8,
+            521.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Visitenkarte Enrico G. Peyer, Galerie Limmat AG"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Peyer Fine Art GmbH, eingetragen am 27. Juli 2009, https://zh.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-114.982.279 [30. August 2022]."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2090/2090_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            331.2,
+            373.7,
+            483.1,
+            504.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis E. Peyer, 25. Juli 1989, vermutlich verfasst von Bruno Stefanini"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Die Herkunft «E. Peyer» ist auf dem Erwerbsnachweis mit einem Fragezeichen versehen. Der Verfasser oder die Verfasserin scheint sich also nicht mehr ganz sicher gewesen zu sein, wo das Bild erworben wurde. Das Datum «25. Juli 1989» wurde nicht handschriftlich verfasst, sondern ist in roter Farbe gestempelt. Für das Jahr 1989 sind im Archiv SKKG im Faszikel zu Peyer keine Ankaufsinformationen vorhanden."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Version",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/2090/2090_004_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            165.4,
+            533.3,
+            372.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        },
+        {
+          "datei": "images/2090/2090_005_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            192.7,
+            377.8,
+            529.4,
+            404.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Les temples de Paestum, 1873, 165 cm × 95 cm – grösser und ohne Kühe unten rechts"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Schreiber-Favre 1942, S. 98, Nr. 44."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2090/2090_006_provenienzmerkmale.png",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          497.9,
+          320.0,
+          670.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzem Schreibmittel «F. Diday»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «F. Diday»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2090/2090_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              244.8,
+              220.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit braunem Schreibmittel «Souvenir de Pestum | 24 Avril 1873»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit braunem Schreibmittel «Souvenir de Pestum | 24 Avril 1873»",
+        "kommentar": "Bezeichnung und Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2090/2090_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              234.0,
+              320.4,
+              295.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Rückseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 7,
+        "text": "Derzeit ist die Rückseite teilweise durch einen Rückseitenschutz verdeckt. Ob sich darunter weitere Provenienzmerkmale befinden, ist nicht bekannt."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel. Die ursprüngliche Schreibweise lautet «Souvenir de Pestum», siehe Provenienzmerkmale, Bezeichnung auf der Werkvorderseite."
+    },
+    {
+      "nr": 2,
+      "text": "Zu Enrico G. Peyer siehe Anmerkungen zu den Archivalien im Archiv SKKG."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Der Ankaufspreis ist nicht bekannt."
+    },
+    {
+      "nr": 4,
+      "text": "Peyer Fine Art GmbH, eingetragen am 27. Juli 2009, https://zh.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-114.982.279 [30. August 2022]."
+    },
+    {
+      "nr": 5,
+      "text": "Die Herkunft «E. Peyer» ist auf dem Erwerbsnachweis mit einem Fragezeichen versehen. Der Verfasser oder die Verfasserin scheint sich also nicht mehr ganz sicher gewesen zu sein, wo das Bild erworben wurde. Das Datum «25. Juli 1989» wurde nicht handschriftlich verfasst, sondern ist in roter Farbe gestempelt. Für das Jahr 1989 sind im Archiv SKKG im Faszikel zu Peyer keine Ankaufsinformationen vorhanden."
+    },
+    {
+      "nr": 6,
+      "text": "Schreiber-Favre 1942, S. 98, Nr. 44."
+    },
+    {
+      "nr": 7,
+      "text": "Derzeit ist die Rückseite teilweise durch einen Rückseitenschutz verdeckt. Ob sich darunter weitere Provenienzmerkmale befinden, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 8
+}

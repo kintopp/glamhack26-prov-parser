@@ -1,0 +1,507 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5437_250821.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "21. August 2025",
+  "stand_iso": "2025-08-21",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5437",
+      "Adolf Dietrich (1877–1957)",
+      "Ideli und Ernstli unterm Christbaum",
+      "1927",
+      "Öl auf Karton",
+      "46 × 38 × 0,5 cm (Bildmass)",
+      "57,5 × 49 × 4,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5437",
+    "status": "Klar",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Ideli und Ernstli unterm Christbaum",
+    "masse": [
+      "46 × 38 × 0,5 cm (Bildmass)",
+      "57,5 × 49 × 4,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1927",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5437/5437_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          261.2,
+          527.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 14. November 1979",
+      "besitzer": "Georges Jean His (1899–1978) und Rosemary Eaton His (1904–1984), Basel/USA, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G», Werkdatenblatt Nr. 27.14 sowie Katalogauszug vom 18. Juni 1979 für die Einlieferung zur Auktion von Sotheby’s, Zürich, vom 14. November 1979 mit der Angabe «Mrs. George His». Sehr wahrscheinlich handelt es sich dabei um Rosemary (Mary) Eaton His, siehe https://www.dignitymemorial.com/obituaries/san-antonio-tx/george-his-12186221 [21. August 2025]. Da das Werk laut Auktionskatalog Zürich 1979 vom Künstler erworben worden war, wird es im gemeinsamen Eigentum des Ehepaars gewesen sein. Der gebürtige Basler George His wanderte in jungen Jahren in die USA aus, wo er 1925 Rosemary Eaton heiratete, siehe https://www.ancestry.com/family-tree/person/tree/1132716/person/162128409320 und https://www.ancestry.com/family-tree/person/tree/1132716/person/162128227918 [21. August 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 91, Der Gabentisch), Zürich, eingeliefert von Rosemary Eaton His",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1979, Ammann/Vögele 1994 sowie Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby’s, Zuschlagspreis: 48 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 27.14.",
+        "bilder": [
+          {
+            "datei": "images/5437/5437_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.1,
+              306.9,
+              463.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 14. November 1979, Zürich 1979, Lot 91."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Siehe Werkkatalog."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [8. Januar 2025]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2025-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Christbaum», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (94 Ergebnisse) für Volltextsuche «Christbaum» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 94,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2024-01-08"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Adolf Dietrich» (inklusive aller Namensschreibweisen) [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche «Dietrich» mit Filter: Künstler [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5437/5437_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            531.3,
+            296.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini, Provenienz: «Vom Künstler erworben»"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5437/5437_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            365.1,
+            533.7,
+            485.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Sotheby Parke Bernet 1979, Lot 91, verfasst von Bruno Stefanini, wohl vormals am Objekt befindlich"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "26. September 2024",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G»",
+      "bilder": [
+        {
+          "datei": "images/5437/5437_005_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            234.7,
+            529.3,
+            495.5
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5437/5437_006_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            501.7,
+            529.3,
+            738.4
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Werkdatenblatt Nr. 27.14"
+        }
+      ]
+    },
+    {
+      "datum": "26. September 2024",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G»",
+      "bilder": [
+        {
+          "datei": "images/5437/5437_007_archive_extern.png",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            183.7,
+            533.0,
+            411.8
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Katalogauszug vom 18. Juni 1979 für die Einlieferung zur Auktion von Sotheby’s, Zürich, vom 14. November 1979, Absender: «Mrs. George His», Provenienz: «Acquired from the artist»"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5437/5437_008_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          184.0,
+          218.4,
+          370.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Rahmen"
+      },
+      {
+        "datei": "images/5437/5437_009_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          396.1,
+          218.4,
+          589.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Bildträger"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Karton (Bildträger): handschriftlich mit hellgelber Farbe «Ad. Dietrich 1927»",
+        "position_traeger": "u. l. Karton (Bildträger)",
+        "merkmal": "handschriftlich mit hellgelber Farbe «Ad. Dietrich 1927»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5437/5437_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              627.0,
+              292.0,
+              677.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton (Bildträger): handschriftlich mit Bleistift «[…] | Basel» (unleserlich)",
+        "position_traeger": "o. m. Karton (Bildträger)",
+        "merkmal": "handschriftlich mit Bleistift «[…] | Basel» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5437/5437_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              690.5,
+              292.0,
+              729.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Karton (Bildträger): Markierungen mit rotem Schreibmittel",
+        "position_traeger": "l. m. Karton (Bildträger)",
+        "merkmal": "Markierungen mit rotem Schreibmittel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5437/5437_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              224.3,
+              212.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton (Bildträger): handschriftlich mit Bleistift «50,8»",
+        "position_traeger": "o. l. Karton (Bildträger)",
+        "merkmal": "handschriftlich mit Bleistift «50,8»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5437/5437_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.7,
+              225.3,
+              224.4,
+              326.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G», Werkdatenblatt Nr. 27.14 sowie Katalogauszug vom 18. Juni 1979 für die Einlieferung zur Auktion von Sotheby’s, Zürich, vom 14. November 1979 mit der Angabe «Mrs. George His». Sehr wahrscheinlich handelt es sich dabei um Rosemary (Mary) Eaton His, siehe https://www.dignitymemorial.com/obituaries/san-antonio-tx/george-his-12186221 [21. August 2025]. Da das Werk laut Auktionskatalog Zürich 1979 vom Künstler erworben worden war, wird es im gemeinsamen Eigentum des Ehepaars gewesen sein. Der gebürtige Basler George His wanderte in jungen Jahren in die USA aus, wo er 1925 Rosemary Eaton heiratete, siehe https://www.ancestry.com/family-tree/person/tree/1132716/person/162128409320 und https://www.ancestry.com/family-tree/person/tree/1132716/person/162128227918 [21. August 2025]."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1979, Ammann/Vögele 1994 sowie Fn. 2."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 13
+}

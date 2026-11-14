@@ -1,0 +1,492 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3776_221101.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3776",
+      "François Diday (1802–1877)",
+      "Uferszene mit Fischerboot bei aufkommendem Sturm",
+      "o. J.",
+      "Öl auf Leinwand",
+      "40 × 55 cm (Bildmass)",
+      "65 × 80 × 9 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3776",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Uferszene mit Fischerboot bei aufkommendem Sturm",
+    "masse": [
+      "40 × 55 cm (Bildmass)",
+      "65 × 80 × 9 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3776/3776_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          316.8,
+          462.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1980."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "vermutlich Emma Cavelty, geb. Fuchs (1907–1992)",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Provenienzmerkmale sowie https://www.portraitarchiv.ch/index.php/portrait/show/341848 [27. Januar 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16./17. Mai 1980",
+      "besitzer": "Auktion Galerie Koller (Gemälde 15.–20. Jahrhundert […], Lot 5104, Uferszene mit Fischerboot bei aufkommendem Sturm), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1980."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16. Mai bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Koller, Zuschlagspreis: 9500 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Auktionsrechnung im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde 15.–20. Jahrhundert […], Auktionskatalog Galerie Koller, Zürich, Nr. 43/2, 16./17. Mai 1980, Zürich 1980, Lot 5104, Tafel 44."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (25 Ergebnisse) für Suche Filter 1: Volltext/Meta-daten «Diday», Filter 2: Volltext/Metadaten «orage» [3. August 2022]:",
+            "treffer": 1,
+            "ergebnisse": 25,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "Collection Paul Chavan. Deuxième Partie, Auktionskatalog Galérie Moos, Genf, 3. Juni 1937, Genf 1937, Lot 43 (François Diday, Tempête sur le lac, Toile, 61 × 84 cm, signiert), https://doi.org/10.11588/diglit.12630#0008 [3. August 2022].",
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "Sowohl Masse als auch Technik würden passen, zudem sind beide Werke signiert. Es ist möglich, dass es sich bei diesem Eintrag um das Werk mit der Inventarnummer 3776 handelt; dies kann aber nicht eindeutig geklärt werden."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (64 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object type «painting» [8. Juli 2022]:",
+            "treffer": 2,
+            "ergebnisse": 64,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "Kunstauktion in Luzern, Auktionskatalog Galerie Fischer, Luzern, 25.–29. Mai 1943, Luzern 1943, Lot 1921 (François Diday, Sturm auf dem Genfersee, Öl auf Leinwand, 39 × 53 cm, Verkäufer unbekannt), https://doi.org/10.11588/diglit.5495#0138 [8. Juli 2022].",
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "Antiquitäten, alte Möbel, Gemälde alter und moderner Meister […], Auktionskatalog Hugo Helbing, München / Theodor Fischer, Luzern, 20. Juli 1922 und folgende Tage, München 1922, Lot 55 (François Diday, Szene auf dem Genfer See. Herannahendes Gewitter, Segelboot mit Bemannung, «Ölbild», 58 × 42 cm, Goldrahmen), https://doi.org/10.11588/diglit.22304#0009 [8. Juli 2022].",
+            "datum": "2022-07-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "17. August 2022",
+      "institution": "Musée d’art et d’histoire, Genf",
+      "betreff": "Demande Galerie Moos / 3 juin 1937",
+      "antwort": "19. August 2022\n\nDas Archiv Moos hat nur sehr wenige Informationen zu diesem Verkauf."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3776/3776_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.4,
+            606.2,
+            534.2,
+            705.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/3776/3776_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            133.7,
+            533.0,
+            259.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3776/3776_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            303.4,
+            531.8,
+            511.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionsrechnung Galerie Koller an Bruno Stefanini, 16. Mai 1980"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3776/3776_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          184.0,
+          282.4,
+          359.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Zierrahmen (mit Rückseitenschutz)"
+      },
+      {
+        "datei": "images/3776/3776_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          390.5,
+          282.4,
+          551.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Keilrahmen"
+      },
+      {
+        "datei": "images/3776/3776_007_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          557.5,
+          284.2,
+          720.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Zierrahmen: langrechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «5104»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «5104»",
+        "kommentar": "Lotnummer Auktion Galerie Koller, Mai 1980",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3776/3776_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.4,
+              245.8,
+              211.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: mit braunem Schreibmittel handschriftlich «F. Diday»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "mit braunem Schreibmittel handschriftlich «F. Diday»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3776/3776_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              228.0,
+              249.1,
+              270.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier- und Keilrahmen: zweimal langrechteckiges weisses Etikett, schwarz gedruckt «15415», unterstrichen",
+        "position_traeger": "o. l. Zier- und Keilrahmen",
+        "merkmal": "zweimal langrechteckiges weisses Etikett, schwarz gedruckt «15415», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3776/3776_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              291.1,
+              245.8,
+              354.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/3776/3776_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              360.2,
+              245.8,
+              421.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis Auktion Galerie Koller, «Mai [19]80 | [5]104 F[.] D[iday] | [F]ischerboot | 9’5»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis Auktion Galerie Koller, «Mai [19]80 | [5]104 F[.] D[iday] | [F]ischerboot | 9’5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3776/3776_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              433.9,
+              319.9,
+              566.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Erwerbsnachweis Auktion Galerie Koller, verfasst von Bruno Stefanini, «Rahmenstück | zu 5104 | Diday | Koller Mai 80»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Erwerbsnachweis Auktion Galerie Koller, verfasst von Bruno Stefanini, «Rahmenstück | zu 5104 | Diday | Koller Mai 80»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3776/3776_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              578.6,
+              319.4,
+              717.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: mit schwarzem Schreibmittel handschriftlich «Emma Cavelty»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "mit schwarzem Schreibmittel handschriftlich «Emma Cavelty»",
+        "kommentar": "Zu Emma Cavelty konnten bislang keine weiteren Informationen ermittelt werden. Das Werk scheint eine Zeit lang im Besitz dieser Sammlerin gewesen zu sein und damit vermutlich in der Schweiz, allenfalls in Graubünden.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3776/3776_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.4,
+              321.1,
+              213.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "«Cavelty» oder «Cavelti» ist ein aus dem Bündnerland stammender Schweizer Nachname, der dort auch heute noch seine grösste Verbreitung hat."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Provenienzmerkmale sowie https://www.portraitarchiv.ch/index.php/portrait/show/341848 [27. Januar 2025]."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Auktionsrechnung im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "«Cavelty» oder «Cavelti» ist ein aus dem Bündnerland stammender Schweizer Nachname, der dort auch heute noch seine grösste Verbreitung hat."
+    }
+  ],
+  "bilder_anzahl": 14
+}

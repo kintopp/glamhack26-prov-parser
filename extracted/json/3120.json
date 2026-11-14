@@ -1,0 +1,522 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3120_230706.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "6. Juli 2023",
+  "stand_iso": "2023-07-06",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3120",
+      "Albert Anker (1831–1910)",
+      "Sitzender Knabe mit Handstudie (Vorderseite), Porträt eines Mannes (Rückseite)",
+      "o. J.",
+      "Bleistift auf Papier",
+      "28,2 × 22 cm (Blattmass)",
+      "28 × 21 cm (Lichtmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3120",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Sitzender Knabe mit Handstudie (Vorderseite), Porträt eines Mannes (Rückseite)",
+    "masse": [
+      "28,2 × 22 cm (Blattmass)",
+      "28 × 21 cm (Lichtmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Bleistift auf Papier",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3120/3120_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          266.0,
+          170.2,
+          448.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto",
+        "bildtitel": "Vorderseite"
+      },
+      {
+        "datei": "images/3120/3120_002_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          480.3,
+          170.2,
+          664.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto",
+        "bildtitel": "Rückseite"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel nach Auktionskatalog Zürich 1981. Im Auktionskatalog Luzern 1932 wurde vermutlich dieses Werk als «Träumender Knabe auf einer Bank sitzend» beschrieben."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel gemäss Objektdatenbank SKKG (Quelle unbekannt)."
+      },
+      {
+        "nr": 3,
+        "text": "Das Werk hat einen Zierrahmen; für die Aufnahmen der beiden Seiten wurde es ausgerahmt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 24./25. November 1932",
+      "besitzer": "vermutlich Fritz Zbinden (1872–1932), Ziegelei in Erlach",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Luzern 1932."
+        }
+      ]
+    },
+    {
+      "zeitraum": "24./25. November 1932",
+      "besitzer": "vermutlich Auktion Galerie Fischer (Grosse Auktion in Zürich. Bedeutende Anker-Sammlung des Herrn Fritz Zbinden […], Lot 194, Träumender Knabe auf einer Bank sitzend), Luzern, im Zunfthaus zur Meise, Zürich, eingeliefert aus Nachlass Fritz Zbinden",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12.–14. November 1981",
+      "besitzer": "Auktion Galerie Villa Ulmberg (Auktion Schweizer Malerei, Lot 310, Sitzender Knabe mit Handstudie), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Im Archiv SKKG konnte kein entsprechender Auktionskatalog gefunden werden."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 14. November 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Villa Ulmberg, Zuschlagspreis: 3300 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Auktion in Zürich. Bedeutende Anker-Sammlung des Herrn Fritz Zbinden sel., Ziegelei in Erlach. Ölbilder, Aquarelle, Zeichnungen, Auktionskatalog Galerie Fischer, Luzern, 24./25. November 1932, Luzern 1932, wahrscheinlich Lot 194, https://doi.org/10.11588/diglit.6793#0024 [6. Juli 2023].",
+        "bilder": [
+          {
+            "datei": "images/3120/3120_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              549.9,
+              470.3,
+              566.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Auktion Schweizer Malerei, Auktionskatalog Galerie Villa Ulmberg, Zürich, 12.–14. November 1981, Zürich 1981, Lot 310."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Eine Übereinstimmung des bei der Versteigerung von Fritz Zbindens Anker-Sammlung angebotenen Werks mit dem vorliegenden ist wahrscheinlich, da sowohl Motiv als auch Masse passen."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Freitextsuche «Albert Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Freitextsuche «Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Freitextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Freitextsuche «Albert Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Freitextsuche «Albert Anker» und «Handstudie» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (52 Ergebnisse) für Freitextsuche «Albert Anker» und «Zeichnung» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 52,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (43 Ergebnisse) für Freitextsuche «Albert Anker» und «Studie» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 43,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Freitextsuche «A. Anker» und «Knabe» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-06-30"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/3120/3120_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              423.0,
+              531.0,
+              480.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "German Sales",
+            "bildtitel": "1 möglicher Treffer (31 Ergebnisse) für Freitextsuche «Albert Anker» und «Knabe» [30. Juni 2023]",
+            "bildunterschrift": "Siehe Auktionskatalog Luzern 1932 (oben)."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Freitextsuche «Handstudie», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (27 Ergebnisse) für Freitextsuche «Hand», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 27,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (20 Ergebnisse) für Freitextsuche «Kind», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 20,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (20 Ergebnisse) für Freitextsuche «Junge», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 20,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Freitextsuche «garcon», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-30"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/3120/3120_005_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              183.7,
+              525.7,
+              336.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "1 möglicher Treffer (14 Ergebnisse) für Freitextsuche «Knabe», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "bildunterschrift": "Siehe Auktionskatalog Luzern 1932 (oben)."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3120/3120_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            232.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1981, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3120/3120_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          63.2,
+          165.4,
+          292.3,
+          455.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Rückseitenschutz: handschriftlich mit Bleistift «X 782»",
+        "position_traeger": "u. l. Rückseitenschutz",
+        "merkmal": "handschriftlich mit Bleistift «X 782»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3120/3120_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.8,
+              518.5,
+              222.3,
+              557.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Das Werk ist mit einem Rückseitenschutz versehen. Ob sich darunter – abgesehen von der aufgeführten Bleistiftnotiz «28 x 22» unten links – weitere Provenienzmerkmale befinden, ist zum gegenwärtigen Zeitpunkt nicht bekannt."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Bildträger (unter Rückseitenschutz): handschriftlich mit Bleistift «28 x 22»",
+        "position_traeger": "u. l. Bildträger (unter Rückseitenschutz)",
+        "merkmal": "handschriftlich mit Bleistift «28 x 22»",
+        "kommentar": "entspricht Blattmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3120/3120_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              570.3,
+              224.1,
+              606.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rückseitenschutz: angehefteter Erwerbsnachweis der Auktion Galerie Villa Ulmberg (Kurt Huber), November 1981",
+        "position_traeger": "o. l. Rückseitenschutz",
+        "merkmal": "angehefteter Erwerbsnachweis der Auktion Galerie Villa Ulmberg (Kurt Huber), November 1981",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3120/3120_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              140.1,
+              291.8,
+              250.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rückseitenschutz (unter Erwerbsnachweis): rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «516»",
+        "position_traeger": "o. l. Rückseitenschutz (unter Erwerbsnachweis)",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «516»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3120/3120_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              262.6,
+              221.2,
+              320.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel nach Auktionskatalog Zürich 1981. Im Auktionskatalog Luzern 1932 wurde vermutlich dieses Werk als «Träumender Knabe auf einer Bank sitzend» beschrieben."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel gemäss Objektdatenbank SKKG (Quelle unbekannt)."
+    },
+    {
+      "nr": 3,
+      "text": "Das Werk hat einen Zierrahmen; für die Aufnahmen der beiden Seiten wurde es ausgerahmt."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Luzern 1932."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Im Archiv SKKG konnte kein entsprechender Auktionskatalog gefunden werden."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Eine Übereinstimmung des bei der Versteigerung von Fritz Zbindens Anker-Sammlung angebotenen Werks mit dem vorliegenden ist wahrscheinlich, da sowohl Motiv als auch Masse passen."
+    },
+    {
+      "nr": 9,
+      "text": "Das Werk ist mit einem Rückseitenschutz versehen. Ob sich darunter – abgesehen von der aufgeführten Bleistiftnotiz «28 x 22» unten links – weitere Provenienzmerkmale befinden, ist zum gegenwärtigen Zeitpunkt nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 11
+}

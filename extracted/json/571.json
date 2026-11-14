@@ -1,0 +1,402 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_571_221004.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "4. Oktober 2022",
+  "stand_iso": "2022-10-04",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 571",
+      "Alexandre Calame (1810–1864)",
+      "Bergsee",
+      "o. J.",
+      "Öl auf Leinwand",
+      "25 × 36 cm (Bildmass)",
+      "42 × 53,5 × 9,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "571",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Bergsee",
+    "masse": [
+      "25 × 36 cm (Bildmass)",
+      "42 × 53,5 × 9,5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/571/571_001_objekt.png",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.4,
+          264.8,
+          426.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1978."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "25./26. Mai 1978",
+      "besitzer": "Auktion Galerie Koller (Bilder, Graphik und Plastiken des 19. und 20. Jahrhunderts, Lot 5066, Bergsee), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 1978."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. Mai 1978 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Koller, Zuschlagspreis: 6500 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 1978 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Valentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet].\n\nAlfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bilder, Graphik und Plastiken des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Koller, Zürich, Nr. 39/2, 25./26. Mai 1978, Zürich 1978, Lot 5066."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935. Möglicherweise Nr. 7 (23 × 34,5/38,5 [?] cm), Nr. 8 (26 × 39,5 cm), Nr. 23 (23 × 38,5 cm). Alle drei «Bergsee» und «Genfer Privatbesitz».\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstmuseum Luzern, Alexandre Calame, 22. September bis 20. Oktober 1935."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» in der Rubrik «Malerei» unter «Suchmeldungen» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          },
+          {
+            "text": "0 Treffer für Volltextsuche «Bergsee» in der Rubrik «Malerei» unter «Suchmeldungen» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Alexandre Calame» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          },
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          },
+          {
+            "text": "0 Treffer für Volltextsuche «Bergsee» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «See», Filter 1: Artist «Calame» (inklusive aller Varianten der Namensschreibweise), Filter 2: «painting» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "1 möglicher Treffer für freie Suche, Filter 1: Artist «Calame» (inklusive aller Varianten der Namensschreibweise), Filter 2: «painting» [26. Juli 2022]:",
+            "treffer": 1,
+            "datum": "2022-07-26"
+          },
+          {
+            "text": "Sammlung von Antiquitäten und Gemälden alter und moderner Meister aus dem Besitz des Herrn R. M., Auktionskatalog Dorotheum Wien / k. k. Versteigerungsamt, 12.–14. November 1912, Wien 1912, Lot 8 (A. Calame, Gebirgssee, Ölgemälde auf Leinwand, 25 × 36 cm, signiert), https://doi.org/10.11588/diglit.21106#0010 [26. Juli 2022].",
+            "datum": "2022-07-26"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/571/571_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              392.2,
+              527.5,
+              418.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/571/571_003_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.4,
+            657.1,
+            532.8,
+            691.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1978, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/571/571_004_provenienzmerkmale.png",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          341.4,
+          310.7,
+          557.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Rahmen: Metallplakette, eingraviert «A. Calame» in Frakturschrift",
+        "position_traeger": "u. m. Rahmen",
+        "merkmal": "Metallplakette, eingraviert «A. Calame» in Frakturschrift",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/571/571_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.1,
+              595.0,
+              306.5,
+              637.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: mit hellem Schreibmittel «Calame [?]»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "mit hellem Schreibmittel «Calame [?]»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/571/571_006_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.1,
+              649.4,
+              306.5,
+              726.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rahmen: mit schwarzem Schreibmittel handschriftliche Notiz, unleserlich",
+        "position_traeger": "o. m. Rahmen",
+        "merkmal": "mit schwarzem Schreibmittel handschriftliche Notiz, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/571/571_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              139.4,
+              306.5,
+              183.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Etikett Auktion Galerie Koller, mit Schreibmaschine «Koller AG, Auktion Herbst 1978», «Herbst» durchgestrichen und handschriftlich korrigiert zu «Mai», handschriftlich «5066» und «1B»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Etikett Auktion Galerie Koller, mit Schreibmaschine «Koller AG, Auktion Herbst 1978», «Herbst» durchgestrichen und handschriftlich korrigiert zu «Mai», handschriftlich «5066» und «1B»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/571/571_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              196.1,
+              304.6,
+              280.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: quadratisches weissblaues Etikett, unten perforiert, mit schwarzem Filzstift handschriftlich «20»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "quadratisches weissblaues Etikett, unten perforiert, mit schwarzem Filzstift handschriftlich «20»",
+        "kommentar": "vermutlich Etikett der SKKG, angebracht von Ursula Netzer, Schlossverwalterin Brestenberg",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/571/571_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              292.6,
+              231.4,
+              383.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1978."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 1978."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 1978 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 9
+}

@@ -1,0 +1,734 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_466_221108.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. November 2022",
+  "stand_iso": "2022-11-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 466",
+      "Félix Vallotton (1865–1925)",
+      "La Risle près Berville",
+      "1924",
+      "Öl auf Leinwand",
+      "74 × 100 × 2 cm (Bildmass)",
+      "97 × 124 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "466",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "La Risle près Berville",
+    "masse": [
+      "74 × 100 × 2 cm (Bildmass)",
+      "97 × 124 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "1924",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/466/466_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          313.5,
+          429.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005; auf dem Etikett der Galerie Druet sowie dem Notat auf der Werkrückseite mit dem Zusatz «s/mer» (Berville-sur-Mer)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1924",
+      "besitzer": "Galerie Druet, Paris, Nr. 10824, angekauft beim Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005. Das Etikett auf der Werkrückseite führt die Werknummer «126H8» und die Adresse «20 rue Royale» an."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1925",
+      "besitzer": "Charles Pacquement, Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005. Die Identität von Charles Pacquement konnte im Erstcheck nicht abschliessend geklärt werden; vermutlich handelt es sich um den Kunstsammler Charles Pacquement (1871–1950), seit 1924 Präsident der Société des Amis du Musée du Luxembourg (heute Amis du Centre Pompidou), siehe https://amis.centrepompidou.fr/en/about-us [6. August 2024]. Erwartungsgemäss befand sich das Werk nicht in der Vente de la Collection Georges Pacquement der Galerie Georges Petit am 12. Dezember 1932, siehe: Catalogue des Tableaux Modernes, Auktionskatalog Galerie Georges Petit, Paris, 12. Dezember 1932, Paris 1932, https://archive.org/details/tableauxmodernes00gale_17 [1. Dezember 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1929",
+      "besitzer": "Galerie Druet, Paris, Nr. 12648",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1930",
+      "besitzer": "Privatsammlung",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis vermutlich 14. November 1979",
+      "besitzer": "Kurt Gratwohl (1918–1979), Erlenbach",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005. Wahrscheinlich wurde das Werk direkt aus der Sammlung Gratwohl eingeliefert, siehe Fn. 8. Zu Kurt Gratwohl siehe Kontextinformationen; gemäss Zeitungsartikel vom 25. April 1979 sollte die Sammlung Kurt Gratwohl am 19. Mai 1979 versteigert werden. Möglicherweise liefen die dort nicht verkauften Lose am 14. November 1979 noch einmal. Kurt Gratwohl ist am 31. Dezember 1979 verstorben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 99, Risle bei Berville / La Risle près Berville), Zürich, vermutlich eingeliefert von Kurt Gratwohl, Erlenbach",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ducrey 2005."
+        },
+        {
+          "nr": 8,
+          "text": "Der Auktionskatalog Zürich 1979 nennt als Provenienz die «Sammlung Kurt Gratwohl, Zürich». Es ist anzunehmen, dass das Werk auch von dort eingeliefert wurde; siehe auch Recherchedokumentation zum Werk mit der Inventarnummer 463."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby’s, Zuschlagspreis: 120 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Ducrey 2005 sowie annotierter Auktionskatalog Zürich 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1604.",
+        "bilder": [
+          {
+            "datei": "images/466/466_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              296.5,
+              365.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/466/466_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              372.3,
+              296.4,
+              448.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1507."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby’s, Zürich, 14. November 1979, Zürich 1979, Lot 99."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Galerie Druet, Paris, 1930, Sept artistes contemporains, Nr. 89 (Bords de la Risle)\n\n– Winterthur, 1978/79, Nr. 171 (La Risle près de Berville)\n\n– München/Essen, 1995/96, Nr. 96\n\n– Lyon/Marseille, 2001, Nr. 97\n\n– Bietigheim-Bissingen, 2003, Nr. 30 (Der Fluss Risle bei Berville)",
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche, Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "2. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.216.434, NF_0035 (Diverse Künstler: Korrespondenz (1985–2014)): Faszikel zu «Vallotton» konsultiert, keine relevanten Informationen zu diesem Werk"
+    },
+    {
+      "datum": "2. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/466/466_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            479.8,
+            534.0,
+            699.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/466/466_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            133.8,
+            533.3,
+            316.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini. Provenienzangabe: «Sammlung Kurt Gratwohl, Zürich»."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Kurt Gratwohl",
+      "information": "Allerlei Schweizer Malerei, in: Neue Zürcher Zeitung, Jg. 200 (1979), Nr. 95, 25. April 1979, S. 37, www.e-newspaperar-chives.ch/?a=d&d=NZZ19790425-01.2.51.2 [4. November 2022].\n\nEhemaliger Bankdirektor Kurt Gratwohl tödlich verunfallt. Strafverfahren kurz vor Abschluss eingestellt, in: Neue Zürcher Nachrichten, Jg. 74 (1980), Nr. 7, 10. Januar 1980, S. 5, https://www.e-newspa-perarchives.ch/?a=d&d=NZN19800110-01.2.15.3 [4. November 2022]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/466/466_006_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          184.0,
+          309.9,
+          375.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Zierrahmen (mit Rückseitenschutz)"
+      },
+      {
+        "datei": "images/466/466_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          64.2,
+          406.5,
+          311.6,
+          590.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Keilrahmen"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur des Künstlers mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur des Künstlers mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              627.4,
+              311.2,
+              671.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich «La Risle près Berville s/mer 1924»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich «La Risle près Berville s/mer 1924»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              684.0,
+              311.0,
+              716.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Leinwand: handschriftlich «4[…]» (verdeckt durch Mittelstrebe Keilrahmen)",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "handschriftlich «4[…]» (verdeckt durch Mittelstrebe Keilrahmen)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.8,
+              139.8,
+              219.0,
+              202.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe Keilrahmen: Etikett der Galerie Druet, handschriftlich «20 rue Royale | 126H8 | Felix Vallotton | Toile. La Risle près de Berville s/mer 73 x 100»",
+        "position_traeger": "m. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "Etikett der Galerie Druet, handschriftlich «20 rue Royale | 126H8 | Felix Vallotton | Toile. La Risle près de Berville s/mer 73 x 100»",
+        "kommentar": "1924 von der Galerie Druet aufgebracht",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              214.5,
+              310.7,
+              299.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich «Druet»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich «Druet»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              316.0,
+              312.2,
+              376.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: beiges Etikett mit ovalem Aufdruck, «R. LÉRONDELLE | […] | Emballage | d’Objets d’Art | 76, Rue Blanche, PARIS»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "beiges Etikett mit ovalem Aufdruck, «R. LÉRONDELLE | […] | Emballage | d’Objets d’Art | 76, Rue Blanche, PARIS»",
+        "kommentar": "Unternehmen für Verpackungs- und allenfalls Transportdienstleistungen für Kunstwerke",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              389.9,
+              314.0,
+              509.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keil- und o. l. Zierrahmen: langrechteckiges weisses Etikett, SIK-Nummer 12007",
+        "position_traeger": "o. l. Keil- und o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, SIK-Nummer 12007",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              522.3,
+              231.7,
+              578.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: langrechteckiges weisses Etikett",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett",
+        "kommentar": "Kurt Gratwohl",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              591.8,
+              271.3,
+              641.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rundes Etikett, handschriftlich «99»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rundes Etikett, handschriftlich «99»",
+        "kommentar": "entspricht Lotnummer der Auktion Sotheby’s 1979",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              654.3,
+              196.2,
+              711.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: braunes Etikett (möglicherweise Packpapierkleber), handschriftlich «Pro Helvetia | Kat Nr 171 (Anlagebank Zürich | in Lig. [?])»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "braunes Etikett (möglicherweise Packpapierkleber), handschriftlich «Pro Helvetia | Kat Nr 171 (Anlagebank Zürich | in Lig. [?])»",
+        "kommentar": "aufgebracht im Zusammenhang mit der Ausstellung Paris 1979, organisiert von der Stiftung Pro Helvetia",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              311.9,
+              202.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: weisses Etikett von Kühne & Nagel, bedruckt, «Leihgeber: Kurt Gratwohl, Zürich | Titel: La Risle près Berville | Maße: 73,5 x 100»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "weisses Etikett von Kühne & Nagel, bedruckt, «Leihgeber: Kurt Gratwohl, Zürich | Titel: La Risle près Berville | Maße: 73,5 x 100»",
+        "kommentar": "Etikett des Transportunternehmens, aufgebracht im Zusammenhang mit einer Leihgabe aus der Sammlung Kurt Gratwohl für eine Ausstellung, möglicherweise Winterthur 1978/79",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/466/466_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              253.5,
+              313.3,
+              357.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005; auf dem Etikett der Galerie Druet sowie dem Notat auf der Werkrückseite mit dem Zusatz «s/mer» (Berville-sur-Mer)."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005. Das Etikett auf der Werkrückseite führt die Werknummer «126H8» und die Adresse «20 rue Royale» an."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005. Die Identität von Charles Pacquement konnte im Erstcheck nicht abschliessend geklärt werden; vermutlich handelt es sich um den Kunstsammler Charles Pacquement (1871–1950), seit 1924 Präsident der Société des Amis du Musée du Luxembourg (heute Amis du Centre Pompidou), siehe https://amis.centrepompidou.fr/en/about-us [6. August 2024]. Erwartungsgemäss befand sich das Werk nicht in der Vente de la Collection Georges Pacquement der Galerie Georges Petit am 12. Dezember 1932, siehe: Catalogue des Tableaux Modernes, Auktionskatalog Galerie Georges Petit, Paris, 12. Dezember 1932, Paris 1932, https://archive.org/details/tableauxmodernes00gale_17 [1. Dezember 2022]."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005. Wahrscheinlich wurde das Werk direkt aus der Sammlung Gratwohl eingeliefert, siehe Fn. 8. Zu Kurt Gratwohl siehe Kontextinformationen; gemäss Zeitungsartikel vom 25. April 1979 sollte die Sammlung Kurt Gratwohl am 19. Mai 1979 versteigert werden. Möglicherweise liefen die dort nicht verkauften Lose am 14. November 1979 noch einmal. Kurt Gratwohl ist am 31. Dezember 1979 verstorben."
+    },
+    {
+      "nr": 7,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 8,
+      "text": "Der Auktionskatalog Zürich 1979 nennt als Provenienz die «Sammlung Kurt Gratwohl, Zürich». Es ist anzunehmen, dass das Werk auch von dort eingeliefert wurde; siehe auch Recherchedokumentation zum Werk mit der Inventarnummer 463."
+    },
+    {
+      "nr": 9,
+      "text": "Ducrey 2005 sowie annotierter Auktionskatalog Zürich 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1507."
+    },
+    {
+      "nr": 11,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 12,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    }
+  ],
+  "bilder_anzahl": 18
+}

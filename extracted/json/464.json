@@ -1,0 +1,645 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_464_230427.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. April 2023",
+  "stand_iso": "2023-04-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 464",
+      "Giovanni Segantini (1858–1899)",
+      "Ritorno all’ovile",
+      "o. J.",
+      "Öl auf Holz",
+      "63 × 100 cm (Bildmass)",
+      "81,5 × 119 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "464",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Ritorno all’ovile",
+    "masse": [
+      "63 × 100 cm (Bildmass)",
+      "81,5 × 119 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/464/464_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          347.4,
+          435.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Quinsac 1982."
+      },
+      {
+        "nr": 2,
+        "text": "Laut Objektdatenbank SKKG ist das Werk unten rechts signiert, gemäss Quinsac 1982 steht dort ein atypisches «S»; auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "bis März 1934",
+      "besitzer": "Sammlung Ilario Ercego, Padua",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ilario Ercego (geb. 1856) war ein aus Recoaro stammender Kaufmann, der 1893 nach Padua zog und gemeinsam mit Giuseppe Carazzolo (1884–1956) die Elektrizität in diese Stadt brachte, siehe: Pietro Casetta, La prima energia elettrica a Padova. Il mulino, l’imprenditore, l’ingegnere, in: Padova e il suo territorio, Jg. 2 (1987), Nr. 7, S. 18–21, http://www.pa-dovaeilsuoterritorio.it/wp-content/uploads/2003/03/fascicolo-07.pdf [8. August 2024]. Wann Ergeco verstarb, ist nicht bekannt, Hinweise auf einen jüdischen Hintergrund gibt es keine; siehe Anfrage an das Staatsarchiv Padua."
+        },
+        {
+          "nr": 4,
+          "text": "Quinsac 1982. Laut Auktionskatalog Zürich 2002 gab es im März 1934 in Padua eine «Vendita della Raccolta Ilario Ercego», Versteigerer war Enrico Somarè (teilweise auch Somaré). Diese Auktion oder ein dazugehöriger Auktionskatalog sind mit diesen Angaben bislang nicht auffindbar (siehe auch Anfragen). 1934 fanden in Mailand jedoch mehrere Auktionen unter Mitarbeit von Somarè statt; zu dreien davon wurde recherchiert (siehe Anfragen), jedoch befand sich kein Segantini darunter. Eine fehlerhafte Angabe ist nicht auszuschliessen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1967",
+      "besitzer": "Galleria d’Arte Accademia, Mailand, möglicherweise nur ausgestellt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Quinsac 1982 mit der Anmerkung «riapparso sul mercato milanese nel 1967, quando fu esposto alla Galleria d’Arte Accademia»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1982",
+      "besitzer": "Privatbesitz, Italien",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Quinsac 1982. Zumindest 1982, dem Erscheinungsjahr des Werkkatalogs, muss sich das Werk dort befunden haben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 2002."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. November 2002",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 12, Ritorno all’ovile), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 28. November 2002",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 95 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Zuschlagspreis gemäss Objektdatenbank SKKG, wo allerdings fälschlicherweise die Zürcher Christie’s-Auktion vom 1. Mai 1986 als Ankaufsort vermerkt ist."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973 [Werk nicht verzeichnet].\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, Bd. 1, Mailand 1982, Nr. 59.",
+        "bilder": [
+          {
+            "datei": "images/464/464_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              397.9,
+              533.2,
+              537.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 28. November 2002, Nr. 1305, Zürich 2002, Lot 12.",
+        "bilder": [
+          {
+            "datei": "images/464/464_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              397.0,
+              367.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          },
+          {
+            "datei": "images/464/464_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              373.8,
+              397.0,
+              454.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Das im Auktionskatalog erwähnte Gutachten von Quinsac vom 27. Oktober 1989 ist offenbar nicht erhalten."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Catalogo delle opere dell’800 italiano in esposizione vendita alla Galleria d’Arte Accademia, Milano, Mailand 1967 [nicht greifbar].",
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Angabe gemäss Auktionskatalog Zürich 2002."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Galleria d’Arte Accademia, Milano, Esposizione delle opere dell’800, 1967"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]: https://www.lostart.de/de/Verlust/312509",
+            "treffer": 1,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/464/464_005_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              139.8,
+              506.7,
+              256.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Lost Art",
+            "bildunterschrift": "Titel (Schafherde) und Technik (Malerei/Gemälde) würden grundsätzlich passen. Das gesuchte Werk stammt aus dem Eigentum von Martha Nathan. Im Archiv der Kunsthalle Basel befindet sich eine Liste der von Martha Nathan eingelagerten Werke. Für Segantinis Schafherde werden darin die Masse 78 × 73 cm angegeben. Sie stimmen nicht überein mit jenen des vorliegenden Werks (Bildmass: 63 × 100 cm, Rahmenmass: 81,5 × 119 cm)."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Siehe «Archive extern»."
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [],
+        "bilder": [
+          {
+            "datei": "images/464/464_006_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              297.4,
+              425.0,
+              378.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann",
+            "bildtitel": "1 möglicher Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "bildunterschrift": "Titel: Vor dem Stall, ID: 22046, Kommissionsnummer: 1430, Eingangsdatum: 17. März 1905, Ausgangsdatum: 12. Mai 1905, http://heinemann.gnm.de/de/kunstwerk-22046.htm [10. Januar 2023]. Möglich, aber aufgrund unzureichender Angaben unklar."
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Ovile», Filter 2: Titel einschränken «automatisch» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-13"
+          },
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Schafstall», Filter 2: Titel einschränken «automatisch» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-01-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [],
+        "bilder": [
+          {
+            "datei": "images/464/464_007_recherche.png",
+            "seite": 6,
+            "bbox": [
+              193.0,
+              183.7,
+              439.7,
+              306.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "1 möglicher Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "bildunterschrift": "Angesichts des Titels wäre eine Übereinstimmung denkbar, allerdings ist eine Werkidentifikation aufgrund mangelnder Angaben nicht möglich."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "13. Januar 2023",
+      "institution": "Archivio di Stato di Padova",
+      "betreff": "Anfrage zu Ilario Ergeco (Lebensdaten, Konfession, Sammlung)",
+      "antwort": "28. Februar 2023: Angaben zu Ilario Ercego"
+    },
+    {
+      "datum": "19. Januar 2023",
+      "institution": "Biblioteca Comunale Centrale, Milano",
+      "betreff": "Anfrage zum Auktionskatalog: Vendite all’asta della collezione Botta (Milano 1931)",
+      "antwort": "1. Februar 2023: kein Werk von Segantini im Katalog"
+    },
+    {
+      "datum": "19. Januar 2023",
+      "institution": "Biblioteca dell’Archiginnasio, Bologna",
+      "betreff": "Anfrage zum Auktionskatalog: La raccolta Addeo (Milano 1934)",
+      "antwort": "26. Januar 2023: kein Werk von Segantini im Katalog"
+    },
+    {
+      "datum": "19. Januar 2023",
+      "institution": "Civica Biblioteca d’Arte, Milano",
+      "betreff": "Anfrage zum Auktionskatalog: Raccolta Noferini (Milano 1934)",
+      "antwort": "19. Januar 2023: kein Werk von Segantini im Katalog"
+    },
+    {
+      "datum": "7. März 2023",
+      "institution": "La Biblioteca Civica, Padua",
+      "betreff": "Anfrage zu Auktionskatalog: Catalogo di vendita della Raccolta Ilario Ercego (Padua 1934).",
+      "antwort": "9. März 2023: kein Werk von Segantini im Katalog"
+    }
+  ],
+  "archiv_intern": [],
+  "archive_extern": [
+    {
+      "datum": "14. Dezember 2022",
+      "institution": "Archiv Kunsthalle Basel",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/464/464_008_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            549.1,
+            531.9,
+            577.5
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildtitel": "Dossier Martha Nathan, Erledigte Depositen (vor 1960) II",
+          "bildunterschrift": "Liste für das Büro Frau Hugo Nathan (Martha Nathan), Frankfurt am Main, undatiert"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Siehe Datenbank-Recherche zu Lost Art weiter oben."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/464/464_009_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          327.1,
+          346.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. r. Bildträger: vermutlich gestempelte Buchstaben, «[…] B […]», unleserlich",
+        "position_traeger": "o. r. Bildträger",
+        "merkmal": "vermutlich gestempelte Buchstaben, «[…] B […]», unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/464/464_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              384.2,
+              325.7,
+              445.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Bildträger: weisser rechteckiger Zettel, handschriftliches Echtheitszertifikat, teilweise verdeckt durch Parkettierung:",
+        "position_traeger": "o. r. Bildträger",
+        "merkmal": "weisser rechteckiger Zettel, handschriftliches Echtheitszertifikat, teilweise verdeckt durch Parkettierung:",
+        "kommentar": "«Questo quadro, dalle t[…], di fattura so | busta e di trasparente colore ad un […] [a]ppartiene al | periodo in cui Giovanni Segantin[i] […]mentava per | la sicura d’una nuova tecnic[a] […] onde [?] rendere | rieppi[…?] la luminosità, suo inte[…] | Lori [?] Pasini | Milano 17 gennaio 1937 | XV.o»\n\nOffenbar befand sich das Werk im Januar 1937 in Mailand.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/464/464_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              458.2,
+              328.4,
+              555.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich «101 x 64», zweite Angabe unleserlich",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich «101 x 64», zweite Angabe unleserlich",
+        "kommentar": "Die erste Angabe entspricht dem Bildmass.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/464/464_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              329.0,
+              196.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/464/464_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              202.9,
+              327.4,
+              264.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges blaues Etikett mit weisser Bordüre, weiss gedruckt «[…] CASCINE O[LONA] | [F]RAZ. SE[TTI]M[O MIL]AN[ESE] […]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges blaues Etikett mit weisser Bordüre, weiss gedruckt «[…] CASCINE O[LONA] | [F]RAZ. SE[TTI]M[O MIL]AN[ESE] […]»",
+        "kommentar": "Cascine Olona ist ein Quartier von Settimo Milanese, einem Vorort von Milano; eventuell aufgebracht vom Kunsttransport für die Ausstellung 1967.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/464/464_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              277.4,
+              277.3,
+              382.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Bildträger: rechteckiger weisser Zettel, Echtheitszertifikat, teilweise verdeckt durch Parkettierung:",
+        "position_traeger": "o. l. Bildträger",
+        "merkmal": "rechteckiger weisser Zettel, Echtheitszertifikat, teilweise verdeckt durch Parkettierung:",
+        "kommentar": "«Per i [… Se]gantini, rivede con piacere questo bellissimo | dipinto che, indip[…] […]ella sigla apposta in basso a destra, é ricono- | -scibile per la […] pittore di Arco. E’ un’opera della sua prima | operosità, ma già […]azione, quelle visioni e quel modo di risolvere | che consentirà più tardi al Segantini di giungere ai traguardi delle ‹due madri›. | La tradizione della famiglia che ebbe rapporti col Segantini di grande amicizia, e | che possedeva questo quadro in un primo tempo, poi per ragioni ovvie, lo passarono | nella Collezione di una personalità di Padova, e là ebbi modo di rivederlo. Il | dipinto che rappresenta ‹un greggie che rientra nell’ovile› é eseguito su tavola | di cm. 63 x 100. Ogni parte é dipinta con la maestria e l’entusiasmo della giovi- | -nezza dell’artista […] di tocco e non vi si riscontrano quegli abbandoni | melodrammatici, con […] è alla moda di allora. | Non posso che conf[ermare] […] [e]ntusiasmo per quest’opera, e le sarò grato se vorrà | farmi avere una fot[o] […] [qu]adro per l’expertise, e per poterlo inserire nel | volume sulle opere […] Giovanni Segantini che presto sarà alle stampe. | […] le mie espressioni d’ossequio | Giorgio Nicodemi»\n\nverfasst von Giorgio Nicodemi, Kunsthistoriker und Verfasser einer Segantini-Monografie",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/464/464_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              403.7,
+              329.2,
+              523.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/464/464_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              573.7,
+              329.2,
+              679.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail nach Abnahme der Parkettierung"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Quinsac 1982."
+    },
+    {
+      "nr": 2,
+      "text": "Laut Objektdatenbank SKKG ist das Werk unten rechts signiert, gemäss Quinsac 1982 steht dort ein atypisches «S»; auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Ilario Ercego (geb. 1856) war ein aus Recoaro stammender Kaufmann, der 1893 nach Padua zog und gemeinsam mit Giuseppe Carazzolo (1884–1956) die Elektrizität in diese Stadt brachte, siehe: Pietro Casetta, La prima energia elettrica a Padova. Il mulino, l’imprenditore, l’ingegnere, in: Padova e il suo territorio, Jg. 2 (1987), Nr. 7, S. 18–21, http://www.pa-dovaeilsuoterritorio.it/wp-content/uploads/2003/03/fascicolo-07.pdf [8. August 2024]. Wann Ergeco verstarb, ist nicht bekannt, Hinweise auf einen jüdischen Hintergrund gibt es keine; siehe Anfrage an das Staatsarchiv Padua."
+    },
+    {
+      "nr": 4,
+      "text": "Quinsac 1982. Laut Auktionskatalog Zürich 2002 gab es im März 1934 in Padua eine «Vendita della Raccolta Ilario Ercego», Versteigerer war Enrico Somarè (teilweise auch Somaré). Diese Auktion oder ein dazugehöriger Auktionskatalog sind mit diesen Angaben bislang nicht auffindbar (siehe auch Anfragen). 1934 fanden in Mailand jedoch mehrere Auktionen unter Mitarbeit von Somarè statt; zu dreien davon wurde recherchiert (siehe Anfragen), jedoch befand sich kein Segantini darunter. Eine fehlerhafte Angabe ist nicht auszuschliessen."
+    },
+    {
+      "nr": 5,
+      "text": "Quinsac 1982 mit der Anmerkung «riapparso sul mercato milanese nel 1967, quando fu esposto alla Galleria d’Arte Accademia»."
+    },
+    {
+      "nr": 6,
+      "text": "Quinsac 1982. Zumindest 1982, dem Erscheinungsjahr des Werkkatalogs, muss sich das Werk dort befunden haben."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 2002."
+    },
+    {
+      "nr": 8,
+      "text": "Ebd."
+    },
+    {
+      "nr": 9,
+      "text": "Zuschlagspreis gemäss Objektdatenbank SKKG, wo allerdings fälschlicherweise die Zürcher Christie’s-Auktion vom 1. Mai 1986 als Ankaufsort vermerkt ist."
+    },
+    {
+      "nr": 10,
+      "text": "Das im Auktionskatalog erwähnte Gutachten von Quinsac vom 27. Oktober 1989 ist offenbar nicht erhalten."
+    },
+    {
+      "nr": 11,
+      "text": "Angabe gemäss Auktionskatalog Zürich 2002."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe «Archive extern»."
+    },
+    {
+      "nr": 13,
+      "text": "Siehe Datenbank-Recherche zu Lost Art weiter oben."
+    }
+  ],
+  "bilder_anzahl": 16
+}

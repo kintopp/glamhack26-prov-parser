@@ -1,0 +1,717 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1953_221122.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "22. November 2022",
+  "stand_iso": "2022-11-22",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1953",
+      "Félix Vallotton (1865–1925)",
+      "Portrait décoratif de Fedor Dostoïevski",
+      "1901",
+      "Öl auf Malkarton",
+      "79 × 58 cm (Bildmass)",
+      "90 × 70 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1953",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Portrait décoratif de Fedor Dostoïevski",
+    "masse": [
+      "79 × 58 cm (Bildmass)",
+      "90 × 70 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1901",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1953/1953_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.1,
+          482.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      },
+      {
+        "nr": 2,
+        "text": "Laut Ducrey 2005 ist das auf der Vorderseite offenbar mit 1902 datierte Werk bereits 1901 entstanden."
+      },
+      {
+        "nr": 3,
+        "text": "Laut Ducrey 2005 und Objektdatenbank SKKG ist das Werk oben rechts signiert; auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (1865–1925), Paris",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1925 bis 1968",
+      "besitzer": "Jacques Rodrigues-Henriques (1886–1968), Paris, Nr. 2929",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "nach 1968",
+      "besitzer": "Nachlass Jacques Rodrigues-Henriques, Paris",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005, ohne Jahresangabe."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Paris",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 2004."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1988",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, Nr. 76756 (in Kommission)",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1989",
+      "besitzer": "Walter Feilchenfeldt junior (geb. 1939), Zürich",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "7. Juni 2004",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 55, Portait décoratif de Fedor Dostoievski), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 2004."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 7. Juni 2004",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 45 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2004 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 2, Lausanne/Zürich 2005, Nr. 367.",
+        "bilder": [
+          {
+            "datei": "images/1953/1953_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              410.4,
+              293.6,
+              494.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1953/1953_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              292.4,
+              482.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1953/1953_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              488.3,
+              292.1,
+              650.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 460."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 7. Juni 2004, Zürich 2004, Lot 55."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Zürich/Basel, Kollektiv-Ausstellung von Schweizer Künstlern in Paris, 1901, Nr. 136\n\n– La Libre Esthétique, Brüssel, 1902, Nr. 320\n\n– Nabis, Paris, 1902, Nr. 35\n\n– Wien, XVI. Ausstellung der Secession Wien, 1903, Nr. 222\n\n– Paris, Portraits d’hommes, 1907/08, Nr. 134\n\n– Paris, 1955, Nr. 10\n\n– Lausanne, Éxposition anniversaire, 1988, Nr. 120\n\n– München/Essen, 1995/96, Nr. 43\n\n– Bietigheim-Bissingen, 2003, Nr. 10 (Dekoratives Porträt von Dostojewski)",
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]:",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1953/1953_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            191.0,
+            533.0,
+            354.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2004, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1953/1953_006_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          288.1,
+          452.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: rechteckiges weisses Etikett, Christie’s, Auktion Juni 2004",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, Christie’s, Auktion Juni 2004",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              527.2,
+              292.9,
+              649.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton (Bildträger): rechteckiges bräunliches Etikett, gedruckt «Transpor[t] | […] MICH[ELL] & [K]IMBEL | […] | 31, Place du Marché-St-Honoré | […] | Paris», darunter handschriftlich mit blauem Schreibmittel «41» oder «H1»",
+        "position_traeger": "o. m. Malkarton (Bildträger)",
+        "merkmal": "rechteckiges bräunliches Etikett, gedruckt «Transpor[t] | […] MICH[ELL] & [K]IMBEL | […] | 31, Place du Marché-St-Honoré | […] | Paris», darunter handschriftlich mit blauem Schreibmittel «41» oder «H1»",
+        "kommentar": "Offenbar handelt es sich um eine Pariser Transportfirma.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              292.4,
+              267.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Malkarton (Bildträger): langrechteckiges weisses Etikett, Galerie Paul Vallotton, darunter handschriftlich mit blauem Schreibmittel «82»",
+        "position_traeger": "o. r. Malkarton (Bildträger)",
+        "merkmal": "langrechteckiges weisses Etikett, Galerie Paul Vallotton, darunter handschriftlich mit blauem Schreibmittel «82»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              279.8,
+              292.4,
+              367.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Malkarton (Bildträger): handschriftliche Notiz, unleserlich (allenfalls «No [?] T5 [?] | B5. [?] V. [4/9]5»)",
+        "position_traeger": "m. r. Malkarton (Bildträger)",
+        "merkmal": "handschriftliche Notiz, unleserlich (allenfalls «No [?] T5 [?] | B5. [?] V. [4/9]5»)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              380.8,
+              292.4,
+              466.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Malkarton (Bildträger): handschriftlich mit schwarzem Schreibmittel «PH 933 | J. R-H»",
+        "position_traeger": "o. r. Malkarton (Bildträger)",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «PH 933 | J. R-H»",
+        "kommentar": "Initialen von Jacques Rodrigues-Henriques",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              478.8,
+              236.1,
+              551.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton (Bildträger): handschriftlich mit dunkelblauem Schreibmittel «M K 9», durchgestrichen",
+        "position_traeger": "o. m. Malkarton (Bildträger)",
+        "merkmal": "handschriftlich mit dunkelblauem Schreibmittel «M K 9», durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              563.8,
+              292.9,
+              661.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton (Bildträger): quadratisches Etikett mit gezacktem Rand, schwarz gedruckt «14», blau mehrfach durchgestrichen",
+        "position_traeger": "o. m. Malkarton (Bildträger)",
+        "merkmal": "quadratisches Etikett mit gezacktem Rand, schwarz gedruckt «14», blau mehrfach durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              674.4,
+              190.7,
+              722.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. Malkarton (Bildträger): handschriftlich mit grauem Schreibmittel «№ 36 T 3», durchgestrichen",
+        "position_traeger": "m. Malkarton (Bildträger)",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «№ 36 T 3», durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              292.8,
+              188.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. Malkarton (Bildträger): handschriftlich mit schwarzem Schreibmittel «EWS […]»",
+        "position_traeger": "m. Malkarton (Bildträger)",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «EWS […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              201.4,
+              292.7,
+              266.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel Auktion Christie’s, Juni 2004, mit handschriftlich annotiertem Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel Auktion Christie’s, Juni 2004, mit handschriftlich annotiertem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1953/1953_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              279.3,
+              292.9,
+              419.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 15,
+        "text": "Zur Signatur siehe Fn. 3."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Laut Ducrey 2005 ist das auf der Vorderseite offenbar mit 1902 datierte Werk bereits 1901 entstanden."
+    },
+    {
+      "nr": 3,
+      "text": "Laut Ducrey 2005 und Objektdatenbank SKKG ist das Werk oben rechts signiert; auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, S. 2."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005, ohne Jahresangabe."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 2004."
+    },
+    {
+      "nr": 8,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 9,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 10,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 2004."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2004 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 12,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 460."
+    },
+    {
+      "nr": 13,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 14,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 15,
+      "text": "Zur Signatur siehe Fn. 3."
+    }
+  ],
+  "bilder_anzahl": 16
+}

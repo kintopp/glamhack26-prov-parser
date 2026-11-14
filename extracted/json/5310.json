@@ -1,0 +1,667 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5310_250304.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "4. März 2025",
+  "stand_iso": "2025-03-04",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5310",
+      "Frank Buchser (1828–1890)",
+      "Halbakt vor Wasserfall / Huri vor einem",
+      "Wasserfall",
+      "1884/85",
+      "Öl auf Leinwand",
+      "38,7 × 26,2 cm (Bildmass)",
+      "59,5 × 47,5 × 5,6 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5310",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Halbakt vor Wasserfall / Huri vor einem Wasserfall",
+    "masse": [
+      "38,7 × 26,2 cm (Bildmass)",
+      "59,5 × 47,5 × 5,6 cm (Rahmenmass)"
+    ],
+    "datierung": "1884/85",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5310/5310_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          309.8,
+          572.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 2007."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel gemäss Ausstellungskatalog Solothurn 1990."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1885/86",
+      "besitzer": "Privatbesitz, Basel",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Aufschrift auf der Werkrückseite. Der dort vermerkte Käufername ist nicht eindeutig zu entziffern, siehe Provenienzmerkmale. Gemäss Aufschrift wurde das Werk 1885/86 an einer Ausstellung im Schweizerhof, Basel, erworben. Siehe dazu auch Ausstellungskatalog Solothurn 1990."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. März 1914",
+      "besitzer": "Auktion Salon Bollag (Gemälde-Auktion. Nachlässe des Malers A. Herzog †, des Herrn W. † in Basel und Gemälde aus anderem Privatbesitz, Lot 29, Badendes Mädchen am Quell), eingeliefert von unbekannt, vermutlich verkauft",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1914."
+        },
+        {
+          "nr": 5,
+          "text": "Bei der Bleistiftnotiz «700 A» im annotierten Exemplar der Universität Heidelberg dürfte es sich um ein Käuferkürzel mit Zuschlagspreis handeln; das Werk wurde also vermutlich verkauft. Im Folgejahr wurde es ebenfalls im Salon Bollag in einer Ausstellung gezeigt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 28. März 1914 bis o. D.",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ausstellungskatalog Zürich 1915."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1915",
+      "besitzer": "Ausstellung Salon Bollag (Frank Buchser [1828–1890], Nr. 52, Mädchen, Halbakt, an der Waldquelle), Zürich",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ausstellungskatalog Zürich 1915."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Dezember 1959 bis o. D.",
+      "besitzer": "Herman Bloch, Nidau",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Aufschrift auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1990",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Ausstellungskatalog Solothurn 1990, siehe auch Ausstellungsetikett auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "3. Dezember 2007",
+      "besitzer": "Auktion Christie’s (Swiss Art, Lot 46, Halbakt vor Wasserfall), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Auktionskatalog Zürich 2007."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 3. Dezember 2007",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 46 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2007 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Gemälde-Auktion. Nachlässe des Malers A. Herzog †, des Herrn W. † in Basel und Gemälde aus anderem Privatbesitz, Auktionskatalog Salon Bollag, Zürich, 28. März 1914, Zürich, Zürich 1914, Lot 29, https://digi.ub.uni-heidelberg.de/diglit/bollag1914_03_28/0009 [12. Februar 2025].\n\nSwiss Art, Auktionskatalog Christie’s, Zürich, 3. Dezember 2007, Zürich 2007, Lot 46.",
+        "bilder": [
+          {
+            "datei": "images/5310/5310_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              574.4,
+              422.0,
+              618.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Frank Buchser (1828–1890), Ausstellungskatalog Salon Bollag, Zürich, Zürich 1915, S. 28, Nr. 52, https://doi.org/10.11588/diglit.73099#0030 [12. Februar 2025].",
+        "bilder": [
+          {
+            "datei": "images/5310/5310_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              215.5,
+              421.7,
+              239.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Frank Buchser. 1828–1890, Ausstellungskatalog Kunstmuseum Solothurn, 9. Juni bis 16. September 1990, Einsiedeln 1990, S. 88/89, Nr. 4.8."
+          },
+          {
+            "datei": "images/5310/5310_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.7,
+              296.2,
+              304.3,
+              381.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          },
+          {
+            "datei": "images/5310/5310_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              387.3,
+              306.7,
+              557.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Hersteller/Künst-ler/Autor:in «Buchser» [6. Juni 2023].",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Buchser», Filter 2: Titel einschränken «automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise) ohne Filter [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5310/5310_006_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            517.3,
+            533.0,
+            686.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2007, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5310/5310_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            260.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kopie des lotspezifischen Ausschnitts aus dem Auktionskatalog Zürich 2007, annotiert mit Zuschlagspreis (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5310/5310_008_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          328.5,
+          495.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. Keilrahmen: handschriftlich mit Bleistift «F. Buchser», wohl aufgebracht vom Künstler",
+        "position_traeger": "o. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «F. Buchser», wohl aufgebracht vom Künstler",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              557.9,
+              328.0,
+              611.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. Leinwand: handschriftlich mit grauem Schreibmittel wohl «22»",
+        "position_traeger": "r. Leinwand",
+        "merkmal": "handschriftlich mit grauem Schreibmittel wohl «22»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              624.7,
+              217.2,
+              696.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. Keilrahmen: Fragment eines gezahnten weissen Klebeetiketts mit blauer Bordüre",
+        "position_traeger": "r. Keilrahmen",
+        "merkmal": "Fragment eines gezahnten weissen Klebeetiketts mit blauer Bordüre",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              213.1,
+              251.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. Keilrahmen: handschriftlich mit blauem Schreibmittel «22»",
+        "position_traeger": "r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «22»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              263.9,
+              213.1,
+              353.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: rechteckiges weisses Klebeetikett, schwarz bedruckt",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett, schwarz bedruckt",
+        "kommentar": "Transportfirma Welti-Furrer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              366.4,
+              327.5,
+              485.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. Keilrahmen (unter Etiketten): handschriftlich mit Bleistift «Aus der Ausstellung im Schweizerhof | in Basel [...] 1885/6 angekauft | von F. [Hei? ...] Basel» (Name nicht entzifferbar)",
+        "position_traeger": "u. Keilrahmen (unter Etiketten)",
+        "merkmal": "handschriftlich mit Bleistift «Aus der Ausstellung im Schweizerhof | in Basel [...] 1885/6 angekauft | von F. [Hei? ...] Basel» (Name nicht entzifferbar)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              497.5,
+              327.5,
+              561.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: rechteckiges weisses Klebeetikett, schwarz bedruckt",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett, schwarz bedruckt",
+        "kommentar": "Ausstellung Kunstmuseum Solothurn 1990, Nr. 4.8",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              574.5,
+              327.5,
+              674.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Leinwand: handschriftlich wohl mit blauem Kugelschreiber «Erw. 5.12.59 | Herman Bloch, Nidau»",
+        "position_traeger": "l. u. Leinwand",
+        "merkmal": "handschriftlich wohl mit blauem Kugelschreiber «Erw. 5.12.59 | Herman Bloch, Nidau»",
+        "kommentar": "vermutlich Erwerbsdatum und Eigentümer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              326.6,
+              191.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (unter Etikett): handschriftlich mit weisser Kreide «29»",
+        "position_traeger": "o. l. Keilrahmen (unter Etikett)",
+        "merkmal": "handschriftlich mit weisser Kreide «29»",
+        "kommentar": "Lotnummer Auktion Salon Bollag 1914",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              228.2,
+              326.3,
+              327.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «23961»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «23961»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5310/5310_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              339.7,
+              226.3,
+              380.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 2007."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel gemäss Ausstellungskatalog Solothurn 1990."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Aufschrift auf der Werkrückseite. Der dort vermerkte Käufername ist nicht eindeutig zu entziffern, siehe Provenienzmerkmale. Gemäss Aufschrift wurde das Werk 1885/86 an einer Ausstellung im Schweizerhof, Basel, erworben. Siehe dazu auch Ausstellungskatalog Solothurn 1990."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1914."
+    },
+    {
+      "nr": 5,
+      "text": "Bei der Bleistiftnotiz «700 A» im annotierten Exemplar der Universität Heidelberg dürfte es sich um ein Käuferkürzel mit Zuschlagspreis handeln; das Werk wurde also vermutlich verkauft. Im Folgejahr wurde es ebenfalls im Salon Bollag in einer Ausstellung gezeigt."
+    },
+    {
+      "nr": 6,
+      "text": "Ausstellungskatalog Zürich 1915."
+    },
+    {
+      "nr": 7,
+      "text": "Ausstellungskatalog Zürich 1915."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Aufschrift auf der Werkrückseite."
+    },
+    {
+      "nr": 9,
+      "text": "Ausstellungskatalog Solothurn 1990, siehe auch Ausstellungsetikett auf der Werkrückseite."
+    },
+    {
+      "nr": 10,
+      "text": "Auktionskatalog Zürich 2007."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2007 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 18
+}

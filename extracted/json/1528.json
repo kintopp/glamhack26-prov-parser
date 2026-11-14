@@ -1,0 +1,816 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1528_240516.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "16. Mai 2024",
+  "stand_iso": "2024-05-16",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1528",
+      "Ferdinand Hodler (1853–1918)",
+      "Mondschein am Genfersee",
+      "um 1881",
+      "Öl auf Leinwand",
+      "17 × 25 cm (Bildmass)",
+      "23 × 30,5 × 3,5 cm (Rahmenmass)",
+      "unsigniert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1528",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Mondschein am Genfersee",
+    "masse": [
+      "17 × 25 cm (Bildmass)",
+      "23 × 30,5 × 3,5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1881",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "unsigniert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1528/1528_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.2,
+          430.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Bolleter 2009."
+      },
+      {
+        "nr": 2,
+        "text": "Das Werk weist auf der Rückseite jedoch eine notariell beglaubigte Echtheitsbestätigung von Berthe Hodler-Jacques auf, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "17. Mai 1920",
+      "besitzer": "Berthe Hodler-Jacques (1868–1957), Genf",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Echtheitsbestätigung von Berthe Hodler-Jacques vom 17. Mai 1920 auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1950 bis 1952",
+      "besitzer": "Alfred Dimier (1870–1952), Genf",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Bern 1979, Bolleter 2009."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1952 bis 22. Juni 1979",
+      "besitzer": "Erbinnen und Erben nach Alfred Dimier, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Bolleter 2009. Für infrage kommende Personen siehe Todesanzeige Alfred Dimier, in: Tribune de Genève, Jg. 74, Nr. 53, 3. März 1952, S. 13, https://www.e-newspaperarchives.ch/?a=d&d=TDG19520303-01.2.42 [2. Februar 2026]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20.–22. Juni 1979",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des neunzehnten und zwanzigsten Jahrhunderts, Lot 533, Barque de Meillerie, Lac de Genève), Bern, eingeliefert von Erbinnen und Erben nach Albert Dimier",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Bern 1979, Bolleter 2009."
+        },
+        {
+          "nr": 7,
+          "text": "Bolleter 2009. Gemäss Auskunft der Galerie Kornfeld vom 28. Oktober 2022 wurde das Werk von «Alfred Dimier, Genf» eingeliefert, siehe Anfragen. Da dieser 1952 verstorben ist und die Auktion 1979 stattfand, werden damit dessen Erbinnen und Erben gemeint sein."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20. Juni 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Kornfeld, Zuschlagspreis: 11 500 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Bern 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Regula Bolleter, Mondschein am Genfersee, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 1. Die Landschaften, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2009, Nr. 95, https://re-cherche.sik-isea.ch/sik:work-11723809 [22. November 2023].",
+        "bilder": [
+          {
+            "datei": "images/1528/1528_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              398.0,
+              533.2,
+              616.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des neunzehnten und zwanzigsten Jahrhunderts. Bilder. Aquarelle. Zeichnungen. Graphik. Skulpturen. Autographen. Illustrierte Bücher […], Auktionskatalog Galerie Kornfeld, Bern, 20.– 22. Juni 1979, Bern 1979, Lot 533."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Exposition F. Hodler, 1853–1918, Ausstellungskatalog Athénée, Genf, 8.–21. September 1950, Genf 1950, Nr. 3 (Clair de lune sur le lac).",
+        "bilder": [
+          {
+            "datei": "images/1528/1528_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              185.9,
+              379.1,
+              195.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Athénée, Genf, 8.–21. September 1950, Exposition F. Hodler, 1853–1918, Nr. 3."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]:",
+            "treffer": 1,
+            "ergebnisse": 53,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "Ferdinand Hodler, Landschaft mit Kahn, 28,5 × 35,5 cm, Angebotsdatum: 11. Dezember 1934, Anbieter: E. Schall, Berlin, Ankaufspreis: 300 Reichsmark, siehe http://heinemann.gnm.de/de/kunstwerk-42301.htm."
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/1528/1528_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              555.4,
+              530.9,
+              638.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann",
+            "bildunterschrift": "Die Massangabe weicht um mehrere Zentimeter von den Dimensionen des vorliegenden Gemäldes ab. Wahrscheinlich handelt es sich um ein anderes Objekt."
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Ferdinand Hodler» und Titel «Mond» [15. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-15"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Ferdinand Hodler» und Titel «Lune» [15. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Ferdinand Hodler» und Titel «Lac» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Ferdinand Hodler» und Titel «Lac Genève» [15. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-15"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Ferdinand Hodler» und Titel «Genfersee» [15. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-15"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche nach Volltext/Metadaten «Genfer See» und Autor «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Ferdinand Hodler» und Titel «Barque» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Ferdinand Hodler» und Titel «Meillerie» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Mondschein» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [22. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "26. Oktober 2022",
+      "institution": "Galerie Kornfeld, Bern",
+      "betreff": "Anfrage zur Einlieferung bei der Auktion Bern 1979",
+      "antwort": "28. Oktober 2022: Das Werk wurde von Albert Dimier, Genf, eingeliefert."
+    },
+    {
+      "datum": "14. Mai 2024",
+      "institution": "Société des Arts de Genève, Palais de l’Athénée",
+      "betreff": "Anfrage zur Einlieferung bei der Ausstellung Genf 1950",
+      "antwort": "15. Mai 2024: Verweis auf Online-Suche im Archiv der\n\nSociété des Arts und Konsultation vor Ort"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1528/1528_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            247.0,
+            535.7,
+            303.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1979, annotiert von Bruno Stefanini, Provenienzangabe: «Ehem. Slg. Alfred Dimier»"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "–",
+      "institution": "Archives de la Ville de Genève (Stadtarchiv Genf)",
+      "bestand": "340.E.1.66: Musée d’art et d’histoire (MAH), Expositions temporaires, Collection Alfred Dimier, du 11.4.1953 au 28.4.1953, siehe https://archives.ge-neve.ch/ark:/30782/vtada4164ac 6aeeac25.\n\nEs handelt sich um Unterlagen zur Ausstellung «Collection Alfred Dimier» vom April 1953 im Musée Rath, Genf. Sie wurden nicht konsultiert, da das Werk im Ausstellungskatalog (Collection Alfred Dimier, Musée Rath, Genf 1953) nicht verzeichnet ist und demnach nicht Teil der Ausstellung war."
+    },
+    {
+      "datum": "15. Mai 2023",
+      "institution": "Société des Arts de Genève",
+      "bestand": "SDA.3617: Invitations et livrets des expositions de la Société des Amis des Beaux-Arts à l’Athénée, siehe https://archives.societede-sarts.ch/sda.3617 [nicht konsultiert].\n\nEs handelt sich um Unterlagen unter anderem zur Ausstellung Genf 1950."
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1528/1528_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          322.4,
+          348.5,
+          538.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: schwarz gestempelt und teilweise handschriftlich mit schwarzer Tinte «Légalisation | Me Ernest Ramseyer, notaire du canton de Berne, | résidant à Berne, certifie par les présentes que la | signature ci-dessus „Berthe Hodler“ a été apposée en | sa présence par Madame Berthe Hodler née Jacques, | veuve de feu Ferdinand Hodler, domicilié à Genève, | personnellement connue du notaire. | Berne le dixsept Mai mil",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "schwarz gestempelt und teilweise handschriftlich mit schwarzer Tinte «Légalisation | Me Ernest Ramseyer, notaire du canton de Berne, | résidant à Berne, certifie par les présentes que la | signature ci-dessus „Berthe Hodler“ a été apposée en | sa présence par Madame Berthe Hodler née Jacques, | veuve de feu Ferdinand Hodler, domicilié à Genève, | personnellement connue du notaire. | Berne le dixsept Mai mil",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              600.9,
+              348.7,
+              752.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "neuf cent vingt | D. d. 17 Mai 1920 | E. Ramseyer»",
+        "position_traeger": null,
+        "merkmal": null,
+        "kommentar": "notarielle Beglaubigung der Echtheitsbestätigung von Berthe Hodler vom 17. Mai 1920 (siehe unten) durch Ernst Ramseyer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              165.1,
+              348.7,
+              304.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Zum Vergleich: analoger Stempelabdruck auf anderem Werk"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Siehe Rückseite des Werks mit der SKKG-Inventarnummer 4957."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m./r. Leinwand: schwarz gestempelt und stellenweise handschriftlich mit schwarzer Tinte nachgezogen «Je soussignée, Berthe Hodler née Jacques | certifie que la peinture ci-contre est de la main | de mon mari, Ferdinand Hodler, de son vivant | domicilié à Genève. | Berthe Hodler»",
+        "position_traeger": "m./r. Leinwand",
+        "merkmal": "schwarz gestempelt und stellenweise handschriftlich mit schwarzer Tinte nachgezogen «Je soussignée, Berthe Hodler née Jacques | certifie que la peinture ci-contre est de la main | de mon mari, Ferdinand Hodler, de son vivant | domicilié à Genève. | Berthe Hodler»",
+        "kommentar": "Echtheitsbestätigung von Berthe Hodler vom 17. Mai 1920",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              317.5,
+              348.8,
+              412.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildunterschrift": "Zum Vergleich: analoger Stempelabdruck auf anderem Werk"
+          },
+          {
+            "datei": "images/1528/1528_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              457.3,
+              347.9,
+              541.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Ebd."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: Reste eines gezahnten weissen Etiketts mit blauer Bordüre, handschriftlich mit verbräunter Tinte beschrieben",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "Reste eines gezahnten weissen Etiketts mit blauer Bordüre, handschriftlich mit verbräunter Tinte beschrieben",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              554.2,
+              295.5,
+              605.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: rechteckiges beiges Etikett, schwarz gestempelt «ALFRED DIMIER | [10,?] Rue de Beaumont, 10 | GENÈVE»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "rechteckiges beiges Etikett, schwarz gestempelt «ALFRED DIMIER | [10,?] Rue de Beaumont, 10 | GENÈVE»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              135.9,
+              618.0,
+              295.8,
+              697.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit Bleistift «Kornfeld- | Auktion | Juni 79 | – 533 –»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit Bleistift «Kornfeld- | Auktion | Juni 79 | – 533 –»",
+        "kommentar": "Erwebsnachweis mit Lotnummer der Auktion Kornfeld 1979, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              295.8,
+              256.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «Barque de Meiller[ie]»",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Barque de Meiller[ie]»",
+        "kommentar": "Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              269.3,
+              346.3,
+              307.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: verbräuntes rechteckiges Etikett, violett gestempelt «9» oder «6»",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, violett gestempelt «9» oder «6»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              345.0,
+              212.4,
+              399.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Spannrahmen: rechteckiges weisses Etikett, gezahnt mit blauer Bordüre, schwarz maschinengeschrieben «Barque de Meille | rie. | Lac de Genève» (letzte Zeile unterstrichen)",
+        "position_traeger": "u. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Etikett, gezahnt mit blauer Bordüre, schwarz maschinengeschrieben «Barque de Meille | rie. | Lac de Genève» (letzte Zeile unterstrichen)",
+        "kommentar": "Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              412.1,
+              295.8,
+              523.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Spannrahmen: rechteckiges weisses Etikett mit gezahntem Rand und blauer Bordüre, violett gestempelt «296»",
+        "position_traeger": "u. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit gezahntem Rand und blauer Bordüre, violett gestempelt «296»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              536.0,
+              220.5,
+              606.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «F.H»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «F.H»",
+        "kommentar": "Initialen des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              619.0,
+              220.5,
+              690.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: Reste eines angehefteten weissen Etiketts",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "Reste eines angehefteten weissen Etiketts",
+        "kommentar": "vormalige Anbringstelle des Erwerbsnachweises",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              348.7,
+              241.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Die oben links am Spannrahmen verbliebenen Papierstücke entsprechen den Beschädigungen des unten rechts am Zierrahmen befindlichen Erwerbsnachweises. Offenbar war er dort angebracht gewesen, ehe er entfernt und an neuer Stelle angeheftet wurde."
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «11»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «11»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.8,
+              254.4,
+              215.7,
+              328.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: schwarz schabloniert «5» (teilweise verdeckt)",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "schwarz schabloniert «5» (teilweise verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1528/1528_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              340.9,
+              216.9,
+              428.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Bolleter 2009."
+    },
+    {
+      "nr": 2,
+      "text": "Das Werk weist auf der Rückseite jedoch eine notariell beglaubigte Echtheitsbestätigung von Berthe Hodler-Jacques auf, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Echtheitsbestätigung von Berthe Hodler-Jacques vom 17. Mai 1920 auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Bern 1979, Bolleter 2009."
+    },
+    {
+      "nr": 5,
+      "text": "Bolleter 2009. Für infrage kommende Personen siehe Todesanzeige Alfred Dimier, in: Tribune de Genève, Jg. 74, Nr. 53, 3. März 1952, S. 13, https://www.e-newspaperarchives.ch/?a=d&d=TDG19520303-01.2.42 [2. Februar 2026]."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Bern 1979, Bolleter 2009."
+    },
+    {
+      "nr": 7,
+      "text": "Bolleter 2009. Gemäss Auskunft der Galerie Kornfeld vom 28. Oktober 2022 wurde das Werk von «Alfred Dimier, Genf» eingeliefert, siehe Anfragen. Da dieser 1952 verstorben ist und die Auktion 1979 stattfand, werden damit dessen Erbinnen und Erben gemeint sein."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Bern 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Rückseite des Werks mit der SKKG-Inventarnummer 4957."
+    },
+    {
+      "nr": 10,
+      "text": "Ebd."
+    },
+    {
+      "nr": 11,
+      "text": "Die oben links am Spannrahmen verbliebenen Papierstücke entsprechen den Beschädigungen des unten rechts am Zierrahmen befindlichen Erwerbsnachweises. Offenbar war er dort angebracht gewesen, ehe er entfernt und an neuer Stelle angeheftet wurde."
+    }
+  ],
+  "bilder_anzahl": 21
+}

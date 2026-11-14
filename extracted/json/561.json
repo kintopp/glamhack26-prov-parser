@@ -1,0 +1,668 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_561_230209.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "9. Februar 2023",
+  "stand_iso": "2023-02-09",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 561",
+      "Félix Vallotton (1865–1925)",
+      "Baigneuse au rocher rouge",
+      "1908",
+      "Öl auf Leinwand",
+      "117 × 89 cm (Bildmass)",
+      "138 × 111 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "561",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Baigneuse au rocher rouge",
+    "masse": [
+      "117 × 89 cm (Bildmass)",
+      "138 × 111 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1908",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/561/561_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.5,
+          551.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005. Auf der Rechnung der Galerie Römer (1999) im Archiv SKKG wird das Werk als Femme au collier rouge bezeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1909",
+      "besitzer": "Galerie Druet, Paris, Nr. 5486, erworben beim Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "vermutlich Madame Boch",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005 sowie Rechnung der Galerie Römer im Archiv SKKG mit der Angabe «Mme Boch (? selon archives Druet, BN)». Vermutlich ist die aus der Industriellenfamilie Boch (Villeroy & Boch) stammende Malerin Anna Boch (1848–1936) gemeint. Anna und ihr Bruder Eugène (1855–1941), ebenfalls Künstler, sammelten zeitgenössische Werke. Laut einem Nachfahren haben sich in Eugène Bochs Sammlung «Baigneuses» (ohne weitere Angaben) von Vallotton befunden, siehe http://eugeneboch.com/collection [7. November 2022]. Der Zeitpunkt dieser Station ist unklar, muss jedoch vor 1938 liegen, da die in der Archivalie als Quelle angegebene Galerie Druet in jenem Jahr geschlossen wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Bruno Meissner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1984 bis vermutlich 1988",
+      "besitzer": "Prof. Fritz Lüthy (1895–1988), Zürich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005 (ohne Namen und Jahr) sowie Rechnung der Galerie Römer im Archiv SKKG. Es ist anzunehmen, dass sich das Werk bis zum Tod des Eigentümers in dessen Sammlung befand."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1988 bis 1. Juni 1999",
+      "besitzer": "vermutlich Erbengemeinschaft Prof. Fritz Lüthy, Zürich",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Vermutlich war das Werk nach Fritz Lüthys Tod im Eigentum der Erbengemeinschaft, in deren Namen die Rechnung im Archiv SKKG ausgestellt wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 1. Juni 1999",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, bei der Erbengemeinschaft Fritz Lüthy, vermittelt durch die Galerie Römer, Zürich, Ankaufspreis: 120 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Rechnung der Galerie Römer im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 2, Lausanne/Zürich 2005, Nr. 671.",
+        "bilder": [
+          {
+            "datei": "images/561/561_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              435.7,
+              388.8,
+              526.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 653."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Zürich, 1909, Nr. 65, 67, 68, 69 oder 72 (Baigneuse)\n\n– Paris, 1910, Nr. 22 (Le collier rouge)\n\n– Zürich, 1994/95",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Möglich wäre die Jeune femme (https://www.errproject.org/jeu-depaume/card_view.php?CardId=57221 [28. Oktober 2022]), die jedoch aufgrund mangelnder Angaben nicht identifiziert werden kann.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "8. November 2022 und 9. Februar 2023 (Nachfrage, da keine Antwort)",
+      "institution": "Archiv Eugène und Anna Boch, Art Collection Eugene Boch (http://eugene-boch.com/collection)",
+      "betreff": "Demande concernant un tableau de la collection Anna/Eugène Boch",
+      "antwort": "–"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.216.434, NF_0035 (Diverse Künstler: Korrespondenz (1985–2014)): Faszikel zu «Vallotton» konsultiert, keine relevanten Informationen zu diesem Werk"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565, NF_0246",
+      "bilder": [
+        {
+          "datei": "images/561/561_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            158.4,
+            531.3,
+            369.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/561/561_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            375.9,
+            531.2,
+            562.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/561/561_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            569.5,
+            531.2,
+            629.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung Galerie Römer, Zürich, 1. Juni 1999"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/561/561_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          341.4,
+          305.4,
+          645.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: langrechteckiges beiges Etikett der Galerie Druet, handschriftlich «20 […] | Vallo[tton] | Femme au collier roug[e …] 46 x 19»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "langrechteckiges beiges Etikett der Galerie Druet, handschriftlich «20 […] | Vallo[tton] | Femme au collier roug[e …] 46 x 19»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              306.9,
+              234.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. senkrechte Mittelstrebe Keilrahmen: gestempelt «SCHWEIZER ZOLLAMT | ZÜ-RICH-EM[BRACH?]»",
+        "position_traeger": "o. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "gestempelt «SCHWEIZER ZOLLAMT | ZÜ-RICH-EM[BRACH?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              247.3,
+              227.1,
+              331.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. senkrechte Mittelstrebe Keilrahmen: achteckiges weisses Etikett mit blauer Bordüre, handschriftlich «10. | Baigneuses soir»",
+        "position_traeger": "o. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "achteckiges weisses Etikett mit blauer Bordüre, handschriftlich «10. | Baigneuses soir»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              343.8,
+              302.7,
+              447.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. senkrechte Mittelstrebe Keilrahmen: Stempel Galerie Bruno Meissner, Zürich",
+        "position_traeger": "o. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "Stempel Galerie Bruno Meissner, Zürich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              460.0,
+              230.1,
+              502.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. senkrechte Mittelstrebe Keilrahmen: gestempelt «MODÈLE DÉPOSÉ» mit Buchstabe «B» in Rhombus",
+        "position_traeger": "m. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "gestempelt «MODÈLE DÉPOSÉ» mit Buchstabe «B» in Rhombus",
+        "kommentar": "vermutlich Patentschutz des Rahmenherstellers für Keilrahmen",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              515.0,
+              208.3,
+              566.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: Reste eines langrechteckigen beigen Etiketts, gedruckt «Schweizer[ische …] | 5»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen beigen Etiketts, gedruckt «Schweizer[ische …] | 5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.8,
+              603.4,
+              200.0,
+              703.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: Reste eines langrechteckigen beigen Etiketts, gedruckt «[Pa?]ris»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen beigen Etiketts, gedruckt «[Pa?]ris»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              140.0,
+              222.3,
+              252.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier- und o. l. Keilrahmen: Etikett mit SIK-Nummer 19801",
+        "position_traeger": "o. l. Zier- und o. l. Keilrahmen",
+        "merkmal": "Etikett mit SIK-Nummer 19801",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              265.1,
+              215.7,
+              308.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/561/561_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              314.6,
+              215.7,
+              353.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: langrechteckiges weisses Etikett mit abgerundeten Ecken, gedruckt «Galerie Römer Rankstrasse 23 8001 Zürich | Ausstellung Félix Vallotton 2.12.1994–11.2.1995»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett mit abgerundeten Ecken, gedruckt «Galerie Römer Rankstrasse 23 8001 Zürich | Ausstellung Félix Vallotton 2.12.1994–11.2.1995»",
+        "kommentar": "Die Galerie Römer war 1999 Vermittlerin beim Ankauf.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/561/561_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              366.1,
+              306.0,
+              433.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005. Auf der Rechnung der Galerie Römer (1999) im Archiv SKKG wird das Werk als Femme au collier rouge bezeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005 sowie Rechnung der Galerie Römer im Archiv SKKG mit der Angabe «Mme Boch (? selon archives Druet, BN)». Vermutlich ist die aus der Industriellenfamilie Boch (Villeroy & Boch) stammende Malerin Anna Boch (1848–1936) gemeint. Anna und ihr Bruder Eugène (1855–1941), ebenfalls Künstler, sammelten zeitgenössische Werke. Laut einem Nachfahren haben sich in Eugène Bochs Sammlung «Baigneuses» (ohne weitere Angaben) von Vallotton befunden, siehe http://eugeneboch.com/collection [7. November 2022]. Der Zeitpunkt dieser Station ist unklar, muss jedoch vor 1938 liegen, da die in der Archivalie als Quelle angegebene Galerie Druet in jenem Jahr geschlossen wurde."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005 (ohne Namen und Jahr) sowie Rechnung der Galerie Römer im Archiv SKKG. Es ist anzunehmen, dass sich das Werk bis zum Tod des Eigentümers in dessen Sammlung befand."
+    },
+    {
+      "nr": 6,
+      "text": "Vermutlich war das Werk nach Fritz Lüthys Tod im Eigentum der Erbengemeinschaft, in deren Namen die Rechnung im Archiv SKKG ausgestellt wurde."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Rechnung der Galerie Römer im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 653."
+    },
+    {
+      "nr": 9,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 10,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    }
+  ],
+  "bilder_anzahl": 16
+}

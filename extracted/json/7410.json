@@ -1,0 +1,387 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7410_241212.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "12. Dezember 2024",
+  "stand_iso": "2024-12-12",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7410",
+      "Albert Anker (1831–1910)",
+      "Mädchen, die Haare flechtend",
+      "um 1887",
+      "Kohle auf Papier",
+      "36 × 27 cm (Bildmass)",
+      "53,9 × 43,3 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7410",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Mädchen, die Haare flechtend",
+    "masse": [
+      "36 × 27 cm (Bildmass)",
+      "53,9 × 43,3 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1887",
+    "technik": "Kohle auf Papier",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7410/7410_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.6,
+          548.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel des finalen Werks (Ölgemälde), siehe Kuthy/Bhattacharya-Stettler 1995. Das Ölgemälde befindet sich ebenfalls im Besitz der SKKG (Inventarnummer 5206)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 30. Juni 2012",
+      "besitzer": "Privatbesitz, Kanton Waadt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Lausanne 2012, siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. Juni 2012",
+      "besitzer": "Auktion Hôtel des Ventes (Lot 526, Jeune fille tressant ses cheveux), Lausanne",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Lausanne 2012, siehe Erwerbsnachweis auf der Werkrückseite. Die darauf befindlichen Literaturangaben beziehen sich auf das gleichnamige Ölgemälde, siehe auch Fn. 1."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 30. Juni 2012",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Hôtel des Ventes, Zuschlagspreis: 33 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Rechnung von Hôtel des Ventes an die SKKG vom 30. Juni 2012 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktionskatalog Lausanne 2012: Der Katalog der Auktion Hôtel des Ventes 2012 fehlt im Archiv SKKG. Siehe Erwerbsnachweis auf der Werkrückseite für Angaben zu Lot 526."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Finales Werk: Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 185, Nr. 378."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Volltextsuche «Mädchen» und «Haare» und «flechten» und «Anker» [13. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2023-06-13"
+          },
+          {
+            "text": "0 Treffer (154 Ergebnisse) für Volltextsuche «jeune fille» und «Anker» [13. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 154,
+            "datum": "2023-06-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "13. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.2.2 (PDF, S. 216)",
+      "bilder": [
+        {
+          "datei": "images/7410/7410_002_archiv_intern.png",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            510.8,
+            533.0,
+            693.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Therese Bhattacharya-Stettler an Kurt Meissner vom 27. März 1997 mit Erwähnung einer «grossformatige[n] Kohlezeichnung Ankers von einem ‹sich kämmenden Mädchen› (datiert ca. 1890)» anlässlich einer «Vorbesichtigung von Christie’s im Hotel Bellevue in Bern»."
+        },
+        {
+          "datei": "images/7410/7410_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            342.2,
+            533.0,
+            568.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildtitel": "Diese Aussage bezieht sich auf eine ähnliche, jedoch andere Zeichnung, nämlich Lot 36 der Christie’s-Auktion vom 14. April 1997 in Zürich. Die Berner Vorbesichtigung fand am 25./26. März im besagten Hotel Bellevue statt. Die Zeichnung unterscheidet sich im Motiv und ist deutlich grösser",
+          "bildunterschrift": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 14. April 1997, Zürich 1997, Lot 36 (nicht angekauft), von Bruno Stefanini annotiertes Exemplar im Archiv SKKG"
+        }
+      ]
+    },
+    {
+      "datum": "13. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.626",
+      "bilder": [
+        {
+          "datei": "images/7410/7410_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            158.4,
+            532.4,
+            216.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Hôtel des Ventes, Lausanne, an die SKKG, Winterthur, vom 30. Juni 2012"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7410/7410_005_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          291.7,
+          450.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Blatt: handschriftlich mit weissem Schreibmittel «Anker»",
+        "position_traeger": "u. l. Blatt",
+        "merkmal": "handschriftlich mit weissem Schreibmittel «Anker»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7410/7410_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              488.3,
+              229.0,
+              537.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter weisser Zettel, lotspezifische Kopie aus Auktionskatalog Lausanne 2012, handschriftlich mit schwarzem Schreibmittel «Z 33’000»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter weisser Zettel, lotspezifische Kopie aus Auktionskatalog Lausanne 2012, handschriftlich mit schwarzem Schreibmittel «Z 33’000»",
+        "kommentar": "Erwerbsnachweis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7410/7410_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              551.4,
+              291.5,
+              667.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Die Rückseite ist vollflächig mit einem Karton verklebt. Es ist jedoch nicht mit Provenienzmerkmalen darunter zu rechnen, da der Karton wohl primär und nicht nachträglich aufgebracht wurde."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel des finalen Werks (Ölgemälde), siehe Kuthy/Bhattacharya-Stettler 1995. Das Ölgemälde befindet sich ebenfalls im Besitz der SKKG (Inventarnummer 5206)."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Lausanne 2012, siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Lausanne 2012, siehe Erwerbsnachweis auf der Werkrückseite. Die darauf befindlichen Literaturangaben beziehen sich auf das gleichnamige Ölgemälde, siehe auch Fn. 1."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Rechnung von Hôtel des Ventes an die SKKG vom 30. Juni 2012 im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Die Rückseite ist vollflächig mit einem Karton verklebt. Es ist jedoch nicht mit Provenienzmerkmalen darunter zu rechnen, da der Karton wohl primär und nicht nachträglich aufgebracht wurde."
+    }
+  ],
+  "bilder_anzahl": 7
+}

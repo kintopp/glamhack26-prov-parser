@@ -1,0 +1,686 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1856_231026.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2023",
+  "stand_iso": "2023-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1856",
+      "Anonym, irrtümlich Ferdinand Hodler (1853–1918)",
+      "zugeschrieben",
+      "Krieger mit Hellebarde",
+      "o. J.",
+      "Öl auf Leinwand",
+      "176 × 135 cm (Bildmass)",
+      "186 × 144 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1856",
+    "status": "Ungeklärt",
+    "kuenstler": "Anonym, irrtümlich Ferdinand Hodler (1853–1918) / zugeschrieben",
+    "titel": "Krieger mit Hellebarde",
+    "masse": [
+      "176 × 135 cm (Bildmass)",
+      "186 × 144 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1856/1856_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          63.5,
+          247.3,
+          256.5,
+          492.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Im Auktionskatalog Zürich 1970 sowie im Auktionskatalog Zürich 1996 wurde das Werk eindeutig Ferdinand Hodler zugeschrieben. Der erstere Katalog erwähnt eine Echtheitsbestätigung von Hodler-Experte Jura Brüschweiler. Müller 2017 zufolge handelt es sich um kein authentisches Werk, siehe auch Fn. 3."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel nach Müller 2017."
+      },
+      {
+        "nr": 3,
+        "text": "Müller 2017 zufolge ist die Signatur nicht authentisch."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "28. Oktober bis 10. November 1970",
+      "besitzer": "Auktion Galerie Koller (Auktion 24, Lot 2963, Stehender Krieger mit Hallbarte [sic]), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1970. Die von Müller 2017 angegebene Auktion ist unrichtig; im entsprechenden Auktionskatalog der Galerie Koller (Auktion 25, Juni 1971) ist das Werk nicht aufzufinden."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 1977 bis spätestens 1980",
+      "besitzer": "Alfons Wey-Leuthard (1908–1980), Villmergen",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Ausstellungsetikett auf der Werkrückseite sowie Müller 2017. Zu Alfons Wey siehe https://www.portraitar-chiv.ch/portrait/show/279760 [26. Oktober 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "10. Dezember 1996",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 96, Krieger mit Hellebarde), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Müller 2017, Auktionskatalog Zürich 1996."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 10. Dezember 1996",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 100 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1996 im Archiv SKKG sowie Erwerbsnachweis im Archiv SKKG und in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller, Krieger mit Hellebarde, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Die Figurenbilder. Teilband 2, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2017, Nr. R123, https://recherche.sik-isea.ch/sik:work-9899671 [24. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/1856/1856_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              533.2,
+              474.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1856/1856_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              481.1,
+              533.2,
+              593.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion 24, Auktionskatalog Galerie Koller, Zürich, 28. Oktober bis 10. November 1970, Zürich 1970, Lot 2963.",
+        "bilder": [
+          {
+            "datei": "images/1856/1856_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.1,
+              368.1,
+              255.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          },
+          {
+            "datei": "images/1856/1856_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              261.4,
+              362.7,
+              490.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 10. Dezember 1996, Zürich 1996, Lot 96."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Von Hodler zu Noland, Ausstellungskatalog Aargauer Kunsthaus, Aarau, 4. Juni bis 17. Juli 1977, Aarau 1977, Nr. 19 [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Aargauer Kunsthaus, Aarau, 4. Juni bis 17. Juli 1977, Von Hodler zu Noland, Nr. 19."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (222 Ergebnisse) für Volltextsuche «Hodler Krieger» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 222,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Hodler Halbarte» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Hodler Hellebarde» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für Volltextsuche «Hodler Hellebardier» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (98 Ergebnisse) für Volltextsuche «Hodler Landsknecht» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 98,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (49 Ergebnisse) für Volltextsuche «Hodler Marignano» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 49,
+            "datum": "2023-10-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-24"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1856/1856_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            291.3,
+            533.0,
+            360.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1970, annotiert von Kurt Meissner, möglicherweise mit Zuschlagspreis"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1856/1856_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            429.7,
+            531.5,
+            646.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1996, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "24. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "1 Treffer (6 Ergebnisse) für Volltextsuche «Krieger mit Hellebarde»: A.2151.1648.3.2 (PDF, S. 49) / A.2152.1.1345 (PDF, S. 57)",
+      "bilder": [
+        {
+          "datei": "images/1856/1856_008_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            209.0,
+            533.0,
+            342.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: annotierte lotspezifische Kopie aus Auktionskatalog Zürich 1996"
+        }
+      ]
+    },
+    {
+      "datum": "8. Januar 2026",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1856/1856_009_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            399.0,
+            533.1,
+            528.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: annotierte lotspezifische Kopie aus Auktionskatalog Zürich 1996 (vormals auf Werkrückseite angebracht)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1856/1856_010_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          240.8,
+          313.6,
+          567.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit blauem Schreibmittel «FerD. Hodler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «FerD. Hodler»",
+        "kommentar": "Signatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              605.2,
+              313.3,
+              653.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «[…]» (teilweise verdeckt)",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «[…]» (teilweise verdeckt)",
+        "kommentar": "wahrscheinlich Massangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              668.3,
+              233.2,
+              707.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: viereckiges weisses Etikett, schwarz gedruckt und maschinenschriftlich sowie handschriftlich mit schwarzem Schreibmittel «Ausstellung Hodler zu Noland | Künstler F. Hodler | Werktitel Hellebardier 19 | Leihgeber A. Wey, Villmergen»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "viereckiges weisses Etikett, schwarz gedruckt und maschinenschriftlich sowie handschriftlich mit schwarzem Schreibmittel «Ausstellung Hodler zu Noland | Künstler F. Hodler | Werktitel Hellebardier 19 | Leihgeber A. Wey, Villmergen»",
+        "kommentar": "Ausstellung Aarau 1977, Nr. 19",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              313.3,
+              186.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «[…]» (teilweise verdeckt)",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «[…]» (teilweise verdeckt)",
+        "kommentar": "wahrscheinlich Massangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              266.1,
+              221.8,
+              303.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines angehefteten weissen Zettels",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines angehefteten weissen Zettels",
+        "kommentar": "vormalige Anbringungsstelle des Erwerbsnachweises",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              329.2,
+              313.3,
+              457.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Für den Erwerbsnachweis siehe «Archiv intern»."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «96»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «96»",
+        "kommentar": "Auktion Sotheby’s 1996, Lot 96",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              469.5,
+              219.1,
+              532.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: quadratisches weisses Etikett, unten mit blauer Abrissstelle, handschriftlich mit schwarzem Schreibmittel «80»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "quadratisches weisses Etikett, unten mit blauer Abrissstelle, handschriftlich mit schwarzem Schreibmittel «80»",
+        "kommentar": "vermutlich aufgebracht von Ursula Netzer, Schlosswartin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              545.3,
+              219.1,
+              631.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «X» (Kreuz)",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «X» (Kreuz)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1856/1856_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              646.3,
+              191.5,
+              708.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Im Auktionskatalog Zürich 1970 sowie im Auktionskatalog Zürich 1996 wurde das Werk eindeutig Ferdinand Hodler zugeschrieben. Der erstere Katalog erwähnt eine Echtheitsbestätigung von Hodler-Experte Jura Brüschweiler. Müller 2017 zufolge handelt es sich um kein authentisches Werk, siehe auch Fn. 3."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel nach Müller 2017."
+    },
+    {
+      "nr": 3,
+      "text": "Müller 2017 zufolge ist die Signatur nicht authentisch."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1970. Die von Müller 2017 angegebene Auktion ist unrichtig; im entsprechenden Auktionskatalog der Galerie Koller (Auktion 25, Juni 1971) ist das Werk nicht aufzufinden."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Ausstellungsetikett auf der Werkrückseite sowie Müller 2017. Zu Alfons Wey siehe https://www.portraitar-chiv.ch/portrait/show/279760 [26. Oktober 2023]."
+    },
+    {
+      "nr": 6,
+      "text": "Müller 2017, Auktionskatalog Zürich 1996."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1996 im Archiv SKKG sowie Erwerbsnachweis im Archiv SKKG und in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 9,
+      "text": "Für den Erwerbsnachweis siehe «Archiv intern»."
+    }
+  ],
+  "bilder_anzahl": 18
+}

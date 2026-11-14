@@ -1,0 +1,591 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5722_230608.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5722",
+      "Albert Anker (1831–1910)",
+      "Kopf eines bärtigen Mannes",
+      "o. J.",
+      "Öl auf Leinwand",
+      "37 × 29 cm (Bildmass)",
+      "52 × 44 × 8 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5722",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Kopf eines bärtigen Mannes",
+    "masse": [
+      "37 × 29 cm (Bildmass)",
+      "52 × 44 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5722/5722_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.6,
+          521.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Das Werk ist im Werkkatalog 1962 aufgeführt, wurde aber nicht in den Werkkatalog 1995 (Kuthy/Bhattacharya-Stett-ler 1995) aufgenommen. Vermutlich haben stilistische Gründe zusammen mit der fehlenden Signatur zu einer Anzweiflung von Ankers Autorschaft geführt, siehe Vorwort und Konkordanztabelle unter «Werkkatalog». Das Werk war jedoch im Nachlass von Cécile Du Bois-Anker, siehe Nachlassstempel auf der Werkrückseite."
+      },
+      {
+        "nr": 2,
+        "text": "Originaltitel nach Werkkatalog 1962."
+      },
+      {
+        "nr": 3,
+        "text": "Das Werk ist nicht signiert, trägt aber einen Nachlassstempel, der auf die Succession Albert Anker verweist, siehe Provenienzmerkmale. Wann er aufgebracht wurde, ist nicht bekannt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich 1910 bis o. D.",
+      "besitzer": "Nachlass Albert Anker (1831–1910)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Nachlassstempel auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1957",
+      "besitzer": "Cécile Du Bois-Anker (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters/Künstlers",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Werkkatalog 1962 sowie Nachlassstempel auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Genf",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Werkkatalog 1962. Möglicherweise war das Werk 1962 bei den Erbinnen und Erben von Cécile Du Bois-Anker, die Ortsangabe «Genf» könnte ein Hinweis darauf sein."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Kanton Solothurn",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1993. 1971 brachte Prof. Dr. Max Huggler, Kunstmuseum Bern und Universität Bern, auf der Werkrückseite eine handschriftliche Echtheitsbezeugung auf, siehe Provenienzmerkmale – in welchem Zusammenhang beziehungsweise ob anlässlich eines Handwechsels, ist nicht geklärt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13.–27. Mai 1993",
+      "besitzer": "Auktion Galerie Jürg Stuker (Frühlings-Auktion 1993, Lot 5012, Kopf eines bärtigen Mannes), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auktionskatalog Bern 1993."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 21. Mai 1993",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite und im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Albert Anker. Katalog der Gemälde und Ölstudien, hrsg. vom Berner Kunstmuseum, Bern 1962, Nr. 481.",
+        "bilder": [
+          {
+            "datei": "images/5722/5722_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              398.2,
+              331.6,
+              454.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995 [Werk nicht verzeichnet]."
+          },
+          {
+            "datei": "images/5722/5722_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              574.6,
+              387.6,
+              634.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildtitel": "Das vorliegende Werk (Nr. 481 im Werkkatalog von 1962) wurde im Werkkatalog von 1995 nicht aufgenommen. Siehe allgemeinen Hinweis in dessen Vorwort (S. 10) sowie Konkordanz zu Nr. 481 (S. 334)"
+          },
+          {
+            "datei": "images/5722/5722_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              278.8,
+              226.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Frühlings-Auktion 1993, Auktionskatalog Galerie Jürg Stuker, 13.– 27. Mai 1993, Bern 1993 [nicht konsultiert, fehlt im Archiv SKKG]."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (175 Ergebnisse) für Volltextsuche «Kopf eines bärtigen Mannes» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 175,
+            "datum": "2023-03-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1381",
+      "bilder": [
+        {
+          "datei": "images/5722/5722_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            448.0,
+            531.5,
+            488.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Bern 1993 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5722/5722_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          292.6,
+          438.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: quadratisches weisses Etikett mit blauer Abrissstelle, handschriftlich mit schwarzem Filzstift «95»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "quadratisches weisses Etikett mit blauer Abrissstelle, handschriftlich mit schwarzem Filzstift «95»",
+        "kommentar": "vermutlich aufgebracht von Ursula Netzer, Schlosswartin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              500.9,
+              199.6,
+              575.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. Faserplatte: handschriftlich mit grauem Schreibmittel «/» und «.», je eingekreist",
+        "position_traeger": "m. Faserplatte",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «/» und «.», je eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              589.3,
+              199.7,
+              634.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Faserplatte: handschriftlich mit blauem Schreibmittel «Das umstehende Ölgemälde ist das im | Oeuvre-Katalog unter Nr. 481 aufgeführte | Original von Alber Anker (1831–",
+        "position_traeger": "u. m. Faserplatte",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «Das umstehende Ölgemälde ist das im | Oeuvre-Katalog unter Nr. 481 aufgeführte | Original von Alber Anker (1831–",
+        "kommentar": "1910), | in gutem Erhaltungszustand. | Bern 1. März 1972 Prof. m. Huggler»\n\nEchtheitsbezeugung von Max Huggler",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              646.8,
+              292.2,
+              710.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Zur Person siehe: Zita Caviezel-Rüegg, Huggler, Max, in: Historisches Lexikon der Schweiz (HLS), 8. September 2006, https://hls-dhs-dss.ch/de/articles/027731/2006-09-08 [13. Januar 2025]."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: möglicherweise Klebereste eines Etiketts",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "möglicherweise Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              196.9,
+              236.7,
+              294.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «ho [?]»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «ho [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              306.9,
+              236.5,
+              372.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Faserplatte: ovaler schwarzer Stempel, «succession | A. Anker | .C.»",
+        "position_traeger": "l. u. Faserplatte",
+        "merkmal": "ovaler schwarzer Stempel, «succession | A. Anker | .C.»",
+        "kommentar": "Der Stempel bezeichnet den Nachlass Anker, «C» könnte für Cécile stehen.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              385.4,
+              236.5,
+              441.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Faserplatte: handschriftlich mit schwarzem Filzstift «Heidi | 25.12.82»",
+        "position_traeger": "l. m. Faserplatte",
+        "merkmal": "handschriftlich mit schwarzem Filzstift «Heidi | 25.12.82»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              461.1,
+              236.5,
+              530.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisse Kopie, maschinenschriftlich ergänzt, handschriftlich mit schwarzem Schreibmittel annotiert",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisse Kopie, maschinenschriftlich ergänzt, handschriftlich mit schwarzem Schreibmittel annotiert",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Jürg Stuker 1993 mit Angabe des Zuschlagspreises",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5722/5722_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              542.6,
+              291.2,
+              592.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Das Werk ist im Werkkatalog 1962 aufgeführt, wurde aber nicht in den Werkkatalog 1995 (Kuthy/Bhattacharya-Stett-ler 1995) aufgenommen. Vermutlich haben stilistische Gründe zusammen mit der fehlenden Signatur zu einer Anzweiflung von Ankers Autorschaft geführt, siehe Vorwort und Konkordanztabelle unter «Werkkatalog». Das Werk war jedoch im Nachlass von Cécile Du Bois-Anker, siehe Nachlassstempel auf der Werkrückseite."
+    },
+    {
+      "nr": 2,
+      "text": "Originaltitel nach Werkkatalog 1962."
+    },
+    {
+      "nr": 3,
+      "text": "Das Werk ist nicht signiert, trägt aber einen Nachlassstempel, der auf die Succession Albert Anker verweist, siehe Provenienzmerkmale. Wann er aufgebracht wurde, ist nicht bekannt."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Nachlassstempel auf der Werkrückseite."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Werkkatalog 1962 sowie Nachlassstempel auf der Werkrückseite."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Werkkatalog 1962. Möglicherweise war das Werk 1962 bei den Erbinnen und Erben von Cécile Du Bois-Anker, die Ortsangabe «Genf» könnte ein Hinweis darauf sein."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1993. 1971 brachte Prof. Dr. Max Huggler, Kunstmuseum Bern und Universität Bern, auf der Werkrückseite eine handschriftliche Echtheitsbezeugung auf, siehe Provenienzmerkmale – in welchem Zusammenhang beziehungsweise ob anlässlich eines Handwechsels, ist nicht geklärt."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Bern 1993."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite und im Archiv SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Zur Person siehe: Zita Caviezel-Rüegg, Huggler, Max, in: Historisches Lexikon der Schweiz (HLS), 8. September 2006, https://hls-dhs-dss.ch/de/articles/027731/2006-09-08 [13. Januar 2025]."
+    }
+  ],
+  "bilder_anzahl": 14
+}

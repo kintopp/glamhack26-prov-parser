@@ -1,0 +1,339 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1399_221101.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1399",
+      "François Diday (1802–1877) (zugeschrieben)",
+      "Mythen / Paysage avec les Mythen",
+      "o. J.",
+      "Öl auf Malkarton",
+      "39,4 × 52,2 cm (Bildmass)",
+      "53,3 × 66,5 × 4 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1399",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877) (zugeschrieben)",
+    "titel": "Mythen / Paysage avec les Mythen",
+    "masse": [
+      "39,4 × 52,2 cm (Bildmass)",
+      "53,3 × 66,5 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1399/1399_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          350.6,
+          439.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1980, wo das Werk als Paysage avec les Mythen verzeichnet ist."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1980."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "8. November 1980",
+      "besitzer": "Auktion Germann (Gemälde, Graphik, Skulpturen, Lot 305, Paysage avec les Mythen), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1980."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. November bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Germann, Zuschlagspreis: 1200 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde, Graphik, Skulpturen, Auktionskatalog Germann, Zürich, 8. November 1980, Zürich 1980, Lot 305."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Diday Francois›» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Title/Description «Mythen» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "0 Treffer für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [26. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1399/1399_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            366.7,
+            291.1,
+            531.8,
+            386.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1399/1399_003_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            366.7,
+            429.8,
+            532.1,
+            553.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Germann, November 1980, Lot 305, verfasst von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1399/1399_004_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          240.8,
+          292.3,
+          425.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton (Bildträger): rechteckiges beiges Etikett mit Werkangaben und Verweis auf Expertise von «M. Louis Gielly, Genève, conservateur du Musée des beaux-arts», darüber handschriftlich mit schwarzem Schreibmittel «ntf.–»",
+        "position_traeger": "o. m. Malkarton (Bildträger)",
+        "merkmal": "rechteckiges beiges Etikett mit Werkangaben und Verweis auf Expertise von «M. Louis Gielly, Genève, conservateur du Musée des beaux-arts», darüber handschriftlich mit schwarzem Schreibmittel «ntf.–»",
+        "kommentar": "Louis Gielly (1876–1951) war von 1922 bis 1946 Konservator am Kunstmuseum Genf. Der Nachweis muss also in diesen Jahren angebracht worden sein.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1399/1399_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.1,
+              488.2,
+              288.5,
+              547.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "David Ripoll, À l’épreuve du faux. Notes sur le savoir et les pratiques de l’histoire de l’art à Genève, 1914–1938, in: L’art d’imiter, hrsg. von Mauro Natale und Claude Ritschard, Genf 1997, S. 22–39, hier S. 30."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Malkarton (Bildträger): handschriftlich mit schwarzem Filzstift «BCH 2»",
+        "position_traeger": "o. l. Malkarton (Bildträger)",
+        "merkmal": "handschriftlich mit schwarzem Filzstift «BCH 2»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1399/1399_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              139.4,
+              291.6,
+              229.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1980, wo das Werk als Paysage avec les Mythen verzeichnet ist."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "David Ripoll, À l’épreuve du faux. Notes sur le savoir et les pratiques de l’histoire de l’art à Genève, 1914–1938, in: L’art d’imiter, hrsg. von Mauro Natale und Claude Ritschard, Genf 1997, S. 22–39, hier S. 30."
+    }
+  ],
+  "bilder_anzahl": 6
+}

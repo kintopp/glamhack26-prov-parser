@@ -1,0 +1,537 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2203_221025.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. Oktober 2022",
+  "stand_iso": "2022-10-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2203",
+      "Arnold Böcklin (1827–1901)",
+      "Bildnis des Salvatore Pascucci",
+      "um 1853",
+      "Öl auf Leinwand",
+      "33 × 27 cm (Bildmass)",
+      "46 × 39,5 × 7,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "2203",
+    "status": "Klar",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Bildnis des Salvatore Pascucci",
+    "masse": [
+      "33 × 27 cm (Bildmass)",
+      "46 × 39,5 × 7,5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1853",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2203/2203_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.0,
+          520.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Luzern 1988."
+      },
+      {
+        "nr": 2,
+        "text": "Datierung nach Holenweg 2021, siehe auch Fn. 3."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1853–1886",
+      "besitzer": "Salvatore Pascucci (1821–1886), Rom, erhalten vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Holenweg 2021. Salvatore Pascucci war der Onkel von Böcklins Frau Angela Böcklin-Pascucci. Holenweg vermutet, dass das Porträt des Wachtmeisters der päpstlichen Bersaglieri im Jahr 1853 entstanden ist. Ob Böcklin das Auftragswerk dem Verwandten seiner Frau geschenkt oder verkauft hat, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1886 bis 10. Juli 1923",
+      "besitzer": "Carolina Crisafulli-Pascucci und Antonietta Farioli-Pascucci, Rom, erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Holenweg 2021. Zum Verkauf vom 10. Juli 1923 siehe Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "10. Juli 1923 bis vermutlich 28. März 1945",
+      "besitzer": "Luigi Farioli-Pascucci (gest. 1945), Rom, gekauft von der Schwägerin Carolina Crisafulli-Pascucci",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Holenweg 2021."
+        },
+        {
+          "nr": 6,
+          "text": "Quittung über den Verkauf des Gemäldes von Carolina Crisafulli-Pascucci an Luigi Farioli-Pascucci am 10. Juli 1923 sowie Nachricht über den Erbgang vom 28. März 1945, siehe Archiv SKKG, A.22.1565."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. März 1945 bis o. D.",
+      "besitzer": "Orietta Rigola-Farioli und Ornella Farioli, Rom, erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Holenweg 2021."
+        },
+        {
+          "nr": 8,
+          "text": "Nachricht über den Erbgang vom 28. März 1945, siehe Archiv SKKG, A.22.1565."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1980",
+      "besitzer": "Fiesole",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Angabe von Galerie Fischer, Luzern, vom 21. Februar 2023, siehe «Anfragen»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1981",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Holenweg 2021."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 17. Mai 1988",
+      "besitzer": "Privatbesitz, Gersau",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe Fn. 9. Möglicherweise beziehen sich die Angaben «Privatbesitz, Schweiz» und «Privatbesitz, Gersau» auf dieselbe Eigentümerschaft."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17.–19. Mai 1988",
+      "besitzer": "Auktion Galerie Fischer (Kunstauktionen. […] Gemälde alter und moderner Meister, Lot 2318, Bildnis des Salvatore Pascucci), Luzern, eingeliefert aus Privatbesitz, Gersau",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Akten von Hans Holenweg, siehe Archiv SKKG, A.211.121."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. Mai 1988",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Fischer, Zuschlagspreis: 10 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977 [Werk nicht verzeichnet].\n\nHans Holenweg, Arnold Böcklin. Ergänzungen, Nachträge und Korrekturen zum Katalog der Gemälde, Stand: 1. November 2021, S. 6, Nr. 74a, https://www.sikart.ch/pdf/holenweg_gemaelde.pdf [25. Oktober 2022].",
+        "bilder": [
+          {
+            "datei": "images/2203/2203_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              532.6,
+              342.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunstauktionen. Möbel, Zinn, Porzellan, Skulpturen, Hinterglasgemälde, Silber, Judaica, aussereuropäische Kunst, Gemälde alter und moderner Meister, Auktionskatalog Galerie Fischer, Luzern, 17.– 19. Mai 1988, Luzern 1988, Lot 2318 (mit Abb.).",
+        "bilder": [
+          {
+            "datei": "images/2203/2203_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              411.7,
+              287.8,
+              505.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Arnold Böcklin e la Cultura Artistica in Toscana. Hans von Marées, Adolf von Hildebrand, Max Klinger, Karl Stauffer-Bern, Albert Welti, Ausstellungskatalog Palazzina Mangani, Fiesole, Rom 1980, Nr. 3."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Palazzina Mangani, Fiesole, Arnold Böcklin e la Cultura Artistica in Toscana. Hans von Marées, Adolf von Hildebrand, Max Klinger, Karl Stauffer-Bern, Albert Welti, 24. Juli bis 30. September 1980, Nr. 3."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "7. März 2023",
+      "institution": "Galerie Fischer, Luzern",
+      "betreff": "Frage zur Identität der «Privatperson, Gersau»",
+      "antwort": "Aus Datenschutzgründen wurde keine Auskunft erteilt."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565, NF_0247\n\nDokumentationen von Hans Holenweg (Böcklin-Spezialist), Pratteln: Literatur, Briefmaterial, Biografisches, Inventarblatt, Quittung vom 10. Juli 1923, Kommentar von Rolf Andree vom 24. April 1981"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.121, NF_0010\n\nAkten von Hans Holenweg"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2203/2203_004_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          305.1,
+          440.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «83 [?]»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «83 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2203/2203_005_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              140.3,
+              503.0,
+              261.2,
+              588.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «G B [?]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «G B [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2203/2203_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              140.3,
+              601.0,
+              304.3,
+              660.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisser Zettel, Fotokopie mit maschinengeschriebener Kopfzeile, handschriftlich mit schwarzem Schreibmittel «Z | 10’000[.]–»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisser Zettel, Fotokopie mit maschinengeschriebener Kopfzeile, handschriftlich mit schwarzem Schreibmittel «Z | 10’000[.]–»",
+        "kommentar": "Ankaufsbeleg Auktion Galerie Fischer 1988 mit Zuschlagspreis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2203/2203_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              140.3,
+              139.8,
+              304.3,
+              233.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «G 816»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «G 816»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2203/2203_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              140.3,
+              245.8,
+              304.3,
+              326.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 14,
+        "text": "Gemäss Holenweg 2021 und Objektdatenbank SKKG ist das Werk oben rechts auf der Leinwand mit «SALVATORE | PASCUCCI» bezeichnet. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Luzern 1988."
+    },
+    {
+      "nr": 2,
+      "text": "Datierung nach Holenweg 2021, siehe auch Fn. 3."
+    },
+    {
+      "nr": 3,
+      "text": "Holenweg 2021. Salvatore Pascucci war der Onkel von Böcklins Frau Angela Böcklin-Pascucci. Holenweg vermutet, dass das Porträt des Wachtmeisters der päpstlichen Bersaglieri im Jahr 1853 entstanden ist. Ob Böcklin das Auftragswerk dem Verwandten seiner Frau geschenkt oder verkauft hat, ist nicht bekannt."
+    },
+    {
+      "nr": 4,
+      "text": "Holenweg 2021. Zum Verkauf vom 10. Juli 1923 siehe Fn. 6."
+    },
+    {
+      "nr": 5,
+      "text": "Holenweg 2021."
+    },
+    {
+      "nr": 6,
+      "text": "Quittung über den Verkauf des Gemäldes von Carolina Crisafulli-Pascucci an Luigi Farioli-Pascucci am 10. Juli 1923 sowie Nachricht über den Erbgang vom 28. März 1945, siehe Archiv SKKG, A.22.1565."
+    },
+    {
+      "nr": 7,
+      "text": "Holenweg 2021."
+    },
+    {
+      "nr": 8,
+      "text": "Nachricht über den Erbgang vom 28. März 1945, siehe Archiv SKKG, A.22.1565."
+    },
+    {
+      "nr": 9,
+      "text": "Angabe von Galerie Fischer, Luzern, vom 21. Februar 2023, siehe «Anfragen»."
+    },
+    {
+      "nr": 10,
+      "text": "Holenweg 2021."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Fn. 9. Möglicherweise beziehen sich die Angaben «Privatbesitz, Schweiz» und «Privatbesitz, Gersau» auf dieselbe Eigentümerschaft."
+    },
+    {
+      "nr": 12,
+      "text": "Akten von Hans Holenweg, siehe Archiv SKKG, A.211.121."
+    },
+    {
+      "nr": 13,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 14,
+      "text": "Gemäss Holenweg 2021 und Objektdatenbank SKKG ist das Werk oben rechts auf der Leinwand mit «SALVATORE | PASCUCCI» bezeichnet. Auf den Digitalisaten ist dies nicht erkennbar."
+    }
+  ],
+  "bilder_anzahl": 8
+}

@@ -1,0 +1,430 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6549_230814.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. August 2023",
+  "stand_iso": "2023-08-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6549",
+      "Johann Melchior Wyrsch (1732–1798)",
+      "Anna Barbara Lavater",
+      "1759",
+      "Öl auf Leinwand",
+      "67,9 × 54,8 cm (Bildmass)",
+      "73,7 × 61,2 × 5,7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6549",
+    "status": "Ungeklärt",
+    "kuenstler": "Johann Melchior Wyrsch (1732–1798)",
+    "titel": "Anna Barbara Lavater",
+    "masse": [
+      "67,9 × 54,8 cm (Bildmass)",
+      "73,7 × 61,2 × 5,7 cm (Rahmenmass)"
+    ],
+    "datierung": "1759",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6549/6549_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.7,
+          529.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1935, siehe auch Bezeichnung auf der Werkrückseite. Anna Barbara Lavater (geb. 1753) war die Tochter von Hans Konrad Lavater und Anna Maria Spöndli, Zürich, siehe https://hfls.ch/humo-gen/family/1/F102180?main_person=I292472 [19. August 2024]. Ihre Schwester Esther (geb. 1749) wurde ebenfalls von Wyrsch porträtiert, siehe Kontextinformationen."
+      },
+      {
+        "nr": 2,
+        "text": "Siehe Bezeichnung auf der Werkrückseite; ob diese tatsächlich vom Künstler aufgebracht wurde, ist allerdings unklar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 1921",
+      "besitzer": "Otto Wessner (1851–1921), St. Gallen",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1935. Otto Wessner führte ein Textilwarenhaus in St. Gallen und war «ein angesehener Kunstkenner, der seine Antiquitäten vor allem bei St. Galler Händlern erwarb», siehe Peter Müller: Wessner, Otto, in: Historisches Lexikon der Schweiz (HLS), Version vom 14. Juni 2012, https://hls-dhs-dss.ch/de/articles/031159/2012-06-14 [14. August 2023]. Zu Sammler und Sammlung siehe auch Vorwort im Auktionskatalog Zürich 1935."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1921 bis mindestens 26. Februar 1935",
+      "besitzer": "Erbinnen und Erben nach Otto Wessner, St. Gallen",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1935; die Auktion war der sechste Teil der Nachlassversteigerung der Sammlung Otto Wessner. Die Gemälde der Auktion wurden am 26. Februar 1935 versteigert."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25.–28. Februar 1935",
+      "besitzer": "Auktion William S. Kundig (Collection/Sammlung Otto Wessner, St. Gall[en], VI. Teil, Lot 765, Anna Barbara Lavater), Zürich, eingeliefert aus Nachlass Otto Wessner",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1935."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit o. D.",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Erwerbsort und Erwerbsdatum sind unbekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Collection/Sammlung Otto Wessner, St. Gall[en], VI. Teil, Auktionskatalog William S. Kundig, Zürich, 25.–28. Februar 1935, Genf 1935, Lot 765, https://digi.ub.uni-heidelberg.de/diglit/kun-dig1935_02_25bd6/0085 [14. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/6549/6549_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              397.9,
+              465.6,
+              460.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          },
+          {
+            "datei": "images/6549/6549_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              466.9,
+              329.3,
+              653.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Wyrsch» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "0 Treffer (32 Ergebnisse) für Volltextsuche «Lavater» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 32,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wyrsch» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wyrsch» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Lavater» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Johann Melchior Wyrsch» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "0 Treffer (95 Ergebnisse) für Volltextsuche «Wyrsch», Filter: Conflict/War «World War II» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 95,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anna Barbara Lavater» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Wyrsch» und «Lavater» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "1 Treffer (15 Ergebnisse) für Volltextsuche «Johann Melchior Wyrsch» [14. August 2023]: Nachlassauktion Otto Wessner (siehe oben: Auktionskatalog Zürich 1935)",
+            "treffer": 1,
+            "ergebnisse": 15,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "0 Treffer (22 Ergebnisse) für Volltextsuche «Wyrsch» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 22,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "1 Treffer (1 Ergebnis) für Volltextsuche «Anna Barbara Lavater» [14. August 2023]: Nachlassauktion Otto Wessner (siehe oben: Auktionskatalog Zürich 1935)",
+            "treffer": 1,
+            "ergebnisse": 1,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Lavater», Filter: Künstlersuche «Wyrsch» (inklusive aller Namensschreibweisen) [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für Künstlersuche «Wyrsch» (inklusive aller Namensschreibweisen) [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wyrsch» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche »Wyrsch» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Porträt Esther Lavater von Johann Melchior Wyrsch (Vergleichsobjekt)",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/6549/6549_004_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            165.6,
+            331.4,
+            325.9
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Johann Melchior Wyrsch, Esther Lavater, 1759, Öl auf Leinwand, Schweizerisches Nationalmuseum (Signatur: LM-112025), https://per-malink.nationalmuseum.ch/100249940 [19. August 2024]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6549/6549_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          432.6,
+          292.4,
+          711.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: handschriftlich «Anā Barbara Lavater | Aetatis 6 A[nn]o 1759»",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "handschriftlich «Anā Barbara Lavater | Aetatis 6 A[nn]o 1759»",
+        "kommentar": "Bezeichnung des Motivs (Anna Barbara in ihrem sechsten Lebensjahr im Jahre 1759)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6549/6549_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              164.9,
+              292.0,
+              219.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Leinwand: quadratischer Zettel, um 45 Grad gedreht, handschriftlich mit schwarzer Tinte «Zürich | Kind Lavater | Wyrsch | P»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "quadratischer Zettel, um 45 Grad gedreht, handschriftlich mit schwarzer Tinte «Zürich | Kind Lavater | Wyrsch | P»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6549/6549_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              240.7,
+              292.8,
+              395.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich «J. M. W. Pinx[it]»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich «J. M. W. Pinx[it]»",
+        "kommentar": "Bezeichnung von Johann Melchior Wyrsch als Urheber des Werks",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6549/6549_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              407.7,
+              292.0,
+              446.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1935, siehe auch Bezeichnung auf der Werkrückseite. Anna Barbara Lavater (geb. 1753) war die Tochter von Hans Konrad Lavater und Anna Maria Spöndli, Zürich, siehe https://hfls.ch/humo-gen/family/1/F102180?main_person=I292472 [19. August 2024]. Ihre Schwester Esther (geb. 1749) wurde ebenfalls von Wyrsch porträtiert, siehe Kontextinformationen."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Bezeichnung auf der Werkrückseite; ob diese tatsächlich vom Künstler aufgebracht wurde, ist allerdings unklar."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1935. Otto Wessner führte ein Textilwarenhaus in St. Gallen und war «ein angesehener Kunstkenner, der seine Antiquitäten vor allem bei St. Galler Händlern erwarb», siehe Peter Müller: Wessner, Otto, in: Historisches Lexikon der Schweiz (HLS), Version vom 14. Juni 2012, https://hls-dhs-dss.ch/de/articles/031159/2012-06-14 [14. August 2023]. Zu Sammler und Sammlung siehe auch Vorwort im Auktionskatalog Zürich 1935."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1935; die Auktion war der sechste Teil der Nachlassversteigerung der Sammlung Otto Wessner. Die Gemälde der Auktion wurden am 26. Februar 1935 versteigert."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1935."
+    },
+    {
+      "nr": 6,
+      "text": "Erwerbsort und Erwerbsdatum sind unbekannt."
+    }
+  ],
+  "bilder_anzahl": 8
+}

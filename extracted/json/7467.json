@@ -1,0 +1,476 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7467_221007.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. Oktober 2022",
+  "stand_iso": "2022-10-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7467",
+      "Alexandre Calame (1810−1864)",
+      "En Savoie / Schneeberge mit Alpsee in",
+      "Abendsonne",
+      "1860",
+      "Öl auf Holz",
+      "30 × 37 cm (Bildmass)",
+      "42 × 50 × 5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7467",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810−1864)",
+    "titel": "En Savoie / Schneeberge mit Alpsee in Abendsonne",
+    "masse": [
+      "30 × 37 cm (Bildmass)",
+      "42 × 50 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1860",
+    "technik": "Öl auf Holz",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7467/7467_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          307.9,
+          444.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Möglicherweise Originaltitel, siehe Bezeichnung auf der Werkrückseite."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach der Bildbeschreibung im Auktionskatalog Luzern 1978, dort mit dem Zusatz «im Vordergrund Felspartie». Das Werk wurde zusammen mit einem zweiten Werk, Bergsee und Bergspitzen in Wolken, als Ein Paar Landschaftsskizzen versteigert (siehe Auktionskatalog Luzern 1978) und wohl auch erworben. Der Verbleib des letzteren ist unbekannt, siehe Hinweis in der Objektdatenbank SKKG sowie Fn. 5."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "2.–8. Juni 1978",
+      "besitzer": "Auktion Galerie Fischer (Grosse Frühjahrsauktionen in Luzern […], Lot 445, Ein Paar Landschaftsskizzen), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Luzern 1978."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Juni 1978 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Fischer, Zuschlagspreis: 10 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 1978 im Archiv SKKG. Der Zuschlagspreis bezieht sich auf beide Werke (siehe Fn. 2) zusammen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht identifizierbar].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Frühjahrsauktionen in Luzern […], Auktionskatalog Galerie Fischer, Luzern, 2.–8. Juni 1978, Luzern 1978, Lot 445."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht identifizierbar].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Calame», Filter 1: «Suchmeldungen», Filter 2: «Malerei» [20. Juli 2022].",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (99 Ergebnisse) für freie Suche «Calame» UND «Savoie» [5. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 99,
+            "datum": "2022-10-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (2 Ergebnisse) für freie Suche «Savoie», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [5. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 2,
+            "datum": "2022-10-05"
+          },
+          {
+            "text": "Goupil Stock Book 7, S. 108, Reihe 6, Nr. 8655, Paysage en Savoie, 31. Dezember 1873, Verkaufspreis: 1590 Francs, Käufer:in: S[a] M[ajesté] la Reine, La Haye."
+          },
+          {
+            "text": "Interieur vom Schloss Steinhof, Luzern. Möbel, Gemälde und Stiche. Antiquitäten, Auktionskatalog Theodor Fischer, Luzern, 7./8. Juli 1924, Luzern 1924, Lot 186 (A. Calame, Felslandschaft, auf Holz, 26 × 40 cm, Goldrahmen), https://doi.org/10.11588/diglit.22667#0022 [5. Oktober 2022]",
+            "datum": "2022-10-05"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/7467/7467_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              177.7,
+              441.4,
+              317.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          },
+          {
+            "datei": "images/7467/7467_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              323.7,
+              528.8,
+              344.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "1 möglicher Treffer (2 Ergebnisse) für freie Suche «Felslandschaft», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [5. Oktober 2022]:"
+          },
+          {
+            "datei": "images/7467/7467_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              477.2,
+              441.4,
+              609.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          },
+          {
+            "datei": "images/7467/7467_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              615.6,
+              501.4,
+              649.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Galerie Fischer",
+      "betreff": "Anfrage bezüglich Einliefererliste",
+      "antwort": "–"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7467/7467_006_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            304.0,
+            538.5,
+            333.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1978, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7467/7467_007_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          326.5,
+          383.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubtes Schild, handschriftlich mit schwarzer Farbe «A. Calame»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubtes Schild, handschriftlich mit schwarzer Farbe «A. Calame»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7467/7467_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              420.8,
+              326.0,
+              467.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Zierrahmen: weisses rechteckiges Etikett, rechts mit abgerundeten Ecken, gestempelt «445»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "weisses rechteckiges Etikett, rechts mit abgerundeten Ecken, gestempelt «445»",
+        "kommentar": "Lotnummer der Erwerbsauktion Galerie Fischer Juni 1978",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7467/7467_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              479.8,
+              221.9,
+              533.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Holzplatte (Bildträger): handschriftlich mit Pinsel in Schwarz «A. Calame | 1860 | “en Savoie”»",
+        "position_traeger": "o. r. Holzplatte (Bildträger)",
+        "merkmal": "handschriftlich mit Pinsel in Schwarz «A. Calame | 1860 | “en Savoie”»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7467/7467_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              568.2,
+              310.5,
+              709.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: Etikett der SKKG",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "Etikett der SKKG",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7467/7467_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              326.4,
+              257.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Offenbar wurde darauf fälschlicherweise der Titel des zweiten Werks des versteigerten Lots notiert, allerdings mit der Jahreszahl des richtigen Gemäldes; siehe Fn. 2."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: schwarz gedruckt oder gestempelt «126»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "schwarz gedruckt oder gestempelt «126»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7467/7467_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              269.5,
+              258.4,
+              335.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angeheftetes Etikett der Erwerbsauktion 1978; «Germann» und «Herbst» durchgestrichen, handschriftlich mit Bleistift berichtigt, «Fischer/Juni | 445»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angeheftetes Etikett der Erwerbsauktion 1978; «Germann» und «Herbst» durchgestrichen, handschriftlich mit Bleistift berichtigt, «Fischer/Juni | 445»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7467/7467_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              348.0,
+              326.6,
+              455.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Möglicherweise Originaltitel, siehe Bezeichnung auf der Werkrückseite."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach der Bildbeschreibung im Auktionskatalog Luzern 1978, dort mit dem Zusatz «im Vordergrund Felspartie». Das Werk wurde zusammen mit einem zweiten Werk, Bergsee und Bergspitzen in Wolken, als Ein Paar Landschaftsskizzen versteigert (siehe Auktionskatalog Luzern 1978) und wohl auch erworben. Der Verbleib des letzteren ist unbekannt, siehe Hinweis in der Objektdatenbank SKKG sowie Fn. 5."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Luzern 1978."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 1978 im Archiv SKKG. Der Zuschlagspreis bezieht sich auf beide Werke (siehe Fn. 2) zusammen."
+    },
+    {
+      "nr": 5,
+      "text": "Offenbar wurde darauf fälschlicherweise der Titel des zweiten Werks des versteigerten Lots notiert, allerdings mit der Jahreszahl des richtigen Gemäldes; siehe Fn. 2."
+    }
+  ],
+  "bilder_anzahl": 13
+}

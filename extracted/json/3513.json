@@ -1,0 +1,581 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3513_240903.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. September 2024",
+  "stand_iso": "2024-09-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3513",
+      "Ferdinand Hodler (1853–1918)",
+      "Chalet mit Eiger, Mönch und Jungfrau",
+      "1871",
+      "Öl auf Leinwand",
+      "20 × 22 cm (Bildmass)",
+      "32 × 33 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3513",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Chalet mit Eiger, Mönch und Jungfrau",
+    "masse": [
+      "20 × 22 cm (Bildmass)",
+      "32 × 33 cm (Rahmenmass)"
+    ],
+    "datierung": "1871",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3513/3513_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          260.1,
+          472.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Fischer 2008."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "um 1871 bis 1916",
+      "besitzer": "Hans Käser, Langenthal",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Expertise von Jura Brüschweiler vom 16. Januar 1981 im Archiv SKKG sowie Fischer 2008. Gemäss beiden ist auf der Werkrückseite vermerkt, dass das Werk spätestens 1870 im Eigentum von Hans Käser, Langenthal, war. Dies lässt sich am Original nicht erkennen, siehe Provenienzmerkmale. Zudem besteht ein Widerspruch zur um 1871 angesetzten Datierung."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1916 bis o. D.",
+      "besitzer": "Albert Nyfeler (1883–1969), Kippel, vermutlich angekauft von Hans Käser",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Expertise von Jura Brüschweiler vom 16. Januar 1981 im Archiv SKKG sowie Fischer 2008. Beide mit Verweis auf ein Notat auf der Werkrückseite, welches das Jahr 1916 nenne. Dieses ist am Original nicht zu erkennen beziehungsweise zu entziffern, siehe Provenienzmerkmale. Der Schweizer Künstler Albert Nyfeler wurde in Lünisberg nahe Langenthal geboren. Zu seiner Beziehung zu Langenthal und Kippel im Lötschental siehe https://www.verein-nyfe-ler.ch/biografie.html [7. Mai 2024]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 16. März 1981",
+      "besitzer": "Gloria Füri, Basel",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Korrespondenz zwischen Bruno Stefanini und Gloria Füri, März 1981, sowie Liste von Freihandkäufen vom 29. März 1984 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 16. März 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, von Gloria Füri, Ankaufspreis: 24 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Korrespondenz zwischen Bruno Stefanini und Gloria Füri, März 1981, im Archiv SKKG, wo der Ankaufspreis von 20 000 Franken vermerkt ist. Auf der Liste von Freihandkäufen vom 29. März 1984 und im annotierten Schreiben von Bruno Stefanini an Gloria Füri vom 16. März 1981 sind 24 000 Franken angegeben. 2000 Franken gingen als Provision an Jura Brüschweiler. Die Differenz lässt sich nicht vollständig klären, siehe Annotationen ebd."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Matthias Fischer, Chalet mit Eiger, Mönch und Jungfrau, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 1. Die Landschaften. Teilband 1, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2008, Nr. 29, https://www.ferdinand-hod-ler.ch/werke.aspx?id=10424874 [22. November 2023].",
+        "bilder": [
+          {
+            "datei": "images/3513/3513_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              479.4,
+              397.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/3513/3513_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              403.1,
+              337.4,
+              452.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstsammlung Steffisburg / Fondation Pierre Gianadda, Martigny /Museo Civico di Belle Arti, Lugano, Ferdinand Hodler als Schüler von Ferdinand Sommer / Hodler, élève de Sommer / Ferdinand Hodler allievo di Ferdinand Sommer, 11. September bis 30. Oktober 1983 /12. November 1983 bis 29. Januar 1984 / 25. Februar bis 13. Mai 1984, Nr. 99 (Lauterbrunnental mit Jungfraumassiv)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Lauterbrunnental» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Lauterbrunnental» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (108 Ergebnisse) für Suche nach Volltext/Metadaten «Lauterbrunnental» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 108,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Schlagwort «Lauterbrunnental» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Chalet» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Eiger» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Mönch» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Mönch» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [22. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-11-22"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "8. Mai 2024",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft, Zürich",
+      "betreff": "Anfrage zum Privatbesitz 1981: Wer war der/die Besitzer:in?",
+      "antwort": "Gloria Füri"
+    },
+    {
+      "datum": "15. Mai 2024",
+      "institution": "Institut Ferdinand Hodler, Delémont",
+      "betreff": "Gibt es Unterlagen zum Werk?",
+      "antwort": "17. Juli 2024: Es konnten keine weiterführenden Informationen gefunden werden."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "7. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A 22.1565.1.3.2",
+      "bilder": [
+        {
+          "datei": "images/3513/3513_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            209.4,
+            533.0,
+            429.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/3513/3513_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            435.9,
+            532.9,
+            606.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Expertise von Jura Brüschweiler für Gloria Füri, Basel, 16. Januar 1981"
+        }
+      ]
+    },
+    {
+      "datum": "7. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A 211.100, NF_0008\n\nKorrespondenz zwischen Bruno Stefanini und Gloria Füri vom März 1981 sowie Kopie der Expertise von Jura Brüschweiler (siehe oben)"
+    },
+    {
+      "datum": "7. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A 2151.1650.1",
+      "bilder": [
+        {
+          "datei": "images/3513/3513_006_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            259.5,
+            533.0,
+            305.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Liste von Freihandkäufen vom 29. März 1984 zu Gloria Füri, Basel, vom 16. März 1981"
+        }
+      ]
+    },
+    {
+      "datum": "7. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A 2151.1650.1",
+      "bilder": [
+        {
+          "datei": "images/3513/3513_007_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            381.1,
+            533.0,
+            587.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Bruno Stefanini an Gloria Füri, Basel, vom 16. März 1981 (Kopie aus Korrespondenz weiter oben), annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3513/3513_008_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          240.8,
+          307.2,
+          473.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: schwarz gestempelt «Kunstsammlung Steffisburg | F. Hodler als Schüler von F. Sommer | 11. September – 30. Oktober 1983»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "schwarz gestempelt «Kunstsammlung Steffisburg | F. Hodler als Schüler von F. Sommer | 11. September – 30. Oktober 1983»",
+        "kommentar": "Ausstellung Steffisburg 1983",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              536.2,
+              303.5,
+              577.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand (Bildträger): handschriftlich mit blauem Schreibmittel «Original Hodler | […]» (unleserlich)",
+        "position_traeger": "m. Leinwand (Bildträger)",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «Original Hodler | […]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              626.9,
+              307.3,
+              713.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keil-/Zierrahmen: langrechteckiges beiges Etikett, schwarz bedruckt",
+        "position_traeger": "u. m. Keil-/Zierrahmen",
+        "merkmal": "langrechteckiges beiges Etikett, schwarz bedruckt",
+        "kommentar": "Ausstellung Lugano 1984, Nr. 99, mit Angabe der SKKG als Besitzerin",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              305.1,
+              207.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen (unter vorausgehendem Provenienzmerkmal): rechteckiges goldenes Etikett mit abgerundeten Ecken, schwarz bedruckt",
+        "position_traeger": "u. m. Zierrahmen (unter vorausgehendem Provenienzmerkmal)",
+        "merkmal": "rechteckiges goldenes Etikett mit abgerundeten Ecken, schwarz bedruckt",
+        "kommentar": "Rahmenatelier Kiefer, Basel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              219.8,
+              263.7,
+              286.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. sowie l. m. Keilrahmen: schwarz gestempelt «22» und «20»",
+        "position_traeger": "u. m. sowie l. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «22» und «20»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              308.2,
+              263.4,
+              344.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/3513/3513_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.7,
+              350.2,
+              263.2,
+              405.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rosaroter Zettel, handschriftlich mit blauem Kugelschreiber «wohl: F. Hodler | v. Basel Frau … | (Brüschi) | Lauterbrunnental | ca 1981»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rosaroter Zettel, handschriftlich mit blauem Kugelschreiber «wohl: F. Hodler | v. Basel Frau … | (Brüschi) | Lauterbrunnental | ca 1981»",
+        "kommentar": "Erwerbsnachweis, verfasst von Bruno Stefanini, wohl einige Jahre nach dem Kauf. Hinweis auf Jura Brüschweiler («Brüschi»), der das Werk vermittelte und die Expertise verfasste, und auf die Vorbesitzerin, deren Name Stefanini entfallen war.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              418.5,
+              307.0,
+              543.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit rotem Schreibmittel «99»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «99»",
+        "kommentar": "entspricht Katalognummer der Ausstellung Steffisburg/Martigny/Lugano 1983/84",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              572.5,
+              212.2,
+              631.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: doppeltes rundes hellblaues Etikett, handschriftlich schwach mit schwarzem und darüber mit dunkelblauem Filzstift «77»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "doppeltes rundes hellblaues Etikett, handschriftlich schwach mit schwarzem und darüber mit dunkelblauem Filzstift «77»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3513/3513_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              648.2,
+              212.0,
+              718.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Fischer 2008."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Expertise von Jura Brüschweiler vom 16. Januar 1981 im Archiv SKKG sowie Fischer 2008. Gemäss beiden ist auf der Werkrückseite vermerkt, dass das Werk spätestens 1870 im Eigentum von Hans Käser, Langenthal, war. Dies lässt sich am Original nicht erkennen, siehe Provenienzmerkmale. Zudem besteht ein Widerspruch zur um 1871 angesetzten Datierung."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Expertise von Jura Brüschweiler vom 16. Januar 1981 im Archiv SKKG sowie Fischer 2008. Beide mit Verweis auf ein Notat auf der Werkrückseite, welches das Jahr 1916 nenne. Dieses ist am Original nicht zu erkennen beziehungsweise zu entziffern, siehe Provenienzmerkmale. Der Schweizer Künstler Albert Nyfeler wurde in Lünisberg nahe Langenthal geboren. Zu seiner Beziehung zu Langenthal und Kippel im Lötschental siehe https://www.verein-nyfe-ler.ch/biografie.html [7. Mai 2024]."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Korrespondenz zwischen Bruno Stefanini und Gloria Füri, März 1981, sowie Liste von Freihandkäufen vom 29. März 1984 im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Korrespondenz zwischen Bruno Stefanini und Gloria Füri, März 1981, im Archiv SKKG, wo der Ankaufspreis von 20 000 Franken vermerkt ist. Auf der Liste von Freihandkäufen vom 29. März 1984 und im annotierten Schreiben von Bruno Stefanini an Gloria Füri vom 16. März 1981 sind 24 000 Franken angegeben. 2000 Franken gingen als Provision an Jura Brüschweiler. Die Differenz lässt sich nicht vollständig klären, siehe Annotationen ebd."
+    }
+  ],
+  "bilder_anzahl": 17
+}

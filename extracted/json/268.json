@@ -1,0 +1,446 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_268_250528.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Mai 2025",
+  "stand_iso": "2025-05-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 268",
+      "Ernest Biéler (1863–1948)",
+      "Portrait de Marguerite Burnat-Provins",
+      "um 1900",
+      "Öl auf Leinwand",
+      "88 × 63 cm (Bildmass)",
+      "111,2 × 84,4 × 7,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "268",
+    "status": "Ungeklärt",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "Portrait de Marguerite Burnat-Provins",
+    "masse": [
+      "88 × 63 cm (Bildmass)",
+      "111,2 × 84,4 × 7,5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1900",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/268/268_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          239.5,
+          512.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Ausstellungskatalog Bern/Martigny 2011. Der von der Galerie Kurt Meissner angegebene Titel auf dem Etikett auf der Werkrückseite und auf dem Ankaufsbeleg in der Objektdatenbank SKKG ist bis auf den dort abgekürzten Vornamen der Porträtierten identisch."
+      },
+      {
+        "nr": 2,
+        "text": "Auf der Werkvorderseite befindet sich der sogenannte Signaturstempel, auf dem Ankaufsbeleg im Archiv SKKG als «Nachlass-Atelier-Stempel» bezeichnet, der die Signatur von Ernest Biéler trägt beziehungsweise nachahmt und nach dessen Tod auf das Werk im Nachlass aufgebracht wurde."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "frühestens 1948 bis 1986",
+      "besitzer": "Madeleine Biéler-de Cérenville (1884–1975) / Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Etikett auf der Werkrückseite sowie den im Rahmen der Nachlasspflege aufgebrachten Signaturstempel (dazu Fn. 2) auf der Werkvorderseite. Der Nachlass Ernest Biéler, bisweilen auch als Fonds Ernest Biéler bezeichnet, wurde von Madeleine Biéler-de Cérenville und später François-Hadrien Pétermann verwaltet. Unter dem Nachlass Madeleine Biéler-de Cérenville (Succession Madeleine Biéler-de Cérenville) ist ebenfalls der Nachlass Ernest Biéler zu verstehen. Die erwähnten Provenienzmerkmale sind kein Beleg dafür, dass das Werk dauerhaft im Eigentum der Familie war, da zum Verkauf stehende Biéler-Werke bisweilen zurückgekauft wurden. Gemäss Ethel Mathier, Auskunft vom 29. November 2022, war das Werk nie im Besitz von Marguerite Burnat-Provins (1871–1952), der Porträtierten."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1986",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, eingeliefert aus dem Nachlass Madeleine Biéler-de Cérenville von François-Hadrien Pétermann",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ethel Mathier, Auskunft vom 29. November 2022."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 1986 bis 9. März 1987",
+      "besitzer": "Galerie Kurt Meissner, Zürich, angekauft von Galerie Paul Vallotton",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ethel Mathier, Auskunft vom 29. November 2022."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 9. März 1987",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Galerie Kurt Meissner, Ankaufspreis: 48 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Ankaufsbeleg in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– Matthias Frehner und Ethel Mathier (Hrsg.), Ernest Biéler (1863–1948). Geträumte Wirklichkeit, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, Bern 2011, S. 83, Nr. 23, S. 268.\n\n– Matthias Frehner und Valentina Locatelli (Hrsg.), Sesam öffne Dich! Anker, Hodler, Segantini … Stiftung für Kunst, Kultur und Geschichte, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, Bern 2014, S. 251, Nr. 117.\n\n– 20. Kunstausstellung Trubschachen. 1.–23. Juli 2017. Schweizer Kunst von F. Hodler und G. Giacometti bis heute, Ausstellungskatalog Kulturverein Trubschachen, Langnau im Emmental 2017."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Kunstmuseum Bern / Fondation Gianadda, Martigny, Ernest Biéler (1863–1948). Geträumte Wirklichkeit, 8. Juli bis 13. November 2011, Nr. 23.\n\n– Kunstmuseum Bern / Fondation Gianadda, Martigny, Sesam öffne Dich! Anker, Hodler, Segantini … Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, 7. März bis 24. August 2014 /5. Dezember 2014 bis 14. Juni 2015, Nr. 117.\n\n– Trubschachen, 20. Kunstausstellung Trubschachen. Schweizer Kunst von F. Hodler und G. Giacometti bis heute, 1.–23. Juli 2017."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv/Ad-ressat:in",
+      "betreff": "Betreff",
+      "antwort": "Antwort"
+    },
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908: Erhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "11. November 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/268/268_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            534.7,
+            253.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Ankaufsbeleg, handschriftlich annotiert von Ursula Netzer, «Freihandkauf Kurt Meissner, 9. März 1987» sowie «268» (Inventarnummer SKKG)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/268/268_003_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          326.9,
+          512.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: in brauner Stempelfarbe «Ernest Biéler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "in brauner Stempelfarbe «Ernest Biéler»",
+        "kommentar": "Signaturstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/268/268_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              550.7,
+              325.3,
+              627.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Siehe Fn. 2."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. senkrechte Mittelstrebe Keilrahmen: Reste eines Etiketts",
+        "position_traeger": "m. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "Reste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/268/268_005_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              186.9,
+              247.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die Leinwand muss vor 2011 doubliert worden sein, siehe Zustandsprotokoll des Restaurierungsateliers Masson Pictet Boissonnas vom 25. Januar 2011 in der Objektdatenbank SKKG. Ob sich auf der originalen, heute verdeckten Leinwand Provenienzmerkmale befinden, ist nicht bekannt."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit grauem Schreibmittel «571»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «571»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/268/268_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              259.5,
+              220.1,
+              310.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: weisses rechteckiges Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «165.5»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "weisses rechteckiges Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «165.5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/268/268_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.6,
+              323.4,
+              220.0,
+              374.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "l. horizontale Mittelstrebe Keilrahmen: Etikett der Galerie Kurt Meissner mit der Laufnummer 5241",
+        "position_traeger": "l. horizontale Mittelstrebe Keilrahmen",
+        "merkmal": "Etikett der Galerie Kurt Meissner mit der Laufnummer 5241",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/268/268_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              387.2,
+              325.4,
+              507.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit rotem Schreibmittel «92 […] S T»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «92 […] S T»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/268/268_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              519.7,
+              325.0,
+              565.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Ausstellungskatalog Bern/Martigny 2011. Der von der Galerie Kurt Meissner angegebene Titel auf dem Etikett auf der Werkrückseite und auf dem Ankaufsbeleg in der Objektdatenbank SKKG ist bis auf den dort abgekürzten Vornamen der Porträtierten identisch."
+    },
+    {
+      "nr": 2,
+      "text": "Auf der Werkvorderseite befindet sich der sogenannte Signaturstempel, auf dem Ankaufsbeleg im Archiv SKKG als «Nachlass-Atelier-Stempel» bezeichnet, der die Signatur von Ernest Biéler trägt beziehungsweise nachahmt und nach dessen Tod auf das Werk im Nachlass aufgebracht wurde."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Etikett auf der Werkrückseite sowie den im Rahmen der Nachlasspflege aufgebrachten Signaturstempel (dazu Fn. 2) auf der Werkvorderseite. Der Nachlass Ernest Biéler, bisweilen auch als Fonds Ernest Biéler bezeichnet, wurde von Madeleine Biéler-de Cérenville und später François-Hadrien Pétermann verwaltet. Unter dem Nachlass Madeleine Biéler-de Cérenville (Succession Madeleine Biéler-de Cérenville) ist ebenfalls der Nachlass Ernest Biéler zu verstehen. Die erwähnten Provenienzmerkmale sind kein Beleg dafür, dass das Werk dauerhaft im Eigentum der Familie war, da zum Verkauf stehende Biéler-Werke bisweilen zurückgekauft wurden. Gemäss Ethel Mathier, Auskunft vom 29. November 2022, war das Werk nie im Besitz von Marguerite Burnat-Provins (1871–1952), der Porträtierten."
+    },
+    {
+      "nr": 4,
+      "text": "Ethel Mathier, Auskunft vom 29. November 2022."
+    },
+    {
+      "nr": 5,
+      "text": "Ethel Mathier, Auskunft vom 29. November 2022."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Ankaufsbeleg in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Fn. 2."
+    },
+    {
+      "nr": 9,
+      "text": "Die Leinwand muss vor 2011 doubliert worden sein, siehe Zustandsprotokoll des Restaurierungsateliers Masson Pictet Boissonnas vom 25. Januar 2011 in der Objektdatenbank SKKG. Ob sich auf der originalen, heute verdeckten Leinwand Provenienzmerkmale befinden, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 9
+}

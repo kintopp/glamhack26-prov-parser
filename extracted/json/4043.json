@@ -1,0 +1,708 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4043_231123.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "23. November 2023",
+  "stand_iso": "2023-11-23",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4043",
+      "Ferdinand Hodler (1853–1918)",
+      "Mühlistöckli in Langenthal",
+      "um 1882",
+      "Öl auf Leinwand",
+      "56 × 71 cm (Bildmass)",
+      "78,5 × 94 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "4043",
+    "status": "Klar",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Mühlistöckli in Langenthal",
+    "masse": [
+      "56 × 71 cm (Bildmass)",
+      "78,5 × 94 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1882",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4043/4043_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          250.7,
+          423.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Brunner 2008."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 1917",
+      "besitzer": "Fritz Meyer-Fierz (1847–1917), Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Brunner 2008. Auf der im Werkkommentar erwähnten Liste der Sammlung Meyer-Fierz im Archiv des Kunsthauses Zürich trägt das Werk die Inventarnummer 32."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1917, spätestens 1921 bis mindestens 1953, vermutlich 1962",
+      "besitzer": "Dr. Franz Meyer sen. (1889–1962), Zürich, vermutlich erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Etiketten der Ausstellungen Bern 1921 und Thun 1953 auf der Werkrückseite mit Angabe des Leihgebers Franz Meyer. Der angegebene Zeitraum beruht einerseits auf den Daten der beiden Ausstellungen, andererseits auf den Lebensdaten des Vorbesitzers beziehungsweise des Besitzers."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1962 bis 1981",
+      "besitzer": "Dr. Franz Meyer jun. (1919–2007), Zürich/Basel/Bern, vermutlich erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Fn. 5."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1981",
+      "besitzer": "Galerie Kurt Meissner, Zürich, eingeliefert von Dr. Franz Meyer jun.",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auf dem annotierten Ankaufsbeleg von Kurt Meissner im Archiv SKKG steht: «Das Gemälde stammt aus der Sammlung Dr. Franz Meyer, Z[üri]ch»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22./23. September 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, von Galerie Kurt Meissner, Ankaufspreis: 37 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierte Ankaufsbelege im Archiv SKKG. Letztere sind auf den 22./23. September 1981 datiert."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Monika Brunner, Mühlistöckli in Langenthal, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 1. Die Landschaften. Teilband 1, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2008, Nr. 103, https://www.ferdinand-hodler.ch/werke.aspx?id=6006624 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/4043/4043_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              487.9,
+              504.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4043/4043_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              511.1,
+              353.8,
+              567.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Ausstellung Ferdinand Hodler im Zürcher Kunsthaus, Ausstellungskatalog Kunsthaus Zürich, Zürich 1917, Nr. 18 (Bernerhaus im Grünen), https://archive.org/details/ausstellungferdi00hodl/mode/2up [18. Juni 2024].",
+        "bilder": [
+          {
+            "datei": "images/4043/4043_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              196.4,
+              417.8,
+              211.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Werner Y. Müller, Die Kunst Ferdinand Hodlers II. Reife und Spätwerk 1895–1918, Zürich 1941, S. 401, Nr. 114 (Mühlistöckli in Langenthal)."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "",
+        "bilder": [
+          {
+            "datei": "images/4043/4043_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              274.3,
+              357.2,
+              347.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungen"
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Mühlistöckli›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Langenthal›» [23. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-23"
+          },
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Mühlistöckli» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Titel «Mühlistöckli» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Schlagwort «Mühlistöckli» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (194 Ergebnisse) für Suche nach Volltext/Metadaten «Langenthal» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 194,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Titel «Langenthal» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [22. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-11-21"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Darunter befinden sich mehrere Einträge für «1 Landschaft» ohne weitere Grunddaten; eine Identifikation ist mangels Angaben nicht möglich."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "21. Februar 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1396.5.2",
+      "bilder": [
+        {
+          "datei": "images/4043/4043_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            209.4,
+            532.6,
+            427.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Beleg Freihandkauf Kurt Meissner vom 22. September 1981, annotiert"
+        },
+        {
+          "datei": "images/4043/4043_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            478.3,
+            511.1,
+            602.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Beleg Freihandkauf Kurt Meissner vom 23. September 1981, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "6. November 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.1.2",
+      "bilder": [
+        {
+          "datei": "images/4043/4043_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            158.4,
+            533.0,
+            370.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/4043/4043_009_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            376.2,
+            534.0,
+            615.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/4043/4043_010_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            133.8,
+            530.1,
+            293.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Expertise von Jura Brüschweiler, Genf, für Kurt Meissner vom 14. Dezember 1981"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Fritz Meyer-Fierz (1847–1917)",
+      "information": "Schweizer Unternehmer (Tabakhandel), Mäzen und Kunstsammler. Er baute ab den 1880er-Jahren seine Kunstsammlung auf. Ferdinand Hodler gehörte zu seinen bevorzugten Künstlern. Er ist der Vater von Franz Meyer senior (siehe folgenden Eintrag).",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "https://de.wikipedia.org/wiki/Fritz_Meyer-Fierz [23. November 2023]."
+        }
+      ]
+    },
+    {
+      "thema": "Franz Meyer sen. (1889–1962)",
+      "information": "Schweizer Jurist, Unternehmer und Kunstsammler. Er baute die Sammlung seines Vaters weiter aus und engagierte sich in der Zürcher Kunstgesellschaft. Dem Zürcher Kunsthaus liess er verschiedene Schenkungen zukommen. Er ist der Vater von Franz Meyer junior (siehe folgenden Eintrag).",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "https://de.wikipedia.org/wiki/Franz_Meyer_(Unternehmer) [23. November 2023]."
+        }
+      ]
+    },
+    {
+      "thema": "Franz Meyer jun. (1919–2007)",
+      "information": "Schweizer Kunsthistoriker und Jurist. 1955 bis 1961 Leiter der Kunsthalle Bern, 1962 bis 1980 Leiter des Kunstmuseums Basel. Auch er sammelte Kunst. In erster Ehe verheiratet mit Ida Chagall (1916–1994), Tochter des Künstlers Marc Chagall.",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "https://de.wikipedia.org/wiki/Franz_Meyer_(Kunsthistoriker) [23. November 2023]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4043/4043_011_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          252.9,
+          284.7,
+          440.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur «F. Hodler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur «F. Hodler»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              477.8,
+              284.8,
+              518.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. und u. m. Keilrahmen: schwarz gestempelt «71» und «81 [?]»",
+        "position_traeger": "o. m. und u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «71» und «81 [?]»",
+        "kommentar": "Vermutlich Massangaben; die erste Angabe entspricht dem Bildmass.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              531.3,
+              192.9,
+              573.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4043/4043_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              581.5,
+              192.9,
+              627.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «22»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «22»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              640.5,
+              192.9,
+              678.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: rechteckiges beiges Etikett mit abgerundeten Ecken, schwarz bedruckt, handschriftlich mit schwarzem Schreibmittel «224/2» und «XMK[…]SS[…]X», rot gestempelt «P»",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "rechteckiges beiges Etikett mit abgerundeten Ecken, schwarz bedruckt, handschriftlich mit schwarzem Schreibmittel «224/2» und «XMK[…]SS[…]X», rot gestempelt «P»",
+        "kommentar": "Etikett der Galerie Kurt Meissner. Das «P» dürfte für «photographiert» stehen.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              283.8,
+              236.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: vermutlich handschriftliches Notat, unleserlich",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "vermutlich handschriftliches Notat, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              251.0,
+              254.6,
+              308.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis, Meissner, September 1981, verfasst von Bruno Stefanini, mit Angabe des Ankaufspreises",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis, Meissner, September 1981, verfasst von Bruno Stefanini, mit Angabe des Ankaufspreises",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              323.4,
+              283.6,
+              431.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Etikett der Ausstellung Bern 1921 mit handschriftlicher Angabe des Besitzers «H[r.?] Fran[z] [M]eyer, Zürich» und der Eingangsnummer «454»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Etikett der Ausstellung Bern 1921 mit handschriftlicher Angabe des Besitzers «H[r.?] Fran[z] [M]eyer, Zürich» und der Eingangsnummer «454»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              445.8,
+              283.6,
+              512.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Etikett der Ausstellung Thun 1953 mit handschriftlicher Angabe des Besitzers «Dr F. Meyer, Zürich» und der Katalognummer «24»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Etikett der Ausstellung Thun 1953 mit handschriftlicher Angabe des Besitzers «Dr F. Meyer, Zürich» und der Katalognummer «24»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4043/4043_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              526.7,
+              283.6,
+              573.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Brunner 2008."
+    },
+    {
+      "nr": 2,
+      "text": "Brunner 2008. Auf der im Werkkommentar erwähnten Liste der Sammlung Meyer-Fierz im Archiv des Kunsthauses Zürich trägt das Werk die Inventarnummer 32."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Etiketten der Ausstellungen Bern 1921 und Thun 1953 auf der Werkrückseite mit Angabe des Leihgebers Franz Meyer. Der angegebene Zeitraum beruht einerseits auf den Daten der beiden Ausstellungen, andererseits auf den Lebensdaten des Vorbesitzers beziehungsweise des Besitzers."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Fn. 5."
+    },
+    {
+      "nr": 5,
+      "text": "Auf dem annotierten Ankaufsbeleg von Kurt Meissner im Archiv SKKG steht: «Das Gemälde stammt aus der Sammlung Dr. Franz Meyer, Z[üri]ch»."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierte Ankaufsbelege im Archiv SKKG. Letztere sind auf den 22./23. September 1981 datiert."
+    },
+    {
+      "nr": 7,
+      "text": "Darunter befinden sich mehrere Einträge für «1 Landschaft» ohne weitere Grunddaten; eine Identifikation ist mangels Angaben nicht möglich."
+    },
+    {
+      "nr": 8,
+      "text": "https://de.wikipedia.org/wiki/Fritz_Meyer-Fierz [23. November 2023]."
+    },
+    {
+      "nr": 9,
+      "text": "https://de.wikipedia.org/wiki/Franz_Meyer_(Unternehmer) [23. November 2023]."
+    },
+    {
+      "nr": 10,
+      "text": "https://de.wikipedia.org/wiki/Franz_Meyer_(Kunsthistoriker) [23. November 2023]."
+    }
+  ],
+  "bilder_anzahl": 20
+}

@@ -1,0 +1,770 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1855_250819.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "19. August 2025",
+  "stand_iso": "2025-08-19",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1855",
+      "Cuno Amiet (1868–1961)",
+      "Kniendes Mädchen",
+      "1913",
+      "Öl auf Leinwand",
+      "98 × 91 cm (Bildmass)",
+      "103,7 × 96,7 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1855",
+    "status": "Ungeklärt",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Kniendes Mädchen",
+    "masse": [
+      "98 × 91 cm (Bildmass)",
+      "103,7 × 96,7 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1913",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1855/1855_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          471.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller 2014."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "Mai bis Juli 1918",
+      "besitzer": "Verkaufsausstellung Freie Secession (Freie Secession Berlin 1918, Nr. 1), Berlin, eingeliefert vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Müller 2014."
+        }
+      ]
+    },
+    {
+      "zeitraum": "Juli 1918 bis o. D.",
+      "besitzer": "Privatbesitz, Deutschland, erworben an der Verkaufsausstellung Freie Secession",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd. Es ist denkbar, dass es sich hierbei bereits um Carl Brüschweiler (siehe Fn. 4) handelt und sich die Ortsangabe «Deutschland» auf den Erwerb an der Verkaufsausstellung in Berlin bezieht und nicht auf den Wohnort des Käufers."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "möglicherweise Carl Brüschweiler (1878–1956), Bern",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Brüschweiler hatte 1918 als «verantwortlicher Organisator der Ausstellung» in einer Schweizer Tageszeitung über die Ausstellung der Freien Secession in Berlin berichtet, siehe Kontextinformationen. Da das Werk erwiesenermassen im Besitz seiner Ehefrau war (siehe Fn. 5), ist es nicht unwahrscheinlich, dass es davor in seinem beziehungsweise im gemeinsamen Eigentum des Ehepaars war (Heirat 1926)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Emma Brüschweiler, geb. Leibundgut, Bern, möglicherweise erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Aufschrift «Frau Brüschweiler» auf der Werkrückseite. Dabei handelt es sich um Emma Brüschweiler, geb. Leibundgut, die Frau von Carl Brüschweiler, Direktor des Eidgenössischen Statistischen Amts. Möglicherweise ging das Werk nach dessen Tod 1956 in ihr Eigentum über; jedenfalls nennt das Notat nur die Frau. Siehe auch Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1978",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Müller 2014."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12.–19. Juni 1996",
+      "besitzer": "Auktion Galerie Koller (Gemälde und Skulpturen des 19. und 20. Jh. Schweizer Kunst. Moderne Graphik, Lot 3047, Die Wahrheit), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 1996."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 13. Juni 1996",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 38 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Franz Müller, Kniendes Mädchen, in: Franz Müller und Viola Radlach, Cuno Amiet. Die Gemälde 1883–1919 (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014, Nr. 1913.34, https://recherche.sik-isea.ch/sik:work-6010135 [16. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/1855/1855_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              139.8,
+              530.5,
+              438.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde und Skulpturen des 19. und 20. Jh. Schweizer Kunst. Moderne Graphik, Auktionskatalog Galerie Koller, Zürich, 12.–19. Juni 1996, Zürich 1996, Lot 3047.",
+        "bilder": [
+          {
+            "datei": "images/1855/1855_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              495.1,
+              376.6,
+              611.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Freie Secession Berlin 1918, Ausstellungskatalog Berlin, Mai bis Juli 1918, Berlin 1918, Nr. 1 [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Amiet» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Amiet» mit Filter: Künstler [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (461 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Amiet», Filter 2: Treffer einschränken «Alle Treffer» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 461,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (120 Ergebnisse) für Volltextsuche «Amiet» [15. Januar 2025]",
+            "treffer": 0,
+            "ergebnisse": 120,
+            "datum": "2025-01-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "INHA – Gazette Drouot",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Amiet» in den Jahrgängen 1900–1950 [17. August 2023]",
+            "treffer": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» mit Filter: «Contains any of these words» [26. November 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-11-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (19 Ergebnisse Auktionskataloge) für Suche mit Filter: Keywords «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-08-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "12. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (0 Ergebnisse im Archivverzeichnis, 7 in den Primärdaten) für Volltextsuche «‹kniendes Mädchen›» [13. Dezember 2023]\n\n0 Treffer (0 Ergebnisse im Archivverzeichnis, 5 in den Primärdaten) für Volltextsuche «‹kniender Akt›» [13. Dezember 2023]\n\n0 Treffer (2 Ergebnisse) für Volltextsuche «Blumenstrauss» [13. Dezember 2023]\n\n0 Treffer (34 Ergebnisse in den Primärdaten) für Volltextsuche «Amiet» [12. Dezember 2023]\n\nmögliche Treffer (12 Ergebnisse im Archivverzeichnis) für Volltextsuche «Amiet» [12. Dezember 2023] [nur teilweise überprüft]"
+    },
+    {
+      "datum": "19. August 2025",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1855/1855_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            481.5,
+            517.4,
+            550.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Zürich 1996 (Erwerbsnachweis)"
+        }
+      ]
+    },
+    {
+      "datum": "14. Januar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.155, NF_0012",
+      "bilder": [
+        {
+          "datei": "images/1855/1855_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            626.0,
+            517.4,
+            706.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Zürich 1996 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Carl Brüschweiler",
+      "information": "Carl Brüschweiler (1878–1956), Kleiner Muristalden 28, Bern, Direktor des Eidgenössischen Statistischen Amts, war Vorstandsmitglied der Zürcher Kunstgesellschaft.\n\nTodesanzeige Carl Brüschweiler, in: Der Bund, Jg. 107, Nr. 264, 8. Juni 1956, S. 14, https://www.e-newspaperarchi-ves.ch/?a=d&d=DBB19560608-02.1.14 [22. Januar 2025], mit der Traueradresse «Kleiner Muristalden 28», Bern, die sich mit der Adresse bei der Aufschrift «Frau Brüschweiler» auf der Werkrückseite deckt, siehe Provenienzmerkmale.",
+      "bilder": [
+        {
+          "datei": "images/1855/1855_006_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            310.1,
+            531.9,
+            483.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Kommentar zur Ausstellung Berlin 1918 von Carl Brüschweiler: Carl Brüschweiler, Schweizer Kunst in Berlin. Eine Erwiderung auf das Feuilleton von Herrn Dr. Keller in Nr. 384 (7. Juli 1918), in: Der Bund, Jg. 69, Nr. 294, 13. Juli 1918, S. 2, https://www.e-newspa-perarchives.ch/?a=d&d=DBB19180713-01.2.14.1 [22. Januar 2025]."
+        },
+        {
+          "datei": "images/1855/1855_007_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            565.0,
+            336.4,
+            726.9
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe https://www.histoirerurale.ch/pers/personnes/Brueschweiler,_Carl_%281878_1956%29__DB4181.html [19. August 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1855/1855_008_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          272.2,
+          293.0,
+          522.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit roter Farbe «CA | 13»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit roter Farbe «CA | 13»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              560.1,
+              226.0,
+              652.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Negativ eines Etiketts",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Negativ eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              665.6,
+              226.0,
+              713.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Reste eines Etiketts",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Reste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              235.3,
+              196.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen (unter Etikettresten): handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "position_traeger": "o. m. Keilrahmen (unter Etikettresten)",
+        "merkmal": "handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              211.2,
+              270.8,
+              271.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit Bleistift «Kniendes Mädchen 1913»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Kniendes Mädchen 1913»",
+        "kommentar": "Werktitel mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              285.6,
+              327.5,
+              324.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit Bleistift «Frau Brüschweiler Kl. Muristalden 28»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Frau Brüschweiler Kl. Muristalden 28»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              348.7,
+              327.3,
+              369.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1855/1855_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              406.7,
+              327.5,
+              444.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Details"
+          },
+          {
+            "datei": "images/1855/1855_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              446.6,
+              327.5,
+              489.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Schweizer Zollstempel",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Schweizer Zollstempel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              503.6,
+              207.0,
+              577.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: vergilbtes Etikett mit abgeschrägten Ecken und blauer floraler Bordüre, handschriftlich mit schwarzer Tinte «1»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "vergilbtes Etikett mit abgeschrägten Ecken und blauer floraler Bordüre, handschriftlich mit schwarzer Tinte «1»",
+        "kommentar": "Ausstellung Berlin 1918, Nr. 1",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              591.7,
+              250.2,
+              661.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. Keilrahmen: handschriftlich mit blauem Farbstift «CA 9» (mit auffälligem Querstrich beim Buchstaben «A»)",
+        "position_traeger": "r. o. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Farbstift «CA 9» (mit auffälligem Querstrich beim Buchstaben «A»)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              680.8,
+              250.4,
+              736.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: viereckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «Fotografiert», unterstrichen, und handschriftlich mit violettem Filzstift «F 7.9.96»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "viereckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «Fotografiert», unterstrichen, und handschriftlich mit violettem Filzstift «F 7.9.96»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              139.8,
+              251.4,
+              183.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. Keilrahmen: Reste eines angehefteten weissen Zettels",
+        "position_traeger": "r. o. Keilrahmen",
+        "merkmal": "Reste eines angehefteten weissen Zettels",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              215.5,
+              194.3,
+              264.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit dunklem Schreibmittel «CA 9», durchgestrichen, und «J. E. W. 900»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «CA 9», durchgestrichen, und «J. E. W. 900»",
+        "kommentar": "«CA» entspricht den Initialen des Künstlers.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1855/1855_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              276.5,
+              327.5,
+              311.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller 2014."
+    },
+    {
+      "nr": 2,
+      "text": "Müller 2014."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd. Es ist denkbar, dass es sich hierbei bereits um Carl Brüschweiler (siehe Fn. 4) handelt und sich die Ortsangabe «Deutschland» auf den Erwerb an der Verkaufsausstellung in Berlin bezieht und nicht auf den Wohnort des Käufers."
+    },
+    {
+      "nr": 4,
+      "text": "Brüschweiler hatte 1918 als «verantwortlicher Organisator der Ausstellung» in einer Schweizer Tageszeitung über die Ausstellung der Freien Secession in Berlin berichtet, siehe Kontextinformationen. Da das Werk erwiesenermassen im Besitz seiner Ehefrau war (siehe Fn. 5), ist es nicht unwahrscheinlich, dass es davor in seinem beziehungsweise im gemeinsamen Eigentum des Ehepaars war (Heirat 1926)."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Aufschrift «Frau Brüschweiler» auf der Werkrückseite. Dabei handelt es sich um Emma Brüschweiler, geb. Leibundgut, die Frau von Carl Brüschweiler, Direktor des Eidgenössischen Statistischen Amts. Möglicherweise ging das Werk nach dessen Tod 1956 in ihr Eigentum über; jedenfalls nennt das Notat nur die Frau. Siehe auch Fn. 4."
+    },
+    {
+      "nr": 6,
+      "text": "Müller 2014."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 1996."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe https://www.histoirerurale.ch/pers/personnes/Brueschweiler,_Carl_%281878_1956%29__DB4181.html [19. August 2025]."
+    }
+  ],
+  "bilder_anzahl": 22
+}

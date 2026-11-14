@@ -1,0 +1,676 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_655_221025.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. Oktober 2022",
+  "stand_iso": "2022-10-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 655",
+      "Arnold Böcklin (1827–1901)",
+      "Lattichblätter",
+      "um 1850",
+      "Öl auf Malkarton",
+      "20 × 27,2 cm (Bildmass)",
+      "25 × 32,4 × 2,4 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "655",
+    "status": "Ungeklärt",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Lattichblätter",
+    "masse": [
+      "20 × 27,2 cm (Bildmass)",
+      "25 × 32,4 × 2,4 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1850",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/655/655_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          318.4,
+          455.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1902–1913",
+      "besitzer": "Walter Böcklin (1858–1913), Basel",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Andree 1977. Walter Böcklin war ein Neffe von Arnold Böcklin und Sohn von dessen Bruder Walter Böcklin."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1913–1923",
+      "besitzer": "Clara Böcklin (1863–1923), Basel, möglicherweise erworben im Erbgang vom Bruder",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Andree 1977. Dort wird das Werk ab 1915 als Eigentum von Clara Böcklin aufgeführt. Clara Böcklin war die Schwester von Walter Böcklin und Böcklins Nichte; sie dürfte das Werk vom Bruder geerbt haben. Bei Andree 1977 und im Auktionskatalog Zürich 1994 findet sich der Hinweis auf eine Versteigerung bei F. A. C. Prestel in Frankfurt am Main am 10. Mai 1915. Im entsprechenden Auktionskatalog fehlt das Werk allerdings, siehe https://doi.org/10.11588/diglit.20469#0017 [22. Oktober 2022]. Daher ist zweifelhaft, ob das Werk tatsächlich dort angeboten wurde; falls es dort zum Kauf stand, so ist es nicht verkauft worden, denn es blieb in der Familie."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1923",
+      "besitzer": "Gottlieb Strahm-Bieler (geb. 1865), Buenos Aires / Santa Fé, möglicherweise erworben von seiner Cousine Clara Böcklin",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Andree 1977. Gottlieb Strahm-Bieler war der Sohn von Mathilde Strahm-Böcklin, der Schwester von Arnold Böcklin. Gottlieb Strahm wurde in Basel geboren und wanderte nach Argentinien aus (nachgewiesen in Santa Fé, Argentinien, siehe Holenweg 1998, S. 602). Er dürfte das Werk vor der Ausreise erworben und nach Argentinien exportiert haben. Verheiratet war Gottlieb Strahm mit Elisa Bieler, ebenfalls aus Basel stammend (ebd.). Der rote, vermutlich schweizerische Zollstempel auf dem Rückseitenschutz (siehe Provenienzmerkmale) dürfte bei der Ein- oder Ausfuhr des Werks von Argentinien in die Schweiz oder umgekehrt aufgebracht worden sein."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Dolores Julia Strahm-Bieler, Buenos Aires",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Andree 1977. Zu den verwandtschaftlichen Verhältnissen macht Andree keine Angaben. Es könnte sich um Frau oder Tochter handeln."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Olga Wyss-Ungricht (geb. 1904), Buenos Aires",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Andree 1977. Vermutlich handelt es sich um Olga Ungricht, die 1930 aus der Schweiz nach Argentinien ausgewandert ist, siehe https://www.ancestry.de/discoveryui-content/view/41550:1315 sowie https://www.ancestry.de/discoveryui-con-tent/view/17129040:1068 [22. Oktober 2022]. Bei ihrem Ehemann Juan Wyss könnte es sich ebenfalls um einen ausgewanderten Schweizer handeln (1928 nach Buenos Aires), siehe https://www.ancestry.de/discoveryui-con-tent/view/121876:1315 [22. Oktober 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. Dezember 1994",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Lot 63, Lattichblätter), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 1994, Holenweg 2021."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. Dezember 1994",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Ankaufspreis: 24 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 208, Nr. 66.\n\nHans Holenweg, Arnold Böcklin. Ergänzungen, Nachträge und Korrekturen zum Katalog der Gemälde, Stand: 1. November 2021, S. 5, Nr. 66, https://www.sikart.ch/pdf/holenweg_gemaelde.pdf [25. Oktober 2022].",
+        "bilder": [
+          {
+            "datei": "images/655/655_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              410.4,
+              351.3,
+              518.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Hans Holenweg, Supplementum, in: Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel 1998 (2., ergänzte und überarbeitete Auflage mit einem Supplementum von Hans Holenweg), S. 585–602."
+          },
+          {
+            "datei": "images/655/655_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              228.3,
+              488.2,
+              315.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 8. Dezember 1994, Zürich 1994, Lot 63.",
+        "bilder": [
+          {
+            "datei": "images/655/655_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              359.5,
+              446.6,
+              505.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/655/655_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          442.0,
+          319.5,
+          603.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "mindestens vier Metallklammern (Bostitch) mit Papierresten von vermutlich ganzflächig aufgebrachtem weissem Papierschutz",
+        "position_traeger": null,
+        "merkmal": null,
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.9,
+              139.8,
+              320.0,
+              327.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: eingeritzt «T» oder Kerbspur einer Befestigung",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "eingeritzt «T» oder Kerbspur einer Befestigung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              339.5,
+              225.2,
+              432.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: Negativ einer Applikation (allenfalls Siegel oder Etikett)",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Negativ einer Applikation (allenfalls Siegel oder Etikett)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              445.2,
+              248.9,
+              552.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiger weisser Zettel, angeheftet, schwarz bedruckt, handschriftlich mit schwarzem Schreibmittel «24.000», auf der Rückseite handschriftlich mit Bleistift «655»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiger weisser Zettel, angeheftet, schwarz bedruckt, handschriftlich mit schwarzem Schreibmittel «24.000», auf der Rückseite handschriftlich mit Bleistift «655»",
+        "kommentar": "Erwerbsnachweis mit Zuschlagspreis und SKKG-Inventarnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              564.8,
+              322.3,
+              667.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/655/655_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              674.3,
+              214.1,
+              726.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiger weisser Zettel, angeheftet, handschriftlich mit Bleistift, schwarzem Filzstift und blauem Kugelschreiber «Böcklin | B 1B»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiger weisser Zettel, angeheftet, handschriftlich mit Bleistift, schwarzem Filzstift und blauem Kugelschreiber «Böcklin | B 1B»",
+        "kommentar": "Der Zettel stammt von einer früheren Sortierung im SKKG-Depot.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              226.7,
+              263.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit weisser Kreide «8.12.94»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «8.12.94»",
+        "kommentar": "Datum der Auktion Sotheby’s 1994",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              276.8,
+              301.6,
+              332.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseitenschutz recto",
+        "beschreibung": "bedruckter, sekundär verwendeter Karton, darauf in Deutsch mit Frakturschrift amtliche Angaben, unter anderem zu Versandtarifen",
+        "position_traeger": null,
+        "merkmal": null,
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              345.4,
+              318.5,
+              476.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Der Rückseitenschutz besteht aus einem beidseitig bedruckten Karton in Zweitverwendung. Er wurde für die Wiederverwendung mit einem beigen Papier beklebt und muss mit der beigen Papierseite nach aussen auf die Rückseite appliziert worden sein, was die Provenienzmerkmale – Zollstempel und andere – belegen. Vermutlich hat das Auktionshaus den Rückseitenschutz gewendet und darauf das Lotetikett angebracht."
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseitenschutz recto",
+        "beschreibung": "o. m.: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «63»",
+        "position_traeger": "o. m.",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «63»",
+        "kommentar": "Lotnummer der Auktion Sotheby’s 1994",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              488.5,
+              241.1,
+              564.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseitenschutz verso",
+        "beschreibung": "bedruckter, sekundär verwendeter Karton, darauf in Deutsch mit Frakturschrift Kalender mit Namenstagen, handschriftlich Geburtstage ergänzt: «Mama», «Hanna[?]», nachträglich mit beigem Papier vollflächig beklebt",
+        "position_traeger": "bedruckter, sekundär verwendeter Karton, darauf in Deutsch mit Frakturschrift Kalender mit Namenstagen, handschriftlich Geburtstage ergänzt",
+        "merkmal": "«Mama», «Hanna[?]», nachträglich mit beigem Papier vollflächig beklebt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              304.2,
+              263.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseitenschutz verso",
+        "beschreibung": "m.: runder roter Stempel, Kreis, darin oben «ZO[LL]», in der Mitte «I[…]», unten vermutlich «+[…]»",
+        "position_traeger": "m.",
+        "merkmal": "runder roter Stempel, Kreis, darin oben «ZO[LL]», in der Mitte «I[…]», unten vermutlich «+[…]»",
+        "kommentar": "Es dürfte sich um einen Schweizer Zollstempel handeln.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              278.3,
+              219.6,
+              362.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseitenschutz verso",
+        "beschreibung": "m.: handschriftliche Aufschrift mit grünem Schreibmittel, unleserlich",
+        "position_traeger": "m.",
+        "merkmal": "handschriftliche Aufschrift mit grünem Schreibmittel, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              378.0,
+              320.3,
+              475.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseitenschutz verso",
+        "beschreibung": "u. r.: handschriftlich mit Bleistift «FPV [?] 8/3»",
+        "position_traeger": "u. r.",
+        "merkmal": "handschriftlich mit Bleistift «FPV [?] 8/3»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/655/655_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              488.0,
+              244.1,
+              560.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Andree 1977. Walter Böcklin war ein Neffe von Arnold Böcklin und Sohn von dessen Bruder Walter Böcklin."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977. Dort wird das Werk ab 1915 als Eigentum von Clara Böcklin aufgeführt. Clara Böcklin war die Schwester von Walter Böcklin und Böcklins Nichte; sie dürfte das Werk vom Bruder geerbt haben. Bei Andree 1977 und im Auktionskatalog Zürich 1994 findet sich der Hinweis auf eine Versteigerung bei F. A. C. Prestel in Frankfurt am Main am 10. Mai 1915. Im entsprechenden Auktionskatalog fehlt das Werk allerdings, siehe https://doi.org/10.11588/diglit.20469#0017 [22. Oktober 2022]. Daher ist zweifelhaft, ob das Werk tatsächlich dort angeboten wurde; falls es dort zum Kauf stand, so ist es nicht verkauft worden, denn es blieb in der Familie."
+    },
+    {
+      "nr": 4,
+      "text": "Andree 1977. Gottlieb Strahm-Bieler war der Sohn von Mathilde Strahm-Böcklin, der Schwester von Arnold Böcklin. Gottlieb Strahm wurde in Basel geboren und wanderte nach Argentinien aus (nachgewiesen in Santa Fé, Argentinien, siehe Holenweg 1998, S. 602). Er dürfte das Werk vor der Ausreise erworben und nach Argentinien exportiert haben. Verheiratet war Gottlieb Strahm mit Elisa Bieler, ebenfalls aus Basel stammend (ebd.). Der rote, vermutlich schweizerische Zollstempel auf dem Rückseitenschutz (siehe Provenienzmerkmale) dürfte bei der Ein- oder Ausfuhr des Werks von Argentinien in die Schweiz oder umgekehrt aufgebracht worden sein."
+    },
+    {
+      "nr": 5,
+      "text": "Andree 1977. Zu den verwandtschaftlichen Verhältnissen macht Andree keine Angaben. Es könnte sich um Frau oder Tochter handeln."
+    },
+    {
+      "nr": 6,
+      "text": "Andree 1977. Vermutlich handelt es sich um Olga Ungricht, die 1930 aus der Schweiz nach Argentinien ausgewandert ist, siehe https://www.ancestry.de/discoveryui-content/view/41550:1315 sowie https://www.ancestry.de/discoveryui-con-tent/view/17129040:1068 [22. Oktober 2022]. Bei ihrem Ehemann Juan Wyss könnte es sich ebenfalls um einen ausgewanderten Schweizer handeln (1928 nach Buenos Aires), siehe https://www.ancestry.de/discoveryui-con-tent/view/121876:1315 [22. Oktober 2022]."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 1994, Holenweg 2021."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 9,
+      "text": "Der Rückseitenschutz besteht aus einem beidseitig bedruckten Karton in Zweitverwendung. Er wurde für die Wiederverwendung mit einem beigen Papier beklebt und muss mit der beigen Papierseite nach aussen auf die Rückseite appliziert worden sein, was die Provenienzmerkmale – Zollstempel und andere – belegen. Vermutlich hat das Auktionshaus den Rückseitenschutz gewendet und darauf das Lotetikett angebracht."
+    }
+  ],
+  "bilder_anzahl": 18
+}

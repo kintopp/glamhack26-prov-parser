@@ -1,0 +1,694 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1966_250203.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Februar 2025",
+  "stand_iso": "2025-02-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1966",
+      "Cuno Amiet (1868–1961)",
+      "Dame mit Regenschirm (Anna Grimm)",
+      "1894",
+      "Öl auf Leinwand",
+      "200 × 70 cm (Bildmass)",
+      "223 × 92 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1966",
+    "status": "Ungeklärt",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Dame mit Regenschirm (Anna Grimm)",
+    "masse": [
+      "200 × 70 cm (Bildmass)",
+      "223 × 92 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1894",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1966/1966_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          199.8,
+          563.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Radlach 2014. Anna Grimm (1859–1936), Tochter des Basler Arztes Christian Grimm, war mit Cuno Amiet befreundet, siehe Huggler 1971 und Ausstellungskatalog Bern 1998. Ob es sich beim Gemälde um ein Auftragswerk handelt beziehungsweise es vom Künstler zur Familie Grimm ging, ist nicht bekannt. Ein weiteres Bildnis von Anna Grimm von Cuno Amiet mit sehr ähnlicher Provenienzkette war nachweislich im Eigentum der Porträtierten, siehe Kontextinformationen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "November/Dezem-ber 1894",
+      "besitzer": "Ausstellung Kunsthalle Basel",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Radlach 2015."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. März bis 24. April 1921",
+      "besitzer": "möglicherweise Ausstellung Kunsthalle Basel (Cuno Amiet, Nr. 22, Porträt Frl. G.)",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1954",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1954",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1968 bis o. D.",
+      "besitzer": "Kurt Stänz, Herisau",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ausstellungskatalog Bern 1968, siehe auch Ausstellungsetikett sowie Aufschrift «Herisau» auf der Werkrückseite. Stänz besass ein weiteres Werk von Amiet mit Anna Grimm, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1976 bis 28. Juli 1981",
+      "besitzer": "Gerhard Saner (geb. 1938), Worben",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ausstellungskatalog Biberist 1976. Der Kunstsammler Gerhard Saner gründete 1990 die Fondation Sander in Studen bei Bern, siehe https://www.fondation-saner.ch/de/fondation/die-stiftung [19. Juni 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 28. Juli 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Gerhard Saner, Ankaufspreis: 150 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Kaufvereinbarung zwischen Bruno Stefanini und Gerhard Saner vom 28. Juli 1981 im Archiv SKKG. Der Ankaufspreis bezieht sich auf zwei Amiet-Werke zusammen, siehe ebd."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Viola Radlach, Dame mit Regenschirm (Anna Grimm), in: Cuno Amiet. Die Gemälde 1883–1919, hrsg. von Franz Müller und Viola Radlach (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014, Nr. 1894.10, https://recherche.sik-isea.ch/sik:work-6009723/in/catalogues.amiet [16. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/1966/1966_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              476.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Jubiläumsausstellung Cuno Amiet 1868–1961, Giovanni Giacometti 1868–1933. Werke bis 1920, Ausstellungskatalog Kunstmuseum Bern, 8. März bis 28. April 1968, Bern 1968, Nr. 13.\n\n20. August bis 27. September 1998, Ausstellungskatalog Kunsthaus Langenthal, Bern 1998, S. 29–30.",
+        "bilder": [
+          {
+            "datei": "images/1966/1966_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              558.9,
+              367.4,
+              593.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Schweizer Malerei von Hodler bis Giacometti. Sammlung Gerhard Saner, Ausstellungskatalog Schlösschen Vorder-Bleicherberg, Biberist, 9. Mai bis 13. Juni 1976, Biberist 1976, Nr. 2."
+          },
+          {
+            "datei": "images/1966/1966_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              650.0,
+              367.3,
+              709.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Künstlerkolonie Hellsau. Frank Buchser, Cuno Amiet, Giovanni Giacometti, Ernst Morgenthaler und Freunde in Hellsau 1886–1918."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Max Huggler, Cuno Amiet, Zürich 1971, S. 54."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Radlach 2014."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Amiet» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (461 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Amiet», Filter 2: Titel einschränken «Alle Treffer» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 461,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (107 Ergebnisse) für Suche «Cuno Amiet» (inklusive Varianten der Namensschreibweise) ohne Filter [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 107,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "INHA – Gazette Drouot",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Amiet» in den Jahrgängen 1900–1950 [17. August 2023]",
+            "treffer": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [26. November 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-11-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche in den Auktionskatalogen mit Filter: Keywords «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-08-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "18. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "1 Treffer (1 Ergebnis im Archivverzeichnis, 17 Ergebnisse in den Primärdaten) für Volltextsuche «Regenschirm» [13. Dezember 2023]: A.22.1565.1.2.2 (siehe unten)\n\n1 Treffer (34 Ergebnisse in den Primärdaten, 13 im Archivverzeichnis) für Volltextsuche «Amiet» [18. Dezember 2023]: A.219.729 (siehe unten)"
+    },
+    {
+      "datum": "18. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.2.2 (PDF, S. 186)\n\nkopierter Ausschnitt aus Ausstellungskatalog Bern 1998"
+    },
+    {
+      "datum": "18. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.219.729\n\nKaufvereinbarung zwischen Bruno Stefanini, Winterthur, und Gerhard Saner, Worben, vom 28. Juli 1981 für die beiden Amiet-Werke «Junge Dame mit Regenschirm (Frl. Grimm)» und «Rittersporn» für insgesamt 150 000 Franken mit einer Vereinbarung zur Handhabung der bestehenden Leihgabe im Kunstmuseum Bern",
+      "bilder": [
+        {
+          "datei": "images/1966/1966_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            537.4,
+            450.1,
+            650.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1966/1966_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            450.1,
+            537.4,
+            530.9,
+            650.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1966/1966_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            651.4,
+            449.3,
+            748.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    },
+    {
+      "datum": "18. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.219.729\n\nKorrespondenz zwischen Kunstmuseum Bern und Bruno Stefanini zur Leihgabe vom November 1981 sowie Februar und März 1984 zur Leihgabe des Werks"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Weiteres Amiet-Gemälde mit Anna Grimm im Besitz von Kurt Stänz",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/1966/1966_008_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            550.0,
+            282.7,
+            689.8
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Kurt Stänz, Herisau, besass ein weiteres Werk von Amiet: Bildnis Anna Grimm mit Pinsel und Palette, siehe Müller/Radlach 2014, Nr. 1890.06, https://recherche.sik-isea.ch/sik:work-6009722/in/ca-talogues.amiet [3. Februar 2025]. Dieses Gemälde hat eine sehr ähnliche Provenienzkette und war im Eigentum der Porträtierten."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1966/1966_009_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          289.0,
+          701.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit grauer Farbe «Amiet 94»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit grauer Farbe «Amiet 94»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              247.0,
+              185.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: möglicherweise Provenienzmerkmal, nicht entzifferbar",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "möglicherweise Provenienzmerkmal, nicht entzifferbar",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              202.9,
+              246.8,
+              271.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: schwarz gestempelt «200»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «200»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              283.6,
+              244.0,
+              355.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «0 [?]»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «0 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              368.5,
+              209.3,
+              455.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: blaugrundiger Aufkleber, weiss gedruckt «Galerie PALETTE | Wiesner + Kohlbrenner | Stadelhoferstrasse 10 | 8001 Zürich […]»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "blaugrundiger Aufkleber, weiss gedruckt «Galerie PALETTE | Wiesner + Kohlbrenner | Stadelhoferstrasse 10 | 8001 Zürich […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.9,
+              468.0,
+              208.4,
+              615.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. obere Strebe Keilrahmen: rechteckiges beiges Etikett, schwarz bedruckt, handschriftlich mit blauem Schreibmittel «13 K. Stänz Herisau»",
+        "position_traeger": "l. obere Strebe Keilrahmen",
+        "merkmal": "rechteckiges beiges Etikett, schwarz bedruckt, handschriftlich mit blauem Schreibmittel «13 K. Stänz Herisau»",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1968, Nr. 13, mit Angabe des Leihgebers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              628.2,
+              305.8,
+              709.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. obere Strebe Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt «CUNO AMIET (1868–1961) | Dame mit Regenschirm, 1894 | Leihgabe»",
+        "position_traeger": "m. obere Strebe Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt «CUNO AMIET (1868–1961) | Dame mit Regenschirm, 1894 | Leihgabe»",
+        "kommentar": "unbekannte Ausstellung\n\nDie Angaben auf der Rückseite des Etiketts beziehen sich auf ein anderes Bild.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              306.8,
+              189.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1966/1966_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              220.9,
+              250.6,
+              334.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Rückseite des Etiketts"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. obere Strebe Keilrahmen (unter Etikett): handschriftlich mit rotem Schreibmittel «Herisau»",
+        "position_traeger": "m. obere Strebe Keilrahmen (unter Etikett)",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «Herisau»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              347.4,
+              306.7,
+              389.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: weisses rechteckiges Etikett, schwarz bedruckt, handschriftlich mit schwarzem Kugelschreiber unterstrichen und teilweise überschrieben, «[…]91»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "weisses rechteckiges Etikett, schwarz bedruckt, handschriftlich mit schwarzem Kugelschreiber unterstrichen und teilweise überschrieben, «[…]91»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1966/1966_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              401.9,
+              250.6,
+              479.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Radlach 2014. Anna Grimm (1859–1936), Tochter des Basler Arztes Christian Grimm, war mit Cuno Amiet befreundet, siehe Huggler 1971 und Ausstellungskatalog Bern 1998. Ob es sich beim Gemälde um ein Auftragswerk handelt beziehungsweise es vom Künstler zur Familie Grimm ging, ist nicht bekannt. Ein weiteres Bildnis von Anna Grimm von Cuno Amiet mit sehr ähnlicher Provenienzkette war nachweislich im Eigentum der Porträtierten, siehe Kontextinformationen."
+    },
+    {
+      "nr": 2,
+      "text": "Radlach 2015."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Ausstellungskatalog Bern 1968, siehe auch Ausstellungsetikett sowie Aufschrift «Herisau» auf der Werkrückseite. Stänz besass ein weiteres Werk von Amiet mit Anna Grimm, siehe Kontextinformationen."
+    },
+    {
+      "nr": 7,
+      "text": "Ausstellungskatalog Biberist 1976. Der Kunstsammler Gerhard Saner gründete 1990 die Fondation Sander in Studen bei Bern, siehe https://www.fondation-saner.ch/de/fondation/die-stiftung [19. Juni 2025]."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Kaufvereinbarung zwischen Bruno Stefanini und Gerhard Saner vom 28. Juli 1981 im Archiv SKKG. Der Ankaufspreis bezieht sich auf zwei Amiet-Werke zusammen, siehe ebd."
+    }
+  ],
+  "bilder_anzahl": 19
+}

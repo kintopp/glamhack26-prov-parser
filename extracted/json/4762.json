@@ -1,0 +1,950 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4762_230202.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "2. Februar 2023",
+  "stand_iso": "2023-02-02",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4762",
+      "Arnold Böcklin (1827–1901)",
+      "Bildnis Angela Böcklin",
+      "um 1863",
+      "Tempera und Öl auf Leinwand",
+      "46 × 37 cm (Bildmass)",
+      "80 × 71 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4762",
+    "status": "Ungeklärt",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Bildnis Angela Böcklin",
+    "masse": [
+      "46 × 37 cm (Bildmass)",
+      "80 × 71 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1863",
+    "technik": "Tempera und Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4762/4762_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.0,
+          454.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 2005. Angela Böcklin (1836–1915), geborene Pascucci, war Arnold Böcklins Frau."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1898",
+      "besitzer": "Hamburg, Kunsthalle und Kunstverein",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ausstellungskatalog Hamburg 1898, bei Andree 1977 mit Fragezeichen versehen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Korff, München",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "um 1900",
+      "besitzer": "Kunsthandlung Ernst Zaeslein, München",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd. Zentralarchiv, Staatliche Museen Berlin, SMB-ZA_I NG-699, Brief von Hans Unger vom 21. Oktober 1927, siehe «Archive extern»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1900",
+      "besitzer": "Hans Unger (1872–1936), Dresden, angekauft bei Kunsthandlung Ernst Zaeslein",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1901",
+      "besitzer": "Kunsthandlung Fritz Gurlitt, Berlin",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1902",
+      "besitzer": "Kunsthandlung Ernst Arnold, Dresden",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1902",
+      "besitzer": "Ida Bienert (1870–1965), Dresden, angekauft bei Kunsthandlung Ernst Arnold",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Es dürfte sich um Ida Bienert-Suckert handeln. Die Familie ist verwandt mit der Familie Rupé/Ruppé. Ida Bienerts Tochter Traude Rupé-Bienert (1890–1922) war vermutlich die erste Frau von Hans Ruppe (1886–1947), den Louise Ruppé-Leembruggen heiratete. Siehe dazu auch Recherchedokumentation zu Arnold Böcklins Zwei fischende Pane, SKKG-Inventarnummer 910."
+        },
+        {
+          "nr": 9,
+          "text": "Zentralarchiv, Staatliche Museen Berlin, SMB-ZA_I NG-699, Brief von Hans Unger vom 21. Oktober 1927, siehe «Archive extern»; Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Hugo Zeder, Dresden",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1922",
+      "besitzer": "Kunsthandlung Kohl, Briefmarken und Gemälde, Chemnitz",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1922 bis mindestens 1928",
+      "besitzer": "Hans Unger (1872–1936), Dresden, angekauft bei Kunsthandlung Kohl",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Siehe Fn. 9. Im Ausstellungskatalog Berlin 1927 ist Hans Unger als Einlieferer angegeben. Gemäss Dokumenten im Zentralarchiv der Staatlichen Museen Berlin wandte sich Hans Unger an Ludwig Thormaelen, Direktor der Nationalgalerie, weil er das Gemälde verkaufen wollte: «[…] durch ganz unerwartet eingetretene Familienangelegenheiten muss ich mich mit dem Gedanken vertraut machen meinen mir ans Herz gewachsenen Böcklin Frau Angela B. […] zu verkaufen», Brief vom 5. November 1927; ähnlich im Brief vom 23. November 1927. Am 4. Februar 1928 schrieb Hans Unger an Ludwig Thormaelen, dass sich ein Herr Hentschel aus Wilmersdorf als Interessent für den Böcklin bei ihm gemeldet habe. Nach Ausstellungsende schickte die Nationalgalerie das Bild unverkauft an Hans Unger nach Dresden zurück, siehe Brief vom 13. Februar 1928 (vermutlich Ludwig Thormaelen an Hans Unger). Es gibt keinen Hinweis darauf, ob und wann Hans Unger das Werk verkauft haben könnte. Denkbar ist auch, dass das Gemälde als Erbschaft an seine Tochter Maja (1903–1973), Dresden, ging. Nach ihrem Tod wurde Ungers Nachlass beziehungsweise der Nachlass Maja Unger verkauft, siehe https://de.wikipedia.org/wiki/Hans_Unger_(K%C3%BCnstler) [9. September 2022]. Zu Hans (Carl Friedrich Johannes) Unger siehe zudem Sterberegister auf Ancestry: https://www.ancestry.de/discoveryui-con-tent/view/144350:9153 [9. September 2022]. Zu Hans und zu Maja Unger siehe auch https://friedhof-loschwitz.de/grab-mal-im-fokus.html [9. September 2022]. Für Hinweise zur Kunstsammlung von Hans Unger, der Werke von Oskar Zwintscher besass, siehe: Andreas Dehmer und Birgit Dalbajewa (Hrsg.), Oskar Zwintscher im Albertinum, Dresden 2021."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1977",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Dezember 2005",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 19, Bildnis Angela Böcklin), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 14,
+          "text": "Auktionskatalog Zürich 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Dezember 2005",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 28 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 15,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2005 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 274, Nr. 161.",
+        "bilder": [
+          {
+            "datei": "images/4762/4762_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              209.5,
+              384.1,
+              359.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Hans Holenweg, Arnold Böcklin. Ergänzungen, Nachträge und Korrekturen zum Katalog der Gemälde, Stand: 1. November 2021, S. 9, Nr. 161, https://www.sikart.ch/pdf/holenweg_gemaelde.pdf [2. Februar 2023]."
+          },
+          {
+            "datei": "images/4762/4762_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              422.1,
+              509.8,
+              450.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 5. Dezember 2005, Zürich 2005, Lot 19."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Ausstellung von Werken Arnold Böcklin’s veranstaltet zur Feier seines 70. Geburtstages, Ausstellungskatalog Kunsthalle und Kunstverein zu Hamburg, Hamburg 1898, Nr. 35a [nicht konsultiert].\n\nGemälde und Zeichnungen von Arnold Böcklin ausgestellt zur Feier seines 100. Geburtstages, Ausstellungskatalog Nationalgalerie, Berlin, Berlin 1927, S. 46, Nr. 105.",
+        "bilder": [
+          {
+            "datei": "images/4762/4762_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              595.5,
+              348.8,
+              645.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunsthalle und Kunstverein zu Hamburg, Ausstellung von Werken Arnold Böcklin’s veranstaltet zur Feier seines 70. Geburtstages, 1.– 28. Februar 1898, Nr. 35a.\n\nNationalgalerie, Berlin, Gemälde und Zeichnungen von Arnold Böcklin ausgestellt zur Feier seines 100. Geburtstages, 16. Oktober 1927 bis 5. Februar 1928, Nr. 105."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Böcklin» Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe «Malerei» [5. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Stichwort «Boecklin», Filter 1: Künstler [5. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-08-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Stichwort «Böcklin», Filter 1: Künstler [5. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [5. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [5. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]:",
+            "treffer": 1,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "National Archives and Records Administration, EU, Ardelia Hall Collection, Munich Administrative Records, 1945–1951, State Museums Berlin: Collections, ID 3725274, S. 104 («Böcklin, Arnold […] Frau Angela»), https://www.fold3.com/image/283754929 [18. August 2022].",
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "Dabei dürfte es sich um das Porträt in Berlin handeln (Angela Böcklin mit rotem Haarnetz, 1863, Staatliche Museen zu Berlin, Nationalgalerie): https://recherche.smb.museum/detail/965337."
+          },
+          {
+            "text": "1 möglicher Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]:",
+            "treffer": 1,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "National Archives and Records Administration, EU, Ardelia Hall Collection, Wiesbaden Administrative Records, 1945–1952, Cultural Object Movement and Control Records, Out-Shipment 98 (30. Juli 1948), S. 25 («Boecklin, Arnold | Frau Angela»), https://www.fold3.com/image/231929723 [18. August 2022].",
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "Empfangsbestätigung für Kunstwerke, Antiquitäten oder Gegenstände mit kulturellem Werk vom 22. Juli 1948, «Former Staatliche Nationalgalerie Berlin, Paintings», S. 20/21, https://www.fold3.com/image/231929678 /https://www.fold3.com/image/231929694 [18. August 2022].",
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "Dabei dürfte es sich abermals um das Porträt in Berlin handeln (siehe oben)."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «‹Böcklin›» [11. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-11"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (36 Ergebnisse) für Volltextsuche «‹Angela› UND ‹Böcklin›» [11. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 36,
+            "datum": "2022-08-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» [16. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-16"
+          },
+          {
+            "text": "0 Treffer (32 Ergebnisse) für Volltextsuche «Boecklin» [16. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 32,
+            "datum": "2022-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "10. Oktober 2022",
+      "institution": "Staatliche Museen Berlin",
+      "betreff": "Einlieferer Hans Unger 1927",
+      "antwort": "Scans der Korrespondenz zwischen Unger und\n\nThormaelen, siehe «Archive extern»"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4762/4762_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            247.0,
+            531.0,
+            430.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2005, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "2. Februar 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1789, NF_0346\n\nErwerbsnachweis Auktion Christie’s 2005",
+      "fussnoten": [
+        {
+          "nr": 16,
+          "text": "Kopie, identisch mit dem Beleg auf der Werkrückseite, siehe Provenienzmerkmale."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "10. Oktober 2022",
+      "institution": "Zentralarchiv, Staatliche Museen Berlin",
+      "bestand": "SMB-ZA_I NG-699, Brief vom 21. Oktober 1927\n\nBriefwechsel zwischen Ludwig Thormaelen, Direktor der Nationalgalerie Berlin, und Hans Unger, Einlieferer für die Böcklin-Ausstellung in Berlin 1927/28.\n\nUnger möchte Unterstützung beim Verkauf des Werks. Nach der Ausstellung wird es zurück zu Unger geschickt. Unger erwähnt einen Interessenten namens Hentschel aus Wilmersdorf.",
+      "fussnoten": [
+        {
+          "nr": 17,
+          "text": "Siehe Fn. 12."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Hentschel, Wilmersdorf",
+      "information": "Beim Kontakt von Hans Unger 1928 (siehe «Archive extern») könnte es sich um Leopold Hentschel, Wilmersdorf, handeln. Ob ein Verkauf zustande kam, ist unbekannt.\n\nAmtliches Fernsprechbuch für Berlin, 1932, Hentschel, Leopold, S. 494: https://digital.zlb.de/viewer/image/15849352_1932/536 [18. Oktober 2022].",
+      "bilder": [
+        {
+          "datei": "images/4762/4762_006_kontextinformationen.jpeg",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            367.0,
+            356.3,
+            406.9
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4762/4762_007_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          291.4,
+          434.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit blauem Schreibmittel möglicherweise «H» oder «M»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel möglicherweise «H» oder «M»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              497.9,
+              251.6,
+              604.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Reste eines weissen Etiketts, oben und unten gezahnt",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Reste eines weissen Etiketts, oben und unten gezahnt",
+        "kommentar": "allenfalls Etikett des Kunsthauses Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              616.9,
+              292.7,
+              699.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 18,
+            "text": "Zuordnung aufgrund des oben und unten gezahnten, seitlich geraden Etiketts."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «6 A 401»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «6 A 401»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_010_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              292.0,
+              196.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit blauem Schreibmittel vermutlich «U M»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel vermutlich «U M»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              208.3,
+              292.8,
+              257.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit dunklem Schreibmittel vermutlich «90»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel vermutlich «90»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              270.3,
+              223.7,
+              351.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: runder schwarzer Stempel, oben rund geführte Schrift, Mitte grössere Ziffern, unten eventuell Kreuz",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "runder schwarzer Stempel, oben rund geführte Schrift, Mitte grössere Ziffern, unten eventuell Kreuz",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              364.0,
+              223.5,
+              436.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: runder schwarzer Stempel, unleserlich",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "runder schwarzer Stempel, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              448.5,
+              223.9,
+              528.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: runder schwarzer Stempel, oben vier Buchstaben, möglicherweise «ZOLL», Rest unleserlich",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "runder schwarzer Stempel, oben vier Buchstaben, möglicherweise «ZOLL», Rest unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              540.9,
+              223.9,
+              626.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Zierrahmen: Reste eines gezahnten weissen Etiketts mit blau rahmender Linie",
+        "position_traeger": "l. u. Zierrahmen",
+        "merkmal": "Reste eines gezahnten weissen Etiketts mit blau rahmender Linie",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              638.9,
+              193.7,
+              731.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Zierrahmen: handschriftlich mit blauem Schreibmittel «R. 105»",
+        "position_traeger": "l. u. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «R. 105»",
+        "kommentar": "Katalognummer im Ausstellungskatalog Berlin 1927",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              287.2,
+              230.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Zierrahmen: handschriftlich mit blauem Schreibmittel vermutlich «7521 2 n» oder «752 / 2 n»",
+        "position_traeger": "l. u. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel vermutlich «7521 2 n» oder «752 / 2 n»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              242.8,
+              293.5,
+              297.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: runder schwarzer Stempel, oben unleserlich, in der Mitte rechts möglicherweise «[…]60», unten allenfalls ein Kreuz",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "runder schwarzer Stempel, oben unleserlich, in der Mitte rechts möglicherweise «[…]60», unten allenfalls ein Kreuz",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_019_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              310.8,
+              212.8,
+              375.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: runder schwarzer Stempel, oben möglicherweise vier Buchstaben (unleserlich; möglicherweise «ZOLL»), in der Mitte rechts möglicherweise «[…]20», unten allenfalls ein Kreuz",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "runder schwarzer Stempel, oben möglicherweise vier Buchstaben (unleserlich; möglicherweise «ZOLL»), in der Mitte rechts möglicherweise «[…]20», unten allenfalls ein Kreuz",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_020_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              387.8,
+              206.7,
+              455.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angeheftetes Blatt, bedruckt, Kaufbeleg Christie’s, Zürich, 5. Dezember 2005, Lot 19, handschriftlich mit schwarzem Schreibmittel «3.)» und «Z 28’000.–»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angeheftetes Blatt, bedruckt, Kaufbeleg Christie’s, Zürich, 5. Dezember 2005, Lot 19, handschriftlich mit schwarzem Schreibmittel «3.)» und «Z 28’000.–»",
+        "kommentar": "Erwerbsnachweis mit Zuschlagspreis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_021_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              467.8,
+              292.6,
+              635.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (unter Kaufbeleg): handschriftlich mit blauem Schreibmittel vermutlich «TC 5970»",
+        "position_traeger": "o. l. Keilrahmen (unter Kaufbeleg)",
+        "merkmal": "handschriftlich mit blauem Schreibmittel vermutlich «TC 5970»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4762/4762_022_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              648.3,
+              292.6,
+              696.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 2005. Angela Böcklin (1836–1915), geborene Pascucci, war Arnold Böcklins Frau."
+    },
+    {
+      "nr": 2,
+      "text": "Ausstellungskatalog Hamburg 1898, bei Andree 1977 mit Fragezeichen versehen."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd. Zentralarchiv, Staatliche Museen Berlin, SMB-ZA_I NG-699, Brief von Hans Unger vom 21. Oktober 1927, siehe «Archive extern»."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 6,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Es dürfte sich um Ida Bienert-Suckert handeln. Die Familie ist verwandt mit der Familie Rupé/Ruppé. Ida Bienerts Tochter Traude Rupé-Bienert (1890–1922) war vermutlich die erste Frau von Hans Ruppe (1886–1947), den Louise Ruppé-Leembruggen heiratete. Siehe dazu auch Recherchedokumentation zu Arnold Böcklins Zwei fischende Pane, SKKG-Inventarnummer 910."
+    },
+    {
+      "nr": 9,
+      "text": "Zentralarchiv, Staatliche Museen Berlin, SMB-ZA_I NG-699, Brief von Hans Unger vom 21. Oktober 1927, siehe «Archive extern»; Andree 1977."
+    },
+    {
+      "nr": 10,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 11,
+      "text": "Ebd."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Fn. 9. Im Ausstellungskatalog Berlin 1927 ist Hans Unger als Einlieferer angegeben. Gemäss Dokumenten im Zentralarchiv der Staatlichen Museen Berlin wandte sich Hans Unger an Ludwig Thormaelen, Direktor der Nationalgalerie, weil er das Gemälde verkaufen wollte: «[…] durch ganz unerwartet eingetretene Familienangelegenheiten muss ich mich mit dem Gedanken vertraut machen meinen mir ans Herz gewachsenen Böcklin Frau Angela B. […] zu verkaufen», Brief vom 5. November 1927; ähnlich im Brief vom 23. November 1927. Am 4. Februar 1928 schrieb Hans Unger an Ludwig Thormaelen, dass sich ein Herr Hentschel aus Wilmersdorf als Interessent für den Böcklin bei ihm gemeldet habe. Nach Ausstellungsende schickte die Nationalgalerie das Bild unverkauft an Hans Unger nach Dresden zurück, siehe Brief vom 13. Februar 1928 (vermutlich Ludwig Thormaelen an Hans Unger). Es gibt keinen Hinweis darauf, ob und wann Hans Unger das Werk verkauft haben könnte. Denkbar ist auch, dass das Gemälde als Erbschaft an seine Tochter Maja (1903–1973), Dresden, ging. Nach ihrem Tod wurde Ungers Nachlass beziehungsweise der Nachlass Maja Unger verkauft, siehe https://de.wikipedia.org/wiki/Hans_Unger_(K%C3%BCnstler) [9. September 2022]. Zu Hans (Carl Friedrich Johannes) Unger siehe zudem Sterberegister auf Ancestry: https://www.ancestry.de/discoveryui-con-tent/view/144350:9153 [9. September 2022]. Zu Hans und zu Maja Unger siehe auch https://friedhof-loschwitz.de/grab-mal-im-fokus.html [9. September 2022]. Für Hinweise zur Kunstsammlung von Hans Unger, der Werke von Oskar Zwintscher besass, siehe: Andreas Dehmer und Birgit Dalbajewa (Hrsg.), Oskar Zwintscher im Albertinum, Dresden 2021."
+    },
+    {
+      "nr": 13,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 14,
+      "text": "Auktionskatalog Zürich 2005."
+    },
+    {
+      "nr": 15,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2005 im Archiv SKKG."
+    },
+    {
+      "nr": 16,
+      "text": "Kopie, identisch mit dem Beleg auf der Werkrückseite, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 17,
+      "text": "Siehe Fn. 12."
+    },
+    {
+      "nr": 18,
+      "text": "Zuordnung aufgrund des oben und unten gezahnten, seitlich geraden Etiketts."
+    }
+  ],
+  "bilder_anzahl": 22
+}

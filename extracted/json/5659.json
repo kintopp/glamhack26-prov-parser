@@ -1,0 +1,465 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5659_220819.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "19. August 2022",
+  "stand_iso": "2022-08-19",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5659",
+      "François Diday (1802–1877)",
+      "Mont Salève",
+      "1861",
+      "Öl auf Leinwand",
+      "133 × 202 cm (Bildmass)",
+      "145,5 × 214,5 × 8,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5659",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Mont Salève",
+    "masse": [
+      "133 × 202 cm (Bildmass)",
+      "145,5 × 214,5 × 8,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1861",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5659/5659_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          318.4,
+          417.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 2005. Auf dem älteren Etikett auf der Rückseite des Werks wird es als Le Mont Salève beziehungsweise als The Salève bezeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "31. Mai 2005",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 55, Mont Salève), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 2005. Auf dem beigelegten Notizblatt im annotierten Exemplar im Archiv SKKG findet sich der lose Vermerk «Frau Bernegger», siehe Anmerkungen unten."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 31. Mai 2005",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 45 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Ankaufsbeleg auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2005 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, Auktion ZH0504, 31. Mai 2005, Zürich 2005, Lot 55."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Diday Francois›» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Mont saleve›» [19. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-08-19"
+          },
+          {
+            "text": "0 Treffer (110 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «1861», Filter 2: Volltext/Metadaten «Diday» [19. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 110,
+            "datum": "2022-08-19"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "Um wen es sich bei «Frau Bernegger» (Angabe oben rechts) handelt und welche Rolle sie im Zusammenhang mit den auf der Auktion erworbenen Werken spielte, konnte im Rahmen des Erstchecks nicht ermittelt werden. Bei «1975» handelt es sich möglicherweise um eine damit in Verbindung stehende Jahreszahl.",
+      "bilder": [
+        {
+          "datei": "images/5659/5659_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            190.7,
+            530.1,
+            339.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5659/5659_003_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            347.4,
+            530.4,
+            484.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2005, annotiert von Bruno Stefanini, mit beigelegtem Notizblatt"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5659/5659_004_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          341.4,
+          319.8,
+          516.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur des Künstlers mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur des Künstlers mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.4,
+              554.3,
+              320.4,
+              619.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen und o. senkrechte Mittelstrebe Keilrahmen: handschriftlich mit weisser Kreide «E5398»",
+        "position_traeger": "o. m. Keilrahmen und o. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «E5398»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_006_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.4,
+              631.7,
+              319.9,
+              689.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5659/5659_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.8,
+              133.8,
+              319.6,
+              221.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. und o. r. Keilrahmen: weisses Etikett von Sotheby’s, darunter vermutlich handschriftliche Nummer (unleserlich)",
+        "position_traeger": "o. m. und o. r. Keilrahmen",
+        "merkmal": "weisses Etikett von Sotheby’s, darunter vermutlich handschriftliche Nummer (unleserlich)",
+        "kommentar": "vermutlich von der Auktion Sotheby’s, Zürich, Mai 2005",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              235.8,
+              222.4,
+              302.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5659/5659_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              311.2,
+              222.4,
+              392.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit weisser Kreide «18 | 9 | 64»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «18 | 9 | 64»",
+        "kommentar": "möglicherweise eine Datumsangabe (18. September 1964)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              407.1,
+              171.9,
+              520.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe Keilrahmen: langrechteckiges verbräuntes Etikett, gedruckt «Francois Diday. | (Signed and dated 1861). | Le Mont Salève | 716 (60 […] × 74 […])», daneben handschriftlich: «The Salève fa [?] BR[…] | 1931 | […]», teilweise unleserlich auf Digitalisat",
+        "position_traeger": "m. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "langrechteckiges verbräuntes Etikett, gedruckt «Francois Diday. | (Signed and dated 1861). | Le Mont Salève | 716 (60 […] × 74 […])», daneben handschriftlich: «The Salève fa [?] BR[…] | 1931 | […]», teilweise unleserlich auf Digitalisat",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              535.5,
+              317.7,
+              596.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: langrechteckiges weisses Etikett, gedruckt «008 | François Diday»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, gedruckt «008 | François Diday»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_012_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              636.5,
+              271.9,
+              708.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter Zettel, Auktion Sotheby’s, Zürich, Mai 2005, Lot 55, bedruckt, handschriftlich ergänzt mit Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter Zettel, Auktion Sotheby’s, Zürich, Mai 2005, Lot 55, bedruckt, handschriftlich ergänzt mit Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              139.8,
+              319.6,
+              267.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, hellblau gedruckt «55», darunter gestempelt «31. Mai 2005»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, hellblau gedruckt «55», darunter gestempelt «31. Mai 2005»",
+        "kommentar": "Lotnummer und Datum der Auktion Sotheby’s 2005",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5659/5659_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              282.2,
+              223.6,
+              346.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 2005. Auf dem älteren Etikett auf der Rückseite des Werks wird es als Le Mont Salève beziehungsweise als The Salève bezeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 2005. Auf dem beigelegten Notizblatt im annotierten Exemplar im Archiv SKKG findet sich der lose Vermerk «Frau Bernegger», siehe Anmerkungen unten."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Ankaufsbeleg auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2005 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 14
+}

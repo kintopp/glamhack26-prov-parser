@@ -1,0 +1,642 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5758.2_221209.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "9. Dezember 2022",
+  "stand_iso": "2022-12-09",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5758.2",
+      "Arnold Böcklin (1827–1901)",
+      "Bildnis Karl Burckhardt-Iselin",
+      "1867",
+      "Öl auf Leinwand",
+      "56 × 47 cm (Bildmass)",
+      "76 × 66 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5758.2",
+    "status": "Klar",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Bildnis Karl Burckhardt-Iselin",
+    "masse": [
+      "56 × 47 cm (Bildmass)",
+      "76 × 66 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1867",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5758.2/5758.2_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          459.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Bern 1990. Das Gemälde bildet zusammen mit dem Werk mit der Inventarnummer 5758.1 ein Diptychon."
+      },
+      {
+        "nr": 2,
+        "text": "Laut Andree 1977 und Objektdatenbank SKKG ist das Werk oben rechts (Andree) beziehungsweise oben links (SKKG) signiert, laut Andree «heute [1977] schwer zu lesen», siehe Provenienzmerkmale. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1867–1893",
+      "besitzer": "Karl Burckhardt-Iselin (1830–1893), Basel, gekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1893–1912",
+      "besitzer": "Julie Burckhardt-Iselin (1839–1912), Basel, erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Andree 1977. Bei der Ausstellung 1897/98 in Berlin wurde «Frau Dr. Burckhardt-Iselin in Basel» als Besitzerin angegeben, siehe Ausstellungskatalog Berlin 1897."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1912–1920",
+      "besitzer": "Louis La Roche-Burckhardt (1852–1920), Basel, erworben im Erbgang von der Schwiegermutter",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1921 bis spätestens 1977",
+      "besitzer": "Emilie Speiser-La Roche (1891–1980), Basel, erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Andree 1977 gibt für 1921 Emilie Speiser-La Roche, Tochter von Louis La Roche-Burckhardt, als Eigentümerin an. Im Ausstellungskatalog Basel 1927 ist «Louis La Roche, Basel», als Leihgeber genannt, der aber 1920 verstorben ist. Auch beim Bild der Ehefrau Julie Burckhardt-Iselin verweisen die Rückseitenetiketten noch nach 1920 auf Louis La Roche als Eigentümer, siehe Recherchedokumentation zum Werk mit der Inventarnummer 5758.1."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1977 bis 1982",
+      "besitzer": "Thomas Speiser (1919–1982), erworben im Erbgang von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Gemäss Andree 1977 im Jahr 1975 als Privatbesitz ohne nähere Angabe ausgewiesen. Thomas Speiser, Sohn von Emilie Speiser-La Roche, ist 1977 auf dem Rückseitenetikett als Leihgeber («Deponent») angegeben (siehe Provenienzmerkmale), ebenso im Ausstellungskatalog Basel 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1982 bis 20. Juni 1990",
+      "besitzer": "Alix Marie Speiser-Hoffmann (1923–2019), erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auskunft von Galerie Kornfeld vom 2. November 2022, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20.–22. Juni 1990",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 10b, Bildnis Karl Burckhardt-Iselin), Bern, eingeliefert von Alix Marie Speiser Hoffmann",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Bern 1990 sowie Fn. 8. Das Werk wurde an der Teilauktion «150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts» versteigert."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22. Juni 1990",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 46 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe annotierten Auktionskatalog Bern 1990 im Archiv SKKG, wo auch der Zuschlagspreis von 92 000 Franken für beide Werke zusammen (siehe Fn. 1) notiert ist, sowie Ankaufsbeleg auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 305, Nr. 198.",
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              363.2,
+              367.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, 20.–22. Juni 1990, Bern 1990, Lot 10b (mit Abb.)."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, Ausstellungskatalog Akademie der Künste, Berlin, Berlin 1897, S. 38, Nr. 98a, https://doi.org/10.11588/diglit.48226#0042 [25. Oktober 2022].\n\nArnold Böcklin 1827/1927. Ausstellung zur Feier des 100. Geburtsjahres, Ausstellungskatalog Kunsthalle Basel, Basel 1927, S. 19, Nr. 65 (mit Abb.).\n\nArnold Böcklin. 1827–1902. Gemälde, Zeichnungen, Plastiken, Ausstellung zum 150. Geburtstag, Ausstellungskatalog Kunstmuseum Basel, Basel 1977, S. 178, Nr. 82.",
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              474.7,
+              429.1,
+              595.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Böcklin-Ausstellung 1917, Ausstellungskatalog Kunsthalle Basel, Basel 1917, Nr. 87."
+          },
+          {
+            "datei": "images/5758.2/5758.2_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              689.7,
+              429.1,
+              730.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Akademie der Künste, Berlin, Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, 2. Dezember 1897 bis 16. Januar 1898, Nr. 98a.\n\n– Kunsthalle Basel, Böcklin-Ausstellung 1917, 20. Mai bis 1. Juli 1917, Nr. 87.\n\n– Kunsthalle Basel, Arnold Böcklin 1827/1927, 10. April bis 6. Juni 1927, Nr. 65.\n\n– Kunstmuseum Basel, Arnold Böcklin. 1827–1902. Gemälde, Zeichnungen, Plastiken, Ausstellung zum 150. Geburtstag, 11. Juni bis 11. September 1977, Nr. 82."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "28. Oktober 2022",
+      "institution": "Galerie Kornfeld, Bern",
+      "betreff": "Anfrage Einlieferer/Einlieferin an der Auktion im Juni 1990",
+      "antwort": "2. November 2022\n\nAngabe der Einlieferin Alix Marie Speiser-Hoffmann"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5758.2/5758.2_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            190.7,
+            531.7,
+            460.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1990, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5758.2/5758.2_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            504.6,
+            457.1,
+            601.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Fragment des Rahmens"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Stammbaum Familie Speiser-La Roche (MyHeritage)",
+      "information": "Stammbaum der Familie Speiser-La Roche auf MyHeritage, https://www.myheritage.ch/research/collection-1/myheritage-stamm-baume?itemId=547909821-1-539857&action=showRecord [6. Oktober 2022]"
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5758.2/5758.2_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          278.7,
+          319.9,
+          562.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. r. Leinwand: «A. Böcklin pin | 1867»",
+        "position_traeger": "o. r. Leinwand",
+        "merkmal": "«A. Böcklin pin | 1867»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Siehe Fn. 2; Transkription gemäss Andree 1977."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: verbräuntes Etikett mit abgeschrägten Ecken, bedruckt und mit schwarzem Schreibmittel handschriftlich annotiert, «Dr C. Burckhardt Iselin | gemalt von A. Boecklin | Juni 1867.»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "verbräuntes Etikett mit abgeschrägten Ecken, bedruckt und mit schwarzem Schreibmittel handschriftlich annotiert, «Dr C. Burckhardt Iselin | gemalt von A. Boecklin | Juni 1867.»",
+        "kommentar": "vermutlich nicht von der Hand des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              625.0,
+              319.8,
+              710.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Annahme aufgrund der umlautlosen Schreibweise «Boecklin» statt «Böcklin»."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: weisses quadratisches Etikett mit blauem Rand und gezahnter Abrisskante, handschriftlich mit schwarzem Schreibmittel «87»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "weisses quadratisches Etikett mit blauem Rand und gezahnter Abrisskante, handschriftlich mit schwarzem Schreibmittel «87»",
+        "kommentar": "vermutlich angebracht von Ursula Netzer, Schlossverwalterin Brestenberg",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              139.8,
+              222.4,
+              228.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: beiges rechteckiges Etikett, bedruckt und maschinenbeschrieben; Ausstellung Basel 1977, bezeichnet Dr. Thomas Speiser, Basel, als Leihgeber",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "beiges rechteckiges Etikett, bedruckt und maschinenbeschrieben; Ausstellung Basel 1977, bezeichnet Dr. Thomas Speiser, Basel, als Leihgeber",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              241.0,
+              320.8,
+              335.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel, bedruckt, maschinenschriftlich ergänzt und handschriftlich annotiert mit schwarzem Schreibmittel, «Z | 92’000.–»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel, bedruckt, maschinenschriftlich ergänzt und handschriftlich annotiert mit schwarzem Schreibmittel, «Z | 92’000.–»",
+        "kommentar": "Ankaufsbeleg Auktion Kornfeld 1990 mit ergänztem Zuschlagspreis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              348.1,
+              320.9,
+              541.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (unter Ankaufsbeleg): handschriftlich mit rotem Schreibmittel «K[…] R[…] | […]» (nicht entzifferbar)",
+        "position_traeger": "o. l. Keilrahmen (unter Ankaufsbeleg)",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «K[…] R[…] | […]» (nicht entzifferbar)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              554.1,
+              320.8,
+              606.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: oranges rechteckiges Etikett, bedruckt, handschriftlich mit blauem Kugelschreiber «7. Nov. 1979 4 | Arnold Böcklin, | Dr. Carl Burckhardt-Iselin | Dr. Th. Speiser, Basel»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "oranges rechteckiges Etikett, bedruckt, handschriftlich mit blauem Kugelschreiber «7. Nov. 1979 4 | Arnold Böcklin, | Dr. Carl Burckhardt-Iselin | Dr. Th. Speiser, Basel»",
+        "kommentar": "Es handelt sich um ein Etikett des Kunstmuseum Basels, das den Leihgeber («Deponent») Thomas Speiser nennt.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              619.3,
+              320.9,
+              691.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: weisses rechteckiges Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «166»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "weisses rechteckiges Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «166»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.2/5758.2_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              139.8,
+              237.6,
+              217.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Bern 1990. Das Gemälde bildet zusammen mit dem Werk mit der Inventarnummer 5758.1 ein Diptychon."
+    },
+    {
+      "nr": 2,
+      "text": "Laut Andree 1977 und Objektdatenbank SKKG ist das Werk oben rechts (Andree) beziehungsweise oben links (SKKG) signiert, laut Andree «heute [1977] schwer zu lesen», siehe Provenienzmerkmale. Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 4,
+      "text": "Andree 1977. Bei der Ausstellung 1897/98 in Berlin wurde «Frau Dr. Burckhardt-Iselin in Basel» als Besitzerin angegeben, siehe Ausstellungskatalog Berlin 1897."
+    },
+    {
+      "nr": 5,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 6,
+      "text": "Andree 1977 gibt für 1921 Emilie Speiser-La Roche, Tochter von Louis La Roche-Burckhardt, als Eigentümerin an. Im Ausstellungskatalog Basel 1927 ist «Louis La Roche, Basel», als Leihgeber genannt, der aber 1920 verstorben ist. Auch beim Bild der Ehefrau Julie Burckhardt-Iselin verweisen die Rückseitenetiketten noch nach 1920 auf Louis La Roche als Eigentümer, siehe Recherchedokumentation zum Werk mit der Inventarnummer 5758.1."
+    },
+    {
+      "nr": 7,
+      "text": "Gemäss Andree 1977 im Jahr 1975 als Privatbesitz ohne nähere Angabe ausgewiesen. Thomas Speiser, Sohn von Emilie Speiser-La Roche, ist 1977 auf dem Rückseitenetikett als Leihgeber («Deponent») angegeben (siehe Provenienzmerkmale), ebenso im Ausstellungskatalog Basel 1977."
+    },
+    {
+      "nr": 8,
+      "text": "Auskunft von Galerie Kornfeld vom 2. November 2022, siehe Anfragen."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Bern 1990 sowie Fn. 8. Das Werk wurde an der Teilauktion «150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts» versteigert."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe annotierten Auktionskatalog Bern 1990 im Archiv SKKG, wo auch der Zuschlagspreis von 92 000 Franken für beide Werke zusammen (siehe Fn. 1) notiert ist, sowie Ankaufsbeleg auf der Werkrückseite."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Fn. 2; Transkription gemäss Andree 1977."
+    },
+    {
+      "nr": 12,
+      "text": "Annahme aufgrund der umlautlosen Schreibweise «Boecklin» statt «Böcklin»."
+    }
+  ],
+  "bilder_anzahl": 14
+}

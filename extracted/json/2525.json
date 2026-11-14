@@ -1,0 +1,545 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2525_250425.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. April 2023",
+  "stand_iso": "2023-04-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2525",
+      "Alexandre Blanchet (1882–1961)",
+      "Stillleben mit Äpfeln",
+      "1958",
+      "Öl auf Leinwand",
+      "48,4 × 48,5 cm (Bildmass)",
+      "61,2 × 61,5 × 4,8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2525",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Blanchet (1882–1961)",
+    "titel": "Stillleben mit Äpfeln",
+    "masse": [
+      "48,4 × 48,5 cm (Bildmass)",
+      "61,2 × 61,5 × 4,8 cm (Rahmenmass)"
+    ],
+    "datierung": "1958",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2525/2525_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          313.4,
+          506.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1992, orthografisch modernisiert."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1959",
+      "besitzer": "Privatbesitz, Basel",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ausstellungskatalog Bern 1959. Möglicherweise – Arlesheim ist ein Vorort von Basel – ist damit Leemann-Geymüller gemeint, siehe folgende Provenienzstation."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1967",
+      "besitzer": "Hans Leemann-Geymüller (1882–1967), Arlesheim",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Etikett auf der Werkrückseite. Zur Person siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25./26. Juni 1992",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 203, Stilleben mit Äpfeln), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Bern 1992."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. Juni 1992",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 6200 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Bern 1992 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern 1992, 25./26. Juni 1992, Bern 1992, Lot 203."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Exposition Alexandre Blanchet. Peintures. Sculptures. Dessins, Ausstellungskatalog Musée Rath, Genf, 25. April bis 31. Mai 1959, Genf 1959, sehr wahrscheinlich Nr. 31 (ohne Massangaben).",
+        "bilder": [
+          {
+            "datei": "images/2525/2525_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.4,
+              393.9,
+              368.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          },
+          {
+            "datei": "images/2525/2525_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              374.4,
+              287.3,
+              473.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Im Ausstellungskatalog findet sich ein weiteres Werk mit dem Titel «Pommes» (Nr. 26), bei dem jedoch die Massangaben deutlich abweichen. Insofern wird es sich bei der (unnummerierten) Abbildung um das Werk mit der Katalognummer 31 handeln."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellung",
+        "text": "Musée Rath, Genf, 25. April bis 31. Mai 1959, Exposition Alexandre Blanchet, sehr wahrscheinlich Nr. 31 (Pommes)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Blanchet» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Blanchet» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (59 Ergebnisse) für Volltextsuche «Blanchet», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 59,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» mit Filter: Jahr 1958–1992 [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (112 Ergebnisse) für Volltextsuche «Blanchet», «Blanchet, A.», «Blanchet, Alexandre», «Blanchet Alexandre» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 112,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-03-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2525/2525_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            239.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1992, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2525/2525_005_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            284.0,
+            531.9,
+            340.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kopie des annotierten lotspezifischen Ausschnitts aus Auktionskatalog Bern 1992 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Dr. H. Leemann, Arlesheim",
+      "information": "Hans Leemann-Geymüller (1882–1967) war Chemiker und Kunstsammler. Der befreundete Sammler Arthur Stoll, ebenfalls wohnhaft in Arlesheim, erwähnt im Nachruf Leemanns «Liebe zur bildenden Kunst, speziell zur modernen Malerei, die sich im Besitz von hervorragenden Werken von Hodler, Anker, Zünd, Pissarro äußerte».",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe https://www.portraitarchiv.ch/portrait/show/260302 [30. März 2023]."
+        },
+        {
+          "nr": 8,
+          "text": "Arthur Stoll, Hans Leemann-Geymüller, in: Bulletin der Schweizerischen Akademie der Medizinischen Wissenschaften, hrsg. von Schweizerische Akademie der Medizinischen Wissenschaften, Bd. 24 (1968), S. 118–119, https://www.e-perio-dica.ch/cntmng?pid=sam-001%3A1968%3A24%3A%3A786 [30. März 2023]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2525/2525_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          318.8,
+          422.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit braunroter Farbe «A. Blanchet 58»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit braunroter Farbe «A. Blanchet 58»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2525/2525_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              459.6,
+              318.5,
+              506.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Klebeetikett, zweiseitig schwarze Linien unterschiedlicher Breite, schwarz maschinengeschrieben «Dr. H. Leemann | Waldstrasse 16, | Arlesheim BL.» (letzte Zeile unterstrichen)",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett, zweiseitig schwarze Linien unterschiedlicher Breite, schwarz maschinengeschrieben «Dr. H. Leemann | Waldstrasse 16, | Arlesheim BL.» (letzte Zeile unterstrichen)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2525/2525_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              522.7,
+              299.6,
+              596.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: verbräuntes viereckiges Klebeetikett, schwarz bedruckt",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "verbräuntes viereckiges Klebeetikett, schwarz bedruckt",
+        "kommentar": "Artisana, Genfer Rahmenatelier und Galerie. Ob das Werk dort nur gerahmt oder ausgestellt und verkauft wurde, ist nicht klar. Das Geschäft bestand zum Entstehungszeitpunkt des Gemäldes jedenfalls schon.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2525/2525_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.8,
+              611.1,
+              225.2,
+              712.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Siehe Ausstellungsbesprechung aus dem Jahr 1957 in: Der Bund, Jg. 108, Nr. 148, 29. März 1957, S. 2, www.e-news-paperarchives.ch/?a=d&d=DBB19570329-01.2.21 [30. März 2023]"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen, handschriftlich mit grauem oder hellblauem Schreibmittel möglicherweise «10» (verdeckt)",
+        "position_traeger": null,
+        "merkmal": null,
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2525/2525_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              139.8,
+              253.8,
+              174.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit hellblauem Wachsstift «24»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit hellblauem Wachsstift «24»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2525/2525_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              190.2,
+              196.2,
+              253.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1992, orthografisch modernisiert."
+    },
+    {
+      "nr": 2,
+      "text": "Ausstellungskatalog Bern 1959. Möglicherweise – Arlesheim ist ein Vorort von Basel – ist damit Leemann-Geymüller gemeint, siehe folgende Provenienzstation."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Etikett auf der Werkrückseite. Zur Person siehe Kontextinformationen."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Bern 1992."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Bern 1992 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Im Ausstellungskatalog findet sich ein weiteres Werk mit dem Titel «Pommes» (Nr. 26), bei dem jedoch die Massangaben deutlich abweichen. Insofern wird es sich bei der (unnummerierten) Abbildung um das Werk mit der Katalognummer 31 handeln."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe https://www.portraitarchiv.ch/portrait/show/260302 [30. März 2023]."
+    },
+    {
+      "nr": 8,
+      "text": "Arthur Stoll, Hans Leemann-Geymüller, in: Bulletin der Schweizerischen Akademie der Medizinischen Wissenschaften, hrsg. von Schweizerische Akademie der Medizinischen Wissenschaften, Bd. 24 (1968), S. 118–119, https://www.e-perio-dica.ch/cntmng?pid=sam-001%3A1968%3A24%3A%3A786 [30. März 2023]."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Ausstellungsbesprechung aus dem Jahr 1957 in: Der Bund, Jg. 108, Nr. 148, 29. März 1957, S. 2, www.e-news-paperarchives.ch/?a=d&d=DBB19570329-01.2.21 [30. März 2023]"
+    }
+  ],
+  "bilder_anzahl": 11
+}

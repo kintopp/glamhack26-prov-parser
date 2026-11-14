@@ -1,0 +1,769 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5187_230425.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. April 2023",
+  "stand_iso": "2023-04-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5187",
+      "Ferdinand Hodler (1853–1918)",
+      "Selbstbildnis",
+      "1909",
+      "Öl und Kohle auf Leinwand",
+      "34 × 23 cm (Bildmass)",
+      "42 × 31,5 × 3 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5187",
+    "status": "Klar",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Selbstbildnis",
+    "masse": [
+      "34 × 23 cm (Bildmass)",
+      "42 × 31,5 × 3 cm (Rahmenmass)"
+    ],
+    "datierung": "1909",
+    "technik": "Öl und Kohle auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5187/5187_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          244.9,
+          520.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Brunner 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1909/10 bis spätestens 1942",
+      "besitzer": "Georg Hirschland (1885–1942), Essen / New York, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Brunner 2012, Auktionskatalog Zürich 1991. Georg Hirschland hatte das Gemälde der Gattin seines Neffen zufolge «direkt im Atelier des Kuenstlers erstanden», siehe Schreiben von Gabriele Grünebaum an Schweizerisches Institut für Kunstwissenschaft (SIK) vom 11. März 1991 («Archive extern»). Dem Werkkatalog zufolge war das Bild 1911 in Essen ausgestellt, siehe auch Ausstellungen."
+        },
+        {
+          "nr": 3,
+          "text": "Der Essener Bankier und Kunstsammler Georg Hirschland wurde vom NS-Regime verfolgt und flüchtete 1938 in die USA. Einige Werke seiner Sammlung konnte er nicht ausführen, da sie im «Verzeichnis der national wertvollen Kunstwerke» aufgeführt waren. Hirschland musste sie unter Wert veräussern. 1939 wurden sie vom Museum Folkwang, Essen, erworben. Die Nachkommen von Georg Hirschland bekamen jene Werke in der Nachkriegszeit nach längeren Verhandlungen mehrheitlich zurück. Sechs Werke überliessen sie dem Museum als Schenkung, siehe Kontextinformationen sowie die einschlägigen Akten im Stadtarchiv Essen («Archive extern»). Das vorliegende Gemälde befindet sich nicht auf der «Liste der national wertvollen Kunstwerke» von 1938, siehe «Archive extern». Damit war es nicht von der Ausfuhrsperre und Zwangsliquidation betroffen, sondern gehörte zum grundsätzlich ausfuhrfähigen Teil der Sammlung."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1942 bis spätestens 1947",
+      "besitzer": "möglicherweise Agathe Grünebaum (1875–1947), geb. Hirschland, London, vermutlich erworben im Erbgang vom Bruder",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Seit ihrer Flucht in die Vereinigten Staaten sind die Grünebaums als Grunebaums aktenkundig. Hier wird die ursprüngliche Schreibweise mit Umlaut verwendet."
+        },
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 6. Ob das Gemälde direkt vom Onkel an den Neffen überging, ist nicht bekannt. Denkbar ist, dass es zwischenzeitlich bei Agathe Grünebaum (gest. 1947) war, der Schwester von Georg Hirschland (gest. 1942), die ihren Bruder um einige Jahre überlebte. Sie ist die Mutter von Erich Grünebaum, in dessen Besitz sich das Gemälde für längere Zeit befand, ehe seine Witwe es bei Christie’s versteigern liess."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich spätestens 1947 bis 1988",
+      "besitzer": "Erich Otto Grünebaum (1902–1988), Wilton, Connecticut, USA, vermutlich erworben im Erbgang vom Onkel oder von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Laut Auktionskatalog Zürich 1991 wurde das Gemälde vom «Onkel des jetzigen Besitzers […] erworben». Der Onkel ist Georg Hirschland, der Neffe Erich Otto Grünebaum."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1988 bis 17. Juni 1991",
+      "besitzer": "Gabriele Grünebaum (1910–2004), geb. Neumann, Dobbs Ferry, New York, USA, vermutlich erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Fn. 6. Erich Grünebaum starb 1988, also vor der Christie’s-Auktion 1991. Seine Gattin, Gabriele Grünebaum, korrespondierte im Frühjahr 1991 von New York aus zum vorliegenden Gemälde, siehe Schreiben von Gabriele Grünebaum an Schweizerisches Institut für Kunstwissenschaft (SIK) vom 11. März 1991 («Archive extern»). Der Inhalt des Schreibens legt nahe, dass die Provenienzangabe im Auktionskatalog Zürich 1991 bezüglich «des jetzigen Besitzers» nicht präzise ist und tatsächlich sie, die Gattin des Neffen des erwähnten Onkels, die letzte Besitzerin des Gemäldes vor der Veräusserung war."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17. Juni 1991",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 444, Selbstbildnis), Zürich, eingeliefert von Gabriele Grünebaum",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Brunner 2012, Auktionskatalog Zürich 1991; siehe auch Auktionsetikett auf der Werkrückseite."
+        },
+        {
+          "nr": 9,
+          "text": "Siehe Fn. 7."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 17. Juni 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 160 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1991 sowie Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Monika Brunner, Selbstbildnis, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 844, https://recherche.sik-isea.ch/sik:work-6005806 [21. Juli 2022].",
+        "bilder": [
+          {
+            "datei": "images/5187/5187_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              315.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5187/5187_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              321.4,
+              533.2,
+              426.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 17. Juni 1991, Zürich 1991, Lot 444, Provenienzangabe: «Vom Onkel des jetzigen Besitzers 1909/10 direkt beim Künstler erworben»."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "– Norbert Fabisch, Die Hirschlands. Aufstieg und Vertreibung einer jüdischen Bankiersfamilie, Leipzig 2023 [nicht konsultiert].\n\n– Hans-Jürgen Lechtreck, «Ein stetiges, der Stadt Essen würdiges Ausstellungsleben». Das Museum Folkwang 1945–1955, in: «So fing man einfach an, ohne viele Worte». Ausstellungswesen und Sammlungspolitik in den ersten Jahren nach dem Zweiten Weltkrieg, hrsg. von Julia Friedrich und Andreas Prinzing, Köln 2013, S. 63–71.\n\n– Dianne Ritchey, Guide to the Papers of the Hirschland Bank and Family 1819–1999 AR 25638, hrsg. von Leo Baeck Institute, New York 2015, https://archives.cjh.org/repositories/5/resources/18445 [3. August 2022]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstmuseum der Stadt Essen, 13. Juni bis 2. Juli 1911, Kunstausstellung aus Essener Privatbesitz, Nr. 59 (Selbstbildnis)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche mit Filter: Künstler «Ferdinand Hodler» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-01-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Volltextsuche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-01-13"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Selbstbildnis», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Georg Hirschland», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Portrait» und «Georg Hirschland», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Selbstbildnis» und «Georg Hirschland», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Self-portrait» und «Georg Hirschland», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (48 Ergebnisse / 16 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Georg Hirschland» [3. August 2022 / 17. Januar 2023]: Die Suche führte zu zahlreichen Dokumenten mit Bezug zu Georg Hirschland und seiner Sammlung, sowohl von der alliierten Besatzung als auch von Rechtsvertretern der Erbinnen und Erben nach Georg Hirschland. Die Ergebnisse wurden eingehend geprüft. Das vorliegende Werk wird darin nicht erwähnt.",
+            "treffer": 0,
+            "ergebnisse": 48
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter 1: Künstler «Hodler», Filter 2: Titel «Selbstbildnis» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-01-13"
+          },
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-01-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Selbstbildnis» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Selbstbildnis» [3. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-13"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hirschland» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [13. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-13"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "24. Januar 2023",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich",
+      "betreff": "Anfrage zum im Werkkatalog erwähnten Brief von 1991 und zum im Auktionskatalog Zürich 1991 erwähnten SIK-Archivauszug (Nr. 67472)",
+      "antwort": "26. Januar 2023:\n\nDer Brief wurde gescannt und im Anhang mitgeschickt. Beim Archivauszug handelt es sich um eine Echtheitserklärung, die nicht an Dritte weitergegeben wird.",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe «Archive extern»."
+        }
+      ]
+    },
+    {
+      "datum": "13. April 2023",
+      "institution": "Nachkomme von Erich und Gabriele Grünebaum",
+      "betreff": "Anfrage zur Überprüfung der Provenienzangaben hinsichtlich der Familie Grünebaum",
+      "antwort": "14. April 2023:\n\nWeiterleitung zu einem näheren Verwandten von Erich und Gabriele Grünebaum"
+    },
+    {
+      "datum": "18. April 2023",
+      "institution": "Nachkomme von Erich und Gabriele Grünebaum",
+      "betreff": "Anfrage zur Überprüfung der Provenienzangaben hinsichtlich der Familie Grünebaum",
+      "antwort": "20. April 2023:\n\nDie beschriebene Provenienzkette scheint weitgehend zu stimmen."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5187/5187_004_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            297.0,
+            532.9,
+            460.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1991, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "17. Februar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.2570",
+      "bilder": [
+        {
+          "datei": "images/5187/5187_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            522.9,
+            533.0,
+            597.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Gebotsliste von Bruno Stefanini vom 5. Juni 1991 für die Auktion vom 17. Juni 1991, Lot 444: 115 000 Franken (nicht Zuschlagspreis)"
+        }
+      ]
+    },
+    {
+      "datum": "17. Februar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5187/5187_006_archiv_intern.png",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            221.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: lotspezifische Kopie aus Auktionskatalog Zürich 1991, annotiert"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "24. Januar 2023",
+      "institution": "Geheimes Staatsarchiv Preussischer Kulturbesitz, Berlin",
+      "bestand": "I. HA Rep. 151, Nr. 1060: Ausfuhrverbot von Kunstgegenständen und national wertvollen Kunstwerken\n\nDarunter befindet sich eine Abschrift der «Liste der national wertvollen Kunstwerke» von 1938. Das vorliegende Werk ist darin nicht aufgeführt."
+    },
+    {
+      "datum": "24. März 2023",
+      "institution": "Haus der Essener Geschichte /Stadtarchiv, Essen",
+      "bestand": "Best. 102 / Stadtverwaltung Essen, Nr. 176: Erwerb der Gemälde der Sammlung Hirschland für das Folkwangmuseum\n\nDarunter befinden sich Akten von 1939 zur Übernahme von Werken aus der Sammlung Hirschland."
+    },
+    {
+      "datum": "24. März 2023",
+      "institution": "Haus der Essener Geschichte /Stadtarchiv, Essen",
+      "bestand": "Best. 1000 / Oberbürgermeister, Nr. 24: Angelegenheiten des Folkwangmuseums\n\nDarunter befinden sich Akten von 1946 bis 1949 zur «Rückgabe der aus dem Besitz Dr. Hirschland stammenden Bilder an die Familie»."
+    },
+    {
+      "datum": "26. Januar 2023",
+      "institution": "Schweizerisches Kunstarchiv /Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich",
+      "bestand": "Schreiben von Gabriele Grünebaum, New York, an Hans Lüthy, Direktor Schweizerisches Institut für Kunstwissenschaft, Zürich, vom 11. März 1991\n\nGabriele Grünebaum bittet um eine Echtheitsabklärung des nach Zürich geschickten Gemäldes und um «Beratung hinsichtlich eines Kaeufers». Georg Hirschland, Erstbesitzer des Gemäldes und Onkel ihres verstorbenen Gatten, habe es im Atelier des Künstlers erstanden."
+    },
+    {
+      "datum": "3. August 2022",
+      "institution": "Leo Baeck Institute, New York",
+      "bestand": "Hirschland Bank and Family Collection» (AR 25638), 1819–1999\n\nDarin finden sich zahlreiche Informationen zur Familie Hirschland/Grünebaum.",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Für ein digitalisiertes Aktenkonvolut siehe https://ia800507.us.archive.org/30/items/hirschlandbankfa11unse/hirsch-landbankfa11unse.pdf [3. August 2022]. Siehe auch Ritchey 2015."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Simon Hirschland (1807–1885)",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5187/5187_007_kontextinformationen.png",
+          "seite": 8,
+          "bbox": [
+            172.6,
+            550.0,
+            527.7,
+            627.4
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Simon Hirschland gründete 1841 die Simon-Hirschland-Bank. Sie wurde von Sohn Isaac Hirschland (1845–1912) und anschliessend den Enkeln Kurt und Georg Hirschland weitergeführt. Eine Zusammenfassung der geschichtlichen Hintergründe des familiengeführten Bankhauses bietet die Beschreibung der Aktenbestände im Leo Baeck Institute"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Ritchey 2015."
+        }
+      ]
+    },
+    {
+      "thema": "Georg Hirschland (1885–1942)",
+      "information": "Georg Hirschland, Sohn von Isaac Hirschland, war Mitinhaber des Essener Bankhauses Simon Hirschland. Er war eng mit dem Museum Folkwang in Essen verbunden. 1938 wurde das Bankhaus zwangsliquidiert. Georg Hirschland flüchtete über Amsterdam in die USA. Ein Teil seiner Kunstsammlung unterlag als national wertvolles Kulturgut einer Ausfuhrsperre, musste in Essen zurückgelassen werden und wurde vom Museum\n\nFolkwang offenbar deutlich unter ihrem Wert erworben. Von den veranschlagten 500 000 Reichsmark sollen bei den Erbinnen und Erben lediglich 7000 Dollar angekommen sein. «Nach Kriegsende wurde der Verkauf in langwierigen Verhandlungen zwischen Erben und Museumsverein rückgängig gemacht. Die Familie verzichtete auf sechs Bilder, die sie dem Museum 1950 als Schenkung überliess.»",
+      "bilder": [
+        {
+          "datei": "images/5187/5187_008_kontextinformationen.png",
+          "seite": 9,
+          "bbox": [
+            172.6,
+            266.3,
+            533.0,
+            422.3
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Der in Deutschland zurückgelassene Sammlungsteil umfasste 27 Objekte. Über deren Verbleib nach 1945 bietet die National Gallery of Art, Washington, die ein Werk aus diesem Bestand besitzt, einen Überblick"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 14,
+          "text": "Lechtreck 2013, Ritchey 2015, Fn. 17."
+        },
+        {
+          "nr": 15,
+          "text": "Haus der Essener Geschichte / Stadtarchiv, Essen, Best. 1000, Nr. 24, Protokoll der Sitzung des Kuratoriums des Folkwang-Museums vom 21. Mai 1949, S. 41–45."
+        },
+        {
+          "nr": 16,
+          "text": "Lechtreck 2013, S. 69."
+        },
+        {
+          "nr": 17,
+          "text": "https://www.nga.gov/artworks/139276-tivoli-and-waterfalls-shepherd-families [13. Januar 2023]."
+        }
+      ]
+    },
+    {
+      "thema": "Agathe Grünebaum (1875–1947)",
+      "information": "Agathe Grünbaum, Tochter von Isaac Hirschland und Henriette Hirschland, verheiratet mit Ernst Grünebaum, ist die Schwester von Georg Hirschland und die Mutter von Erich Grünebaum.",
+      "fussnoten": [
+        {
+          "nr": 18,
+          "text": "https://www.myheritage.ch/research/collection-1/myheritage-stamm-baume?itemId=OYYV6OEBAK6FJZEBZMUPD2VBQD4GJZQ-1-500726&action=showRecord [17. Januar 2023]."
+        }
+      ]
+    },
+    {
+      "thema": "Erich Otto Grünebaum (1902–1988)",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5187/5187_009_kontextinformationen.png",
+          "seite": 9,
+          "bbox": [
+            172.6,
+            541.8,
+            533.1,
+            609.5
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Erich Grünebaum, Neffe von Georg Hirschland, arbeitete ab 1923 in der Simon-Hirschfeld-Bank. 1933 heiratete er Gabrielle Neumann. 1938 flüchtete er in die USA. Weitere zusammenfassende Informationen finden sich in der Beschreibung der Aktenbestände des Leo Baeck Institute"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 19,
+          "text": "Ritchey 2015."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5187/5187_010_provenienzmerkmale.jpeg",
+        "seite": 10,
+        "bbox": [
+          62.5,
+          184.0,
+          255.2,
+          437.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Mit Rückseitenschutz"
+      },
+      {
+        "datei": "images/5187/5187_011_provenienzmerkmale.jpeg",
+        "seite": 10,
+        "bbox": [
+          62.5,
+          468.8,
+          255.2,
+          725.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Ohne Rückseitenschutz"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «F. Hodler 1909»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «F. Hodler 1909»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5187/5187_012_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              139.8,
+              312.4,
+              179.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Leinwand: handschriftlich mit schwarzer Farbe «Selbstbildnis»",
+        "position_traeger": "u. m. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Selbstbildnis»",
+        "kommentar": "Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5187/5187_013_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              202.9,
+              312.2,
+              230.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit dunkelblauem Filzstift «25467», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit dunkelblauem Filzstift «25467», unterstrichen",
+        "kommentar": "vermutlich SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5187/5187_014_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              266.0,
+              224.8,
+              311.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 20,
+            "text": "Auf der jüngeren Aufnahme ohne Rückseitenschutz fehlt das Etikett; vermutlich ist es zwischenzeitlich abgefallen."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rückseitenschutz: rundes beiges Klebeetikett, schwarz gedruckt und handschriftlich mit dunklem Schreibmittel «CHRISTIE’S | 444 | 13586»",
+        "position_traeger": "o. l. Rückseitenschutz",
+        "merkmal": "rundes beiges Klebeetikett, schwarz gedruckt und handschriftlich mit dunklem Schreibmittel «CHRISTIE’S | 444 | 13586»",
+        "kommentar": "Auktion Christie’s 1991, Lot 444",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5187/5187_015_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              354.4,
+              224.9,
+              438.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Brunner 2012."
+    },
+    {
+      "nr": 2,
+      "text": "Brunner 2012, Auktionskatalog Zürich 1991. Georg Hirschland hatte das Gemälde der Gattin seines Neffen zufolge «direkt im Atelier des Kuenstlers erstanden», siehe Schreiben von Gabriele Grünebaum an Schweizerisches Institut für Kunstwissenschaft (SIK) vom 11. März 1991 («Archive extern»). Dem Werkkatalog zufolge war das Bild 1911 in Essen ausgestellt, siehe auch Ausstellungen."
+    },
+    {
+      "nr": 3,
+      "text": "Der Essener Bankier und Kunstsammler Georg Hirschland wurde vom NS-Regime verfolgt und flüchtete 1938 in die USA. Einige Werke seiner Sammlung konnte er nicht ausführen, da sie im «Verzeichnis der national wertvollen Kunstwerke» aufgeführt waren. Hirschland musste sie unter Wert veräussern. 1939 wurden sie vom Museum Folkwang, Essen, erworben. Die Nachkommen von Georg Hirschland bekamen jene Werke in der Nachkriegszeit nach längeren Verhandlungen mehrheitlich zurück. Sechs Werke überliessen sie dem Museum als Schenkung, siehe Kontextinformationen sowie die einschlägigen Akten im Stadtarchiv Essen («Archive extern»). Das vorliegende Gemälde befindet sich nicht auf der «Liste der national wertvollen Kunstwerke» von 1938, siehe «Archive extern». Damit war es nicht von der Ausfuhrsperre und Zwangsliquidation betroffen, sondern gehörte zum grundsätzlich ausfuhrfähigen Teil der Sammlung."
+    },
+    {
+      "nr": 4,
+      "text": "Seit ihrer Flucht in die Vereinigten Staaten sind die Grünebaums als Grunebaums aktenkundig. Hier wird die ursprüngliche Schreibweise mit Umlaut verwendet."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 6. Ob das Gemälde direkt vom Onkel an den Neffen überging, ist nicht bekannt. Denkbar ist, dass es zwischenzeitlich bei Agathe Grünebaum (gest. 1947) war, der Schwester von Georg Hirschland (gest. 1942), die ihren Bruder um einige Jahre überlebte. Sie ist die Mutter von Erich Grünebaum, in dessen Besitz sich das Gemälde für längere Zeit befand, ehe seine Witwe es bei Christie’s versteigern liess."
+    },
+    {
+      "nr": 6,
+      "text": "Laut Auktionskatalog Zürich 1991 wurde das Gemälde vom «Onkel des jetzigen Besitzers […] erworben». Der Onkel ist Georg Hirschland, der Neffe Erich Otto Grünebaum."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Fn. 6. Erich Grünebaum starb 1988, also vor der Christie’s-Auktion 1991. Seine Gattin, Gabriele Grünebaum, korrespondierte im Frühjahr 1991 von New York aus zum vorliegenden Gemälde, siehe Schreiben von Gabriele Grünebaum an Schweizerisches Institut für Kunstwissenschaft (SIK) vom 11. März 1991 («Archive extern»). Der Inhalt des Schreibens legt nahe, dass die Provenienzangabe im Auktionskatalog Zürich 1991 bezüglich «des jetzigen Besitzers» nicht präzise ist und tatsächlich sie, die Gattin des Neffen des erwähnten Onkels, die letzte Besitzerin des Gemäldes vor der Veräusserung war."
+    },
+    {
+      "nr": 8,
+      "text": "Brunner 2012, Auktionskatalog Zürich 1991; siehe auch Auktionsetikett auf der Werkrückseite."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Fn. 7."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1991 sowie Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe «Archive extern»."
+    },
+    {
+      "nr": 12,
+      "text": "Für ein digitalisiertes Aktenkonvolut siehe https://ia800507.us.archive.org/30/items/hirschlandbankfa11unse/hirsch-landbankfa11unse.pdf [3. August 2022]. Siehe auch Ritchey 2015."
+    },
+    {
+      "nr": 13,
+      "text": "Ritchey 2015."
+    },
+    {
+      "nr": 14,
+      "text": "Lechtreck 2013, Ritchey 2015, Fn. 17."
+    },
+    {
+      "nr": 15,
+      "text": "Haus der Essener Geschichte / Stadtarchiv, Essen, Best. 1000, Nr. 24, Protokoll der Sitzung des Kuratoriums des Folkwang-Museums vom 21. Mai 1949, S. 41–45."
+    },
+    {
+      "nr": 16,
+      "text": "Lechtreck 2013, S. 69."
+    },
+    {
+      "nr": 17,
+      "text": "https://www.nga.gov/artworks/139276-tivoli-and-waterfalls-shepherd-families [13. Januar 2023]."
+    },
+    {
+      "nr": 18,
+      "text": "https://www.myheritage.ch/research/collection-1/myheritage-stamm-baume?itemId=OYYV6OEBAK6FJZEBZMUPD2VBQD4GJZQ-1-500726&action=showRecord [17. Januar 2023]."
+    },
+    {
+      "nr": 19,
+      "text": "Ritchey 2015."
+    },
+    {
+      "nr": 20,
+      "text": "Auf der jüngeren Aufnahme ohne Rückseitenschutz fehlt das Etikett; vermutlich ist es zwischenzeitlich abgefallen."
+    }
+  ],
+  "bilder_anzahl": 15
+}

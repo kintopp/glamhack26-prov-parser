@@ -1,0 +1,432 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_884_250203.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Februar 2025",
+  "stand_iso": "2025-02-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 884",
+      "Cuno Amiet (1868–1961)",
+      "Stillleben mit blauem Ofen",
+      "1907",
+      "Öl auf Leinwand",
+      "60 × 54 cm (Bildmass)",
+      "68,5 × 62,9 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "884",
+    "status": "Klar",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Stillleben mit blauem Ofen",
+    "masse": [
+      "60 × 54 cm (Bildmass)",
+      "68,5 × 62,9 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1907",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/884/884_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          257.2,
+          479.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller/Radlach 2014. Der frühere Werktitel der SKKG lautete Anemonen in einer Vase vor einem blauen Kachelofen nach Auktionskatalog Zürich 2000."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "13. Oktober bis spätestens 10. November 1907",
+      "besitzer": "Ausstellung Kunstmuseum Solothurn (2. Ausstellung der Gesellschaft Schweizerischer Maler, Bildhauer und Architekten in Solothurn, Nr. 4, Stilleben), erworben von der Gesellschaft Schweizerischer Maler und Bildhauer (GSMBA) vom Künstler zwecks Verlosung an der Ausstellung",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Müller/Radlach 2014."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 10. November 1907 bis 29. November 2000",
+      "besitzer": "Privatbesitz, erworben an der Ausstellung der GSMBA",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd. Gemäss Werkkatalog müsste das Werk an der Ausstellung verlost worden sein. Im Auktionskatalog Zürich 2000 steht dagegen, die – namentlich nicht bekannte – Familie der Einlieferer habe es 1907 direkt beim Künstler angekauft. Jedenfalls besass sie es bis zur Einlieferung an die Auktion im Jahr 2000, siehe ebd. Auf der Werkrückseite findet sich eine nicht zuordenbare Preisangabe."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28./29. November 2000",
+      "besitzer": "Auktion Phillips (Feine Möbel, Objekte und Gemälde, Lot 644, Anemonen in einer Vase vor einem Kachelofen), Zürich, eingeliefert aus Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 2000, Müller/Radlach 2014."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 29. November 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Phillips, Zuschlagspreis: 240 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Franz Müller und Viola Radlach, Cuno Amiet. Die Gemälde 1883–1919 (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014, Nr. 1907.55, https://recherche.sik-isea.ch/sik:work-12903493/in/catalogues.amiet [16. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/884/884_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              499.7,
+              584.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Feine Möbel, Objekte und Gemälde, Auktionskatalog Phillips, 28./29. November 2000, Zürich 2000, Lot 644."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstmuseum Solothurn, 13. Oktober bis 10. November 1907, 2. Ausstellung der Gesellschaft Schweizerischer Maler, Bildhauer und Architekten in Solothurn, Nr. 4."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Amiet» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (461 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Amiet», Filter 2: Titel einschränken «Alle Treffer» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 461,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (107 Ergebnisse) für Suche «Cuno Amiet» (inklusive Varianten der Namensschreibweise) ohne Filter [16. August 2023]: Kunst- und Antiquitätenauktion in Bern, Auktionskatalog E. Schlaefli, Bern, 16./17. Juni 1927, Bern 1927, Lot 5, https://doi.org/10.11588/diglit.36748#0005 [16. August 2023].",
+            "treffer": 1,
+            "ergebnisse": 107,
+            "datum": "2023-08-16"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/884/884_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              536.6,
+              412.1,
+              579.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "Die Masse passen knapp, die Beschreibung des Motivs ist jedoch wenig spezifisch."
+          }
+        ]
+      },
+      {
+        "datenbank": "INHA – Gazette Drouot",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Amiet» in den Jahrgängen 1900–1950 [17. August 2023]",
+            "treffer": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [26. November 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-11-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche in den Auktionskatalogen mit Filter: Keywords «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-08-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Stillleben mit blauem Kachelofen›» [12. Dezember 2023]\n\n0 Treffer (0 Ergebnisse) für Volltextsuche «‹Stillleben mit blauem Ofen›» [12. Dezember 2023]\n\n0 Treffer (0 Ergebnisse) für Volltextsuche «‹Anemonen in einer Vase vor einem blauen Kachelofen›» [12. Dezember 2023]\n\n0 Treffer (12 Ergebnisse im Archivverzeichnis, 34 in den Primärdaten) für Volltextsuche «Amiet» [12. Dezember 2023]"
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/884/884_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            139.8,
+            534.8,
+            238.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierter lotspezifischer Ausschnitt aus Auktionskatalog Zürich 2000 (Erwerbsnachweis)"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/884/884_005_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            295.2,
+            531.9,
+            399.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini. Provenienz: «Von der Familie des jetzigen Besitzers direkt beim Künstler erworben.»"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/884/884_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          328.5,
+          450.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit grüner Farbe «CA | 07»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit grüner Farbe «CA | 07»",
+        "kommentar": "Monogramm des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/884/884_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              488.3,
+              227.0,
+              560.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: handschriftlich mit Bleistift «1000.–»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «1000.–»",
+        "kommentar": "vermutlich Preisangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/884/884_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              572.8,
+              251.5,
+              621.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller/Radlach 2014. Der frühere Werktitel der SKKG lautete Anemonen in einer Vase vor einem blauen Kachelofen nach Auktionskatalog Zürich 2000."
+    },
+    {
+      "nr": 2,
+      "text": "Müller/Radlach 2014."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd. Gemäss Werkkatalog müsste das Werk an der Ausstellung verlost worden sein. Im Auktionskatalog Zürich 2000 steht dagegen, die – namentlich nicht bekannte – Familie der Einlieferer habe es 1907 direkt beim Künstler angekauft. Jedenfalls besass sie es bis zur Einlieferung an die Auktion im Jahr 2000, siehe ebd. Auf der Werkrückseite findet sich eine nicht zuordenbare Preisangabe."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 2000, Müller/Radlach 2014."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 8
+}

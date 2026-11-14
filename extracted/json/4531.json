@@ -1,0 +1,420 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4531_221101.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4531",
+      "Alexandre Calame (1810–1864)",
+      "Vue prise dans l’isle de Saint-Honorat près",
+      "de Cannes, effet de l’après-midi",
+      "1856",
+      "Öl auf Leinwand",
+      "35 × 46 cm (Bildmass)",
+      "53,5 × 64 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4531",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Vue prise dans l’isle de Saint-Honorat près de Cannes, effet de l’après-midi",
+    "masse": [
+      "35 × 46 cm (Bildmass)",
+      "53,5 × 64 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "1856",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4531/4531_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          309.8,
+          440.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel, siehe Etikett auf der Werkrückseite sowie Anker 1987."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1856 bis o. D.",
+      "besitzer": "Madame Lullin-Diodati (1792–1878), Genf, erworben vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Etikett mit handschriftlicher Widmung von Alexandre Calame auf der Werkrückseite sowie Auktionskatalog Zürich 1991."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Anker 1987."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Dezember 1991",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica, Lot 28, Vue prise dans l’isle de Saint-Honorat près de Cannes, effet de l’après-midi), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1991."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Dezember 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 35 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987, S. 429, Nr. 627.",
+        "bilder": [
+          {
+            "datei": "images/4531/4531_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              192.7,
+              309.6,
+              335.8,
+              608.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst und Helvetica, Auktionskatalog Sotheby’s, Zürich, 5. Dezember 1991, Zürich 1991, Lot 28."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht eindeutig identifizierbar].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Calame», Filter 1: Suchmeldungen, Filter 2: Malerei [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Calame» UND «Cannes» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» UND «Saint-Honorat» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «vue prise dans l’isle de Saint-Honorat près de Cannes, effet de l’après-midi», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Cannes», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4531/4531_003_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.9,
+            291.4,
+            534.0,
+            464.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1991, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4531/4531_004_provenienzmerkmale.png",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.4,
+          314.8,
+          376.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: Signatur Calame, unleserlich auf Digitalisat",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "Signatur Calame, unleserlich auf Digitalisat",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4531/4531_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              414.0,
+              265.7,
+              476.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Zettel der Auktion Sotheby’s Zürich, Dezember 1991, Lot 28",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Zettel der Auktion Sotheby’s Zürich, Dezember 1991, Lot 28",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4531/4531_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              488.2,
+              347.3,
+              621.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit weisser Kreide «5.12.91»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «5.12.91»",
+        "kommentar": "Datum der Auktion Sotheby’s Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4531/4531_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              633.1,
+              255.4,
+              680.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit weisser Kreide «LOT 28»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «LOT 28»",
+        "kommentar": "Lotnummer bei Auktion Sotheby’s Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4531/4531_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              265.7,
+              181.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Etikett mit Handschrift von Alexandre Calame, «[…] Peint pour M[…] | Lullin à Châteauvieux [?] | Genève 12 Décembre 1856 […]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett mit Handschrift von Alexandre Calame, «[…] Peint pour M[…] | Lullin à Châteauvieux [?] | Genève 12 Décembre 1856 […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4531/4531_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              215.3,
+              349.0,
+              343.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel, siehe Etikett auf der Werkrückseite sowie Anker 1987."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Etikett mit handschriftlicher Widmung von Alexandre Calame auf der Werkrückseite sowie Auktionskatalog Zürich 1991."
+    },
+    {
+      "nr": 3,
+      "text": "Anker 1987."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1991."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    }
+  ],
+  "bilder_anzahl": 9
+}

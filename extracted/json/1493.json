@@ -1,0 +1,575 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1493_221115.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "15. November 2022",
+  "stand_iso": "2022-11-15",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1493",
+      "Augusto Giacometti (1877–1947)",
+      "Selbstbildnis",
+      "1910",
+      "Öl auf Leinwand",
+      "34 × 25 cm (Bildmass)",
+      "44,7 × 34,6 × 7,1 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1493",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Selbstbildnis",
+    "masse": [
+      "34 × 25 cm (Bildmass)",
+      "44,7 × 34,6 × 7,1 cm (Rahmenmass)"
+    ],
+    "datierung": "1910",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1493/1493_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.4,
+          514.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Frey 2023."
+      },
+      {
+        "nr": 2,
+        "text": "Die Bleistiftaufschrift mit Künstlernamen auf der Werkrückseite kann als Signatur gedeutet werden."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1928 bis o. D.",
+      "besitzer": "Elisa «Fanny» Amsler-Laué (1864–1946), Wildegg",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Frey 2023. Zu Fanny Amsler-Laué siehe Kontextinformationen. Es ist möglich, dass sie das Gemälde von ihrem Ehemann Dr. Gerold Amsler-Laué (1853–1926) erbte."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. April 1936",
+      "besitzer": "Auktion Galerie Neupert (Gemälde. Schweizer Malerei des 19. und 20. Jahrhunderts […], Lot 102, Selbstbildnis des Künstlers aus der Frühzeit), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1936, Frey 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17. Mai bis 1. Juni 1985",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen. Schweizer Sammlungen und Nachlässe, Lot 1768, Selbstbildnis des Künstlers), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1985."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 28. Mai 1985",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Bern 1985 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Denise Frey, Selbstbildnis, in: Augusto Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 22, https://recherche.sik-isea.ch/sik:work-14725495 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/1493/1493_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              372.9,
+              533.2,
+              664.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1493/1493_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              226.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde. Schweizer Malerei des 19. und 20. Jahrhunderts. Französische und italienische Meister. Werke deutscher Meister aus der Sammlung R. von Becker, Auktionskatalog Galerie Neupert, Zürich, 4. April 1936, Zürich 1936, Lot 102, https://doi.org/10.11588/diglit.8670#0021 [15. November 2022].",
+        "bilder": [
+          {
+            "datei": "images/1493/1493_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              308.7,
+              501.5,
+              345.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Grosse Auktionen. Schweizer Sammlungen und Nachlässe, Auktionskatalog Galerie Jürg Stuker, Bern, 17. Mai bis 1. Juni 1985, Bern 1985, Lot 1768."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm.",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/1493/1493_005_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              139.8,
+              391.4,
+              257.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 Treffer (12 Ergebnisse) für Volltextsuche «Augusto Giacometti» [15. November 2022]: Auktionskatalog Zürich 1936 (siehe oben)",
+            "treffer": 1,
+            "ergebnisse": 12,
+            "datum": "2022-11-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 Treffer (1 Ergebnis) für Volltextsuche «Selbstbildnis», Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. November 2022]: Auktionskatalog Zürich 1936 (siehe oben)",
+            "treffer": 1,
+            "ergebnisse": 1,
+            "datum": "2022-11-15"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Portrait», Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-11-15"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Bildnis», Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-15"
+          },
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Portrait», Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2022-11-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "–",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1493/1493_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            532.8,
+            232.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1985, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Fanny Amsler-Laué",
+      "information": "Elisa «Fanny» Amsler-Laué (1864–1946) war mit Dr. Gerold Amsler-Laué (1853–1926) verheiratet, Kurarzt in Bad Schinznach.",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe https://ancestors.familysearch.org/en/KC4C-29Q/elisa-%22fanny%22-lau%C3%A9-1864-1946 [30. Juli 2025]."
+        },
+        {
+          "nr": 8,
+          "text": "Siehe Danksagung für Anteilnahme am Hinschied von Dr. Carl Amsler-Amsler in: Neue Zürcher Zeitung, Jg. 134, Nr. 82, 23. März 1913, S. 4, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19130323-05.2.16.1 [30. Juli 2025]."
+        },
+        {
+          "nr": 9,
+          "text": "Siehe Anzeige in: Neue Zürcher Zeitung, Jg. 119, Nr. 174, 25. Juni 1898, S. 8, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ18980625-01.2.23.1 [30. Juli 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1493/1493_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          305.4,
+          471.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich mit Bleistift «Augusto Giacometti», unterstrichen",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Augusto Giacometti», unterstrichen",
+        "kommentar": "vermutlich von Künstlerhand, demnach Signatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1493/1493_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              534.5,
+              307.3,
+              583.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: handschriftlich mit blauem Schreibmittel «G A 41»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «G A 41»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1493/1493_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              609.7,
+              252.7,
+              663.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Spannrahmen: blau-weisses Etikett, schwarz bedruckt, vermutlich handschriftlich mit verbräunter Tinte «65»",
+        "position_traeger": "r. u. Spannrahmen",
+        "merkmal": "blau-weisses Etikett, schwarz bedruckt, vermutlich handschriftlich mit verbräunter Tinte «65»",
+        "kommentar": "möglicherweise Ausstellungsetikett",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1493/1493_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              140.2,
+              306.7,
+              225.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: weisser Zettel, handschriftlich mit Bleistift «Kauf Stefanini | F 85»",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "weisser Zettel, handschriftlich mit Bleistift «Kauf Stefanini | F 85»",
+        "kommentar": "Auktion F85, Galerie Jürg Stuker 1985",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1493/1493_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              238.2,
+              305.9,
+              337.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiger weisser Zettel, schwarz gestempelt «1768»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiger weisser Zettel, schwarz gestempelt «1768»",
+        "kommentar": "Lotnummer Auktion Galerie Jürg Stuker 1985",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1493/1493_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              349.7,
+              212.9,
+              419.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gestempelt «1768»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gestempelt «1768»",
+        "kommentar": "Lotnummer Auktion Galerie Jürg Stuker 1985",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1493/1493_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              432.7,
+              212.6,
+              489.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: handschriftlich mit Bleistift «M»",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «M»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1493/1493_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              521.1,
+              212.7,
+              581.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Frey 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Die Bleistiftaufschrift mit Künstlernamen auf der Werkrückseite kann als Signatur gedeutet werden."
+    },
+    {
+      "nr": 3,
+      "text": "Frey 2023. Zu Fanny Amsler-Laué siehe Kontextinformationen. Es ist möglich, dass sie das Gemälde von ihrem Ehemann Dr. Gerold Amsler-Laué (1853–1926) erbte."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1936, Frey 2023."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1985."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Bern 1985 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe https://ancestors.familysearch.org/en/KC4C-29Q/elisa-%22fanny%22-lau%C3%A9-1864-1946 [30. Juli 2025]."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Danksagung für Anteilnahme am Hinschied von Dr. Carl Amsler-Amsler in: Neue Zürcher Zeitung, Jg. 134, Nr. 82, 23. März 1913, S. 4, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19130323-05.2.16.1 [30. Juli 2025]."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Anzeige in: Neue Zürcher Zeitung, Jg. 119, Nr. 174, 25. Juni 1898, S. 8, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ18980625-01.2.23.1 [30. Juli 2025]."
+    }
+  ],
+  "bilder_anzahl": 14
+}

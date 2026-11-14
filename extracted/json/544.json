@@ -1,0 +1,657 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_544_241113.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 544",
+      "Albert Anker (1831–1910) zugeschrieben",
+      "Bildnis Pfarrer Albert Bitzius",
+      "vor 1883",
+      "Öl auf Papier",
+      "56 × 47 cm (Bildmass)",
+      "68 × 58,5 × 3,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "544",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910) zugeschrieben",
+    "titel": "Bildnis Pfarrer Albert Bitzius",
+    "masse": [
+      "56 × 47 cm (Bildmass)",
+      "68 × 58,5 × 3,5 cm (Rahmenmass)"
+    ],
+    "datierung": "vor 1883",
+    "technik": "Öl auf Papier",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/544/544_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.0,
+          501.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Im Werkkatalog Kuthy/Bhattacharya-Stettler 1995 ist das Gemälde nicht aufgeführt. Gemäss dem Historischen Lexikon der Schweiz (HLS) wird es Albert Anker zugeschrieben, siehe Kontextinformationen. Im Kunsthandel wurde das Porträt als Werk von Anker angeboten, siehe Auktionskatalog Zürich 1991."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel nach Auktionskatalog Zürich 1991."
+      },
+      {
+        "nr": 3,
+        "text": "Gemäss Auktionskatalog Zürich 1991 diente das Gemälde als Vorlage für eine Illustration aus dem Jahr 1883, das somit den Terminus ante quem bildet."
+      },
+      {
+        "nr": 4,
+        "text": "Das Papier ist auf einen Malkarton aufgezogen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Albert Bitzius (1835–1882), angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Albert Bitzius war der gleichnamige Sohn von Albert Bitzius alias Jeremias Gotthelf (1797–1854). Vermutlich war das Gemälde eine zu Lebzeiten des Porträtierten erstellte Auftragsarbeit. Ob es sich beim Künstler um Albert Anker handelt, ist derzeit nicht gesichert, siehe Fn. 1."
+        }
+      ]
+    },
+    {
+      "zeitraum": "bis 1991",
+      "besitzer": "Familie Bitzius, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Laut Auktionskatalog Zürich 1991 stammt das Werk «aus dem Familienbesitz des Dargestellten». Albert Bitzius (Sohn) hatte offenbar sechs Kinder, siehe Kontextinformationen. An wen das Werk innerhalb der Familie ging, wurde nicht ermittelt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15.–18. November 1991",
+      "besitzer": "Auktion Galerie Koller (Gemälde 15. bis 20. Jh. […], Lot 5301, Bildnis Pfarrer Albert Bitzius), Zürich, eingeliefert von Nachkommen aus der Familie Bitzius"
+    },
+    {
+      "zeitraum": "seit 15. November 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 40 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Neben dem Gemälde wurde eine Schachtel mit Predigten von Albert Bitzius mitgekauft."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde 15. bis 20. Jh. Helvetica. Alte Graphik, Bücher. Moderne Graphik und Plastiken. Zeichnungen und Aquarelle. Privatsammlung B. Lopes: Kunst des 20. Jh., Auktionskatalog Galerie Koller, Zürich, 15.–18. November 1991, Zürich 1991, Lot 5301.",
+        "bilder": [
+          {
+            "datei": "images/544/544_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              423.2,
+              357.4,
+              495.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit zusätzlichen Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Volltextsuche «Bitzius» und «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "17. Januar 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/544/544_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            532.5,
+            242.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Zettel mit Hinweis auf Schachtel mit Predigten (nicht «Briefen»), siehe Fn. 7."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Alfred Bitzius",
+      "information": "Peter Stettler, Bitzius, Albert, in: Historisches Lexikon der Schweiz (HLS), Version vom 8. April 2020, https://hls-dhs-dss.ch/de/artic-les/004421/2020-04-08 [17. Januar 2023]."
+    },
+    {
+      "thema": "Familie Bitzius",
+      "information": "Eintrag auf MyHeritage zu (Bernhard) Albert Bitzius mit Auflistung der Familienmitglieder, https://www.myheritage.ch/research/collection-1/myheritage-stammbaume?itemId=327642591-7-543694&ac-tion=showRecord [17. Januar 2023]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/544/544_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          267.7,
+          400.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      },
+      {
+        "datei": "images/544/544_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          425.5,
+          267.8,
+          619.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "ohne Rückseitenschutz"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «A81/5301»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «A81/5301»",
+        "kommentar": "Auktionsnummer (81) und Lotnummer (5301) der Auktion Koller 1991",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              656.6,
+              224.2,
+              708.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «365.»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «365.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              197.0,
+              184.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: quadratisches weisses Etikett mit perforierter blauer Abrissstelle, handschriftlich mit schwarzem Filzstift «31»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "quadratisches weisses Etikett mit perforierter blauer Abrissstelle, handschriftlich mit schwarzem Filzstift «31»",
+        "kommentar": "wohl aufgebracht von Ursula Netzer, Verwalterin Schloss Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              197.3,
+              198.1,
+              267.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: rechteckiges weisses Etikett, schwarz gestempelt «Photo-Negativ-Nummer | Burgerbibliothek Bern» und «4249»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gestempelt «Photo-Negativ-Nummer | Burgerbibliothek Bern» und «4249»",
+        "kommentar": "Negativnummer Burgerbibliothek Bern",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              285.7,
+              245.4,
+              354.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Siehe Eintrag im Archivkatalog der Burgerbibliothek Bern: https://katalog.burgerbib.ch/detail.aspx?ID=91028 [17. Januar 2023]."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "l. Zierrahmen (aussen): rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «A81/5301», handschriftlich mit rotem Schreibmittel «verkauft»",
+        "position_traeger": "l. Zierrahmen (aussen)",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «A81/5301», handschriftlich mit rotem Schreibmittel «verkauft»",
+        "kommentar": "Auktion Koller 1991, vergleiche Etikett auf Vorderseite",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              374.1,
+              235.0,
+              412.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisse Kopie, maschinenschriftlich ergänzt, handschriftlich mit grünem Filzstift «+ 1 Schachtel | Predigten, | handschriftl.» und mit schwarzem Schreibmittel «Z | 40 000.-»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisse Kopie, maschinenschriftlich ergänzt, handschriftlich mit grünem Filzstift «+ 1 Schachtel | Predigten, | handschriftl.» und mit schwarzem Schreibmittel «Z | 40 000.-»",
+        "kommentar": "Die grüne Annotation bezieht sich auf beim Kauf mitgelieferte Schriften.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              475.1,
+              298.2,
+              581.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Siehe Fn. 7."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «23389», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «23389», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              594.1,
+              220.4,
+              621.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen (aussen): rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit orangem Schreibmittel «A81 5301 | verkauft»",
+        "position_traeger": "o. l. Zierrahmen (aussen)",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit orangem Schreibmittel «A81 5301 | verkauft»",
+        "kommentar": "Auktion Koller 1991, vergleiche Etiketten weiter oben",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              263.2,
+              184.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite unter Rückseitenschutz",
+        "beschreibung": "o. m. Malkarton (Bildträger): handschriftlich mit Bleistift «Mme Albert Bitzius | Mari[…]hof[…]tt[…]» (unleserlich auf Aufnahme)",
+        "position_traeger": "o. m. Malkarton (Bildträger)",
+        "merkmal": "handschriftlich mit Bleistift «Mme Albert Bitzius | Mari[…]hof[…]tt[…]» (unleserlich auf Aufnahme)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              240.8,
+              298.9,
+              296.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite unter Rückseitenschutz",
+        "beschreibung": "o. r. Malkarton: rechteckiges weisses Etikett, schwarz gedruckt «365.»",
+        "position_traeger": "o. r. Malkarton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «365.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              309.0,
+              208.5,
+              355.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite unter Rückseitenschutz",
+        "beschreibung": "o. l. Malkarton: rechteckiges weisses Etikett, schwarz gedruckt «23389», unterstrichen",
+        "position_traeger": "o. l. Malkarton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «23389», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              366.8,
+              207.7,
+              403.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite unter Rückseitenschutz",
+        "beschreibung": "o. l. Malkarton: weisses Klebeband, handschriftlich mit schwarzem Filzstift «365 2D [20?] 2SW»",
+        "position_traeger": "o. l. Malkarton",
+        "merkmal": "weisses Klebeband, handschriftlich mit schwarzem Filzstift «365 2D [20?] 2SW»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/544/544_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              430.2,
+              295.1,
+              498.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Im Werkkatalog Kuthy/Bhattacharya-Stettler 1995 ist das Gemälde nicht aufgeführt. Gemäss dem Historischen Lexikon der Schweiz (HLS) wird es Albert Anker zugeschrieben, siehe Kontextinformationen. Im Kunsthandel wurde das Porträt als Werk von Anker angeboten, siehe Auktionskatalog Zürich 1991."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel nach Auktionskatalog Zürich 1991."
+    },
+    {
+      "nr": 3,
+      "text": "Gemäss Auktionskatalog Zürich 1991 diente das Gemälde als Vorlage für eine Illustration aus dem Jahr 1883, das somit den Terminus ante quem bildet."
+    },
+    {
+      "nr": 4,
+      "text": "Das Papier ist auf einen Malkarton aufgezogen."
+    },
+    {
+      "nr": 5,
+      "text": "Albert Bitzius war der gleichnamige Sohn von Albert Bitzius alias Jeremias Gotthelf (1797–1854). Vermutlich war das Gemälde eine zu Lebzeiten des Porträtierten erstellte Auftragsarbeit. Ob es sich beim Künstler um Albert Anker handelt, ist derzeit nicht gesichert, siehe Fn. 1."
+    },
+    {
+      "nr": 6,
+      "text": "Laut Auktionskatalog Zürich 1991 stammt das Werk «aus dem Familienbesitz des Dargestellten». Albert Bitzius (Sohn) hatte offenbar sechs Kinder, siehe Kontextinformationen. An wen das Werk innerhalb der Familie ging, wurde nicht ermittelt."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Neben dem Gemälde wurde eine Schachtel mit Predigten von Albert Bitzius mitgekauft."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Eintrag im Archivkatalog der Burgerbibliothek Bern: https://katalog.burgerbib.ch/detail.aspx?ID=91028 [17. Januar 2023]."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Fn. 7."
+    }
+  ],
+  "bilder_anzahl": 17
+}

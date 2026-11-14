@@ -1,0 +1,357 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7306_221101.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7306",
+      "François Diday (1802–1877)",
+      "Steile Uferpartie am Vierwaldstättersee",
+      "o. J.",
+      "Öl auf Holztafel",
+      "38 × 54 cm (Bildmass)",
+      "57,1 × 73,5 × 7,1 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7306",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Steile Uferpartie am Vierwaldstättersee",
+    "masse": [
+      "38 × 54 cm (Bildmass)",
+      "57,1 × 73,5 × 7,1 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Holztafel",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7306/7306_001_objekt.png",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.4,
+          318.9,
+          418.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 2010."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "12. November 2010",
+      "besitzer": "Auktion Dobiaschofsky (Schweizer Kunst. Sélection, Lot 40, Steile Uferpartie am Vierwaldstättersee), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Bern 2010."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 12. November 2010",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Dobiaschofsky, Zuschlagspreis: 4200 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst. Sélection, Auktionskatalog Dobiaschofsky, Bern, Nr. 111, 12. November 2010, Bern 2010, Lot 40."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Diday Francois›» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "0 Treffer (29 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Diday», Filter 2: Volltext/Metadaten «Vierwaldstättersee» [19. August 2022].",
+            "treffer": 0,
+            "ergebnisse": 29,
+            "datum": "2022-08-19"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Diday», Filter 2: Volltext/Metadaten «‹lac de quatre cantons›» [19. August 2022].",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-08-19"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7306/7306_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.4,
+            190.6,
+            531.6,
+            342.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 2010, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7306/7306_003_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.4,
+            386.4,
+            498.7,
+            566.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Dobiaschofsky, November 2010, mit handschriftlich ergänztem Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7306/7306_004_provenienzmerkmale.png",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          240.8,
+          312.7,
+          436.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: Signatur «F. Diday»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "Signatur «F. Diday»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7306/7306_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.1,
+              473.3,
+              313.4,
+              557.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen und Holzplatte (Bildträger): langrechteckige Etiketten der Erwerbsauktion Dobiaschofsky, November 2010",
+        "position_traeger": "o. r. Zierrahmen und Holzplatte (Bildträger)",
+        "merkmal": "langrechteckige Etiketten der Erwerbsauktion Dobiaschofsky, November 2010",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7306/7306_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              139.4,
+              313.0,
+              348.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: langrechteckiges Etikett mit blauer Ornamentbordüre und gezahntem Rand ohne Aufschrift",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "langrechteckiges Etikett mit blauer Ornamentbordüre und gezahntem Rand ohne Aufschrift",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7306/7306_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              361.0,
+              256.8,
+              434.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Holzplatte (Bildträger): langrechteckiges beiges Etikett, schwarz gedruckt «6383»",
+        "position_traeger": "o. l. Holzplatte (Bildträger)",
+        "merkmal": "langrechteckiges beiges Etikett, schwarz gedruckt «6383»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7306/7306_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              447.1,
+              230.9,
+              490.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 2010."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Bern 2010."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 8
+}

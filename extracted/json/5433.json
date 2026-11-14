@@ -1,0 +1,639 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5433_241114.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5433",
+      "Augusto Giacometti (1877–1947)",
+      "Rosen in Glasvase",
+      "um 1930",
+      "Öl auf Leinwand",
+      "28 × 35 cm (Bildmass)",
+      "40,6 × 48,8 × 6 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5433",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Rosen in Glasvase",
+    "masse": [
+      "28 × 35 cm (Bildmass)",
+      "40,6 × 48,8 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1930",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5433/5433_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          311.5,
+          466.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Stutzer 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich vor 1961 bis vermutlich 9. Juni 2001",
+      "besitzer": "M. H., Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zofingen 2001. Dem Auktionshaus zufolge war das Werk «seit über 40 Jahren in Besitz» jener Person."
+        }
+      ]
+    },
+    {
+      "zeitraum": "9. Juni 2001",
+      "besitzer": "Auktion Auktionshaus Zofingen (Lot 2802, Rosen in Glasvase), Zofingen, vermutlich eingeliefert von M. H., Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zofingen 2001, Stutzer 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 9. Juni 2001",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Auktionshaus Zofingen, Zuschlagspreis: 76 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis und Rechnung vom Auktionshaus Zofingen an Bruno Stefanini, Winterthur, vom 10. Juni 2001 in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Hans Hartmann, Augusto Giacometti. Ein Leben für die Farbe, Chur 1981, Nr. 1483.\n\nBeat Stutzer, Rosen in Glasvase, in: August Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 261, https://recher-che.sik-isea.ch/sik:work-10427509 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/5433/5433_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              285.4,
+              533.2,
+              561.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktionskatalog Zofingen 2001 [fehlt im Archiv SKKG]",
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Für den lotspezifischen Ausschnitt siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Marco Giacometti, Augusto Giacometti. In einem fröhlichen Farbentaumel. Die Biografie. Zürich 2022 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm [15. August 2023].",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/5433/5433_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              423.2,
+              391.4,
+              541.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Rose» [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2022-11-15"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Volltextsuche «Blumen» [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-11-15"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Volltextsuche «fleurs» [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-11-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Rosen» [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-11-15"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Blumen» [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-11-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Fleur» [15. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5433/5433_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            423.2,
+            533.0,
+            596.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Zofingen 2001 (Erwerbsnachweis)"
+        },
+        {
+          "datei": "images/5433/5433_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            376.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung vom Auktionshaus Zofingen an Bruno Stefanini, Winterthur, vom 10. Juni 2001"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5433/5433_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          334.1,
+          392.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit grünem Schreibmittel «A 4», durchgestrichen, und «silber [?] A 5»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «A 4», durchgestrichen, und «silber [?] A 5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              454.7,
+              334.5,
+              474.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              505.1,
+              334.5,
+              566.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: schwarz gestempelt «GEBRÜDER SCHOLL A.G. | Poststrasse 3 | ZÜRICH»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "schwarz gestempelt «GEBRÜDER SCHOLL A.G. | Poststrasse 3 | ZÜRICH»",
+        "kommentar": "Zürcher Geschäft für Malerbedarf (gegründet 1930, geschlossen 1971)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              579.1,
+              277.4,
+              669.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit grünem Schreibmittel «A5»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «A5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              683.2,
+              222.6,
+              736.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: schwarz gestempelt «28»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «28»",
+        "kommentar": "Bildmass (Höhe)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              140.0,
+              208.4,
+              196.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «35»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «35»",
+        "kommentar": "Bildmass (Breite)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              209.3,
+              208.7,
+              277.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit grünem Schreibmittel «A 4», durchgestrichen, und «silber [?] A 5»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «A 4», durchgestrichen, und «silber [?] A 5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              290.8,
+              334.5,
+              319.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit grünem Schreibmittel «A5»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «A5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.7,
+              341.2,
+              208.4,
+              386.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit grünem Schreibmittel «C 4 […]», durchgestrichen",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «C 4 […]», durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              399.8,
+              335.7,
+              436.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiger weisser Zettel, mit Klebeband befestigt, schwarz gedruckt «2802 | 30000. -»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiger weisser Zettel, mit Klebeband befestigt, schwarz gedruckt «2802 | 30000. -»",
+        "kommentar": "Auktion Zofingen 2001, Lot 2802, mit Schätzpreis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              449.7,
+              334.5,
+              513.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «30067»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «30067»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              538.1,
+              229.6,
+              579.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiger weisser Zettel, handschriftlich mit blauem Kugelschreiber «[…]» (unleserlich, verdeckt), darauf rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «2802 | 30000. -»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiger weisser Zettel, handschriftlich mit blauem Kugelschreiber «[…]» (unleserlich, verdeckt), darauf rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «2802 | 30000. -»",
+        "kommentar": "Auktion Zofingen 2001, Lot 2802, mit Schätzpreis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5433/5433_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              601.2,
+              229.7,
+              665.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Stutzer 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zofingen 2001. Dem Auktionshaus zufolge war das Werk «seit über 40 Jahren in Besitz» jener Person."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zofingen 2001, Stutzer 2023."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis und Rechnung vom Auktionshaus Zofingen an Bruno Stefanini, Winterthur, vom 10. Juni 2001 in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Für den lotspezifischen Ausschnitt siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 18
+}

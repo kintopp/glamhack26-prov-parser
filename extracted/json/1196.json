@@ -1,0 +1,668 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1196_221025.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. Oktober 2022",
+  "stand_iso": "2022-10-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1196",
+      "Arnold Böcklin (1827–1901)",
+      "Hochplateau",
+      "1849",
+      "Öl auf Papier auf Karton",
+      "31 × 42 cm (Bildmass)",
+      "55 × 65 × 5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "1196",
+    "status": "Klar",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Hochplateau",
+    "masse": [
+      "31 × 42 cm (Bildmass)",
+      "55 × 65 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1849",
+    "technik": "Öl auf Papier auf Karton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1196/1196_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          348.2,
+          437.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977, ebenso in Auktionskatalog Zürich 1988."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "spätestens 1897 bis vermutlich 1916",
+      "besitzer": "Carl (Karl) Sebastian Haegler-Passavant (1862–1916), Basel",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Andree 1977. Im Ausstellungskatalog Basel 1897 ist das Werk aufgeführt: «Landschaft. Dazu Bleistiftstudie. 1849. Besitzer: Herr Dr. Hägler-Passavant, Basel.» Die genannte Bleistiftstudie, die die gleiche Provenienz haben dürfte, ist heute ebenfalls Eigentum der SKKG (Inventarnummer 3162)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1916 bis vermutlich 1932",
+      "besitzer": "Emilie Haegler-Passavant (1872–1938), Basel, erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Dafür, dass das Gemälde 1916 nach dem Tod von Carl Sebastian Haegler-Passavant an seine Frau Emilie Haegler-Passavant ging, spricht das Provenienzmerkmal auf der Rückseite mit der Angabe «Prof. Hägler Schaff[h]auserrheinweg 85». Er wohnte nicht an dieser Adresse, erst seine Witwe war dort ab 1928 wohnhaft. Zudem bezeichnete sie sich als «Prof. Hägler» (Haegler), siehe Provenienzmerkmale. 1927 wurde das Bild in der Kunsthalle Basel ausgestellt mit der Angabe der Leihgeberin «Frau Prof. Haegler-Passavant, Basel», siehe Ausstellungskatalog Basel 1927."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1932 bis mindestens 1964",
+      "besitzer": "Kurt August Haegler-Regamey (1900–1967), Basel, vermutlich erhalten von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Gemäss Andree 1977 ist das Werk 1932 im Eigentum von Sohn Kurt August Haegler-Regamey. Das Bild wurde 1951 in der Kunsthalle Basel gezeigt, siehe Ausstellungskatalog Basel 1951, wo «K. A. Haegler, Basel», als Leihgeber genannt ist. Gemäss Rückseitenetikett war dieser auch Leihgeber des Bildes, als es in Frankfurt am Main 1964 im Kunstverein Steinernes Haus gezeigt wurde, siehe Ausstellungskatalog Frankfurt am Main 1964."
+        }
+      ]
+    },
+    {
+      "zeitraum": "nach 1967",
+      "besitzer": "Privatbesitz, Basel",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16.–19. März 1988",
+      "besitzer": "Auktion Galerie Koller (Bedeutendes Mobiliar des 15.–19. Jahrhunderts. Teilinventar von Schloss Rüed. Gemälde des 16.–20. Jahrhunderts […], Lot 1170, Hochplateau), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 1988."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 18. März 1988",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 16 500 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1988 im Archiv SKKG. Zusammen mit Hochplateau wurde auch die zugehörige Vorstudie erworben (Inventarnummer 3162)."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 201, Nr. 53.",
+        "bilder": [
+          {
+            "datei": "images/1196/1196_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              410.5,
+              388.2,
+              538.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1196/1196_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              544.5,
+              387.6,
+              588.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Hans Holenweg, Arnold Böcklin. Ergänzungen, Nachträge und Korrekturen zum Katalog der Gemälde, Stand: 1. November 2021, S. 5, Nr. 53, https://www.sikart.ch/pdf/holenweg_gemaelde.pdf [25. Oktober 2022]."
+          },
+          {
+            "datei": "images/1196/1196_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              531.3,
+              161.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bedeutendes Mobiliar des 15.–19. Jahrhunderts. Teilinventar von Schloss Rüed. Gemälde des 16.–20. Jahrhunderts […], Auktionskatalog Galerie Koller, Zürich, Nr. 66, 16.–19. März 1988, Zürich 1988, Lot 1170."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Boecklin-Jubiläum. Ausstellung Basel, Ausstellungskatalog Kunsthalle Basel, Basel 1897, S. 8, Nr. 14.\n\nIm Herzen wild. Die Romantik in der Schweiz, Ausstellungskatalog Kunsthaus Zürich, München 2020.",
+        "bilder": [
+          {
+            "datei": "images/1196/1196_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              268.2,
+              343.5,
+              336.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Arnold Böcklin 1827/1927. Ausstellung zur Feier des 100. Geburtsjahres, Ausstellungskatalog Kunsthalle Basel, Basel 1927, S. 14, Nr. 11."
+          },
+          {
+            "datei": "images/1196/1196_006_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              393.0,
+              348.4,
+              419.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Arnold Böcklin. Ausstellung zum Gedächtnis an seinen 50. Todestag, Ausstellungskatalog Kunsthalle Basel, Basel 1951, S. 23, Nr. 15."
+          },
+          {
+            "datei": "images/1196/1196_007_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              463.9,
+              351.2,
+              518.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Arnold Böcklin, Ausstellungskatalog Frankfurter Kunstverein, Steinernes Haus, Römerberg, Frankfurt am Main 1964, Nr. 4."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Kunsthalle Basel, Böcklin-Jubiläums-Ausstellung, 20. September bis 24. Oktober 1897, Nr. 14.\n\n– Kunsthalle Basel, Arnold Böcklin 1827/1927. Ausstellung zur Feier des 100. Geburtsjahres, 10. April bis 6. Juni 1927, Nr. 11.\n\n– Kunsthalle Basel, Arnold Böcklin. Ausstellung zum Gedächtnis an seinen 50. Todestag, 23. Juni bis 16. September 1951, Nr. 15.\n\n– Frankfurter Kunstverein, Steinernes Haus, Römerberg, Arnold Böcklin, 6. Juni bis 16. Juli 1964, Nr. 4.\n\n– Kunsthaus Zürich, Im Herzen wild. Schweizer Romantik von Füssli bis Böcklin, 13. November 2020 bis 14. Februar 2021."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1196/1196_008_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            347.6,
+            531.9,
+            461.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1988, annotiert von Bruno Stefanini und möglicherweise Ursula Netzer"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.121, NF_0002\n\nBrief von Hans Holenweg an Bruno Stefanini, 10. März 1988, mit Hinweis auf bevorstehende Auktion bei Koller zu Hochplateau"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.121, NF_0002\n\nBrief von Bruno Stefanini an Hans Holenweg, 22. März 1988, mit Verweis auf Herrn Obermüller, der Unterlagen zum Werk vorlegte, und die Restaurierung durch Restaurator Boissonnas\n\nBei Ersterem dürfte es sich um Peter Obermüller, Galerie Koller, gehandelt haben, bei Letzterem um Pierre Boissonnas, Ateliers de Conservation Boissonnas, Zürich.",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "https://koller.auction.fr/_en/vente/gravures-anciennes-helvetica-livres-10433, https://www.boissonnas.ch/de/uber-uns [18. August 2022]."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.121, NF_0002\n\nBrief von Hans Holenweg an Bruno Stefanini, 23. Dezember 1989, betreffend Hochplateau. Erwähnung im Zusammenhang mit der Vorzeichnung (Inventarnummer 3162)"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Emilie Haegler-Passavant",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/1196/1196_009_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            650.6,
+            362.5,
+            697.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Adressbuch Basel-Stadt 1928, Eintrag Emilie Haegler-Passavant, Witwe, Rentnerin, Schaffhauserrheinweg 85, http://doku-mente.stabs.ch/view/2018/STA_H_43_74/#264 [18. August 2022]"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1196/1196_010_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          321.2,
+          379.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Messingschild, graviert «A. BOECKLIN»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Messingschild, graviert «A. BOECKLIN»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1196/1196_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              417.2,
+              303.5,
+              464.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen und o. l. Karton: rechteckiges weisses Etikett, schwarz gedruckt «321.»",
+        "position_traeger": "o. r. Zierrahmen und o. l. Karton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «321.»",
+        "kommentar": "Die Typografie des Etiketts würde zu 1988 – dem Jahr der Erwerbsauktion Galerie Koller (Auktionsnummer 66, Lotnummer 1170) – passen. Möglicherweise wurden die Etiketten in diesem Zusammenhang aufgebracht.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1196/1196_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              477.7,
+              230.8,
+              539.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1196/1196_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              545.2,
+              231.2,
+              601.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: handschriftlich mit schwarzem Schreibmittel «dodo[…]nst[?]. doubl. ret. [rev.?] 5000.- I 1988»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «dodo[…]nst[?]. doubl. ret. [rev.?] 5000.- I 1988»",
+        "kommentar": "Das Werk wurde vor dem Ankauf restauriert. Die Aufschrift mit Preisangabe stammt höchstwahrscheinlich vom\n\nRestaurator Boissonnas, der das Werk im Januar 1988 doubliert haben dürfte.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1196/1196_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              616.7,
+              321.2,
+              641.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Siehe Akten im Archiv SKKG vom 22. März 1988."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: rechteckiges beiges Etikett, schwarz bedruckt, Ausstellung Frankfurter Kunstverein, «Leihgeber Herrn K.A. Haegler | Basel»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, schwarz bedruckt, Ausstellung Frankfurter Kunstverein, «Leihgeber Herrn K.A. Haegler | Basel»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1196/1196_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              171.6,
+              321.1,
+              243.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit Bleistift «R»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «R»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1196/1196_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              256.2,
+              238.4,
+              337.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit Bleistift «Prof. Hägler, Schaffauserrheinweg [sic] 85»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Prof. Hägler, Schaffauserrheinweg [sic] 85»",
+        "kommentar": "Dabei dürfte es sich um die Adresse von Emilie Haegler-Passavant handeln, die sich mit «Frau Prof. Haegler» bezeichnete. Nach dem Tod ihres Mannes Carl Sebastian Haegler-Passavant wohnte sie am Schaffhauserrheinweg 85 in Basel. Sohn Kurt August Haegler-Regamey wohnte später zwar an derselben Adresse, trug als Verkehrsdirektor aber keinen Professorentitel.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1196/1196_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              349.7,
+              322.3,
+              384.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Siehe https://swisscollections.ch/Record/991170489133505501 [25. Oktober 2022]. Siehe auch Fn. 3."
+          },
+          {
+            "nr": 11,
+            "text": "Dieser war Arzt und ausserordentlicher Professor für Chirurgie, siehe https://personenlexikon.bl.ch/Karl_Sebas-tian_Haegler [25. Oktober 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: verbräuntes rechteckiges Etikett, bedruckt und handschriftlich mit blauem Schreibmittel «30/42 cm 3,5 kg»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "verbräuntes rechteckiges Etikett, bedruckt und handschriftlich mit blauem Schreibmittel «30/42 cm 3,5 kg»",
+        "kommentar": "Massangabe und Gewicht des Werks",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1196/1196_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              539.3,
+              320.6,
+              656.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977, ebenso in Auktionskatalog Zürich 1988."
+    },
+    {
+      "nr": 2,
+      "text": "Andree 1977. Im Ausstellungskatalog Basel 1897 ist das Werk aufgeführt: «Landschaft. Dazu Bleistiftstudie. 1849. Besitzer: Herr Dr. Hägler-Passavant, Basel.» Die genannte Bleistiftstudie, die die gleiche Provenienz haben dürfte, ist heute ebenfalls Eigentum der SKKG (Inventarnummer 3162)."
+    },
+    {
+      "nr": 3,
+      "text": "Dafür, dass das Gemälde 1916 nach dem Tod von Carl Sebastian Haegler-Passavant an seine Frau Emilie Haegler-Passavant ging, spricht das Provenienzmerkmal auf der Rückseite mit der Angabe «Prof. Hägler Schaff[h]auserrheinweg 85». Er wohnte nicht an dieser Adresse, erst seine Witwe war dort ab 1928 wohnhaft. Zudem bezeichnete sie sich als «Prof. Hägler» (Haegler), siehe Provenienzmerkmale. 1927 wurde das Bild in der Kunsthalle Basel ausgestellt mit der Angabe der Leihgeberin «Frau Prof. Haegler-Passavant, Basel», siehe Ausstellungskatalog Basel 1927."
+    },
+    {
+      "nr": 4,
+      "text": "Gemäss Andree 1977 ist das Werk 1932 im Eigentum von Sohn Kurt August Haegler-Regamey. Das Bild wurde 1951 in der Kunsthalle Basel gezeigt, siehe Ausstellungskatalog Basel 1951, wo «K. A. Haegler, Basel», als Leihgeber genannt ist. Gemäss Rückseitenetikett war dieser auch Leihgeber des Bildes, als es in Frankfurt am Main 1964 im Kunstverein Steinernes Haus gezeigt wurde, siehe Ausstellungskatalog Frankfurt am Main 1964."
+    },
+    {
+      "nr": 5,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 1988."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1988 im Archiv SKKG. Zusammen mit Hochplateau wurde auch die zugehörige Vorstudie erworben (Inventarnummer 3162)."
+    },
+    {
+      "nr": 8,
+      "text": "https://koller.auction.fr/_en/vente/gravures-anciennes-helvetica-livres-10433, https://www.boissonnas.ch/de/uber-uns [18. August 2022]."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Akten im Archiv SKKG vom 22. März 1988."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe https://swisscollections.ch/Record/991170489133505501 [25. Oktober 2022]. Siehe auch Fn. 3."
+    },
+    {
+      "nr": 11,
+      "text": "Dieser war Arzt und ausserordentlicher Professor für Chirurgie, siehe https://personenlexikon.bl.ch/Karl_Sebas-tian_Haegler [25. Oktober 2022]."
+    }
+  ],
+  "bilder_anzahl": 18
+}

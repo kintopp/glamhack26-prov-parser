@@ -1,0 +1,577 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6517_230427.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. April 2023",
+  "stand_iso": "2023-04-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6517",
+      "Giovanni Segantini (1858–1899)",
+      "Nudo femminile",
+      "1884–1886",
+      "Öl auf Leinwand",
+      "174 × 87 cm (Bildmass)",
+      "197,5 × 108 × 11 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6517",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Nudo femminile",
+    "masse": [
+      "174 × 87 cm (Bildmass)",
+      "197,5 × 108 × 11 cm (Rahmenmass)"
+    ],
+    "datierung": "1884–1886",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6517/6517_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.8,
+          550.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Quinsac 1982."
+      },
+      {
+        "nr": 2,
+        "text": "Quinsac 1982, die allerdings ein Entstehungsdatum vor 1880 für wahrscheinlicher hält."
+      },
+      {
+        "nr": 3,
+        "text": "Laut Objektdatenbank SKKG ist das Werk unten rechts mit «G. Segantini» signiert; auf den Digitalisaten ist dies kaum zu erkennen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1958",
+      "besitzer": "Collezione E. Cei, Florenz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Gozzoli 1973, Quinsac 1982."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2007."
+        }
+      ]
+    },
+    {
+      "zeitraum": "22. Juni 2007",
+      "besitzer": "Auktion Galerie Koller (Schweizer Kunst, Lot 3033, Stehender Frauenakt), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22. Juni 2007",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft bei der Galerie Koller, Zuschlagspreis: 330 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Rechnung der Galerie Koller vom 26. Juni 2007 sowie Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973, Nr. 232.\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, Bd. 1, Mailand 1982, Nr. 129.",
+        "bilder": [
+          {
+            "datei": "images/6517/6517_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.1,
+              307.0,
+              540.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Galerie Koller, Zürich, 22. Juni 2007, Zürich 2007, Lot 3033.",
+        "bilder": [
+          {
+            "datei": "images/6517/6517_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.1,
+              361.0,
+              382.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 150,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 151,
+            "datum": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1731, NF_0327",
+      "bilder": [
+        {
+          "datei": "images/6517/6517_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            573.9,
+            528.8,
+            716.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/6517/6517_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            133.8,
+            532.1,
+            370.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung Galerie Koller an SKKG, 26. Juni 2007, und Erwerbsnachweis mit annotiertem Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6517/6517_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          269.7,
+          539.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubte Metallplakette, «GIOVANNI SEGANTINI»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubte Metallplakette, «GIOVANNI SEGANTINI»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              577.7,
+              270.8,
+              611.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Zur Signatur siehe Fn. 2."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit schwarzem Filzstift «49587»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Filzstift «49587»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              623.8,
+              205.1,
+              656.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit weisser Kreide «LOT 85 18 6 85»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «LOT 85 18 6 85»",
+        "kommentar": "wahrscheinlich Angabe einer (unbekannten) Auktion mit Datum 18. Juni 1985",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              139.8,
+              270.8,
+              159.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit gelber Kreide «142519» und eingekreist «20»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit gelber Kreide «142519» und eingekreist «20»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              215.5,
+              270.8,
+              236.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Zierrahmen: handschriftlich mit weisser Kreide «[… ?]8[?]30 25-6-18», möglicherweise teilweise verdeckt",
+        "position_traeger": "r. u. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «[… ?]8[?]30 25-6-18», möglicherweise teilweise verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.6,
+              253.3,
+              273.8,
+              276.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: handschriftlich mit Bleistift «[…] | [C?]ei»",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…] | [C?]ei»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              303.8,
+              237.2,
+              392.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Leinwand: handschriftliche Bleistiftnotiz, unleserlich",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftliche Bleistiftnotiz, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              405.2,
+              271.4,
+              494.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: handschriftlich mit weisser Kreide «LOT 65»",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «LOT 65»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.6,
+              507.3,
+              272.2,
+              535.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: handschriftlich mit weisser Kreide «LOT 85»",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «LOT 85»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6517/6517_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.6,
+              548.4,
+              272.1,
+              573.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Quinsac 1982."
+    },
+    {
+      "nr": 2,
+      "text": "Quinsac 1982, die allerdings ein Entstehungsdatum vor 1880 für wahrscheinlicher hält."
+    },
+    {
+      "nr": 3,
+      "text": "Laut Objektdatenbank SKKG ist das Werk unten rechts mit «G. Segantini» signiert; auf den Digitalisaten ist dies kaum zu erkennen."
+    },
+    {
+      "nr": 4,
+      "text": "Gozzoli 1973, Quinsac 1982."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2007."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Rechnung der Galerie Koller vom 26. Juni 2007 sowie Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Zur Signatur siehe Fn. 2."
+    }
+  ],
+  "bilder_anzahl": 15
+}

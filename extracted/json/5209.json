@@ -1,0 +1,382 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5209_230412.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "12. April 2023",
+  "stand_iso": "2023-04-12",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5209",
+      "Alexandre Calame (1810–1864)",
+      "Enges Felsental mit Blumenbewuchs /Karge Steinlandschaft",
+      "o. J.",
+      "Öl auf Leinwand",
+      "33,3 × 56 cm (Bildmass)",
+      "47,1 × 69,2 cm × 6,3 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5209",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Enges Felsental mit Blumenbewuchs /Karge Steinlandschaft",
+    "masse": [
+      "33,3 × 56 cm (Bildmass)",
+      "47,1 × 69,2 cm × 6,3 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5209/5209_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          318.8,
+          418.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Beim Schweizerischen Institut für Kunstwissenschaft (SIK) wurde das Gemälde 1971 als «Werk aus der Schule Calames» erfasst, siehe Anfragen."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach SIK 1971, siehe Anfragen."
+      },
+      {
+        "nr": 3,
+        "text": "Vormaliger Werktitel SKKG, wohl vergeben von Isabelle Messerli."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis mindestens 1971",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Angabe gemäss SIK, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Wann und wo das Werk erworben wurde, ist nicht bekannt. Auch in den Archivkartons mit Expertisen im Archiv SKKG konnten keine Nachweise gefunden werden."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935, möglicherweise Nr. 32 (Waldpartie, 35 × 53 cm, Privatbesitz, Genf).\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "Das Werk ist aufgrund mangelnder Angaben nicht identifizierbar."
+          },
+          {
+            "text": "Das Werk ist aufgrund mangelnder Angaben nicht identifizierbar."
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/5209/5209_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              498.9,
+              484.7,
+              700.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Lost Art",
+            "bildtitel": "2 mögliche Treffer (16 Ergebnisse) für Volltextsuche «Calame», Filter 1: «Suchmeldungen», Filter 2: «Malerei» [13. Oktober 2022]",
+            "bildunterschrift": "https://www.lostart.de/de/Verlust/414104 [13. Oktober 2022]"
+          },
+          {
+            "datei": "images/5209/5209_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              165.1,
+              484.7,
+              396.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Lost Art",
+            "bildunterschrift": "https://www.lostart.de/de/Verlust/518658 [13. Oktober 2022]"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (8 Ergebnisse) für freie Suche «Wald», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-10-13"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für freie Suche «Waldinneres», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-10-13"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Lichtung», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-13"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für freie Suche «foret», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-10-13"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für freie Suche «stein», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-10-13"
+          },
+          {
+            "text": "0 Treffer (9 Ergebnisse) für freie Suche «etude», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-10-13"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für freie Suche «Studie», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2022-10-13"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «karge Landschaft», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "17. November 2022",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft, Zürich",
+      "betreff": "Anfrage zum SIK-Archiv",
+      "antwort": "17. November 2022\n\nDas Werk aus Privatbesitz wurde 1971 beim SIK registriert als «Werk aus der Schule Calames» mit dem Titel Enges Felsental mit Baumbewuchs, Archivnummer 21069, Kontrollnummer 9097."
+    }
+  ],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5209/5209_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          312.9,
+          513.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: langrechteckiges rotes Kunststoffetikett, weiss gedruckt «1702»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "langrechteckiges rotes Kunststoffetikett, weiss gedruckt «1702»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5209/5209_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              576.5,
+              227.5,
+              623.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: runder Zollstempel, unleserlich",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "runder Zollstempel, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5209/5209_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              635.5,
+              227.4,
+              724.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: langrechteckiges weisses Etikett, schwarz gedruckt «9097»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz gedruckt «9097»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5209/5209_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              226.7,
+              180.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Siehe Anfragen."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Beim Schweizerischen Institut für Kunstwissenschaft (SIK) wurde das Gemälde 1971 als «Werk aus der Schule Calames» erfasst, siehe Anfragen."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach SIK 1971, siehe Anfragen."
+    },
+    {
+      "nr": 3,
+      "text": "Vormaliger Werktitel SKKG, wohl vergeben von Isabelle Messerli."
+    },
+    {
+      "nr": 4,
+      "text": "Angabe gemäss SIK, siehe Anfragen."
+    },
+    {
+      "nr": 5,
+      "text": "Wann und wo das Werk erworben wurde, ist nicht bekannt. Auch in den Archivkartons mit Expertisen im Archiv SKKG konnten keine Nachweise gefunden werden."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Anfragen."
+    }
+  ],
+  "bilder_anzahl": 7
+}

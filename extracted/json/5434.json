@@ -1,0 +1,650 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5434_250408.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. April 2025",
+  "stand_iso": "2025-04-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5434",
+      "Adolf Dietrich (1877–1957)",
+      "Dampfer auf dem Untersee",
+      "1915",
+      "Öl auf Leinwand",
+      "30 × 43 cm (Bildmass)",
+      "42 × 55 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5434",
+    "status": "Ungeklärt",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Dampfer auf dem Untersee",
+    "masse": [
+      "30 × 43 cm (Bildmass)",
+      "42 × 55 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1915",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5434/5434_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.8,
+          426.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Prof. Dr. Jakob Fritschi (um 1895 bis 1983), Goldach",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Aufschrift auf Werkrückseite sowie Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «A.D. 0–15 G», Werkdatenblatt Nr. 15.10. Jakob Fritschi war «ehemals Professor am Lehrerseminar Mariaberg, Rorschach», siehe Todesanzeige in: Neue Zürcher Zeitung, Jg. 204, Nr. 249, 25. Oktober 1983, S. 61, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19831025-01.2.77.2 [31. Juli 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1957",
+      "besitzer": "Direktor Edwin Witzig, Kreuzlingen",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Gemäss Kunsthaus Zürich, Auskunft vom 16. Dezember 2024, war Edwin Witzig der Einlieferer für die Ausstellung im Kunsthaus Zürich 1957, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1997 mit der Angabe, dass das Werk aus einer «seit Jahrzehnten bestehenden Privatsammlung» stamme."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. Juni 1997",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst / Art suisse, Lot 358, Dampfer auf dem Untersee), Zürich, eingeliefert aus Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1997."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 4. Juni 1997",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 55 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1997 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 15.10.",
+        "bilder": [
+          {
+            "datei": "images/5434/5434_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              284.5,
+              337.9,
+              336.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst / Art suisse, Auktionskatalog Sotheby’s, Zürich, 4. Juni 1997, Zürich 1997, Lot 358."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunsthaus Zürich, Gedächtnisausstellung Adolf Dietrich, 1877–1957, 17. Oktober bis 8. Dezember 1957, Nr. 12."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [8. Januar 2025]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2025-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche »Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dampfer» und «Untersee», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Volltextsuche «Dampfer» und «Untersee» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2024-01-08"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Adolf Dietrich» (inklusive aller Namensschreibweisen) [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche mit Filter: Künstler «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "11. Dezember 2024",
+      "institution": "Kunsthaus Zürich",
+      "betreff": "Leihgeber:in des Werks 1957",
+      "antwort": "16. Dezember 2024: Der Leihgeber war Direktor Edwin Witzig, Kreuzlingen.",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Als Beleg wurde eine Erhaltsbestätigung der nach Kreuzlingen retournierten Werke vom Dezember 1957 aus dem Archiv des Kunsthauses Zürich mitgeschickt."
+        }
+      ]
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5434/5434_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            533.1,
+            332.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1997, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "11. Dezember 2024",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «A.D. 0–15 G»",
+      "bilder": [
+        {
+          "datei": "images/5434/5434_004_archive_extern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.6,
+            496.4,
+            527.5,
+            739.6
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Werkdatenblatt Nr. 15.10"
+        }
+      ]
+    },
+    {
+      "datum": "11. Dezember 2024",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Bildhinweise bis 1930",
+      "bilder": [
+        {
+          "datei": "images/5434/5434_005_archive_extern.png",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            185.8,
+            532.6,
+            196.4
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "1915, Nr. 10, Dampfer auf dem Untersee, «Dr. J. Fritschi, Goldach»"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5434/5434_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          378.3,
+          292.3,
+          556.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «Ad. Dietrich 1915»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Ad. Dietrich 1915»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              594.2,
+              292.1,
+              638.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: quadratisches weisses Klebeetikett, unten gezahnt mit blauem Streifen, handschriftlich mit schwarzem Filzstift «132»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "quadratisches weisses Klebeetikett, unten gezahnt mit blauem Streifen, handschriftlich mit schwarzem Filzstift «132»",
+        "kommentar": "wahrscheinlich aufgebracht von Ursula Netzer, Schlosswartin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              657.3,
+              207.0,
+              729.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: viereckiges beiges Etikett, oben gezahnt, schwarz bedruckt und maschinenbeschrieben sowie handschriftlich mit schwarzem Schreibmittel beschrieben",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "viereckiges beiges Etikett, oben gezahnt, schwarz bedruckt und maschinenbeschrieben sowie handschriftlich mit schwarzem Schreibmittel beschrieben",
+        "kommentar": "Ausstellung Kunsthaus Zürich 1957",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              292.0,
+              190.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen (unter Etikett): handschriftlich mit blauem Schreibmittel «N[…]» (verdeckt)",
+        "position_traeger": "o. m. Spannrahmen (unter Etikett)",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «N[…]» (verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              228.2,
+              223.6,
+              294.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, hellgrün gedruckt «358»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, hellgrün gedruckt «358»",
+        "kommentar": "Auktion Sotheby’s 1997, Lot 358",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              306.7,
+              223.6,
+              364.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen (unter Etikett): schwarz gestempelt «[…]er» (verdeckt)",
+        "position_traeger": "o. m. Spannrahmen (unter Etikett)",
+        "merkmal": "schwarz gestempelt «[…]er» (verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              382.4,
+              223.8,
+              417.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, hellgrün gedruckt «358», schwarz gestempelt «04. Juni 1997»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, hellgrün gedruckt «358», schwarz gestempelt «04. Juni 1997»",
+        "kommentar": "Auktion Sotheby’s 1997, Lot 358",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              430.0,
+              223.8,
+              493.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: handschriftlich mit dunkelblauem Kugelschreiber «Dr. J. FRITSCHI GOLDACH»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "handschriftlich mit dunkelblauem Kugelschreiber «Dr. J. FRITSCHI GOLDACH»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.9,
+              518.4,
+              292.4,
+              537.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Spannrahmen: handschriftlich mit weisser Kreide «572 [?]»",
+        "position_traeger": "u. r. Spannrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «572 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              568.9,
+              223.9,
+              601.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: langrechteckiges beiges Etikett, schwarz gedruckt «12 DAMPFER AUF DEM UNTERSEE, 1915» und handschriftlich mit blauem Kugelschreiber «2300.–»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "langrechteckiges beiges Etikett, schwarz gedruckt «12 DAMPFER AUF DEM UNTERSEE, 1915» und handschriftlich mit blauem Kugelschreiber «2300.–»",
+        "kommentar": "Ausstellung Kunsthaus Zürich 1957, Nr. 12",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5434/5434_016_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              614.4,
+              292.9,
+              645.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Angesichts dieses als Preisangabe interpretierbaren Vermerks könnte es sich um eine Verkaufsausstellung gehandelt haben. Laut Archivalien des Kunsthauses Zürich wurde das Werk im Dezember 1957 an den Einlieferer retourniert, also nicht verkauft, siehe Fn. 7."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Aufschrift auf Werkrückseite sowie Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «A.D. 0–15 G», Werkdatenblatt Nr. 15.10. Jakob Fritschi war «ehemals Professor am Lehrerseminar Mariaberg, Rorschach», siehe Todesanzeige in: Neue Zürcher Zeitung, Jg. 204, Nr. 249, 25. Oktober 1983, S. 61, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19831025-01.2.77.2 [31. Juli 2025]."
+    },
+    {
+      "nr": 3,
+      "text": "Gemäss Kunsthaus Zürich, Auskunft vom 16. Dezember 2024, war Edwin Witzig der Einlieferer für die Ausstellung im Kunsthaus Zürich 1957, siehe Anfragen."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1997 mit der Angabe, dass das Werk aus einer «seit Jahrzehnten bestehenden Privatsammlung» stamme."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1997."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1997 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Als Beleg wurde eine Erhaltsbestätigung der nach Kreuzlingen retournierten Werke vom Dezember 1957 aus dem Archiv des Kunsthauses Zürich mitgeschickt."
+    },
+    {
+      "nr": 8,
+      "text": "Angesichts dieses als Preisangabe interpretierbaren Vermerks könnte es sich um eine Verkaufsausstellung gehandelt haben. Laut Archivalien des Kunsthauses Zürich wurde das Werk im Dezember 1957 an den Einlieferer retourniert, also nicht verkauft, siehe Fn. 7."
+    }
+  ],
+  "bilder_anzahl": 16
+}

@@ -1,0 +1,579 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5215_241114.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5215",
+      "Albert Anker (1831–1910)",
+      "Zeitung lesender Bauer am Fenster I",
+      "1881",
+      "Öl auf Leinwand",
+      "60 × 51 cm (Bildmass)",
+      "75 × 66 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5215",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Zeitung lesender Bauer am Fenster I",
+    "masse": [
+      "60 × 51 cm (Bildmass)",
+      "75 × 66 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1881",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5215/5215_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.6,
+          495.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Le liseur I."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "4. September 1881 bis o. D.",
+      "besitzer": "Edward Tooth, London, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 4. September 1881 in Albert Ankers Livre de vente: «de M. Tooth à Londres pour le liseur (Metzger Peterli) 700». Beim Käufer handelt es sich um den Londoner Kunsthändler Edward Tooth, siehe ebd., S. 46. Möglicherweise gehört dieser zur Familie des Kunsthändlers Arthur Tooth, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Kunsthandel, London",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1960",
+      "besitzer": "Marc Antoine Oboussier (1895–1990), Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Ausstellungskatalog Bern 1960. 1961 wurde das Bild in Zürich in den Kirchgemeindehäusern Friesenberg und Seebach gezeigt, siehe Auktionskatalog Zürich 1980 sowie Kontextinformationen; der Leihgeber dürfte ebenfalls Marc Antoine Oboussier gewesen sein."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Dabei könnte es sich ebenfalls um Marc Antoine Oboussier, Zürich, handeln."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November 1980",
+      "besitzer": "Auktion Sotheby Parke Bernet (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 89, Zeitunglesender Bauer am Fenster), Zürich, eingeliefert aus Zürcher Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 1980, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby Parke Bernet, Zuschlagspreis: 150 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1980 sowie Rechnung von Sotheby Parke Bernet vom 26. November 1980 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 154, Nr. 285.",
+        "bilder": [
+          {
+            "datei": "images/5215/5215_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              410.4,
+              302.0,
+              543.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 26. November 1980, Zürich 1980, Lot 89."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker, Ausstellungskatalog Kunstmuseum Bern, Bern 1960, Nr. 81.",
+        "bilder": [
+          {
+            "datei": "images/5215/5215_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              625.5,
+              332.3,
+              656.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (611 Ergebnisse) für Volltextsuche «Bauer» und «Zeitung» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 611,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Zeitungsleser» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «liseur» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (518 Ergebnisse) für Volltextsuche «Lesender» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 518,
+            "datum": "2023-03-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5215/5215_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            360.3,
+            534.6,
+            559.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.4.1424.3.2\n\nRechnung von Sotheby Parke Bernet, Zürich, an Bruno Stefanini, Winterthur, vom 26. November 1980"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Galerie Arthur Tooth & Sons",
+      "information": "Informationen zur Galerie Arthur Tooth & Sons: https://en.wikipe-dia.org/wiki/Arthur_Tooth_%26_Sons und https://learn.bow-doin.edu/fletcher/london-gallery/data/pages/as502.html [7. März 2023]. Vermutlich hat Edward Tooth mit dem Geschäft zu tun."
+    },
+    {
+      "thema": "Ausstellung Zürich 1961",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5215/5215_005_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            442.2,
+            366.2,
+            506.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Die Anker-Ausstellung Zürich 1961 wurde in den Kirchgemeindehäusern Friesenberg und Seebach gezeigt, siehe: Die Tat, Jg. 26, Nr. 114, 27. April 1961, S. 61, https://www.e-newspaperarchi-ves.ch/?a=d&d=DTT19610427-01.2.18 [19. März 2023]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5215/5215_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          292.0,
+          426.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «Anker 1881»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Anker 1881»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5215/5215_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              463.7,
+              289.3,
+              518.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit weisser Kreide «00» oder «89»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «00» oder «89»",
+        "kommentar": "Falls «89»: Lotnummer Auktion Sotheby Parke Bernet 1980",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5215/5215_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              530.5,
+              292.0,
+              655.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Mittelstrebe: vergilbtes rechteckiges Etikett, bedruckt und maschinenschriftlich ergänzt",
+        "position_traeger": "m. r. Mittelstrebe",
+        "merkmal": "vergilbtes rechteckiges Etikett, bedruckt und maschinenschriftlich ergänzt",
+        "kommentar": "Ausstellung Bern 1960, Nr. 81",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5215/5215_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              669.0,
+              293.2,
+              721.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Mittelstrebe: rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit blauer Tinte «144»",
+        "position_traeger": "m. l. Mittelstrebe",
+        "merkmal": "rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit blauer Tinte «144»",
+        "kommentar": "Ausstellung Ins 1985, Nr. 144",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5215/5215_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              293.5,
+              204.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: vergilbtes rechteckiges Etikett, schwarz bedruckt, rot unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "vergilbtes rechteckiges Etikett, schwarz bedruckt, rot unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5215/5215_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              216.8,
+              215.1,
+              253.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «To be Photogr[aph]ed»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «To be Photogr[aph]ed»",
+        "kommentar": "Vermerk für fotografische Aufnahme",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5215/5215_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              284.6,
+              262.0,
+              349.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: vergilbtes rechteckiges Etikett, schwarz bedruckt, rot unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "vergilbtes rechteckiges Etikett, schwarz bedruckt, rot unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5215/5215_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              361.6,
+              219.7,
+              401.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Le liseur I."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 4. September 1881 in Albert Ankers Livre de vente: «de M. Tooth à Londres pour le liseur (Metzger Peterli) 700». Beim Käufer handelt es sich um den Londoner Kunsthändler Edward Tooth, siehe ebd., S. 46. Möglicherweise gehört dieser zur Familie des Kunsthändlers Arthur Tooth, siehe Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Ausstellungskatalog Bern 1960. 1961 wurde das Bild in Zürich in den Kirchgemeindehäusern Friesenberg und Seebach gezeigt, siehe Auktionskatalog Zürich 1980 sowie Kontextinformationen; der Leihgeber dürfte ebenfalls Marc Antoine Oboussier gewesen sein."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Dabei könnte es sich ebenfalls um Marc Antoine Oboussier, Zürich, handeln."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 1980, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1980 sowie Rechnung von Sotheby Parke Bernet vom 26. November 1980 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 13
+}

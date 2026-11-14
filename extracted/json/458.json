@@ -1,0 +1,809 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_458_241113.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 458",
+      "Albert Anker (1831–1910)",
+      "Stillleben: Kaffee",
+      "1877",
+      "Öl auf Leinwand",
+      "46 × 60 cm (Bildmass)",
+      "69 × 83 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "458",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Stillleben: Kaffee",
+    "masse": [
+      "46 × 60 cm (Bildmass)",
+      "69 × 83 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "1877",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/458/458_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          315.0,
+          474.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995, orthografisch modernisiert. Französischer Titel: Nature morte: café."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "9. November 1880 bis o. D.",
+      "besitzer": "Schmid, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 9. November 1880 in Ankers Livre de vente: «de Schmid pour 2 natures mortes, absinthe & café (pas cher) 140». Um wen es sich bei «Schmid» handelt, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Ulrich Röthlisberger",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Um wen es sich dabei handelt, ist nicht bekannt; allenfalls um jenen Ulrich Röthlisberger (um 1827 bis 1906), der laut einer Mitteilung aus Herzogenbuchsee (vergleiche folgende Provenienzstation) «Mitbegründer der weltbekannten Firma Röthlisberger u. Gerber in New-York» war und 1906 in La Tour-de-Peilz, Villa Beaurivage, verstarb, siehe: Thuner Blatt, 1906, Nr. 14, 17. Februar 1906, S. 2, https://www.e-newspaperarchi-ves.ch/?a=d&d=TWB19060217-01.2.7 [30. Januar 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Herzogenbuchsee",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18./19. November 1983",
+      "besitzer": "Auktion Galerie Koller (Gemälde 15.–20. Jahrhundert, Graphik und Plastiken 19. und 20. Jahrhundert, Lot 5285, Stilleben mit Kaffee und Cognac), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1983, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. November 1983",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 380 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1983 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 142, Nr. 248.",
+        "bilder": [
+          {
+            "datei": "images/458/458_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              334.9,
+              317.1,
+              488.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde 15.–20. Jahrhundert, Graphik und Plastiken 19. und 20. Jahrhundert, Auktionskatalog Galerie Koller, Zürich, 18./19. November 1983, Zürich 1983, Lot 5285."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Sporthalle Ins, Albert Anker. Der Maler und sein Werk. Gemäldeausstellung aus Anlass des 75. Todestages, 23. März bis 21. April 1985, Nr. 109."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (61 Ergebnisse) für Volltextsuche «Anker» und «Nature morte» und «1877» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 61,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (60 Ergebnisse) für Volltextsuche «Albert Anker» und «Stilleben» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 60,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für Volltextsuche «Albert Anker» und «Kaffee» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Albert Anker» und «café» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Keywords: «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "27. April 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/458/458_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            291.3,
+            533.6,
+            463.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1983, annotiert von Bruno Stefanini"
+        },
+        {
+          "datei": "images/458/458_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            526.4,
+            533.0,
+            595.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildtitel": "lotspezifischer Ausschnitt"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/458/458_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          293.1,
+          432.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. r. Leinwand: handschriftlich mit brauner Farbe «Anker 1877»",
+        "position_traeger": "o. r. Leinwand",
+        "merkmal": "handschriftlich mit brauner Farbe «Anker 1877»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              470.2,
+              289.4,
+              517.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "Zierrahmen (auf allen vier Rahmenschenkeln im inneren Bereich): verbräuntes Papier, nicht mehr vollflächig vorhanden, in verbräunter Farbe handschriftliche französische Aufschriften (Rechnungen, Namenslisten)",
+        "position_traeger": "Zierrahmen (auf allen vier Rahmenschenkeln im inneren Bereich)",
+        "merkmal": "verbräuntes Papier, nicht mehr vollflächig vorhanden, in verbräunter Farbe handschriftliche französische Aufschriften (Rechnungen, Namenslisten)",
+        "kommentar": "Der innere Bereich des Zierrahmens war mit handbeschriebenem, in Zweitverwendung aufgebrachtem Papier beklebt, wovon noch Resten vorhanden sind. Die Papierlage besteht aus mehreren Teilen; die Orientierung wechselt. Wann das Papier aufgebracht beziehungsweise (teilweise) entfernt wurde, ist nicht bekannt.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              551.9,
+              288.3,
+              608.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Ausschnitte (unvollständig)"
+          },
+          {
+            "datei": "images/458/458_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              614.9,
+              288.3,
+              658.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/458/458_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              664.9,
+              287.9,
+              709.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Negativ eines rechteckigen Etiketts",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Negativ eines rechteckigen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              231.7,
+              186.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «65 49»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «65 49»",
+        "kommentar": "möglicherweise Massangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              198.8,
+              299.7,
+              247.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett, rechts mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «91507»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, rechts mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «91507»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              261.9,
+              226.4,
+              312.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit dunklem Schreibmittel «B 80.– [?]»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «B 80.– [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              325.0,
+              263.2,
+              373.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit rotem Schreibmittel «64 / 49», darüber mit anderem rotem Schreibmittel «N 36»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «64 / 49», darüber mit anderem rotem Schreibmittel «N 36»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              386.2,
+              297.2,
+              440.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Klebereste eines weissen Etiketts",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Klebereste eines weissen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              452.7,
+              198.2,
+              496.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit weisser Kreide «[8?]39»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «[8?]39»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_016_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              509.1,
+              297.1,
+              560.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «Berth […] 1168»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Berth […] 1168»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_017_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              572.8,
+              296.0,
+              605.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: Malerklebeband, handschriftlich mit blauem Kugelschreiber «458 Glas»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "Malerklebeband, handschriftlich mit blauem Kugelschreiber «458 Glas»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_018_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              618.4,
+              239.1,
+              669.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: verbräuntes rechteckiges Etikett, handschriftlich mit grauem Schreibmittel «71»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, handschriftlich mit grauem Schreibmittel «71»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_019_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              681.9,
+              191.4,
+              738.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: doppelt blau umrandetes weisses Etikett mit abgeschrägten Ecken, handschriftlich mit braunem oder verbräuntem Schreibmittel «57361 [?]»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "doppelt blau umrandetes weisses Etikett mit abgeschrägten Ecken, handschriftlich mit braunem oder verbräuntem Schreibmittel «57361 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_020_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              251.4,
+              214.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33'215», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33'215», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_021_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              227.3,
+              249.4,
+              256.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «№ 22»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «№ 22»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_022_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              303.0,
+              272.2,
+              357.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit rotem Schreibmittel «11221»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «11221»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_023_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              369.6,
+              272.2,
+              419.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: verbräuntes quadratisches Etikett mit gezahntem Rand, blau rahmendem Motiv und perforiertem Kreuz, schwarz gestempelt «DOUANES | […?]»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "verbräuntes quadratisches Etikett mit gezahntem Rand, blau rahmendem Motiv und perforiertem Kreuz, schwarz gestempelt «DOUANES | […?]»",
+        "kommentar": "Zolletikett",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_024_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              432.2,
+              202.1,
+              496.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Schreibmittel «5285»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Schreibmittel «5285»",
+        "kommentar": "Lotnummer der Auktion Galerie Koller 1983",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/458/458_025_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              520.6,
+              223.5,
+              564.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995, orthografisch modernisiert. Französischer Titel: Nature morte: café."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 9. November 1880 in Ankers Livre de vente: «de Schmid pour 2 natures mortes, absinthe & café (pas cher) 140». Um wen es sich bei «Schmid» handelt, ist nicht bekannt."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Um wen es sich dabei handelt, ist nicht bekannt; allenfalls um jenen Ulrich Röthlisberger (um 1827 bis 1906), der laut einer Mitteilung aus Herzogenbuchsee (vergleiche folgende Provenienzstation) «Mitbegründer der weltbekannten Firma Röthlisberger u. Gerber in New-York» war und 1906 in La Tour-de-Peilz, Villa Beaurivage, verstarb, siehe: Thuner Blatt, 1906, Nr. 14, 17. Februar 1906, S. 2, https://www.e-newspaperarchi-ves.ch/?a=d&d=TWB19060217-01.2.7 [30. Januar 2025]."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1983, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1983 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 25
+}

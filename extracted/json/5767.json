@@ -1,0 +1,516 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5767_250528.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Mai 2025",
+  "stand_iso": "2025-05-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5767",
+      "Ernest Biéler (1863–1948)",
+      "La petite dévote",
+      "1914",
+      "Tempera auf Holz",
+      "42 × 27 cm (Bildmass)",
+      "67 × 54 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5767",
+    "status": "Ungeklärt",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "La petite dévote",
+    "masse": [
+      "42 × 27 cm (Bildmass)",
+      "67 × 54 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1914",
+    "technik": "Tempera auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5767/5767_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.6,
+          548.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Etiketten auf der Werkrückseite sowie Rechnung der Galerie Kurt Meissner im Archiv SKKG, gemäss Ethel Mathier, Auskunft vom 28. Mai 2025, handelt es sich um den Originaltitel."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1918",
+      "besitzer": "Simon-Henri Collombet, Vevey, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1955/56",
+      "besitzer": "Charles Ruchonnet (gest. 1955/56), Saint-Saphorin",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023 und vom 28. Mai 2025."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12. April 1956",
+      "besitzer": "Vente Péquignot (Lot 7), Cully, eingeliefert aus dem Nachlass Charles Ruchonnet",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. Februar 1994",
+      "besitzer": "Galerie Kurt Meissner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 26. Februar 1994",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, von Galerie Kurt Meissner, Ankaufspreis: 51 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Rechnung von Kurt Meissner vom 26. Februar 1994 im Archiv SKKG. Der Rahmen kam offenbar nicht vor 2007 zur SKKG, siehe Archiv intern."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "1. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (8 Ergebnisse) für Volltextsuche «Bieler»\n\n2 Treffer (6 Ergebnisse) für Volltextsuche «Meissner»: A.212.825 und A.212.827 (siehe unten)"
+    },
+    {
+      "datum": "10. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.827, NF_0090, Dossier V",
+      "bilder": [
+        {
+          "datei": "images/5767/5767_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            158.4,
+            531.8,
+            353.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Kurt Meissner an SKKG, 26. Februar 1994"
+        }
+      ]
+    },
+    {
+      "datum": "10. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.825, NF_0088",
+      "bilder": [
+        {
+          "datei": "images/5767/5767_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            416.4,
+            532.5,
+            482.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kopie des Rückseitenetiketts"
+        }
+      ]
+    },
+    {
+      "datum": "10. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.825, NF_0088",
+      "bilder": [
+        {
+          "datei": "images/5767/5767_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            158.4,
+            517.7,
+            375.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Notiz von Dora Bösiger; «Flora» meint die Galerie Meissner an der Florastrasse in Zürich. Demnach kamen Gemälde und Rahmen separat zur SKKG."
+        }
+      ]
+    },
+    {
+      "datum": "10. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.825, NF_0088",
+      "bilder": [
+        {
+          "datei": "images/5767/5767_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            476.3,
+            533.7,
+            547.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5767/5767_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            553.0,
+            534.3,
+            634.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Offenbar blieb der Rahmen noch in der Galerie; vermutlich wurde er nach dem 1. Januar 2007 abgeholt. Von den Massen her passt er zur Petite dévote; für Glückwünschende Mädchen wäre er deutlich zu klein."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5767/5767_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          341.4,
+          292.0,
+          612.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "l. m. Leinwand: handschriftlich mit schwarzer Farbe «E·BIELER | 1914·»",
+        "position_traeger": "l. m. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «E·BIELER | 1914·»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5767/5767_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              650.3,
+              257.8,
+              716.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Holztafel: Reste eines verbräunten Etiketts, handschriftlich mit schwarzem Schreibmittel «La petit[e] | dévot[e]»",
+        "position_traeger": "o. m. Holztafel",
+        "merkmal": "Reste eines verbräunten Etiketts, handschriftlich mit schwarzem Schreibmittel «La petit[e] | dévot[e]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5767/5767_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              291.5,
+              261.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. Holztafel: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz bedruckt, handschriftlich mit blauem Kugelschreiber «Tempera | im/2014» als Korrektur für «Gouache» und rot gestempelt «P»; u. r. mit Bleistift «XN[?] WW[?] XXII»",
+        "position_traeger": "m. Holztafel",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz bedruckt, handschriftlich mit blauem Kugelschreiber «Tempera | im/2014» als Korrektur für «Gouache» und rot gestempelt «P»; u. r. mit Bleistift «XN[?] WW[?] XXII»",
+        "kommentar": "Etikett der Galerie Kurt Meissner mit der Laufnummer 5300. «P» steht vermutlich für «photographiert».\n\nDie Kugelschreibernotiz dürfte im Zusammenhang mit der Ausstellung «Sesam, öffne dich!» (Kunstmuseum Bern / Fondation Gianadda 2014/15) aufgebracht worden sein; «im» steht wohl für die bei der SKKG zuständige Kuratorin Isabelle Messerli.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5767/5767_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              274.0,
+              291.3,
+              354.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5767/5767_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              379.6,
+              291.0,
+              401.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail u. r."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. Holztafel: handschriftlich mit Bleistift «№ 18»",
+        "position_traeger": "m. Holztafel",
+        "merkmal": "handschriftlich mit Bleistift «№ 18»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5767/5767_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              502.7,
+              212.7,
+              544.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Holztafel: weisses rechteckiges Etikett, schwarz bedruckt; Galerie Meissner, Zürich",
+        "position_traeger": "u. m. Holztafel",
+        "merkmal": "weisses rechteckiges Etikett, schwarz bedruckt; Galerie Meissner, Zürich",
+        "kommentar": "Ankaufsort",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5767/5767_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              557.2,
+              291.3,
+              631.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit gelbem Schreibmittel «Meissner Zurich»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit gelbem Schreibmittel «Meissner Zurich»",
+        "kommentar": "Galerie Kurt Meissner, Ankaufsort",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5767/5767_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              643.7,
+              291.3,
+              676.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Etiketten auf der Werkrückseite sowie Rechnung der Galerie Kurt Meissner im Archiv SKKG, gemäss Ethel Mathier, Auskunft vom 28. Mai 2025, handelt es sich um den Originaltitel."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023."
+    },
+    {
+      "nr": 3,
+      "text": "Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023 und vom 28. Mai 2025."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 6."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Rechnung von Kurt Meissner vom 26. Februar 1994 im Archiv SKKG. Der Rahmen kam offenbar nicht vor 2007 zur SKKG, siehe Archiv intern."
+    },
+    {
+      "nr": 7,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    }
+  ],
+  "bilder_anzahl": 14
+}

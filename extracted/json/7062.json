@@ -1,0 +1,466 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7062_241205.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "5. Dezember 2024",
+  "stand_iso": "2024-12-05",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7062",
+      "Albert Anker (1831–1910)",
+      "Raumstudie zu: Kartoffelschälendes Mädchen",
+      "um 1886",
+      "Öl auf Karton",
+      "37 × 28 cm (Bildmass)",
+      "44 × 34 × 3 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "7062",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Raumstudie zu: Kartoffelschälendes Mädchen",
+    "masse": [
+      "37 × 28 cm (Bildmass)",
+      "44 × 34 × 3 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1886",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7062/7062_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          249.9,
+          550.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Cuisine. Etude pour: Une jeune fille qui pèle des pommes de terre."
+      },
+      {
+        "nr": 2,
+        "text": "Technikangabe gemäss Objektdatenbank SKKG. Laut Kuthy/Bhattacharya-Stettler 1995 handelt es sich um «Öl auf Leinwand», ebenso im Auktionskatalog Genf 2011."
+      },
+      {
+        "nr": 3,
+        "text": "Auf der Werkrückseite findet sich ein zu unbekanntem Zeitpunkt aufgebrachter Nachlassstempel, der auf das Eigentum von Cécile Du Bois-Anker verweist, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "spätestens 1931 bis spätestens 1957",
+      "besitzer": "Cécile Du Bois-Anker (Dubois) (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Der Ausstellungskatalog Bern 1931 führt «Frau D. B.-A., Genf» als Leihgeberin an, also Cécile Du Bois-Anker. Siehe auch Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1957 bis 9. März 2011",
+      "besitzer": "Jean (geb. 1907) und Janine Du Bois (um 1930 bis 2010), Genf, erworben im Erbgang von der Mutter/Schwiegermutter",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 mit der Angabe «Privatbesitz Genève» für das Jahr 1962, womit die Nachkommen von Cécile Du Bois gemeint sind. Gemäss Auktionskatalog Genf 2011 kommt das Werk aus dem Nachlass der Familie Du Bois: «L’Hôtel des Ventes a le grand plaisir et le privilège de vous proposer […] un exceptionnel ensemble de plus de 55 dessins, aquarelles et huiles de la main d’Albert Anker, provenant des descendants directs de l’artiste à Genève, son petit-fils Jean Du Bois et son épouse Janine.»"
+        }
+      ]
+    },
+    {
+      "zeitraum": "7.–9. März 2011",
+      "besitzer": "Auktion Hôtel des Ventes (Collection Anker […], Lot 1374, Cuisine), Genf, eingeliefert aus dem Nachlass von Jean und Janine Du Bois",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Genf 2011."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 9. März 2011",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Hôtel des Ventes, Zuschlagspreis: 110 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 180, Nr. 362.",
+        "bilder": [
+          {
+            "datei": "images/7062/7062_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.1,
+              310.5,
+              490.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Collection Anker. Extrême-Orient. Arts Premiers. Tableaux. Mobilier, Auktionskatalog Hôtel des Ventes, Genf, 7.–9. März 2011, Genf 2011, Lot 1374.",
+        "bilder": [
+          {
+            "datei": "images/7062/7062_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              547.4,
+              409.9,
+              596.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          },
+          {
+            "datei": "images/7062/7062_004_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              602.9,
+              409.8,
+              662.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker. Jahrhundertausstellung. 20. Juni bis 23. August 1931, Ausstellungskatalog Kunstmuseum Bern, Bern 1931, S. 19, Nr. 192.",
+        "bilder": [
+          {
+            "datei": "images/7062/7062_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.1,
+              361.5,
+              200.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (89 Ergebnisse) für Volltextsuche «Anker» und «cuisine» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 89,
+            "datum": "2023-03-28"
+          },
+          {
+            "text": "0 Treffer (126 Ergebnisse) für Volltextsuche «Anker» und «Kartoffel» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 126,
+            "datum": "2023-03-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "13. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A 212.626, NF_0056\n\nKopie des Auktionskatalogs Genf 2011"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7062/7062_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          291.7,
+          460.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: vergilbtes rechteckiges Etikett mit dreiseitig gezahntem Rand, handschriftlich mit Bleistift «24»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "vergilbtes rechteckiges Etikett mit dreiseitig gezahntem Rand, handschriftlich mit Bleistift «24»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7062/7062_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              523.6,
+              195.7,
+              561.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: schwarzer ovaler Stempel, «succession | A. Anker | .C.»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "schwarzer ovaler Stempel, «succession | A. Anker | .C.»",
+        "kommentar": "«C» steht vermutlich für «Cécile»; Nachlass des Künstlers im Eigentum von Cécile Du Bois-Anker",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7062/7062_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              574.1,
+              229.6,
+              629.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit Bleistift «38 […]» (möglicherweise teilweise verdeckt)",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «38 […]» (möglicherweise teilweise verdeckt)",
+        "kommentar": "vermutlich Rahmenmass (Höhe)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7062/7062_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              662.4,
+              292.8,
+              717.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: kopierter Zettel, handschriftlich mit blauem Schreibmittel «Z 110’000.–»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "kopierter Zettel, handschriftlich mit blauem Schreibmittel «Z 110’000.–»",
+        "kommentar": "Erwerbsnachweis Auktion Hôtel des Ventes 2011",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7062/7062_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              292.7,
+              239.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Cuisine. Etude pour: Une jeune fille qui pèle des pommes de terre."
+    },
+    {
+      "nr": 2,
+      "text": "Technikangabe gemäss Objektdatenbank SKKG. Laut Kuthy/Bhattacharya-Stettler 1995 handelt es sich um «Öl auf Leinwand», ebenso im Auktionskatalog Genf 2011."
+    },
+    {
+      "nr": 3,
+      "text": "Auf der Werkrückseite findet sich ein zu unbekanntem Zeitpunkt aufgebrachter Nachlassstempel, der auf das Eigentum von Cécile Du Bois-Anker verweist, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Der Ausstellungskatalog Bern 1931 führt «Frau D. B.-A., Genf» als Leihgeberin an, also Cécile Du Bois-Anker. Siehe auch Fn. 3."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 mit der Angabe «Privatbesitz Genève» für das Jahr 1962, womit die Nachkommen von Cécile Du Bois gemeint sind. Gemäss Auktionskatalog Genf 2011 kommt das Werk aus dem Nachlass der Familie Du Bois: «L’Hôtel des Ventes a le grand plaisir et le privilège de vous proposer […] un exceptionnel ensemble de plus de 55 dessins, aquarelles et huiles de la main d’Albert Anker, provenant des descendants directs de l’artiste à Genève, son petit-fils Jean Du Bois et son épouse Janine.»"
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Genf 2011."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    }
+  ],
+  "bilder_anzahl": 10
+}

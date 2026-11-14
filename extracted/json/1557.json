@@ -1,0 +1,411 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1557_250122.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "22. Januar 2025",
+  "stand_iso": "2025-01-22",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1557",
+      "Cuno Amiet (1868–1961)",
+      "Bildnis Frieda Schöni",
+      "1921",
+      "Öl auf Leinwand",
+      "46 × 38 cm (Bildmass)",
+      "49,5 × 42 × 3,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1557",
+    "status": "Ungeklärt",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Bildnis Frieda Schöni",
+    "masse": [
+      "46 × 38 cm (Bildmass)",
+      "49,5 × 42 × 3,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1921",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1557/1557_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.9,
+          507.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Schweizerisches Institut für Kunstwissenschaft o. J."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1.–3. November 1979",
+      "besitzer": "Auktion Kurt Huber, Villa Ulmberg (Auktion Schweizer Malerei mit bedeutenden Werken von Schweizer Künstlern, Lot 149, Bildnis einer jungen Frau), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "2. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Kurt Huber, Villa Ulmberg, Zuschlagspreis: 19 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Zuschlagspreis bezieht sich auf drei Amiet-Werke zusammen (Lot 148–150)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Franz Müller und Viola Radlach, Cuno Amiet. Die Gemälde 1883–1919 (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014 [Werk nicht enthalten].\n\nO. A., Bildnis Frieda Schöni, in: Cuno Amiet. Die Gemälde der Jahre 1920–1961 (Werkliste), hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich o. J., Nr. 1921.17, https://recherche.sik-isea.ch/de/sik:work-13145325 [16. Dezember 2024].",
+        "bilder": [
+          {
+            "datei": "images/1557/1557_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              335.1,
+              532.9,
+              533.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 4,
+            "text": "Im Werkkatalog Müller/Radlach 2014 ist das Werk nicht enthalten, da dieser nur bis 1919 reicht."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion Schweizer Malerei mit bedeutenden Werken von Schweizer Künstlern, Auktionskatalog Kurt Huber, Villa Ulmberg, Zürich, 1.– 3. November 1979, Zürich 1979, Lot 149."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Künstlersuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Cuno Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «C. Amiet» [17. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (645 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 645,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Cuno Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (421 Ergebnisse) für Volltextsuche «C. Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 421,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Kuno Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (346 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 346,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (107 Ergebnisse) für Volltextsuche «Amiet» (inklusive aller Namensschreibweisen) [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 107,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «C Amiet» [17. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2024-12-17"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Volltextsuche «Cuno Amiet» [17. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2024-12-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "16. Januar 2025",
+      "institution": "Fondation Cuno Amiet, Aarau",
+      "betreff": "Anfrage zu Informationen zum Werk, insbesondere zu den vom Künstler selbst verfassten Listen der verkauften und der katalogisierten Bilder",
+      "antwort": "23. Januar 2025: Alle Informationen sind im Werkkatalog veröffentlicht."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1557/1557_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            429.5,
+            533.0,
+            466.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "18. Dezember 2024 und 16. Januar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.117 und A.22.1565: keine Treffer"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1557/1557_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          291.3,
+          436.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. u. Leinwand: handschriftlich mit weisser Farbe «CA | 21»",
+        "position_traeger": "r. u. Leinwand",
+        "merkmal": "handschriftlich mit weisser Farbe «CA | 21»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1557/1557_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              473.5,
+              211.7,
+              544.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "kommentar": "Erwerbsnachweis Auktion Kurt Huber 1979, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1557/1557_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              556.5,
+              291.6,
+              660.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Schweizerisches Institut für Kunstwissenschaft o. J."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Zuschlagspreis bezieht sich auf drei Amiet-Werke zusammen (Lot 148–150)."
+    },
+    {
+      "nr": 4,
+      "text": "Im Werkkatalog Müller/Radlach 2014 ist das Werk nicht enthalten, da dieser nur bis 1919 reicht."
+    }
+  ],
+  "bilder_anzahl": 6
+}

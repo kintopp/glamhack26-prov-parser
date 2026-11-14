@@ -1,0 +1,964 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1541_250613.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. Juni 2025",
+  "stand_iso": "2025-06-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1541",
+      "Adolf Dietrich (1877–1957)",
+      "Pfingstmorgen",
+      "1925–1927",
+      "Öl auf Malkarton",
+      "40 × 63 cm (Bildmass)",
+      "52 × 75 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1541",
+    "status": "Ungeklärt",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Pfingstmorgen",
+    "masse": [
+      "40 × 63 cm (Bildmass)",
+      "52 × 75 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1925–1927",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1541/1541_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          314.1,
+          436.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1925 bis mindestens 2. Februar 1936",
+      "besitzer": "Adolf Dietrich (1877–1957), Berlingen",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Nach Ausstellungen in Mannheim (1927) und Karlsruhe (1928) wurde das Werk zwischen 11. Januar und 2. Februar 1936 im Kunstmuseum St. Gallen gezeigt, siehe Ammann/Vögele 1994. Gemäss Auskunft des Kunstmuseums St. Gallen vom 25. Mai 2023 war es dann noch im Eigentum des Künstlers, siehe Anfragen. Vom 19. Juli bis 16. August 1936 wurde es in der Kunsthalle Bern ausgestellt, wobei nicht bekannt ist, ob es wiederum von Dietrich eingeliefert worden war. 1937 wurde das Werk in Amsterdam gezeigt, siehe Ammann/Vögele 1994. Gemäss Schreiben von Herbert Tannenbaum an Adolf Dietrich vom 27. November 1937 wurde an der Amsterdamer Ausstellung kein Werk verkauft (siehe Archive extern), doch kam es in deren Nachgang zu zwei Verkäufen, siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1937",
+      "besitzer": "Ausstellung Kunstzaal Van Lier, Amsterdam, möglicherweise verkauft im Nachgang der Ausstellung",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ammann/Vögele 1994."
+        },
+        {
+          "nr": 4,
+          "text": "Gemäss Schreiben von Dr. Herbert Tannenbaum an Adolf Dietrich vom 10. Januar 1938 wurde im Nachgang der Amsterdamer Ausstellung ein Werk mit dem Titel «Maimorgen im Dorf» verkauft, siehe Archive extern. Möglicherweise handelt es sich dabei um das vorliegende Bild. Auf dessen Rückseite steht zwar mehrfach «Pfingstmorgen» (siehe Provenienzmerkmale), «Maimorgen im Dorf» würde motivisch jedoch ebenfalls passen. Pfingsten wird zwischen Mitte Mai und Mitte Juni gefeiert."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979",
+      "besitzer": "Auktion Sotheby Parke Bernet (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 92, Pfingstmorgen [Garten im Frühling mit Blaumeise]), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ammann/Vögele 1994, Auktionskatalog Zürich 1979. Der Auktionskatalog gibt als Provenienz «Vom Künstler erworben» an, was so zu verstehen sein dürfte, dass das Werk von derjenigen Person oder Familie an die Auktion eingeliefert wurde, von der es ursprünglich erworben worden war. Sollte es 1938 veräussert worden sein (siehe Fn. 4), dürfte es demnach bis 1979 in derselben Hand geblieben sein."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby Parke Bernet, Zuschlagspreis: 58 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 27.21.",
+        "bilder": [
+          {
+            "datei": "images/1541/1541_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.1,
+              340.7,
+              487.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 14. November 1979, Zürich 1979, Lot 92."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Galerie «Das Kunsthaus», Mannheim, 18. September bis 20. Oktober 1927\n\n– Badischer Kunstverein, Karlsruhe, März bis April 1928, Der Kreis\n\n– Kunstmuseum St. Gallen, 11. Januar bis 2. Februar 1936, Adolf Dietrich, Walter Einholtz, Nr. 42 (Maimorgen in der Nachbarschaft)\n\n– Kunsthalle Bern, 19. Juli bis 16. August 1936, Peintres naïfs. Henri Rousseau, Camille Bombois, Adolf Dietrich, Nr. 235\n\n– Kunstzaal Van Lier, Amsterdam, 1937"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Pfingstmorgen», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «Dietrich» und «Pfingstmorgen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (1376 Ergebnisse) für Suche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 1376,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Pfingstmorgen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche «Dietrich», Filter: Künstler [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "16. Mai 2023",
+      "institution": "Jüdisches Museum Berlin",
+      "betreff": "Anfrage zur Akte «Sammlung Herbert Tannenbaum» (Bestand: Konvolut/117, Inventarnummer: 2009/216/1–104; BIB/339/1–4)",
+      "antwort": "17. Mai 2023:\n\nErhalt der digitalisierten Akten",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe https://objekte.jmberlin.de/document/266092/Findbuch%3A+Konvolut_117_Sammlung+Herbert+Tannenbaum [16. Mai 2023]."
+        }
+      ]
+    },
+    {
+      "datum": "17. Mai 2023",
+      "institution": "Kunstmuseum St. Gallen",
+      "betreff": "Anfrage zur Leihgabe bei der Ausstellung St. Gallen 1936",
+      "antwort": "25. Mai 2023:\n\nDas Werk wurde vom Künstler eingeliefert. Es stand an der Ausstellung zum Verkauf, wurde aber nicht erworben."
+    },
+    {
+      "datum": "17. Mai 2023",
+      "institution": "Kunsthalle Bern",
+      "betreff": "Anfrage zur Leihgabe bei der Ausstellung Bern 1936",
+      "antwort": "22. Mai 2023:\n\nKorrespondenz mit Adolf Dietrich zur Ausstellung hat sich erhalten, jedoch keine Werklisten."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1541/1541_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            531.9,
+            360.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1541/1541_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            404.0,
+            532.3,
+            526.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "Januar 2023",
+      "institution": "Landesarchiv Berlin",
+      "bestand": "B Rep. 025-07, Nr. 2379/57, Nr. 2380/57, Nr. 2381/57, Verfahren Dr. Herbert Tannenbaum (*07.03.1892), 19 East 57th Street, New York 22, USA, gegen das Deutsche Reich: Keine Treffer für vorliegendes Werk."
+    },
+    {
+      "datum": "14. Dezember 2023",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Korrespondenz: Andere an Dietrich, Stia–Taz, Herbert Tannenbaum, Herbert, 1921–1953\n\nSchreiben von Dr. Herbert Tannenbaum an Adolf Dietrich vom 27. November 1937: An der Amsterdamer Ausstellung wurde nichts verkauft, er stehe aber bezüglich zweier Bilder in Verhandlung.\n\nSchreiben von Dr. Herbert Tannenbaum an Adolf Dietrich vom 10. Januar 1938: Die Bilder «Schlafendes Kind» und «Maimorgen im Dorf» wurden für insgesamt 300 Gulden verkauft. Ob es sich bei «Maimorgen im Dorf» um das vorliegende Werk handelt ist unklar, aber möglich.",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Dr. Herbert Tannenbaum war Förderer und Galerist von Adolf Dietrich. Auf der Werkrückseite findet sich das Etikett der Galerie «Das Kunsthaus», Mannheim, die er bis 1936 führte."
+        }
+      ]
+    },
+    {
+      "datum": "7. August 2024",
+      "institution": "Landesarchiv Baden-Württemberg, Staatsarchiv Ludwigsburg",
+      "bestand": "(Signatur unbekannt), Ausstellungen des württembergischen Kunstvereins: Schreiben von Julius Kurz an die Landesleitung der Reichskammer der bildenden Künste vom 9. Oktober 1934 sowie Schreiben (Abschrift) von Dr. Klein, Württembergischer Kunstverein, an Schimmelpfeng, Geschäftsleiter der Reichskammer der bildenden Künste, Landesstelle Württemberg, vom 27. März 1934: Keine Treffer für vorliegendes Werk.",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Etikett des Württembergischen Kunstvereins auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "datum": "7. August 2024",
+      "institution": "Stadtarchiv Stuttgart",
+      "bestand": "1004-51, Württembergischer Kunstverein, Stuttgart, Bericht über das 106. (1932/33), 107. (1933/34) und 108. (1934/35) Geschäftsjahr: Keine Treffer für Adolf Dietrich.",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "datum": "7. August 2024",
+      "institution": "Stadtarchiv Stuttgart",
+      "bestand": "1004-73, Württembergischer Kunstverein, Stuttgart, Verkaufsbuch vom 1. Oktober 1935; Verkaufsbuch ab Januar 1939 bis Juli 1941; Verkaufsbuch vom 1. August 1941 bis 1. August 1943; Verkaufsbuch ab August 1943 bis 4. Januar 1956: Keine Treffer für Adolf Dietrich."
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1541/1541_005_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          391.6,
+          309.9,
+          558.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Malkarton: handschriftlich mit schwarzer Farbe «Ad.Dietrich 1925–27»",
+        "position_traeger": "u. l. Malkarton",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Ad.Dietrich 1925–27»",
+        "kommentar": "Signatur des Künstlers und Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_006_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              597.0,
+              313.6,
+              636.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton: rundes weisses Etikett, rot gedruckt «DAS KUNSTHAUS | DAS | KUNST | HAUS | MA[NN]HEIM Q7 17a»",
+        "position_traeger": "o. m. Malkarton",
+        "merkmal": "rundes weisses Etikett, rot gedruckt «DAS KUNSTHAUS | DAS | KUNST | HAUS | MA[NN]HEIM Q7 17a»",
+        "kommentar": "Galerie «Das Kunsthaus», Mannheim, Dr. Herbert Tannenbaum",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              660.1,
+              237.6,
+              759.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Malkarton: Reste eines rechteckigen roten Etiketts, zweiseitig gezahnt, schwarz gedruckt «3»",
+        "position_traeger": "o. r. Malkarton",
+        "merkmal": "Reste eines rechteckigen roten Etiketts, zweiseitig gezahnt, schwarz gedruckt «3»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              235.4,
+              218.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Malkarton: handschriftlich mit schwarzem Schreibmittel «Adolf Dietrich: Pfingstmorgen»",
+        "position_traeger": "r. m. Malkarton",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Adolf Dietrich: Pfingstmorgen»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.9,
+              230.6,
+              313.4,
+              261.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Malkarton: handschriftlich mit schwarzem Schreibmittel «Garten im Frühling mit Blaumeise»",
+        "position_traeger": "r. m. Malkarton",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Garten im Frühling mit Blaumeise»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.8,
+              281.1,
+              313.5,
+              302.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Malkarton: handschriftlich mit blauem Farb- oder Wachsstift «B»",
+        "position_traeger": "r. m. Malkarton",
+        "merkmal": "handschriftlich mit blauem Farb- oder Wachsstift «B»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              331.6,
+              177.0,
+              418.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Malkarton: handschriftlich mit blauem Farbstift «63 x 40»",
+        "position_traeger": "l. u. Malkarton",
+        "merkmal": "handschriftlich mit blauem Farbstift «63 x 40»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              431.9,
+              246.3,
+              480.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Malkarton: schwarz gestempelt «Hauptzollamt Hafen | Zollzweigstelle Güterbahnhof»",
+        "position_traeger": "l. u. Malkarton",
+        "merkmal": "schwarz gestempelt «Hauptzollamt Hafen | Zollzweigstelle Güterbahnhof»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              494.5,
+              314.8,
+              555.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Ein analoger Stempel befindet sich auf der Rückseite der Werke mit der SKKG-Inventarnummer 5734 und 8417."
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Malkarton: quadratisches weisses Etikett, oben gezahnt, schwarz gedruckt «Württ. Kunstverein | Stuttgart | Kunstgebäude | 846»",
+        "position_traeger": "m. l. Malkarton",
+        "merkmal": "quadratisches weisses Etikett, oben gezahnt, schwarz gedruckt «Württ. Kunstverein | Stuttgart | Kunstgebäude | 846»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.0,
+              568.1,
+              245.7,
+              669.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "m. Malkarton: handschriftlich mit blauem Farb- oder Wachsstift «1/3»",
+        "position_traeger": "m. Malkarton",
+        "merkmal": "handschriftlich mit blauem Farb- oder Wachsstift «1/3»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.7,
+              681.9,
+              193.2,
+              736.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "m. Malkarton: handschriftlich mit blauem Farb- oder Wachsstift «52», umkreist; schraffiert oder durchgestrichen",
+        "position_traeger": "m. Malkarton",
+        "merkmal": "handschriftlich mit blauem Farb- oder Wachsstift «52», umkreist; schraffiert oder durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.6,
+              139.8,
+              192.2,
+              220.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Malkarton: Reste eines gelben Etiketts mit schwarzem Rahmen, mindestens einseitig gezahnt, schwarz gedruckt «[…]KS»",
+        "position_traeger": "m. l. Malkarton",
+        "merkmal": "Reste eines gelben Etiketts mit schwarzem Rahmen, mindestens einseitig gezahnt, schwarz gedruckt «[…]KS»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              232.8,
+              245.8,
+              312.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "m. Malkarton: handschriftlich mit blauem Schreibmittel «Pfingstmorgen»",
+        "position_traeger": "m. Malkarton",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «Pfingstmorgen»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              324.6,
+              314.3,
+              406.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "m. Malkarton: handschriftlich mit blauem Schreibmittel «17957»",
+        "position_traeger": "m. Malkarton",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «17957»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.9,
+              418.7,
+              211.8,
+              462.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Malkarton: handschriftlich mit dunkelblauem Schreibmittel «DKS», möglicherweise durchgestrichen",
+        "position_traeger": "m. l. Malkarton",
+        "merkmal": "handschriftlich mit dunkelblauem Schreibmittel «DKS», möglicherweise durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              474.5,
+              211.3,
+              525.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Malkarton: handschriftlich mit schwarzem Schreibmittel «3»",
+        "position_traeger": "m. l. Malkarton",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «3»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              538.2,
+              180.8,
+              587.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Malkarton: Reste eines rechteckigen beigen Etiketts, schwarz gedruckt oder gestempelt «[…]»",
+        "position_traeger": "l. o. Malkarton",
+        "merkmal": "Reste eines rechteckigen beigen Etiketts, schwarz gedruckt oder gestempelt «[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.9,
+              600.2,
+              248.5,
+              683.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Malkarton: handschriftlich mit blauem Schreibmittel möglicherweise «& | 3 Fr [?]»",
+        "position_traeger": "l. o. Malkarton",
+        "merkmal": "handschriftlich mit blauem Schreibmittel möglicherweise «& | 3 Fr [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_023_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              140.4,
+              214.1,
+              220.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Malkarton: rechteckiges beiges Etikett, schwarz gedruckt «K. H. | 241»",
+        "position_traeger": "o. l. Malkarton",
+        "merkmal": "rechteckiges beiges Etikett, schwarz gedruckt «K. H. | 241»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_024_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              232.9,
+              265.3,
+              323.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Ein analoges Etikett befindet sich auf der Rückseite des Werks mit der SKKG-Inventarnummer 8417."
+          }
+        ]
+      },
+      {
+        "nr": 20,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton: handschriftlich mit blauem Farbstift «Pfingstmorgen»",
+        "position_traeger": "o. m. Malkarton",
+        "merkmal": "handschriftlich mit blauem Farbstift «Pfingstmorgen»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_025_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              336.1,
+              266.2,
+              400.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 21,
+        "seite": "Rückseite",
+        "beschreibung": "m. Unterkante Zierrahmen: Reste eines runden blauen Etiketts oder Klebepunkts",
+        "position_traeger": "m. Unterkante Zierrahmen",
+        "merkmal": "Reste eines runden blauen Etiketts oder Klebepunkts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1541/1541_026_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              413.3,
+              195.5,
+              475.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Nach Ausstellungen in Mannheim (1927) und Karlsruhe (1928) wurde das Werk zwischen 11. Januar und 2. Februar 1936 im Kunstmuseum St. Gallen gezeigt, siehe Ammann/Vögele 1994. Gemäss Auskunft des Kunstmuseums St. Gallen vom 25. Mai 2023 war es dann noch im Eigentum des Künstlers, siehe Anfragen. Vom 19. Juli bis 16. August 1936 wurde es in der Kunsthalle Bern ausgestellt, wobei nicht bekannt ist, ob es wiederum von Dietrich eingeliefert worden war. 1937 wurde das Werk in Amsterdam gezeigt, siehe Ammann/Vögele 1994. Gemäss Schreiben von Herbert Tannenbaum an Adolf Dietrich vom 27. November 1937 wurde an der Amsterdamer Ausstellung kein Werk verkauft (siehe Archive extern), doch kam es in deren Nachgang zu zwei Verkäufen, siehe Fn. 4."
+    },
+    {
+      "nr": 3,
+      "text": "Ammann/Vögele 1994."
+    },
+    {
+      "nr": 4,
+      "text": "Gemäss Schreiben von Dr. Herbert Tannenbaum an Adolf Dietrich vom 10. Januar 1938 wurde im Nachgang der Amsterdamer Ausstellung ein Werk mit dem Titel «Maimorgen im Dorf» verkauft, siehe Archive extern. Möglicherweise handelt es sich dabei um das vorliegende Bild. Auf dessen Rückseite steht zwar mehrfach «Pfingstmorgen» (siehe Provenienzmerkmale), «Maimorgen im Dorf» würde motivisch jedoch ebenfalls passen. Pfingsten wird zwischen Mitte Mai und Mitte Juni gefeiert."
+    },
+    {
+      "nr": 5,
+      "text": "Ammann/Vögele 1994, Auktionskatalog Zürich 1979. Der Auktionskatalog gibt als Provenienz «Vom Künstler erworben» an, was so zu verstehen sein dürfte, dass das Werk von derjenigen Person oder Familie an die Auktion eingeliefert wurde, von der es ursprünglich erworben worden war. Sollte es 1938 veräussert worden sein (siehe Fn. 4), dürfte es demnach bis 1979 in derselben Hand geblieben sein."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe https://objekte.jmberlin.de/document/266092/Findbuch%3A+Konvolut_117_Sammlung+Herbert+Tannenbaum [16. Mai 2023]."
+    },
+    {
+      "nr": 8,
+      "text": "Dr. Herbert Tannenbaum war Förderer und Galerist von Adolf Dietrich. Auf der Werkrückseite findet sich das Etikett der Galerie «Das Kunsthaus», Mannheim, die er bis 1936 führte."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Etikett des Württembergischen Kunstvereins auf der Werkrückseite."
+    },
+    {
+      "nr": 10,
+      "text": "Ebd."
+    },
+    {
+      "nr": 11,
+      "text": "Ein analoger Stempel befindet sich auf der Rückseite der Werke mit der SKKG-Inventarnummer 5734 und 8417."
+    },
+    {
+      "nr": 12,
+      "text": "Ein analoges Etikett befindet sich auf der Rückseite des Werks mit der SKKG-Inventarnummer 8417."
+    }
+  ],
+  "bilder_anzahl": 26
+}

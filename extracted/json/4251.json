@@ -1,0 +1,492 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4251_241216.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "16. Dezember 2024",
+  "stand_iso": "2024-12-16",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4251",
+      "Cuno Amiet (1868–1961)",
+      "Interieur mit Portraitbüste von Ferdinand Hodler",
+      "1922",
+      "Öl auf Karton",
+      "47 × 38 cm (Bildmass)",
+      "57,7 × 49,4 × 3,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4251",
+    "status": "Ungeklärt",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Interieur mit Portraitbüste von Ferdinand Hodler",
+    "masse": [
+      "47 × 38 cm (Bildmass)",
+      "57,7 × 49,4 × 3,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1922",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4251/4251_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.4,
+          513.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1978."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "25./26. Mai 1978",
+      "besitzer": "Auktion Galerie Koller (Bilder, Graphik, Bücher und Plastiken des 19. und 20. Jahrhunderts, Lot 5005, Interieur mit der Portraitbüste von Ferdinand Hodler), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 1978, Schweizerisches Institut für Kunstwissenschaft o. J."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. Mai 1978 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Koller, Zuschlagspreis: 5000 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie im Archiv SKKG (A.213.2545)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Franz Müller und Viola Radlach, Cuno Amiet. Die Gemälde 1883–1919 (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014 [Werk nicht enthalten].\n\nO. A., Interieur mit Porträtbüste von Ferdinand Hodler, in: Die Gemälde der Jahre 1920–1961 (Werkliste), hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich o. J., Nr. 1922.28, https://re-cherche.sik-isea.ch/sik:work-13056094 [16. Dezember 2024].",
+        "bilder": [
+          {
+            "datei": "images/4251/4251_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              272.8,
+              533.2,
+              469.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 4,
+            "text": "Im Werkkatalog Müller/Radlach 2014 ist das Werk nicht enthalten, da dieser nur bis 1919 reicht."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bilder, Graphik, Bücher und Plastiken des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Koller, Zürich, 25./26. Mai 1978, Nr. 39/2, Zürich 1978, Lot 5005.",
+        "bilder": [
+          {
+            "datei": "images/4251/4251_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              526.0,
+              405.8,
+              562.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Daniel Thalmann und Oliver Prange, «Cuno konnte nicht begreifen, warum Alberto seinen Figuren so lange Beine gab», in: Cuno Amiet. Maler der Moderne, Du, Nr. 886, September 2018, S. 30–37, hier: S. 37."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Künstlersuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Cuno Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «C. Amiet» [17. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (645 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 645,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Cuno Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (421 Ergebnisse) für Volltextsuche «C. Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 421,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (346 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 346,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (107 Ergebnisse) für Volltextsuche «Amiet» (inklusive aller Namensschreibweisen) [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 107,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2024-12-16"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «C Amiet» [17. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2024-12-17"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Volltextsuche «Cuno Amiet» [17. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2024-12-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [16. Dezember 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-12-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "22. Januar 2025",
+      "institution": "Fondation Cuno Amiet, Aarau",
+      "betreff": "Anfrage zu Werkinformationen",
+      "antwort": "23. Januar 2025: Die Fondation Cuno Amiet verfügt über eine umfangreiche Sammlung von Dokumenten, Schriften, Fotos, Büchern. Bezüglich Provenienzen Verweis auf SIK-Werkkatalog. Weitere Informationen auf Anfrage (Rechercheauftrag)."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "16. Januar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.213.2545\n\nErwerbsnachweis: viereckiger grauer Zettel, rot gestempelt «18. Juni 1978», handschriftlich mit violettem und schwarzem Filzstift beschrieben, Verweis auf Auktion vom 26. Mai 1978 (Lot 5005) mit Angabe des Zuschlagspreises.",
+      "bilder": [
+        {
+          "datei": "images/4251/4251_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            524.1,
+            504.4,
+            754.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Die höheren Beträge beziehen sich wahrscheinlich auf die Berechnung der Summe aller an jener Auktion erworbenen Objekte samt Aufgeld."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4251/4251_005_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          291.7,
+          429.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Karton: handschriftlich mit hellgrauer Farbe «CA 22»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "handschriftlich mit hellgrauer Farbe «CA 22»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4251/4251_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              467.1,
+              292.0,
+              527.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Karton: Heftklammer mit Resten eines weissen Zettels",
+        "position_traeger": "l. m. Karton",
+        "merkmal": "Heftklammer mit Resten eines weissen Zettels",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4251/4251_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              540.2,
+              215.5,
+              611.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, maschinenbeschrieben, mit Bleistift berichtigt und ergänzt",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, maschinenbeschrieben, mit Bleistift berichtigt und ergänzt",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Koller 1978, Lot 5005, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4251/4251_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              623.9,
+              291.8,
+              702.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: handschriftlich mit Bleistift «1389»",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "handschriftlich mit Bleistift «1389»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4251/4251_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              235.5,
+              186.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gestempelt «5005»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gestempelt «5005»",
+        "kommentar": "Auktion Galerie Koller 1978, Lot 5005",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4251/4251_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              198.9,
+              235.7,
+              246.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1978."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 1978, Schweizerisches Institut für Kunstwissenschaft o. J."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie im Archiv SKKG (A.213.2545)."
+    },
+    {
+      "nr": 4,
+      "text": "Im Werkkatalog Müller/Radlach 2014 ist das Werk nicht enthalten, da dieser nur bis 1919 reicht."
+    },
+    {
+      "nr": 5,
+      "text": "Die höheren Beträge beziehen sich wahrscheinlich auf die Berechnung der Summe aller an jener Auktion erworbenen Objekte samt Aufgeld."
+    }
+  ],
+  "bilder_anzahl": 10
+}

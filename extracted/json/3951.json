@@ -1,0 +1,478 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3951_250203.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Februar 2025",
+  "stand_iso": "2025-02-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3951",
+      "Cuno Amiet (1868–1961)",
+      "Hofstatt und Wohnhaus auf der Oschwand",
+      "1914",
+      "Öl auf Leinwand",
+      "60 × 55 cm (Bildmass)",
+      "81 × 76 × 5,4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3951",
+    "status": "Ungeklärt",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Hofstatt und Wohnhaus auf der Oschwand",
+    "masse": [
+      "60 × 55 cm (Bildmass)",
+      "81 × 76 × 5,4 cm (Rahmenmass)"
+    ],
+    "datierung": "1914",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3951/3951_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          302.6,
+          514.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller/Radlach 2014."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis spätestens 1936",
+      "besitzer": "möglicherweise Rosa Amiet (1858–1936), erworben vom Bruder (dem Künstler)",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Widmung auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1936 bis o. D.",
+      "besitzer": "möglicherweise Greti Adam/Amiet (1900–1979), erhalten als Geschenk von Rosa Amiet",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Die Widmung auf der Werkrückseite legt nahe, dass das Werk als Schenkung an eine Nichte oder einen Neffen von Rosa Amiet («Tante Rosa») überging. Der Name des Empfängers oder der Empfängerin ist nicht eindeutig zu entziffern; vermutlich steht dort «meinem lieben Gretchen», womit es sich um Cuno Amiets Adoptivtochter Greti Adam (1900–1979) handeln könnte, die ab 1904 mit dem Ehepaar Amiet auf der Oschwand lebte. Diese wurde nicht nur mehrfach von Amiet porträtiert, sondern besass auch einige seiner Werke, siehe auch Kontextinformationen. Zu Rosa Amiet siehe https://de.wikipedia.org/wiki/Cuno_Amiet [3. Februar 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis Herbst 1980",
+      "besitzer": "Gerhard Saner (geb. 1938), Worben",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite mit Angabe der Provenienz «G. Saner», womit der Kunstsammler Gerhard Saner, Worben bei Bern, gemeint ist. Dies passt zur Angabe von Müller/Radlach 2014, dass das Werk bis 1980 in Privatbesitz gewesen sei."
+        }
+      ]
+    },
+    {
+      "zeitraum": "Herbst 1980 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, erworben im Freihandkauf von Gerhard Saner",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Ankaufspreis ist unbekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Franz Müller und Viola Radlach, Cuno Amiet. Die Gemälde 1883–1919 (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014, Nr. 1914.53, https://recherche.sik-isea.ch/sik:work-6011205/in/catalogues.amiet [16. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/3951/3951_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.4,
+              518.9,
+              579.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Amiet» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (461 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Amiet», Filter 2: Titel einschränken «Alle Treffer» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 461,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (107 Ergebnisse) für Suche «Cuno Amiet» (inklusive Varianten der Namensschreibweise) ohne Filter [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 107,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "INHA – Gazette Drouot",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Amiet» in den Jahrgängen 1900–1950 [17. August 2023]",
+            "treffer": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [26. November 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-11-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche in den Auktionskatalogen mit Filter: Keywords «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-08-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (0 Ergebnisse im Archivverzeichnis, 6 in den Primärdaten) für Volltextsuche «Gartenlandschaft» [19. Dezember 2023]\n\n0 Treffer (0 Ergebnisse im Archivverzeichnis, 21 in den Primärdaten) für Volltextsuche «Oschwand» [21. Dezember 2023]\n\n0 Treffer (0 Ergebnisse im Archivverzeichnis, 1 Ergebnis in den Primärdaten) für Volltextsuche «‹G. Saner›» [21. Dezember 2023]\n\n0 Treffer (12 Ergebnisse im Archivverzeichnis, 34 in den Primärdaten) für Volltextsuche «Amiet» [21. Dezember 2023]"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Greti Amiet",
+      "information": "Das Adoptivkind beziehungsweise die Pflegetochter Greti Adam/Amiet erscheint sowohl als Porträtierte als auch als Eigentümerin von Amiet-Werken, siehe beispielsweise https://www.chris-ties.com/en/lot/lot-3883586 [3. Februar 2025]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3951/3951_003_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          310.1,
+          428.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit blauer Farbe «CA | 14»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit blauer Farbe «CA | 14»",
+        "kommentar": "Monogramm des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3951/3951_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              466.7,
+              193.0,
+              531.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Reste eines weissen Klebeetiketts",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Reste eines weissen Klebeetiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3951/3951_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              543.8,
+              226.6,
+              594.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: Etikett der Galerie Palette, Zürich",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "Etikett der Galerie Palette, Zürich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3951/3951_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              607.3,
+              226.7,
+              742.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «14511», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «14511», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3951/3951_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              139.8,
+              226.7,
+              181.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger rosa Zettel, handschriftlich mit blauem Kugelschreiber «v. G. Saner | Herbst 80 | C. Amiet | Oschwand»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger rosa Zettel, handschriftlich mit blauem Kugelschreiber «v. G. Saner | Herbst 80 | C. Amiet | Oschwand»",
+        "kommentar": "Erwerbsnachweis, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3951/3951_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              215.5,
+              314.2,
+              345.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes langrechteckiges Etikett, handschriftlich mit schwarzer Tinte «Meinem lieben G[...] | von deiner [?] Tante Rosa.»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes langrechteckiges Etikett, handschriftlich mit schwarzer Tinte «Meinem lieben G[...] | von deiner [?] Tante Rosa.»",
+        "kommentar": "Es könnte sich um Rosa Amiet, die Schwester des Künstlers, handeln, die das Werk verschenkt hat.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3951/3951_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              357.6,
+              314.2,
+              397.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller/Radlach 2014."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Widmung auf der Werkrückseite."
+    },
+    {
+      "nr": 3,
+      "text": "Die Widmung auf der Werkrückseite legt nahe, dass das Werk als Schenkung an eine Nichte oder einen Neffen von Rosa Amiet («Tante Rosa») überging. Der Name des Empfängers oder der Empfängerin ist nicht eindeutig zu entziffern; vermutlich steht dort «meinem lieben Gretchen», womit es sich um Cuno Amiets Adoptivtochter Greti Adam (1900–1979) handeln könnte, die ab 1904 mit dem Ehepaar Amiet auf der Oschwand lebte. Diese wurde nicht nur mehrfach von Amiet porträtiert, sondern besass auch einige seiner Werke, siehe auch Kontextinformationen. Zu Rosa Amiet siehe https://de.wikipedia.org/wiki/Cuno_Amiet [3. Februar 2025]."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite mit Angabe der Provenienz «G. Saner», womit der Kunstsammler Gerhard Saner, Worben bei Bern, gemeint ist. Dies passt zur Angabe von Müller/Radlach 2014, dass das Werk bis 1980 in Privatbesitz gewesen sei."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Ankaufspreis ist unbekannt."
+    }
+  ],
+  "bilder_anzahl": 9
+}

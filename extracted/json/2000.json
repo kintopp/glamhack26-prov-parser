@@ -1,0 +1,565 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2000_250730.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "30. Juli 2025",
+  "stand_iso": "2025-07-30",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2000",
+      "Augusto Giacometti (1877–1947)",
+      "Heimkehr",
+      "1909",
+      "Öl auf Leinwand",
+      "114 × 388 cm (Bildmass)",
+      "121 × 395 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2000",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Heimkehr",
+    "masse": [
+      "114 × 388 cm (Bildmass)",
+      "121 × 395 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1909",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2000/2000_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          315.6,
+          336.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Stutzer 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1909 bis 1926",
+      "besitzer": "Ernst (um 1862 bis 1926) und Bertha Müller-Renner (gest. 1941), Villa Maronenbaum, Rychenbergstrasse 84, Winterthur, angekauft vom Künstler für 1600 Franken",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Stutzer 2023. Diese Provenienzstation ergibt sich aus den Ausführungen des Werkkommentars; warum sie im Werkkatalog unter den Provenienzen nicht aufgeführt ist, ist nicht klar. Zu den Müller-Renners siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "wahrscheinlich 1926 bis mindestens 1928",
+      "besitzer": "Bertha Müller-Renner (gest. 1941), Winterthur, wahrscheinlich erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Poeschel 1928, Stutzer 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13. Juli 1979",
+      "besitzer": "Galerie Kurt Meissner, Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Rechnung von Galerie Kurt Meissner, Zürich, an Bruno Stefanini, Winterthur, vom 13. Juli 1979 in der Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13. Juli 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, erworben im Freihandkauf von Galerie Kurt Meissner, Ankaufspreis: 24 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkataloge",
+        "text": "Erwin Poeschel, Augusto Giacometti, Zürich 1928, S. 67 (Heimkehr, Eigentümerin: Frau B. Müller-Renner, Rychenbergstrasse, Winterthur)\n\nBeat Stutzer, Heimkehr, in: August Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 511, https://recherche.sik-isea.ch/sik:work-14725582 [18. März 2025].",
+        "bilder": [
+          {
+            "datei": "images/2000/2000_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              271.8,
+              435.3,
+              299.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge",
+            "bildunterschrift": "Hans Hartmann, Augusto Giacometti. Pionier der abstrakten Malerei. Ein Leben für die Farbe, Chur 1981, Nr. 647 (Kinder mit Ziegen [Heimkehr])."
+          },
+          {
+            "datei": "images/2000/2000_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              444.3,
+              533.2,
+              551.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge"
+          },
+          {
+            "datei": "images/2000/2000_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              403.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge"
+          },
+          {
+            "datei": "images/2000/2000_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              403.8,
+              533.2,
+              668.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge"
+          },
+          {
+            "datei": "images/2000/2000_006_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              342.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-27"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-27"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-09-27"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-09-27"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Volltextsuche «Giacometti», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2023-09-27"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [27. September 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm [27. September 2023]",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-09-27"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/2000/2000_007_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              139.8,
+              391.4,
+              257.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (58 Ergebnisse) für Volltextsuche «Kinder» und «Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 58,
+            "datum": "2023-09-27"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Geissen» und «Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-09-27"
+          },
+          {
+            "text": "0 Treffer (155 Ergebnisse) für Freitextsuche «Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 155,
+            "datum": "2023-09-27"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Künstlersuche «Augusto Giacometti» (inklusive aller Namensschreibweisen) [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2023-09-27"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Heimkehr» mit Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-09-27"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Geissen» mit Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-27"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Kinder» mit Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-27"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [27. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-27"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "27. September 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2000/2000_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            190.7,
+            530.8,
+            423.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung/Quittung von Galerie Kurt Meissner, Zürich, an Bruno Stefanini, Winterthur, vom 13. Juli 1979"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Müller-Renner, Winterthur",
+      "information": "Bertha Müller-Renner, verstorben 1941, war verheiratet mit Ernst Müller-Renner (um 1862 bis 1926). Dieser war «Generalprokurator im Handelshaus Gebrüder Volkart in Winterthur», das mit Kolonialwaren handelte und zeitweise zu den weltweit grössten Baumwollhändlern gehörte. Ab 1908 residierte das Ehepaar in der Villa Maronenbaum an der Rychenbergstrasse 84. Das Gebäude wurde 1961 oder 1971 abgerissen.",
+      "bilder": [
+        {
+          "datei": "images/2000/2000_009_kontextinformationen.jpeg",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            260.1,
+            454.7,
+            456.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Archivfotografie Villa Maronenbaum"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Danksagung für Teilnahme an Hinschied von Bertha Müller-Renner, in: Neue Zürcher Zeitung, Jg. 162, Nr. 865, 6. Juni 1941, S. 7, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19410606-01 [30. Juli 2025]."
+        },
+        {
+          "nr": 7,
+          "text": "Siehe Todesanzeige Ernst Müller-Renner, in: Neue Zürcher Zeitung, Jg. 147, Nr. 923, 9. Juni 1926, S. 7, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19260609-01.2.31.1, sowie in: Der Bund, Jg. 77, Nr. 238, 9. Juni 1926, S. 1, https://www.e-newspaperarchives.ch/?a=d&d=DBB19260609-01.2.3 [30. Juli 2025]."
+        },
+        {
+          "nr": 8,
+          "text": "Stutzer 2023."
+        },
+        {
+          "nr": 9,
+          "text": "Siehe https://de.wikipedia.org/wiki/Gebr%C3%BCder_Volkart, https://www.winterthur-glossar.ch/gebr-volkart-ag [30. Juli 2025]."
+        },
+        {
+          "nr": 10,
+          "text": "Siehe https://www.winterthur-glossar.ch/gottfried-keller-strasse-67 [30. Juli 2025]."
+        },
+        {
+          "nr": 11,
+          "text": "Stutzer 2023."
+        },
+        {
+          "nr": 12,
+          "text": "Jonas Keller, Historisches Quartier in Winterthur. Wo die Winterthurer Oberschicht französische Schlösser kopierte, Tages-Anzeiger, 15. Juli 2024, https://www.tagesanzeiger.ch/historisches-quartier-in-winterthur-wo-die-oberschicht-fran-zoesische-schloesser-kopierte-356984268697 [30. Juli 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2000/2000_010_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          537.8,
+          313.1,
+          616.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit grünbrauner Farbe «AUGUSTO GIACO-METTI»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit grünbrauner Farbe «AUGUSTO GIACO-METTI»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2000/2000_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              313.3,
+              175.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Leinwand: handschriftlich mit Bleistift «63,8 cm»",
+        "position_traeger": "o. m. Leinwand",
+        "merkmal": "handschriftlich mit Bleistift «63,8 cm»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2000/2000_012_provenienzmerkmale.png",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              215.5,
+              226.2,
+              260.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Rückstände eines entfernten Etiketts",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Rückstände eines entfernten Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2000/2000_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              273.0,
+              313.2,
+              355.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt oder mit schwarzem Schreibmittel «[…]» (unleserlich auf Digitalisat)",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt oder mit schwarzem Schreibmittel «[…]» (unleserlich auf Digitalisat)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2000/2000_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              368.0,
+              189.4,
+              422.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Stutzer 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Stutzer 2023. Diese Provenienzstation ergibt sich aus den Ausführungen des Werkkommentars; warum sie im Werkkatalog unter den Provenienzen nicht aufgeführt ist, ist nicht klar. Zu den Müller-Renners siehe Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Poeschel 1928, Stutzer 2023."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Rechnung von Galerie Kurt Meissner, Zürich, an Bruno Stefanini, Winterthur, vom 13. Juli 1979 in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Danksagung für Teilnahme an Hinschied von Bertha Müller-Renner, in: Neue Zürcher Zeitung, Jg. 162, Nr. 865, 6. Juni 1941, S. 7, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19410606-01 [30. Juli 2025]."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Todesanzeige Ernst Müller-Renner, in: Neue Zürcher Zeitung, Jg. 147, Nr. 923, 9. Juni 1926, S. 7, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19260609-01.2.31.1, sowie in: Der Bund, Jg. 77, Nr. 238, 9. Juni 1926, S. 1, https://www.e-newspaperarchives.ch/?a=d&d=DBB19260609-01.2.3 [30. Juli 2025]."
+    },
+    {
+      "nr": 8,
+      "text": "Stutzer 2023."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe https://de.wikipedia.org/wiki/Gebr%C3%BCder_Volkart, https://www.winterthur-glossar.ch/gebr-volkart-ag [30. Juli 2025]."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe https://www.winterthur-glossar.ch/gottfried-keller-strasse-67 [30. Juli 2025]."
+    },
+    {
+      "nr": 11,
+      "text": "Stutzer 2023."
+    },
+    {
+      "nr": 12,
+      "text": "Jonas Keller, Historisches Quartier in Winterthur. Wo die Winterthurer Oberschicht französische Schlösser kopierte, Tages-Anzeiger, 15. Juli 2024, https://www.tagesanzeiger.ch/historisches-quartier-in-winterthur-wo-die-oberschicht-fran-zoesische-schloesser-kopierte-356984268697 [30. Juli 2025]."
+    }
+  ],
+  "bilder_anzahl": 14
+}

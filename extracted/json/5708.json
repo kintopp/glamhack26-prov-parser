@@ -1,0 +1,428 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5708_250528.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Mai 2025",
+  "stand_iso": "2025-05-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5708",
+      "Ernest Biéler (1863–1948)",
+      "Frühlingsbäumchen",
+      "1890",
+      "Öl auf Leinwand",
+      "64,1 × 91,4 cm (Bildmass)",
+      "71,6 × 99,6 × 3,2 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5708",
+    "status": "Ungeklärt",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "Frühlingsbäumchen",
+    "masse": [
+      "64,1 × 91,4 cm (Bildmass)",
+      "71,6 × 99,6 × 3,2 cm (Rahmenmass)"
+    ],
+    "datierung": "1890",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5708/5708_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          246.2,
+          318.0,
+          432.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 2000. Laut Auktionskatalog handelt es sich beim Werk um eine Studie zu Frühling in Savièse."
+      },
+      {
+        "nr": 2,
+        "text": "Auf der Werkvorderseite befindet sich der sogenannte Signaturstempel (siehe Provenienzmerkmale), der die Signatur von Ernest Biéler trägt beziehungsweise imitiert und nicht von ihm selbst, sondern posthum auf das Werk im Nachlass aufgebracht wurde – in diesem Fall gemäss Ethel Mathier, Auskunft vom 28. Mai 2025, von Pétermann kurz vor der Einlieferung an die Auktion im Jahr 2000 (siehe Fn. 3)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "frühestens 1948 bis vermutlich 21. März 2000",
+      "besitzer": "Madeleine Biéler-de Cérenville (1884–1975) / Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Unter Madeleine Biéler-de Cérenville (Succession Madeleine Biéler-de Cérenville) ist der Nachlass Ernest Biéler ab 1948 (Todesjahr des Künstlers), bisweilen auch als Fonds Ernest Biéler bezeichnet, zu verstehen, der von ihr und später von François-Hadrien Pétermann verwaltet wurde. In dieser Zeit wurden zum Verkauf stehende Werke zurückgekauft, deshalb ist der Nachlassnachweis (siehe Fn. 2) kein Beleg dafür, dass das Werk dauerhaft im Eigentum der Familie war. Das Werk wurde 1998 im Kunsthaus Zürich ausgestellt; vermutlich wurde es hierfür neu gerahmt, siehe Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21. März 2000",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 105, Schweizer Kunst), Zürich, vermutlich eingeliefert aus dem Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 2000."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 21. März 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 15 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 21. März 2000, Zürich 2000, Lot 105."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "1. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (8 Ergebnisse) für Volltextsuche «Bieler» [1. November 2022]"
+    },
+    {
+      "datum": "21. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5708/5708_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            478.5,
+            530.9,
+            669.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "25. November 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5708/5708_003_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            139.8,
+            530.9,
+            225.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis (nicht mehr an der Werkrückseite vorhanden), annotiert mit Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5708/5708_004_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          504.4,
+          312.5,
+          684.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: grau gestempelt «Ernest Biéler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "grau gestempelt «Ernest Biéler»",
+        "kommentar": "Signaturstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5708/5708_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              139.8,
+              221.2,
+              179.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Siehe Fn. 2."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «91» mit Kompassmotiv",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «91» mit Kompassmotiv",
+        "kommentar": "entspricht Bildmass, vergeben vom Einrahmungsgeschäft Palette (siehe unten)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5708/5708_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              202.9,
+              221.4,
+              242.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «70» mit Kompassmotiv, spiegelverkehrt",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «70» mit Kompassmotiv, spiegelverkehrt",
+        "kommentar": "Massangabe des Rahmenbauers, vermutlich Abdruck von einem anderen Werk",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5708/5708_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              278.6,
+              221.3,
+              323.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: rechteckiges weisses Etikett, schwarz und grün bedruckt; Einrahmungsgeschäft Palette, Zürich",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz und grün bedruckt; Einrahmungsgeschäft Palette, Zürich",
+        "kommentar": "Das Rahmenatelier ist von 1948 bis 2019 im Handelsregister eingetragen. Angesichts der Telefonnummer mit Vorwahl «01» dürfte das Etikett vor 2004/05 auf den Rahmen gekommen sein, möglicherweise 1998 im Zusammenhang mit der Ausstellung im Kunsthaus Zürich.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5708/5708_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              354.4,
+              313.0,
+              476.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: schwarz gestempelt «[6]4,5» mit Kompassmotiv",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «[6]4,5» mit Kompassmotiv",
+        "kommentar": "entspricht Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5708/5708_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              506.0,
+              221.2,
+              543.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 2000. Laut Auktionskatalog handelt es sich beim Werk um eine Studie zu Frühling in Savièse."
+    },
+    {
+      "nr": 2,
+      "text": "Auf der Werkvorderseite befindet sich der sogenannte Signaturstempel (siehe Provenienzmerkmale), der die Signatur von Ernest Biéler trägt beziehungsweise imitiert und nicht von ihm selbst, sondern posthum auf das Werk im Nachlass aufgebracht wurde – in diesem Fall gemäss Ethel Mathier, Auskunft vom 28. Mai 2025, von Pétermann kurz vor der Einlieferung an die Auktion im Jahr 2000 (siehe Fn. 3)."
+    },
+    {
+      "nr": 3,
+      "text": "Unter Madeleine Biéler-de Cérenville (Succession Madeleine Biéler-de Cérenville) ist der Nachlass Ernest Biéler ab 1948 (Todesjahr des Künstlers), bisweilen auch als Fonds Ernest Biéler bezeichnet, zu verstehen, der von ihr und später von François-Hadrien Pétermann verwaltet wurde. In dieser Zeit wurden zum Verkauf stehende Werke zurückgekauft, deshalb ist der Nachlassnachweis (siehe Fn. 2) kein Beleg dafür, dass das Werk dauerhaft im Eigentum der Familie war. Das Werk wurde 1998 im Kunsthaus Zürich ausgestellt; vermutlich wurde es hierfür neu gerahmt, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 2000."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Fn. 2."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Fn. 3."
+    }
+  ],
+  "bilder_anzahl": 9
+}

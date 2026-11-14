@@ -1,0 +1,771 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1857_250617.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "17. Juni 2025",
+  "stand_iso": "2025-06-17",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1857",
+      "Ernest Biéler (1863–1948)",
+      "Portrait des demoiselles Suzanne et Magali Pavly",
+      "1892",
+      "Öl auf Leinwand",
+      "151 × 110 cm (Bildmass)",
+      "174 × 135 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "1857",
+    "status": "Klar",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "Portrait des demoiselles Suzanne et Magali Pavly",
+    "masse": [
+      "151 × 110 cm (Bildmass)",
+      "174 × 135 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1892",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1857/1857_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.8,
+          499.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Ausstellungskatalog Bern/Martigny 2011. Auf der Rechnung von Kurt Meissner (1993) im Archiv SKKG wird das Werk als Glückwünschende Mädchen bezeichnet, im Ausstellungskatalog Lausanne/Solothurn 1999 als Deux Fillettes dans un intérieur."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1892 bis o. D.",
+      "besitzer": "Jean Pavly, Schloss Saint-Barthélemy bei Echallens / Jouxtens",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Beim vorliegenden Werk handelt es sich um eine Auftragsarbeit für Jean (Ion) Pavly-Wanner, ausgeführt von Biéler während eines Aufenthalts in Pavlys Schloss Saint-Barthélemy 1892, siehe Angaben auf der Grusskarte im Archiv SKKG; dazu auch Biéler 1953. Jean Pavly war ein adliger Rumäne und laut Madeleine Biéler wohnhaft im Schloss Saint-Barthélemy und in Jouxtens bei Lausanne. Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023, wohnte die Familie Pavly ständig in Jouxtens, wo auch das Gemälde gewesen sei, und nicht im Schloss Saint-Barthélemy. Dargestellt sind seine Töchter Suzanne (1887–1978) und Magali (1889–1981)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1970er-Jahre",
+      "besitzer": "Suzanne (1887–1978) und Magali Pavly (1889–1981), Jouxtens, erworben durch Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ethel Mathier, Auskunft vom 9. Mai 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1983",
+      "besitzer": "Galerie Kurt Meissner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Die Galerie Kurt Meissner gab das Werk 1983 an das Schweizerische Institut für Kunstwissenschaften (SIK). Auf der Rechnung im Archiv SKKG sind die SIK-Kontroll- und Archivnummer angegeben (siehe Archiv intern). Das SIK hat keine Unterlagen zum Werk (siehe Anfragen), daher ist unklar, in welchem Zusammenhang es dahin gebracht wurde. Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023, kam das Werk durch die Vermittlung von François-Hadrien Petermann zu Meissner."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. März bis 19. April 1984",
+      "besitzer": "Verkaufsausstellung Galerie Fischer (Ausgewählte Objekte. Gemälde, Zeichnungen, Tapisserien, Nr. 43, Zwei Mädchen in Interieur), Luzern, wohl unverkauft",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ausstellungskatalog Luzern 1984."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1991 bis 6. April 1993",
+      "besitzer": "Galerie Kurt Meissner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Nach Meissner 2003 hat er das Gemälde 1991 von der Galerie Fischer erworben, allenfalls im Freihandkauf. Offenbar ging der zugehörige Zierrahmen in der Galerie Meissner zu Bruch und musste 1993 repariert werden, siehe Archiv intern. Siehe auch Fn. 7."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 6. April 1993",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, von Galerie Kurt Meissner, Ankaufspreis: 125 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Rechnung von Kurt Meissner, 6. April 1993, im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– Ausgewählte Objekte. Gemälde, Zeichnungen, Tapisserien. Verkaufsausstellung 20. März bis 19. April 1984, Ausstellungskatalog Galerie Fischer, Luzern, Luzern 1984, Nr. 43.\n\n– Matthias Frehner und Ethel Mathier (Hrsg.), Ernest Biéler (1863–1948). Geträumte Wirklichkeit, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, Bern 2011, S. 63, Nr. 11.\n\n– Matthias Frehner und Valentina Locatelli (Hrsg.), Sesam öffne Dich! Anker, Hodler, Segantini … Stiftung für Kunst, Kultur und Geschichte, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, 7. März bis 24. August 2014 / 5. Dezember 2014 bis 14. Juni 2015, Bern 2014, S. 252, Nr. 116.\n\n– Jörg Zutter und Catherine Lepdor (Hrsg.), Ernest Biéler, 1862–1948. Vom Realismus zum Jugendstil, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne / Kunstmuseum Solothurn, 3. Juli bis 10. Oktober / 23. Oktober 1999 bis 2. Januar 2000, Mailand 1999, S. 39/40, 146, Nr. 29."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Madeleine Biéler, Ernest Biéler. Sa vie, son œuvre, Lausanne 1953, S. 57.\n\nKurt Meissner, Gemälde und Zeichnungen aus sechzig Jahren Kunsthandel, Zürich 2003, S. 160."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv/Ad-ressat:in",
+      "betreff": "Betreff",
+      "antwort": "Antwort"
+    },
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    },
+    {
+      "datum": "30. November 2022",
+      "institution": "Franca Bernhart, Schweizerisches Institut für Kunstwissenschaft",
+      "betreff": "Nachfrage zum Auftrag an das SIK (gemäss Rechnung der Galerie Kurt Meissner)",
+      "antwort": "Das Werk kam 1983 von der Galerie Kurt Meissner zum SIK. Es gibt keine Verweise auf Echtheitsabklärungen oder Restaurierungen; möglicherweise war es lediglich zwecks Inventarisierung dort."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "10. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.827, Dossier V, NF_0090\n\nDas erwähnte Gutachten von François-Hadrien Pétermann und die Beschreibung von Ralf Beil konnten nicht gefunden werden.\n\nAuch zur SIK-Nummer konnten keine weiteren Angaben (Provenienzmerkmale, Expertisen) gefunden werden. Auf der Rückseite ist kein SIK-Etikett mit der Nummer aufgebracht; normalerweise erhielten beim SIK begutachtete Werke ein solches.",
+      "bilder": [
+        {
+          "datei": "images/1857/1857_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            372.9,
+            530.0,
+            578.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Kurt Meissner an die SKKG, 6. April 1993, mit Verweis auf SIK-Nummer 18764 und Archivnummer 49835"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe auch Anfragen."
+        }
+      ]
+    },
+    {
+      "datum": "",
+      "institution": "Archiv SKKG",
+      "bestand": "A.214.686 [?], NF_0073",
+      "bilder": [
+        {
+          "datei": "images/1857/1857_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            228.2,
+            533.3,
+            460.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Annotation von Dora Bösiger zur Bemerkung «mit zusätzlichem, defekten altem Rahmen»: Das Bild sei «neu gerahmt» worden. Sehr wahrscheinlich wurde vielmehr der bestehende Rahmen repariert, jedenfalls handelt es sich dabei eindeutig nicht um einen neuen Rahmen."
+        }
+      ]
+    },
+    {
+      "datum": "15. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.412.466, NF_0034\n\nGrusskarte mit Informationen zum Werk, handschriftlich annotiert von Bruno Stefanini (im Zusammenhang mit einer Ausleihe für eine Ausstellung im Schloss Grandson / Expo.02)",
+      "bilder": [
+        {
+          "datei": "images/1857/1857_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            611.7,
+            533.5,
+            732.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    },
+    {
+      "datum": "15. November 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1857/1857_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            222.2,
+            534.1,
+            303.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Zettel mit Angaben zum Gemälde, fotokopierter Ausschnitt der Rechnung der Galerie Meissner, vormals auf der Werkrückseite angebracht"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Familie Pavly",
+      "information": "Bundesarchivakten zu den Töchtern Magali Madeleine (geb. 25. September 1889) und Suzanne (geb. 29. Dezember 1887) Pavly: https://www.recherche.bar.admin.ch/recherche/#/de/archiv/ein-heit/5384783 / https://www.recherche.bar.admin.ch/recher-che/#/de/archiv/einheit/4311088.\n\nBundesarchivakten zum Sohn Constantin-Gustave Pavly: https://www.recherche.bar.admin.ch/recherche/#/de/archiv/ein-heit/2494129.",
+      "bilder": [
+        {
+          "datei": "images/1857/1857_006_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            605.1,
+            379.5,
+            656.7
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Jean Pavly (Ion) und Louise Emma Caroline Wanner liessen sich 1886 in Lausanne trauen, siehe: Seeländer Bote, Jg. 37 (1886), Nr. 147, 9. Dezember 1886, S. 4, https://www.e-newspaperarchi-ves.ch/?a=q&r=1&results=1&deq=188&e=-------de-20--1--img-txIN-pavly-------0----- [22. November 2022]",
+          "bildunterschrift": "Bundesarchivakten zu Emma Louise Pavly-Wanner (geb. 1. Februar 1863): https://www.recherche.bar.admin.ch/recherche/#/de/archiv/ein-heit/5356175."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1857/1857_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          284.9,
+          313.6,
+          607.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzem Schreibmittel «Ernest Biéler. | - 1892 - ST. BARTHELEMY»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Ernest Biéler. | - 1892 - ST. BARTHELEMY»",
+        "kommentar": "Signatur des Künstlers mit Datierung und Bezeichnung des Château de\n\nSt. Barthélemy, in dem sich die auftraggebende Familie Pavly aufhielt",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              644.9,
+              313.6,
+              716.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Siehe Fn. 2."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubtes Messingschild, graviert",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubtes Messingschild, graviert",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              171.6,
+              313.3,
+              201.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «10» oder «IO»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «10» oder «IO»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              214.1,
+              208.7,
+              273.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Heftklammern, Reste eines weissen Zettels",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Heftklammern, Reste eines weissen Zettels",
+        "kommentar": "möglicherweise von einem entfernten Ankaufsbeleg der SKKG",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              286.6,
+              256.6,
+              349.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. und l. o. Zierrahmen: mit hellblauem Schreibmittel Pfeil und Markierung für Befestigung",
+        "position_traeger": "r. o. und l. o. Zierrahmen",
+        "merkmal": "mit hellblauem Schreibmittel Pfeil und Markierung für Befestigung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              362.3,
+              198.5,
+              407.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1857/1857_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              413.7,
+              177.6,
+              476.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. Zierrahmen: handschriftlich mit weisser Kreide «13-18[?]»",
+        "position_traeger": "r. o. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «13-18[?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              487.8,
+              277.0,
+              560.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit grauem Schreibmittel, unleserlich",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              572.5,
+              314.8,
+              643.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe Keilrahmen: handschriftlich mit weisser Kreide möglicherweise «Lot 88 – 30 – 11 – 89» oder «Lot 28 […]»",
+        "position_traeger": "m. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide möglicherweise «Lot 88 – 30 – 11 – 89» oder «Lot 28 […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              656.0,
+              314.6,
+              679.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "r. waagrechte Mittelstrebe Keilrahmen: weisses rechteckiges Etikett, schwarz bedruckt",
+        "position_traeger": "r. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "weisses rechteckiges Etikett, schwarz bedruckt",
+        "kommentar": "Galerie Kurt Meissner, Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              238.7,
+              190.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit dunklem Schreibmittel «[?] – 8»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «[?] – 8»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              215.5,
+              250.3,
+              266.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. waagrechte Mittelstrebe Keilrahmen: weisses langrechteckiges Etikett, schwarz bedruckt",
+        "position_traeger": "l. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "weisses langrechteckiges Etikett, schwarz bedruckt",
+        "kommentar": "möglicherweise im Zusammenhang mit einer Ausstellung aufgebracht",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              279.0,
+              253.1,
+              319.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. Keilrahmen: handschriftlich mit weisser Kreide «PCO […] CARP [?]», kaum leserlich",
+        "position_traeger": "l. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «PCO […] CARP [?]», kaum leserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              367.4,
+              313.4,
+              399.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Klebereste eines Etiketts",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              424.7,
+              198.9,
+              469.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisses rechteckiges Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisses rechteckiges Etikett, schwarz bedruckt",
+        "kommentar": "Galerie Kurt Meissner, Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              482.2,
+              248.0,
+              531.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weiss-blaues quadratisches Etikett mit perforierter Abrissstelle, handschriftlich mit schwarzem Filzstift «134»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weiss-blaues quadratisches Etikett mit perforierter Abrissstelle, handschriftlich mit schwarzem Filzstift «134»",
+        "kommentar": "wohl angebracht von Ursula Netzer, Schlossverwalterin Brestenberg",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1857/1857_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              545.3,
+              223.8,
+              635.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Ausstellungskatalog Bern/Martigny 2011. Auf der Rechnung von Kurt Meissner (1993) im Archiv SKKG wird das Werk als Glückwünschende Mädchen bezeichnet, im Ausstellungskatalog Lausanne/Solothurn 1999 als Deux Fillettes dans un intérieur."
+    },
+    {
+      "nr": 2,
+      "text": "Beim vorliegenden Werk handelt es sich um eine Auftragsarbeit für Jean (Ion) Pavly-Wanner, ausgeführt von Biéler während eines Aufenthalts in Pavlys Schloss Saint-Barthélemy 1892, siehe Angaben auf der Grusskarte im Archiv SKKG; dazu auch Biéler 1953. Jean Pavly war ein adliger Rumäne und laut Madeleine Biéler wohnhaft im Schloss Saint-Barthélemy und in Jouxtens bei Lausanne. Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023, wohnte die Familie Pavly ständig in Jouxtens, wo auch das Gemälde gewesen sei, und nicht im Schloss Saint-Barthélemy. Dargestellt sind seine Töchter Suzanne (1887–1978) und Magali (1889–1981)."
+    },
+    {
+      "nr": 3,
+      "text": "Ethel Mathier, Auskunft vom 9. Mai 2023."
+    },
+    {
+      "nr": 4,
+      "text": "Die Galerie Kurt Meissner gab das Werk 1983 an das Schweizerische Institut für Kunstwissenschaften (SIK). Auf der Rechnung im Archiv SKKG sind die SIK-Kontroll- und Archivnummer angegeben (siehe Archiv intern). Das SIK hat keine Unterlagen zum Werk (siehe Anfragen), daher ist unklar, in welchem Zusammenhang es dahin gebracht wurde. Gemäss Ethel Mathier, Auskunft vom 9. Mai 2023, kam das Werk durch die Vermittlung von François-Hadrien Petermann zu Meissner."
+    },
+    {
+      "nr": 5,
+      "text": "Ausstellungskatalog Luzern 1984."
+    },
+    {
+      "nr": 6,
+      "text": "Nach Meissner 2003 hat er das Gemälde 1991 von der Galerie Fischer erworben, allenfalls im Freihandkauf. Offenbar ging der zugehörige Zierrahmen in der Galerie Meissner zu Bruch und musste 1993 repariert werden, siehe Archiv intern. Siehe auch Fn. 7."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Rechnung von Kurt Meissner, 6. April 1993, im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe auch Anfragen."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Fn. 2."
+    }
+  ],
+  "bilder_anzahl": 23
+}

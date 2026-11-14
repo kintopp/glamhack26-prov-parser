@@ -1,0 +1,404 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1451_221101.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1451",
+      "François Diday (1802–1877)",
+      "Berglandschaft mit Bach",
+      "o. J.",
+      "Öl auf Holztafel",
+      "47,1 × 42,8 cm (Bildmass)",
+      "67,6 × 63 × 5,8 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1451",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Berglandschaft mit Bach",
+    "masse": [
+      "47,1 × 42,8 cm (Bildmass)",
+      "67,6 × 63 × 5,8 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Holztafel",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1451/1451_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.4,
+          247.4,
+          262.8,
+          478.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1979, wo das Werk als Berglandschaft verzeichnet ist."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1.–3. November 1979",
+      "besitzer": "Auktion Kurt Huber, Villa Ulmberg (Auktion Schweizer Malerei, Lot 42, Berglandschaft), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Kurt Huber, Villa Ulmberg, Zuschlagspreis: 7500 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Das Lot 42 lief am 1. November 1979, siehe Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion Schweizer Malerei. Mit bedeutenden Werken von Schweizer Künstlern, Auktionskatalog Kurt Huber, Villa Ulmberg, Zürich, 1.– 3. November 1979, Zürich 1979, Lot 42."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «Diday Francois» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "0 Treffer (77 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «Diday», Filter 2: Volltext/Metadaten «bois» [29. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 77,
+            "datum": "2022-07-29"
+          },
+          {
+            "text": "0 Treffer (80 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «Diday», Filter 2: Volltext/Metadaten «Holz» [29. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 80,
+            "datum": "2022-07-29"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (64 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 64,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Holz» [27. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-07-27"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Bach» [27. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-27"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Berglandschaft» [27. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-07-27"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Gebirgslandschaft» [27. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-27"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Brücke / Holzbrücke» [27. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-27"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [26. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1451/1451_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.6,
+            562.1,
+            530.6,
+            676.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1451/1451_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            139.4,
+            532.3,
+            254.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Kurt Huber, November 1979, Lot 42, verfasst von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1451/1451_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          293.4,
+          490.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Zierrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, rot gedruckt «42»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, rot gedruckt «42»",
+        "kommentar": "Lotnummer Auktion Kurt Huber, Villa Ulmberg, Zürich, November 1979",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1451/1451_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              527.3,
+              225.1,
+              593.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallplakette, eingraviert «F. Diday»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallplakette, eingraviert «F. Diday»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1451/1451_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              615.8,
+              292.3,
+              644.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «L[A/4?] 790008»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «L[A/4?] 790008»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1451/1451_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              656.6,
+              289.7,
+              700.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «129»",
+        "position_traeger": "o. m. Rahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «129»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1451/1451_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              212.9,
+              184.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1979, wo das Werk als Berglandschaft verzeichnet ist."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Das Lot 42 lief am 1. November 1979, siehe Auktionskatalog Zürich 1979."
+    }
+  ],
+  "bilder_anzahl": 8
+}

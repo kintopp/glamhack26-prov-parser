@@ -1,0 +1,971 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_161_260125.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "20. Januar 2026",
+  "stand_iso": "2026-01-20",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 161",
+      "Alice Bailly (1872–1938)",
+      "Femme et enfant / Nu allongé",
+      "1910",
+      "Öl auf Leinwand",
+      "97 × 162 cm (Bildmass)",
+      "106 × 171 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "161",
+    "status": "Ungeklärt",
+    "kuenstler": "Alice Bailly (1872–1938)",
+    "titel": "Femme et enfant / Nu allongé",
+    "masse": [
+      "97 × 162 cm (Bildmass)",
+      "106 × 171 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1910",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/161/161_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          313.5,
+          411.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Aufschriften auf der Werkrückseite, ebenso im Auktionskatalog Bern 1995."
+      },
+      {
+        "nr": 2,
+        "text": "Alternativer Werktitel SKKG nach Aufschrift auf der Werkrückseite, dort in Klammern."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "5. Mai 1995",
+      "besitzer": "Auktion Dobiaschofsky (Schweizer Kunst, Lot 184, Femme et enfant), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1995. Zum Vorbesitz ist nichts Näheres bekannt. Das 1910 entstandene Gemälde stammt aus Baillys Pariser Zeit (1904–1914). Die Zollstempel auf der Rückseite deuten auf eine Einfuhr in die Schweiz hin."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Mai 1995",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Dobiaschofsky, Zuschlagspreis: 13 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG sowie in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Dobiaschofsky, Bern, Nr. 80, 5. Mai 1995, Bern 1995, Lot 184.",
+        "bilder": [
+          {
+            "datei": "images/161/161_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              171.1,
+              433.7,
+              393.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Ob das Werk vor dem Ankauf durch die SKKG in Ausstellungen gezeigt wurde, ist nicht bekannt. Mehrere Ausstellungskataloge wurden diesbezüglich ergebnislos durchgesehen: Alice Bailly, Ausstellungskatalog Galerie Léopold-Robert, Neuchâtel, 4.–31. Oktober 1919, Neuchâtel 1919; Alice Bailly, 1872–1938. Éxposition rétrospective des œuvres du peintre, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne, 17. November 1968 bis 5. Januar 1969, Lausanne 1968; Alice Bailly, Ausstellungskatalog Galerie Strunskaja, Zürich, 12. Dezember 1974 bis 8. Februar 1975, Zürich 1974; Alice Bailly. Werke 1908–1923, Ausstellungskatalog Galerie nächst St. Stephan, Wien, 16. April bis 18. Mai 1985 / Galerie Krinzinger, Innsbruck, 29. Mai bis 29. Juni 1985 / Aargauer Kunsthaus, Aarau, 16. August bis 15. September 1985, Wien 1985."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Hersteller/Künstler/Au-tor:in «Alice Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme nue et son enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme nue et son enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme nue et son enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme nue et son enfant» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (43 Ergebnisse) für Suche «Femme et enfant», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 43,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme nue et son enfant» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (165 Ergebnisse) für Volltextsuche «Alice Bailly» [11. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 165,
+            "datum": "2025-11-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Alice Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «A. Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche «Bailly» (inklusive Varianten der Namensschreibweise) [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (51 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 51,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Femme et enfant» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Femme et enfant» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1359 (PDF, S. 45)",
+      "bilder": [
+        {
+          "datei": "images/161/161_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            624.8,
+            533.0,
+            690.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: annotierter lotspezifischer Ausschnitt aus Auktionskatalog Bern 1995"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/161/161_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            200.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: annotierter lotspezifischer Ausschnitt aus Auktionskatalog Bern 1995"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/161/161_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          483.8,
+          383.3,
+          684.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit dunkler Farbe «Alice Bally [sic] | 1910»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit dunkler Farbe «Alice Bally [sic] | 1910»",
+        "kommentar": "Signatur der Künstlerin",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              280.1,
+              190.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe Spannrahmen: Negative vierer Heftklammern",
+        "position_traeger": "m. waagrechte Mittelstrebe Spannrahmen",
+        "merkmal": "Negative vierer Heftklammern",
+        "kommentar": "möglicherweise Aufbringstelle eines zwischenzeitlich entfernten Etiketts",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              203.3,
+              280.4,
+              290.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: Malerklebeband, handschriftlich mit schwarzem Filzstift «80/ 586912»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "Malerklebeband, handschriftlich mit schwarzem Filzstift «80/ 586912»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              303.4,
+              280.0,
+              350.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. Spannrahmen: möglicherweise Negativ eines rechteckigen Etiketts",
+        "position_traeger": "r. o. Spannrahmen",
+        "merkmal": "möglicherweise Negativ eines rechteckigen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              362.6,
+              226.6,
+              437.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: Negativ eines rechteckigen Etiketts mit abgerundeten Ecken",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "Negativ eines rechteckigen Etiketts mit abgerundeten Ecken",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              450.6,
+              326.0,
+              546.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: Reste eines rechteckigen Klebeetiketts",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "Reste eines rechteckigen Klebeetiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.6,
+              558.5,
+              328.5,
+              666.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen (teilweise unter Etikettresten): handschriftlich mit blauem Schreibmittel «[…] B [I/1]»",
+        "position_traeger": "r. m. Spannrahmen (teilweise unter Etikettresten)",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…] B [I/1]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              679.6,
+              325.9,
+              755.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Leinwand: verbräuntes rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel «Femme et enfant | (Nu allongé) 1910»",
+        "position_traeger": "r. u. Leinwand",
+        "merkmal": "verbräuntes rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel «Femme et enfant | (Nu allongé) 1910»",
+        "kommentar": "Werktitel und Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.6,
+              139.2,
+              324.5,
+              256.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Spannrahmen: handschriftlich mit rotem Wachsstift «U [?] R»",
+        "position_traeger": "u. l. Spannrahmen",
+        "merkmal": "handschriftlich mit rotem Wachsstift «U [?] R»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              268.6,
+              325.2,
+              342.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Spannrahmen: handschriftlich mit blauem Schreibmittel «[…]» (verdeckt)",
+        "position_traeger": "l. u. Spannrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…]» (verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              354.9,
+              325.1,
+              441.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Spannrahmen: Reste eines rechteckigen Etiketts, schwarz gedruckt vermutlich «100 / M»",
+        "position_traeger": "l. m. Spannrahmen",
+        "merkmal": "Reste eines rechteckigen Etiketts, schwarz gedruckt vermutlich «100 / M»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              454.1,
+              324.9,
+              532.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Leinwand: schwarzer runder Stempel «[…]» (unleserlich)",
+        "position_traeger": "o. l. Leinwand",
+        "merkmal": "schwarzer runder Stempel «[…]» (unleserlich)",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              544.8,
+              231.8,
+              633.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Reste eines angehefteten weissen Zettels",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Reste eines angehefteten weissen Zettels",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              646.4,
+              326.3,
+              712.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit weissem Schreibmittel «[…]» (unleserlich), möglicherweise «I V 4» oder auch nur Farbspuren",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit weissem Schreibmittel «[…]» (unleserlich), möglicherweise «I V 4» oder auch nur Farbspuren",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              236.6,
+              205.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit rotem Wachsstift «5», eingekreist",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit rotem Wachsstift «5», eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              218.3,
+              234.2,
+              315.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «97 × 162 huile „Femme et enfant“»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «97 × 162 huile „Femme et enfant“»",
+        "kommentar": "Werkangaben",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              328.3,
+              330.1,
+              348.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: verbräuntes quadratisches Etikett mit blauer Bordüre, gezahnt und kreuzförmig perforiert",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "verbräuntes quadratisches Etikett mit blauer Bordüre, gezahnt und kreuzförmig perforiert",
+        "kommentar": "Schweizer Zolletikett",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_022_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              405.2,
+              236.7,
+              498.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Reste eines weissen Klebeetiketts",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Reste eines weissen Klebeetiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_023_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              511.1,
+              243.8,
+              574.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit schwarzem Schreibmittel unbestimmte Markierung",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel unbestimmte Markierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_024_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              592.0,
+              243.9,
+              669.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 20,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: schwarzer runder Stempel mit Schildsymbol (unleserlich)",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "schwarzer runder Stempel mit Schildsymbol (unleserlich)",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_025_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              244.0,
+              250.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 21,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit grünem Schreibmittel unbestimmte Markierung",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel unbestimmte Markierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_026_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              263.3,
+              198.6,
+              343.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 22,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit rotem Wachsstift «D»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit rotem Wachsstift «D»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_027_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              355.3,
+              198.5,
+              426.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 23,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: oranger Klebepunkt",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "oranger Klebepunkt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/161/161_028_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              438.3,
+              198.7,
+              503.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Aufschriften auf der Werkrückseite, ebenso im Auktionskatalog Bern 1995."
+    },
+    {
+      "nr": 2,
+      "text": "Alternativer Werktitel SKKG nach Aufschrift auf der Werkrückseite, dort in Klammern."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1995. Zum Vorbesitz ist nichts Näheres bekannt. Das 1910 entstandene Gemälde stammt aus Baillys Pariser Zeit (1904–1914). Die Zollstempel auf der Rückseite deuten auf eine Einfuhr in die Schweiz hin."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG sowie in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Ob das Werk vor dem Ankauf durch die SKKG in Ausstellungen gezeigt wurde, ist nicht bekannt. Mehrere Ausstellungskataloge wurden diesbezüglich ergebnislos durchgesehen: Alice Bailly, Ausstellungskatalog Galerie Léopold-Robert, Neuchâtel, 4.–31. Oktober 1919, Neuchâtel 1919; Alice Bailly, 1872–1938. Éxposition rétrospective des œuvres du peintre, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne, 17. November 1968 bis 5. Januar 1969, Lausanne 1968; Alice Bailly, Ausstellungskatalog Galerie Strunskaja, Zürich, 12. Dezember 1974 bis 8. Februar 1975, Zürich 1974; Alice Bailly. Werke 1908–1923, Ausstellungskatalog Galerie nächst St. Stephan, Wien, 16. April bis 18. Mai 1985 / Galerie Krinzinger, Innsbruck, 29. Mai bis 29. Juni 1985 / Aargauer Kunsthaus, Aarau, 16. August bis 15. September 1985, Wien 1985."
+    }
+  ],
+  "bilder_anzahl": 28
+}

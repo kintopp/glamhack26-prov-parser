@@ -1,0 +1,527 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1600_250811.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "11. August 2025",
+  "stand_iso": "2025-08-11",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1600",
+      "Adolf Dietrich (1877–1957)",
+      "Raupenbild",
+      "1938",
+      "Öl auf Karton",
+      "30 × 24 cm (Bildmass)",
+      "42 × 35 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1600",
+    "status": "Ungeklärt",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Raupenbild",
+    "masse": [
+      "30 × 24 cm (Bildmass)",
+      "42 × 35 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1938",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1600/1600_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          260.7,
+          522.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "12. Juni 1981",
+      "besitzer": "Auktion Sotheby’s (Lot 54), New York, eingeliefert von unbekannt, verkauft für 6500 Dollar",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ammann/Vögele 1994; Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 38 G», Werkdatenblatt zu Nr. 38.19, siehe Archive extern."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12.–14. November 1981",
+      "besitzer": "Auktion Kurt Huber, Villa Ulmberg (Auktion Schweizer Malerei, Lot 161, Frühlingserwachen), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1981."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 13. November 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Kurt Huber, Villa Ulmberg, Zuschlagspreis: 20 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1981 sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 38.19.",
+        "bilder": [
+          {
+            "datei": "images/1600/1600_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              284.5,
+              315.3,
+              347.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion Schweizer Malerei, Auktionskatalog Kurt Huber, Villa Ulmberg, Zürich, 12.–14. November 1981, Zürich 1981, Lot 161."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Artprice",
+        "suchen": [
+          {
+            "text": "0 Treffer (567 Ergebnisse) für Suche «Adolf Dietrich» mit Filter: Categories «Painting» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 567,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Frühlingserwachen», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Volltextsuche «Dietrich» und «Frühlingserwachen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (1376 Ergebnisse) für Suche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 1376,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Suche «Raupen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Suche «Frühlingserwachen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche «Dietrich», Filter: Künstler [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1600/1600_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.8,
+            190.7,
+            531.1,
+            233.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1981, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1600/1600_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            278.3,
+            532.4,
+            399.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Kurt Huber 1981, verfasst von Bruno Stefanini, wohl vormals an die Werkrückseite geheftet"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Der mit feinerem Bleistift verfasste Vermerk unten links vom 20. April 2004 stammt von einer SKKG-Mitarbeiterin."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (0 Ergebnisse im Archivverzeichnis, 3 in Primärdaten) für Suche «Frühlingserwachen» [11. August 2025]\n\n0 Treffer (0 Ergebnisse im Archivverzeichnis, 1 Ergebnis in Primärdaten) für Suche «Raupen» [5. April 2023]"
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "–",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 38 G»",
+      "bilder": [
+        {
+          "datei": "images/1600/1600_005_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            133.8,
+            533.0,
+            391.2
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1600/1600_006_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            397.8,
+            533.0,
+            481.4
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Werkdatenblatt zu Nr. 38.19"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1600/1600_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          319.7,
+          464.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Karton: handschriftlich mit roter Farbe «Ad. Dietrich | 1938»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "handschriftlich mit roter Farbe «Ad. Dietrich | 1938»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1600/1600_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              501.9,
+              250.6,
+              569.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «512»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «512»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1600/1600_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              581.2,
+              219.3,
+              639.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. Karton: handschriftlich mit blauem Kugelschreiber «5545»",
+        "position_traeger": "m. Karton",
+        "merkmal": "handschriftlich mit blauem Kugelschreiber «5545»",
+        "kommentar": "wohl Notiz des Rahmenateliers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1600/1600_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              651.3,
+              252.8,
+              699.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Das Werk mit der SKKG-Inventarnummer 6340 weist eine ähnliche Beschriftung auf."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit schwarzem Kugelschreiber «1) 5545 Platte grau mit grünstich gestr. | […] v.eckig[?].glz»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Kugelschreiber «1) 5545 Platte grau mit grünstich gestr. | […] v.eckig[?].glz»",
+        "kommentar": "wohl Notiz des Rahmenateliers zur Farbgebung des Rahmens",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1600/1600_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              319.8,
+              167.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Siehe Fn. 6."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Ammann/Vögele 1994; Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 38 G», Werkdatenblatt zu Nr. 38.19, siehe Archive extern."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1981."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1981 sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Der mit feinerem Bleistift verfasste Vermerk unten links vom 20. April 2004 stammt von einer SKKG-Mitarbeiterin."
+    },
+    {
+      "nr": 6,
+      "text": "Das Werk mit der SKKG-Inventarnummer 6340 weist eine ähnliche Beschriftung auf."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Fn. 6."
+    }
+  ],
+  "bilder_anzahl": 11
+}

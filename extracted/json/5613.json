@@ -1,0 +1,770 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5613_221201.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. Dezember 2022",
+  "stand_iso": "2022-12-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5613",
+      "Félix Vallotton (1865–1925)",
+      "Femme surprise",
+      "1916",
+      "Öl auf Leinwand",
+      "100 × 81 cm (Bildmass)",
+      "117 × 98 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5613",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Femme surprise",
+    "masse": [
+      "100 × 81 cm (Bildmass)",
+      "117 × 98 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "1916",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5613/5613_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.5,
+          551.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (1865–1925), Paris",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005, ohne Jahreszahl. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1925 bis 1968",
+      "besitzer": "Jacques Rodrigues-Henriques (1886–1968), Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "nach 1968",
+      "besitzer": "Nachlass Jacques Rodrigues-Henriques, Paris",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Frankreich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2000."
+        }
+      ]
+    },
+    {
+      "zeitraum": "29. Mai 2000",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 118, Femme surprise), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 2000. Im Auktionskatalog wird als letzte Provenienzstation «Privatsammlung (Frankreich)» angegeben, vermutlich ist dies auch die Einlieferin. Marina Ducrey nennt als letzte Provenienzstation vor der Auktion hingegen den Nachlass Rodrigues-Henriques."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 29. Mai 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 60 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2000 im Archiv SKKG. Ducrey (2005) war der aktuelle Standort offenbar nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1130.",
+        "bilder": [
+          {
+            "datei": "images/5613/5613_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              423.0,
+              272.9,
+              601.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5613/5613_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              268.4,
+              176.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1070."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 29. Mai 2000, Zürich 2000, Lot 118."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Zürich, 1920, Nr. 3 (Femme surprise)",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Möglich wäre die Jeune femme (https://www.errproject.org/jeu-depaume/card_view.php?CardId=57221 [28. Oktober 2022]), die jedoch aufgrund mangelnder Angaben nicht identifiziert werden kann. Zudem scheint das Werk in der fraglichen Zeit um 1940 in Familienbesitz gewesen zu sein.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5613/5613_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            534.3,
+            334.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5613/5613_005_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          305.3,
+          458.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              496.7,
+              306.2,
+              534.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «40», dahinter «F»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «40», dahinter «F»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              547.0,
+              234.5,
+              600.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. senkrechte Mittelstrebe Keilrahmen: handschriftlich mit dunkelblauem Schreibmittel «22», eingekreist",
+        "position_traeger": "o. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit dunkelblauem Schreibmittel «22», eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              613.5,
+              193.0,
+              670.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen und Leinwand: französischer Zollstempel, «DOUANE | PARIS | […]»",
+        "position_traeger": "o. m. Keilrahmen und Leinwand",
+        "merkmal": "französischer Zollstempel, «DOUANE | PARIS | […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              221.9,
+              219.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5613/5613_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              225.3,
+              220.9,
+              309.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «MBA 1»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «MBA 1»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              321.8,
+              303.2,
+              380.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftliche Notiz in Rosa, mit dunkelblauem Schreibmittel mehrfach durchgestrichen",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftliche Notiz in Rosa, mit dunkelblauem Schreibmittel mehrfach durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              393.1,
+              303.1,
+              482.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit blauem Schreibmittel «390 / 10» und «25 / 763 [?]»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «390 / 10» und «25 / 763 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              137.0,
+              494.8,
+              303.7,
+              548.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5613/5613_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              555.5,
+              303.2,
+              611.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. und u. m. Zierrahmen: zweimal handschriftlich mit blauem Schreibmittel «40 F»",
+        "position_traeger": "r. m. und u. m. Zierrahmen",
+        "merkmal": "zweimal handschriftlich mit blauem Schreibmittel «40 F»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              624.0,
+              222.9,
+              659.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5613/5613_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              665.9,
+              223.5,
+              706.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. senkrechte Mittelstrebe Keilrahmen und m. Leinwand: Stempel von Rodrigues-Henriques (Stiefsohn von Felix Vallotton), Paris, in der Mitte «19»",
+        "position_traeger": "m. senkrechte Mittelstrebe Keilrahmen und m. Leinwand",
+        "merkmal": "Stempel von Rodrigues-Henriques (Stiefsohn von Felix Vallotton), Paris, in der Mitte «19»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              140.2,
+              244.4,
+              205.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5613/5613_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.5,
+              211.8,
+              245.5,
+              273.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit Bleistift «[…] LC»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…] LC»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              286.1,
+              304.7,
+              320.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel der Auktion Sotheby’s, 29. Mai 2000, mit handschriftlich ergänztem Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel der Auktion Sotheby’s, 29. Mai 2000, mit handschriftlich ergänztem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              333.1,
+              298.3,
+              462.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «o I o 1389 | 5 / 759 [?]», teilweise verdeckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «o I o 1389 | 5 / 759 [?]», teilweise verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              475.3,
+              306.2,
+              523.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «118», darunter gestempelt «29. MAI [2000]»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «118», darunter gestempelt «29. MAI [2000]»",
+        "kommentar": "Lotnummer und Datum der Auktion Sotheby’s",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5613/5613_022_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              536.0,
+              221.8,
+              616.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005, ohne Jahreszahl. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2000."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 2000. Im Auktionskatalog wird als letzte Provenienzstation «Privatsammlung (Frankreich)» angegeben, vermutlich ist dies auch die Einlieferin. Marina Ducrey nennt als letzte Provenienzstation vor der Auktion hingegen den Nachlass Rodrigues-Henriques."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2000 im Archiv SKKG. Ducrey (2005) war der aktuelle Standort offenbar nicht bekannt."
+    },
+    {
+      "nr": 8,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1070."
+    },
+    {
+      "nr": 9,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 10,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    }
+  ],
+  "bilder_anzahl": 22
+}

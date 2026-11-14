@@ -1,0 +1,609 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1798_231004.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "4. Oktober 2023",
+  "stand_iso": "2023-10-04",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1798",
+      "Schule des Lucas Cranach d. Ä. (1472–1553)",
+      "Die käufliche Liebe",
+      "o. J. (16. Jahrhundert)",
+      "Öl auf Holz",
+      "44,5 × 31,7 cm (Bildmass)",
+      "59,8 × 43 × 7,4 cm (Rahmenmass)",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1798",
+    "status": "Ungeklärt",
+    "kuenstler": "Schule des Lucas Cranach d. Ä. (1472–1553)",
+    "titel": "Die käufliche Liebe",
+    "masse": [
+      "44,5 × 31,7 cm (Bildmass)",
+      "59,8 × 43 × 7,4 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J. (16. Jahrhundert)",
+    "technik": "Öl auf Holz",
+    "bezeichnung": null,
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1798/1798_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.4,
+          533.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Zuschreibung gemäss Auktionskatalog Zürich 1979."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1979."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "April/Mai 1929",
+      "besitzer": "Florenz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Gemäss den Zollstempeln auf der Werkrückseite (siehe Provenienzmerkmale) befand sich das Werk zwischen Ende April und Anfang Mai 1929 in Italien; in welchem Zusammenhang, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25./26. Mai 1979",
+      "besitzer": "Auktion Galerie Koller (Bilder 15.–20. Jahrhundert […], Lot 5085, Die käufliche Liebe), Zürich, Nr. 41/2, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. Mai 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Koller, Zuschlagspreis: 8000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen ins Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bilder 15.–20. Jahrhundert, Graphik, Bücher und Plastiken 19. und 20. Jahrhundert. Auktionskatalog Galerie Koller, Zürich, 25./26. Mai 1979, Nr. 41/2, Lot 5085."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (144 Ergebnisse) für Volltextsuche «Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 144,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (94 Ergebnisse) für Suche mit Filter: Künstler «Anonym» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 94,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «anonymous» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (134 Ergebnisse) für Suche mit Filter: Künstler «unbekannt» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 134,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche mit Filter: Künstler «unknown» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter 1: Künstler «Cranach», Filter 2: Objekt/Titel «Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter 1: Künstler «Cranach», Filter 2: Objekt/Titel «Love» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (198 Ergebnisse) für Suche mit Filter: Künstler «Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 198,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (198 Ergebnisse) für Suche mit Filter: Objekt/Titel «Paar» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 198,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (222 Ergebnisse) für Suche mit Filter: Objekt/Titel «couple» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 222,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (20 Ergebnisse) für Volltextsuche «Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 20,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «käufliche Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «käufliche Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für Volltextsuche «Cranach» und «Love», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (104 Ergebnisse) für Suche mit Filter: Künstler «Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 104,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Titel «Paar» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Titel «Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Volltextsuche «käufliche Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Volltextsuche «Schule Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Die käufliche Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Liebe», Filter: Künstler «Lucas Cranach» (inklusive aller Namensschreibweisen) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «käuflich», Filter: Künstler «Lucas Cranach» (inklusive aller Namensschreibweisen) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (127 Ergebnisse) für Volltextsuche «Cranach Liebe», Filter: Objekt «Malerei» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 127,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Künstler «Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Künstler «Anonym (deutsch)» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «unbekannt» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter 1: Künstler «Anonym», Filter 2: Titel «Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter 1: Künstler «Anonym», Filter 2: Titel «Paar» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Filter: Titel «Paar» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter: Titel «Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Suche mit Filter: Künstler «Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «unbekannt» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (143 Ergebnisse) für Suche mit Filter: Künstler «Anonym (deutsch)» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 143,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (32 Ergebnisse) für Suche mit Filter: Titel «Liebe» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 32,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (76 Ergebnisse) für Suche mit Filter: Titel «Paar», «Cranach» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 76,
+            "datum": "2023-10-02"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "3. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (8 Ergebnisse) für Volltextsuche «Cranach»"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1798/1798_002_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            543.2,
+            532.0,
+            590.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1798/1798_003_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            139.8,
+            527.5,
+            167.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Kurt Meissner"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Bruno Stefanini hat von Kurt Meissner, der ihn seit 1979 bisweilen bei Ankäufen beriet, mehrfach Auktionskataloge übernommen. Meissner hat in seinem Exemplar den Zuschlagspreis des von Stefanini erworbenen Lots notiert."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1798/1798_004_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            210.9,
+            531.2,
+            327.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Etikett Auktion Koller mit Lotnummer; wahrscheinlich vormals auf der Werkrückseite angebrachter Erwerbsnachweis von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1798/1798_005_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          292.0,
+          475.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Holztafel: handschriftlich mit Bleistift «0,43 X 0,61 | Von[?] Cranach»",
+        "position_traeger": "o. m. Holztafel",
+        "merkmal": "handschriftlich mit Bleistift «0,43 X 0,61 | Von[?] Cranach»",
+        "kommentar": "Rahmenmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1798/1798_006_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              538.5,
+              291.9,
+              616.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Holztafel: unleserlicher runder Stempel; daneben vermutlich gestempelt «8 MAGGIO 192[9?]»",
+        "position_traeger": "m. r. Holztafel",
+        "merkmal": "unleserlicher runder Stempel; daneben vermutlich gestempelt «8 MAGGIO 192[9?]»",
+        "kommentar": "vermutlich Ausfuhr aus Florenz 1929 (siehe nachfolgendes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1798/1798_007_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              292.5,
+              256.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1798/1798_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              288.1,
+              221.3,
+              307.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail links"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Holztafel: schwarz gestempelt «27 APR. 29 | A: DOGANA DI FIRENZE»",
+        "position_traeger": "m. r. Holztafel",
+        "merkmal": "schwarz gestempelt «27 APR. 29 | A: DOGANA DI FIRENZE»",
+        "kommentar": "Zollstempel Florenz, angebracht am 27. April 1929, vermutlich Einfuhr (siehe vorausgehendes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1798/1798_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              320.3,
+              221.3,
+              407.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Holztafel: handschriftlich mit dunklem Schreibmittel «C. 553»",
+        "position_traeger": "o. l. Holztafel",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «C. 553»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1798/1798_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              420.1,
+              221.3,
+              452.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Zuschreibung gemäss Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 3,
+      "text": "Gemäss den Zollstempeln auf der Werkrückseite (siehe Provenienzmerkmale) befand sich das Werk zwischen Ende April und Anfang Mai 1929 in Italien; in welchem Zusammenhang, ist unklar."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Bruno Stefanini hat von Kurt Meissner, der ihn seit 1979 bisweilen bei Ankäufen beriet, mehrfach Auktionskataloge übernommen. Meissner hat in seinem Exemplar den Zuschlagspreis des von Stefanini erworbenen Lots notiert."
+    }
+  ],
+  "bilder_anzahl": 10
+}

@@ -1,0 +1,566 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1100_241113.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1100",
+      "Albert Anker (1831–1910)",
+      "Obstgarten im Winter",
+      "o. J.",
+      "Öl auf Malkarton",
+      "25 × 23 cm (Bildmass)",
+      "43 × 40,5 × 7 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "1100",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Obstgarten im Winter",
+    "masse": [
+      "25 × 23 cm (Bildmass)",
+      "43 × 40,5 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1100/1100_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.6,
+          496.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Verger en hiver. Gemäss Objektdatenbank SKKG lautete ein früherer Werktitel Winterlandschaft."
+      },
+      {
+        "nr": 2,
+        "text": "Kuthy/Bhattacharya-Stettler 1995 geben als Technik «Öl auf Leinwand auf Karton» an."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis spätestens 1957",
+      "besitzer": "Cécile Du Bois-Anker (Dubois) (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters (des Künstlers)",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 nennen als erste Provenienz Cécile Du Bois-Anker, deren Name auf einem Rückseitenetikett erscheint, siehe Provenienzmerkmale. Möglicherweise war das Werk zu unbestimmtem Zeitpunkt im Eigentum der älteren Schwester Marie Quinche-Anker (1872–1950), die auf der Werkrückseite die Echtheit des Gemäldes bezeugt. Denkbar ist, dass Cécile Du Bois-Anker das Werk von ihrer 1950 verstorbenen Schwester übernahm. Wann der auf den Nachlass Albert Anker verweisende Nachlassstempel (siehe ebd.) aufgebracht wurde, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Biel",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit o. D.",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Wann und wo das Werk erworben wurde, ist bislang nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 279, Nr. 727.",
+        "bilder": [
+          {
+            "datei": "images/1100/1100_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              271.8,
+              297.7,
+              374.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Ausstellung Albert Anker, 1831–1910. Kunsthaus Zürich 7. Mai bis 5. Juni 1911, Zürich 1911, S. 11, Nr. 145, https://digital.kunst-haus.ch/viewer/image/47855/13 [13. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/1100/1100_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              455.5,
+              322.5,
+              470.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Anker, Albert» und «Obstgarten» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «Albert Anker» und «Obstgarten» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «Anker» und «verger» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Alber Anker» und «Winterlandschaft» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "13. November 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (14 Ergebnisse) für Suche «Winterlandschaft»\n\n0 Treffer (1 Ergebnis) für Suche «Obstgarten»\n\n0 Treffer (2 Ergebnisse) für Suche «Verger»\n\n0 Treffer (13 Ergebnisse) für Suche «Anker» und «Winter» und «Dubois»"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1100/1100_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          293.2,
+          409.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubtes Metallschild, eingraviert «A. ANKER»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubtes Metallschild, eingraviert «A. ANKER»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              446.4,
+              261.6,
+              486.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: handschriftlich mit schwarzem Schreibmittel «[…] Le Verger en hiver»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «[…] Le Verger en hiver»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              499.4,
+              320.5,
+              530.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: handschriftlich mit schwarzem Schreibmittel «Ce[?…] G[?…]»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Ce[?…] G[?…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              551.0,
+              280.9,
+              591.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Karton: verbräuntes rechteckiges Etikett mit abgeschrägten Ecken, handschriftlich mit schwarzer Tinte «L’étude à l’huile représentant | un paysage d’hiver : arbres dans un | verger avec neige, dimensions 25 × 22 ½ | est une œuvre de mon père le peintre | Albert Anker | Marie Quinche-Anker»",
+        "position_traeger": "m. r. Karton",
+        "merkmal": "verbräuntes rechteckiges Etikett mit abgeschrägten Ecken, handschriftlich mit schwarzer Tinte «L’étude à l’huile représentant | un paysage d’hiver : arbres dans un | verger avec neige, dimensions 25 × 22 ½ | est une œuvre de mon père le peintre | Albert Anker | Marie Quinche-Anker»",
+        "kommentar": "Echtheitsbestätigung von Marie Quinche-Anker, einer Tochter des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              604.2,
+              320.3,
+              698.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Karton: langrechteckiges beiges Etikett mit abgeschrägten Ecken, handschriftlich mit schwarzer Tinte «Verger, en hiver, près du domicile du peintre A. Anker | à Ins. (Anet)»",
+        "position_traeger": "m. r. Karton",
+        "merkmal": "langrechteckiges beiges Etikett mit abgeschrägten Ecken, handschriftlich mit schwarzer Tinte «Verger, en hiver, près du domicile du peintre A. Anker | à Ins. (Anet)»",
+        "kommentar": "Beschreibung des Motivs",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              320.7,
+              173.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Karton: handschriftlich mit blauem Schreibmittel «E [S/8] 6445»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «E [S/8] 6445»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              242.0,
+              299.3,
+              280.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Karton: rechteckiges beiges Etikett mit abgeschrägten Ecken, handschriftlich mit blauer Tinte «Etude à l’huile | d’Albert Anker | Cécile Du Bois-Anker»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "rechteckiges beiges Etikett mit abgeschrägten Ecken, handschriftlich mit blauer Tinte «Etude à l’huile | d’Albert Anker | Cécile Du Bois-Anker»",
+        "kommentar": "Cécile Du Bois-Anker war eine Tochter des Künstlers.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              298.4,
+              320.5,
+              391.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Karton: ovaler schwarzer Stempel, «succession | A. ANKER | .C.»",
+        "position_traeger": "u. l. Karton",
+        "merkmal": "ovaler schwarzer Stempel, «succession | A. ANKER | .C.»",
+        "kommentar": "Nachlassstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              404.4,
+              233.0,
+              467.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Karton: Reste eines beigen Etiketts; auf Klebespuren handschriftlich mit blauem Schreibmittel «N667»",
+        "position_traeger": "m. l. Karton",
+        "merkmal": "Reste eines beigen Etiketts; auf Klebespuren handschriftlich mit blauem Schreibmittel «N667»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              479.9,
+              295.8,
+              554.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit gelber Kreide «2153»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit gelber Kreide «2153»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1100/1100_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              567.4,
+              298.2,
+              629.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Verger en hiver. Gemäss Objektdatenbank SKKG lautete ein früherer Werktitel Winterlandschaft."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 geben als Technik «Öl auf Leinwand auf Karton» an."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 nennen als erste Provenienz Cécile Du Bois-Anker, deren Name auf einem Rückseitenetikett erscheint, siehe Provenienzmerkmale. Möglicherweise war das Werk zu unbestimmtem Zeitpunkt im Eigentum der älteren Schwester Marie Quinche-Anker (1872–1950), die auf der Werkrückseite die Echtheit des Gemäldes bezeugt. Denkbar ist, dass Cécile Du Bois-Anker das Werk von ihrer 1950 verstorbenen Schwester übernahm. Wann der auf den Nachlass Albert Anker verweisende Nachlassstempel (siehe ebd.) aufgebracht wurde, ist nicht bekannt."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 5,
+      "text": "Wann und wo das Werk erworben wurde, ist bislang nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 14
+}

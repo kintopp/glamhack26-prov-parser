@@ -1,0 +1,829 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_459_241113.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 459",
+      "Albert Anker (1831–1910)",
+      "Dezember",
+      "1888",
+      "Öl auf Leinwand",
+      "86 × 64 cm (Bildmass)",
+      "106,7 × 84,5 × 8,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "459",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Dezember",
+    "masse": [
+      "86 × 64 cm (Bildmass)",
+      "106,7 × 84,5 × 8,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1888",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/459/459_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.5,
+          533.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Décembre."
+      },
+      {
+        "nr": 2,
+        "text": "Die Leinwand wurde doubliert und der Keilrahmen ersetzt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1. Juni 1888 bis spätestens 1893",
+      "besitzer": "Paul de Meuron (1831–1893), Neuchâtel, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 1. Juni 1888 in Ankers Livre de vente: «De Paul Meuron pour ‹Décembre› enfants par la neige sous un parapluie (pour la loterie de Neuchâtel) 720». Paul de Meuron war der Vorsitzende der Société des Amis des Arts in Neuchâtel und ein Bekannter des Künstlers. Albert Anker hat mit der Familie de Meuron brieflich korrespondiert, siehe: Le Peintre Albert Anker, 1831–1919, d’après sa correspondence, hrsg. von Marie Quinche-Anker, Bern 1924, S. 158, 160, 162; siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1898",
+      "besitzer": "Ausstellung Musée des Beaux-Arts (Nr. 11, Décembre), Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ausstellungskatalog Neuchâtel 1898, ohne Angabe zur einliefernden Person."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1910",
+      "besitzer": "Louise (1843–1917) und Jenny Godet (1848–1945), Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995, siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Karl Kirchner-Kesselring, Bern",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1960",
+      "besitzer": "Hans Obi-Wismer (1905–1987), Zäziwil",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ausstellungskatalog Bern 1960, siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Zäziwil",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Kuthy/Bhattacharya-Stettler 1995; wohl deckungsgleich mit vorausgehendem Eintrag."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. Oktober 1996",
+      "besitzer": "Auktion Dobiaschofsky (Schweizer Kunst, Lot 44, Dezember), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Bern 1996."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. Oktober 1996",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Dobiaschofsky, Zuschlagspreis: 250 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bern 1996 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Offene Punkte",
+        "text": "– Eventuell Rückseite im Original anschauen, wegen dreieckigem Stempel und runden Stempeln am Zierrahmen o. m."
+      },
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 188, Nr. 388.",
+        "bilder": [
+          {
+            "datei": "images/459/459_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              487.0,
+              310.7,
+              624.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/459/459_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              298.3,
+              207.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Dobiaschofsky, Bern, 25. Oktober 1996, Bern 1996, Lot 44."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Catalogue du Musée des Beaux-Arts de la Ville de Neuchâtel, Ausstellungskatalog Musée des Beaux-Arts, Neuchâtel, Neuchâtel 1898, S. 3, Nr. 11, https://gal-lica.bnf.fr/ark:/12148/bpt6k62331639/f21.item [14. Dezember 2022].",
+        "bilder": [
+          {
+            "datei": "images/459/459_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              314.8,
+              336.9,
+              333.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Albert Anker, 17. September bis 11. Dezember 1960, Ausstellungskatalog Kunstmuseum Bern, Bern 1960, Nr. 125."
+          },
+          {
+            "datei": "images/459/459_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              377.4,
+              339.0,
+              405.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Albert Anker. Der Maler und sein Dorf, Ausstellungskatalog Gemeindehaus Ins, Ins 1977, Nr. 40."
+          },
+          {
+            "datei": "images/459/459_006_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              449.9,
+              448.5,
+              467.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (495 Ergebnisse) für Volltextsuche «Anker» und «Dezember» und «1888» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 495,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (109 Ergebnisse) für Volltextsuche «Anker» und «décembre» und «1888» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 109,
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "27. April 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/459/459_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            530.2,
+            348.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1996, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "27. April 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1359",
+      "bilder": [
+        {
+          "datei": "images/459/459_008_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            410.8,
+            533.0,
+            507.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "lotspezifische Kopie aus Auktionskatalog Bern 1996, annotiert mit Zuschlagspreis (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Paul De Meuron",
+      "information": "Eintrag zu Paul De Meuron (1831–1893) auf MyHeritage, https://www.myheritage.ch/research/collection-1/myheritage-stamm-baume?itemId=10400141-1-559333&action=showRecord [27. April 2023]."
+    },
+    {
+      "thema": "J. und L. Godet, Neuchâtel",
+      "information": "Louise Godet (1843–1917) hatte eine Schwester namens Jenny Godet (1848–1945).",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Todesanzeige Paul Godet, in: La Suisse libérale, Jg. 47, Nr. 106, 8. Mai 1911, S. 3, www.e-newspaperar-chives.ch/?a=d&d=LSL19110508-01.2.23.2 [27. April 2023]; Todesanzeige Louise Godet, in: La Suisse libérale, Jg. 53, Nr. 260, 3. November 1917, S. 3, www.e-newspaperarchives.ch/?a=d&d=LSL19171103-01.2.18.3 [27. April 2023]; Todesanzeige Jenny Godet, in: FAN (Feuille d’Avis de Neuchâtel), L’express, Jg. 207, Nr. 36, 12. Februar 1945, S. 6, https://www.e-newspaperarchives.ch/?a=d&d=EXR19450212-01.2.67 [12. Dezember 2024]."
+        }
+      ]
+    },
+    {
+      "thema": "Hans Obi-Wismer",
+      "information": "Todesanzeige von Hans Obi-Wismer (1905–1987), in: Der Bund, Jg. 138, Nr. 284, 4. Dezember 1987, S. 48, https://www.e-newspa-perarchives.ch/?a=d&d=DBB19871204-01.2.15.55.1 [27. April 2023]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/459/459_009_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          367.0,
+          246.7,
+          599.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      },
+      {
+        "datei": "images/459/459_010_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          152.2,
+          246.7,
+          395.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Merkmal",
+        "bildtitel": "Rückseitenschutz"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit brauner Farbe «Anker»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit brauner Farbe «Anker»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              433.1,
+              247.8,
+              495.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit Bleistift «0» oder Kreis",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «0» oder Kreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              507.5,
+              180.7,
+              553.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Klebereste eines rechteckigen Etiketts",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Klebereste eines rechteckigen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              565.6,
+              289.2,
+              607.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Klebeband, mit blauem Kugelschreiber «63 glas»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Klebeband, mit blauem Kugelschreiber «63 glas»",
+        "kommentar": "vermutlich Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              620.1,
+              222.8,
+              672.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rundes gelbes Etikett",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rundes gelbes Etikett",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              685.1,
+              196.9,
+              737.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rundes oranges Etikett",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rundes oranges Etikett",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              196.8,
+              196.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rundes Etikett, schwarz bedruckt",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rundes Etikett, schwarz bedruckt",
+        "kommentar": "Jubiläumsetikett Dobiaschofsky, Bern, wahrscheinlich aufgebracht im Zusammenhang mit der Auktion 1996",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              209.3,
+              228.3,
+              298.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: unleserliches Notat",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "unleserliches Notat",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              310.6,
+              239.6,
+              389.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: verblasster ovaler Stempel, «[…]CAR[…]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "verblasster ovaler Stempel, «[…]CAR[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              401.5,
+              289.4,
+              499.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Zierrahmen: dreieckige dunkle Verfärbung, möglicherweise von einem Stempel",
+        "position_traeger": "m. l. Zierrahmen",
+        "merkmal": "dreieckige dunkle Verfärbung, möglicherweise von einem Stempel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              512.0,
+              243.3,
+              603.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Negativ eines rechteckigen Etiketts",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Negativ eines rechteckigen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              616.0,
+              274.3,
+              700.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges beiges Etikett, schwarz bedruckt und maschinenschriftlich «125 | Dezember, Kinder im [S]chnee | ( vor 1889)»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges beiges Etikett, schwarz bedruckt und maschinenschriftlich «125 | Dezember, Kinder im [S]chnee | ( vor 1889)»",
+        "kommentar": "Ausstellung Bern 1960, Nr. 125",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              139.8,
+              293.0,
+              193.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseitenschutz",
+        "beschreibung": "o. m. Rückseitenschutz: rechteckiges beiges Etikett mit abgerundeten Ecken, mit dunklem Schreibmittel oder gedruckt «Albert Anker | Ausstellung 1967 | Ins» und handschriftlich mit schwarzem Filzstift «[Nr?].27»",
+        "position_traeger": "o. m. Rückseitenschutz",
+        "merkmal": "rechteckiges beiges Etikett mit abgerundeten Ecken, mit dunklem Schreibmittel oder gedruckt «Albert Anker | Ausstellung 1967 | Ins» und handschriftlich mit schwarzem Filzstift «[Nr?].27»",
+        "kommentar": "Ausstellung Ins 1967, Nr. 27",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              228.2,
+              257.3,
+              314.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseitenschutz",
+        "beschreibung": "o. l. Rückseitenschutz: langrechteckiges beiges Etikett mit abgerundeten Ecken, schwarz bedruckt und handschriftlich mit schwarzem Filzstift «Nr. 40»§",
+        "position_traeger": "o. l. Rückseitenschutz",
+        "merkmal": "langrechteckiges beiges Etikett mit abgerundeten Ecken, schwarz bedruckt und handschriftlich mit schwarzem Filzstift «Nr. 40»§",
+        "kommentar": "Ausstellung Ins 1977, Nr. 40",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/459/459_024_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              329.2,
+              292.0,
+              381.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Décembre."
+    },
+    {
+      "nr": 2,
+      "text": "Die Leinwand wurde doubliert und der Keilrahmen ersetzt."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 1. Juni 1888 in Ankers Livre de vente: «De Paul Meuron pour ‹Décembre› enfants par la neige sous un parapluie (pour la loterie de Neuchâtel) 720». Paul de Meuron war der Vorsitzende der Société des Amis des Arts in Neuchâtel und ein Bekannter des Künstlers. Albert Anker hat mit der Familie de Meuron brieflich korrespondiert, siehe: Le Peintre Albert Anker, 1831–1919, d’après sa correspondence, hrsg. von Marie Quinche-Anker, Bern 1924, S. 158, 160, 162; siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 4,
+      "text": "Ausstellungskatalog Neuchâtel 1898, ohne Angabe zur einliefernden Person."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995, siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 7,
+      "text": "Ausstellungskatalog Bern 1960, siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 8,
+      "text": "Kuthy/Bhattacharya-Stettler 1995; wohl deckungsgleich mit vorausgehendem Eintrag."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Bern 1996."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bern 1996 im Archiv SKKG."
+    },
+    {
+      "nr": 11,
+      "text": "Todesanzeige Paul Godet, in: La Suisse libérale, Jg. 47, Nr. 106, 8. Mai 1911, S. 3, www.e-newspaperar-chives.ch/?a=d&d=LSL19110508-01.2.23.2 [27. April 2023]; Todesanzeige Louise Godet, in: La Suisse libérale, Jg. 53, Nr. 260, 3. November 1917, S. 3, www.e-newspaperarchives.ch/?a=d&d=LSL19171103-01.2.18.3 [27. April 2023]; Todesanzeige Jenny Godet, in: FAN (Feuille d’Avis de Neuchâtel), L’express, Jg. 207, Nr. 36, 12. Februar 1945, S. 6, https://www.e-newspaperarchives.ch/?a=d&d=EXR19450212-01.2.67 [12. Dezember 2024]."
+    }
+  ],
+  "bilder_anzahl": 24
+}

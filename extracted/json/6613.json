@@ -1,0 +1,473 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6613_230428.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. April 2023",
+  "stand_iso": "2023-04-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6613",
+      "Giovanni Segantini (1858–1899)",
+      "Paysage de neige en Lombardie",
+      "1882/83",
+      "Öl auf Holz",
+      "9 × 24 cm (Bildmass)",
+      "24 × 40 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6613",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Paysage de neige en Lombardie",
+    "masse": [
+      "9 × 24 cm (Bildmass)",
+      "24 × 40 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1882/83",
+    "technik": "Öl auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6613/6613_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          309.8,
+          463.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Luzern 2009; so auch im Gutachten von Quinsac 1986 auf der Werkrückseite."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich 1882/83 bis o. D.",
+      "besitzer": "Vittore Grubicy de Dragon (1851–1920), vermutlich Milano, erhalten/erworben vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Zur Datierung siehe Gutachten von Quinsac 1986 auf der Werkrückseite beziehungsweise Fn. 8. Während die Beglaubigung von Grubicy de Dragon von einem Erhalt des Werks im Jahr 1880 spricht, legt Quinsac die Entstehungszeit des Gemäldes auf 1882/83 fest."
+        },
+        {
+          "nr": 3,
+          "text": "Siehe handschriftliche Beglaubigung von Grubicy de Dragon auf der Werkrückseite. Der Mailänder Kunstkritiker und Kunsthändler war Segantinis Galerist und Förderer."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Luzern",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Luzern 2009. Darin wird auf eine Fischer-Auktion im Mai 1994 verwiesen (Kunstauktionen, Auktionskatalog Galerie Fischer, Luzern, 10./11. Mai 1994, Luzern 1994, Lot 3682). Das Werk lässt sich in diesem Auktionskatalog jedoch nicht finden."
+        }
+      ]
+    },
+    {
+      "zeitraum": "7. November 2009",
+      "besitzer": "Auktion Galerie Gloggner (Kunstauktion aus Schweizer Privatbesitz, Sammlungen und Nachlässen, Lot 37, Paysage de neige en Lombardie), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Luzern 2009."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 7. November 2009",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Gloggner, Zuschlagspreis: 65 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Luzern 2009 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkataloge",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973 [Werk nicht enthalten].\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, Bd. 1, Mailand 1982 [Werk nicht enthalten].",
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Im 1982 erschienenen Werkkatalog von Annie-Paule Quinsac ist das Werk nicht enthalten. Jedoch hat Quinsac 1986 ein Gutachten zum Werk angefertigt und es darin als authentischen Segantini ausgewiesen, siehe Werkrückseite."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunstauktion aus Schweizer Privatbesitz, Sammlungen und Nachlässen, Auktionskatalog Galerie Gloggner, Luzern, 7. November 2009, Luzern 2009, Lot 37."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum"
+          },
+          {
+            "text": "Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 150,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 151,
+            "datum": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "Auktionskatalog Luzern 2009, annotiert von Bruno Stefanini",
+      "bilder": [
+        {
+          "datei": "images/6613/6613_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            599.7,
+            533.0,
+            739.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6613/6613_003_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          397.7,
+          306.7,
+          545.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich «GSegantini» («GS» ligiert)",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich «GSegantini» («GS» ligiert)",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6613/6613_004_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              583.6,
+              303.6,
+              644.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Bildträger (Holz): verbräunter Zettel mit Wachssiegel, handschriftlich mit schwarzer Tinte «Il sottoscritto di | chiara di aver avuto | personalmente da | Segantini questo suo | lavoro nel’ anno 1880 | Vittore Grubicy [De?] Dragon»",
+        "position_traeger": "o. r. Bildträger (Holz)",
+        "merkmal": "verbräunter Zettel mit Wachssiegel, handschriftlich mit schwarzer Tinte «Il sottoscritto di | chiara di aver avuto | personalmente da | Segantini questo suo | lavoro nel’ anno 1880 | Vittore Grubicy [De?] Dragon»",
+        "kommentar": "Beglaubigung/Vermerk von Vittore Grubicy zu Erwerbsumständen (1880 persönlich von Segantini erhalten)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6613/6613_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              657.6,
+              306.3,
+              754.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Gemäss dem auf der Werkrückseite angehefteten Gutachten von Annie-Paule Quinsac stellt diese Angabe die wahrscheinliche Datierung des Werks auf 1882/83 nicht infrage («cette date [1880] ne doit pas être prise à la lettre»)."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: angeheftete schwarzweiss fotokopierte Dokumente",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "angeheftete schwarzweiss fotokopierte Dokumente",
+        "kommentar": "Gutachten von Annie-Paule Quinsac (Verfasserin des Werkkatalogs), Zürich, 14. August 1986",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6613/6613_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              184.2,
+              306.3,
+              306.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/6613/6613_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              312.3,
+              306.3,
+              438.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/6613/6613_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              444.3,
+              306.3,
+              669.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis Auktion Galerie Gloggner, 7. November 2009, mit handschriftlich annotiertem Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis Auktion Galerie Gloggner, 7. November 2009, mit handschriftlich annotiertem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6613/6613_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              306.3,
+              281.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Bildträger (Holz), unter Erwerbsnachweis: handschriftlich mit weisser Kreide «657»",
+        "position_traeger": "o. l. Bildträger (Holz), unter Erwerbsnachweis",
+        "merkmal": "handschriftlich mit weisser Kreide «657»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6613/6613_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              293.5,
+              236.2,
+              341.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Luzern 2009; so auch im Gutachten von Quinsac 1986 auf der Werkrückseite."
+    },
+    {
+      "nr": 2,
+      "text": "Zur Datierung siehe Gutachten von Quinsac 1986 auf der Werkrückseite beziehungsweise Fn. 8. Während die Beglaubigung von Grubicy de Dragon von einem Erhalt des Werks im Jahr 1880 spricht, legt Quinsac die Entstehungszeit des Gemäldes auf 1882/83 fest."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe handschriftliche Beglaubigung von Grubicy de Dragon auf der Werkrückseite. Der Mailänder Kunstkritiker und Kunsthändler war Segantinis Galerist und Förderer."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Luzern 2009. Darin wird auf eine Fischer-Auktion im Mai 1994 verwiesen (Kunstauktionen, Auktionskatalog Galerie Fischer, Luzern, 10./11. Mai 1994, Luzern 1994, Lot 3682). Das Werk lässt sich in diesem Auktionskatalog jedoch nicht finden."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Luzern 2009."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Luzern 2009 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 7,
+      "text": "Im 1982 erschienenen Werkkatalog von Annie-Paule Quinsac ist das Werk nicht enthalten. Jedoch hat Quinsac 1986 ein Gutachten zum Werk angefertigt und es darin als authentischen Segantini ausgewiesen, siehe Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Gemäss dem auf der Werkrückseite angehefteten Gutachten von Annie-Paule Quinsac stellt diese Angabe die wahrscheinliche Datierung des Werks auf 1882/83 nicht infrage («cette date [1880] ne doit pas être prise à la lettre»)."
+    }
+  ],
+  "bilder_anzahl": 10
+}

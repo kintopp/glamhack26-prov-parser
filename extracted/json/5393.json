@@ -1,0 +1,712 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5393_221129.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "29. November 2022",
+  "stand_iso": "2022-11-29",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5393",
+      "Félix Vallotton (1865–1925)",
+      "Femme nue assise sur un rocher dans",
+      "l’eau / Baigneuse assise sur un rocher",
+      "1918",
+      "Öl auf Leinwand",
+      "50 × 61 cm (Bildmass)",
+      "64 × 75 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5393",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Femme nue assise sur un rocher dans l’eau / Baigneuse assise sur un rocher",
+    "masse": [
+      "50 × 61 cm (Bildmass)",
+      "64 × 75 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1918",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5393/5393_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          310.7,
+          436.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 2001, dort wohl nach dem Notat und Galerieetikett auf der Werkrückseite, die das Werk als Baigneuse bezeichnen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (Paul Vallotton, Lausanne), Nr. 70",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, Nr. 853",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 22. Mai 2000",
+      "besitzer": "Claude Vallotton (1905–2000), Pully",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005. Claude Vallotton war ein Neffe von Félix Vallotton, siehe Stammbaum in Ducrey 2005, Bd. 1, S. 72. Er verstarb am 22. Mai 2000, siehe Todesanzeige in: Le Nouvelliste, Nr. 121, 23. Mai 2000, S. 42, https://www.e-newspa-perarchives.ch/?a=d&d=NVE20000523-01.2.65 [22. November 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "22. Mai 2000 bis 22. Juni 2001",
+      "besitzer": "Nachlass Claude Vallotton, Pully / Rosemarie Faidutti, Champex",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005."
+        },
+        {
+          "nr": 7,
+          "text": "Galerie Kornfeld, Schreiben vom 1. November 2022, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "22. Juni 2001",
+      "besitzer": "Auktion Galerie Kornfeld (150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts, Lot 148, Baigneuse assise sur un Rocher), Bern, eingeliefert von Rosemarie Faidutti aus Nachlass Claude Vallotton",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ducrey 2005, Auktionskatalog Bern 2001."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22. Juni 2001",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 40 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 2001 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1270.",
+        "bilder": [
+          {
+            "datei": "images/5393/5393_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.4,
+              282.0,
+              454.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5393/5393_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              460.4,
+              282.0,
+              564.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1203."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, Nr. 227, 22. Juni 2001, Bern 2001, Lot 148."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Basel, 1931, Nr. 21 (Badende II)\n\n– Paris, 1935, Nr. 38 (Nu assis)",
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Möglich wäre die Jeune femme (https://www.errproject.org/jeu-depaume/card_view.php?CardId=57221 [28. Oktober 2022]), die jedoch aufgrund mangelnder Angaben nicht identifiziert werden kann. Zudem scheint das Werk in der fraglichen Zeit um 1940 in Familienbesitz gewesen zu sein.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "22. Oktober 2022",
+      "institution": "Galerie Kornfeld",
+      "betreff": "Frage nach Einlieferer/Einlieferin",
+      "antwort": "1. November 2022, Angabe von Nachlass Claude Vallotton, Pully / Rosemarie Faidutti, Champex"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5393/5393_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.9,
+            306.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 2001, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5393/5393_005_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          306.4,
+          373.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              410.4,
+              306.5,
+              445.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit hellblauem Schreibmittel «[Bai?]gneuse[?] 1910 ne pas vernir», teilweise verdeckt",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit hellblauem Schreibmittel «[Bai?]gneuse[?] 1910 ne pas vernir», teilweise verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              457.8,
+              306.3,
+              487.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5393/5393_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              495.7,
+              305.2,
+              532.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: Reste eines Stempels oder eines runden Siegels, darin Zeichen eines Ankers",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "Reste eines Stempels oder eines runden Siegels, darin Zeichen eines Ankers",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              546.4,
+              223.5,
+              620.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: handschriftlich mit dunklem Schreibmittel «150»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «150»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.8,
+              635.1,
+              223.6,
+              693.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. Mittelstrebe Keilrahmen: handschriftlich mit rotem Schreibmittel «2», unterstrichen",
+        "position_traeger": "o. Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «2», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              170.0,
+              191.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. Mittelstrebe Keilrahmen: verbräuntes langrechteckiges Etikett, Galerie Paul Vallotton, 7 rue Grand-Chêne, Lausanne, handschriftlich mit schwarzer Tinte «№ 853. | F. Vallotton | Baigneuse», daneben «61x50»",
+        "position_traeger": "o. Mittelstrebe Keilrahmen",
+        "merkmal": "verbräuntes langrechteckiges Etikett, Galerie Paul Vallotton, 7 rue Grand-Chêne, Lausanne, handschriftlich mit schwarzer Tinte «№ 853. | F. Vallotton | Baigneuse», daneben «61x50»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              205.9,
+              307.3,
+              274.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: schwarz gestempelt «PHOTO P.V.»",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "schwarz gestempelt «PHOTO P.V.»",
+        "kommentar": "höchstwahrscheinlich Hinweis von Paul Vallotton auf Anfertigung eines Fotos",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              294.2,
+              201.1,
+              359.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: handschriftlich mit rotem Schreibmittel «70. P.V.»",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «70. P.V.»",
+        "kommentar": "entspricht Nachlassnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.7,
+              374.6,
+              256.2,
+              416.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. Mittelstrebe Keilrahmen: handschriftlich mit dunkelblauem Schreibmittel «Photo PV»",
+        "position_traeger": "u. Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit dunkelblauem Schreibmittel «Photo PV»",
+        "kommentar": "wahrscheinlich Hinweis auf fotografische Aufnahme durch Paul Vallotton",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              438.0,
+              258.6,
+              478.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «148»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «148»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              514.1,
+              201.2,
+              562.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel der Auktion Galerie Kornfeld, Bern, 22. Juni 2001, mit handschriftlich ergänztem Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel der Auktion Galerie Kornfeld, Bern, 22. Juni 2001, mit handschriftlich ergänztem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5393/5393_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              577.3,
+              306.3,
+              714.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 2001, dort wohl nach dem Notat und Galerieetikett auf der Werkrückseite, die das Werk als Baigneuse bezeichnen."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005. Claude Vallotton war ein Neffe von Félix Vallotton, siehe Stammbaum in Ducrey 2005, Bd. 1, S. 72. Er verstarb am 22. Mai 2000, siehe Todesanzeige in: Le Nouvelliste, Nr. 121, 23. Mai 2000, S. 42, https://www.e-newspa-perarchives.ch/?a=d&d=NVE20000523-01.2.65 [22. November 2022]."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 7,
+      "text": "Galerie Kornfeld, Schreiben vom 1. November 2022, siehe Anfragen."
+    },
+    {
+      "nr": 8,
+      "text": "Ducrey 2005, Auktionskatalog Bern 2001."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 2001 im Archiv SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1203."
+    },
+    {
+      "nr": 11,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 12,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    }
+  ],
+  "bilder_anzahl": 17
+}

@@ -1,0 +1,697 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2832_250605.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "5. Juni 2025",
+  "stand_iso": "2025-06-05",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2832",
+      "Frank Buchser (1828–1890)",
+      "Brustbildnis einer jungen Südländerin im rechten",
+      "Dreiviertelprofil / Bildnis einer jungen Spanierin /Bildnis einer jungen Frau in schwarzer Mantilla",
+      "1869",
+      "Öl auf Holz",
+      "67 × 56 cm (Bildmass)",
+      "78,2 × 67,8 × 7,4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2832",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Brustbildnis einer jungen Südländerin im rechten Dreiviertelprofil / Bildnis einer jungen Spanierin /Bildnis einer jungen Frau in schwarzer Mantilla",
+    "masse": [
+      "67 × 56 cm (Bildmass)",
+      "78,2 × 67,8 × 7,4 cm (Rahmenmass)"
+    ],
+    "datierung": "1869",
+    "technik": "Öl auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2832/2832_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.7,
+          484.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1978."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel nach Auktionskatalog Bern 1974."
+      },
+      {
+        "nr": 3,
+        "text": "Werktitel nach Auktionskatalog Bern 1971."
+      },
+      {
+        "nr": 4,
+        "text": "Gemäss Auktionskatalog Bern 1971 wurde das Monogramm nachträglich aufgebracht. Siehe dagegen Expertise von Georges Terrisse, 30. Dezember 1937, im Archiv SKKG."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "7. Mai bis 12. Juni 1971",
+      "besitzer": "Auktion Dobiaschofsky (Gemälde, Asiatica und Antiquitäten. Alte und neuere Graphik und Helvetica, Lot 62, Bildnis einer jungen Frau in schwarzer Mantilla), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1971."
+        },
+        {
+          "nr": 6,
+          "text": "Möglicherweise erfolgte Ende der 1930er-Jahre ein Handwechsel. Darauf deuten zwei in dieser Zeit angefertigte Gutachten hin, die die Zuordnung des Werks zu Buchser bestätigen, siehe Archiv intern. Eines stammt von Georges Terrisse, Paris, 30. Dezember 1937, das andere vom Konservator Gottlieb Rüefli, Solothurn, 28. April 1938. Beide wurden wahrscheinlich anhand der Fotografie erstellt, auf deren Rückseite sie stehen. Zu Terrisse und Rüefli siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17./18. Oktober 1974",
+      "besitzer": "Auktion Dobiaschofsky (Gemälde des 16. bis 20. Jahrhunderts, Lot 91, Bildnis einer jungen Spanierin), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1974."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16. November bis 14. Dezember 1978",
+      "besitzer": "Auktion Galerie Jürg Stuker (40 Jahre Galerie Jürg Stuker. 1938–1978. Hochbedeutende Jubiläums-Auktionen, Lot 1867, Brustbildnis einer jungen Südländerin im rechten Dreiviertelprofil), Bern, eingeliefert von unbekannt"
+    },
+    {
+      "zeitraum": "21. November 1978 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 1600 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Bern 1978 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Gemälde, Asiatica und Antiquitäten. Alte und neuere Graphik und Helvetica, Auktionskatalog Dobiaschofsky, Bern, 7./8. Mai und 11./12. Juni 1971, Bern 1971, Lot 62, https://rkd.nl/images-lite/2182423 [4. Juni 2025].",
+        "bilder": [
+          {
+            "datei": "images/2832/2832_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              461.0,
+              419.5,
+              543.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Gemälde des 16. bis 20. Jahrhunderts, Auktionskatalog Dobiaschofsky, Bern, 17./18. Oktober 1974, Bern 1974, Lot 91, https://rkd.nl/imageslite/2182422 [4. Juni 2025]."
+          },
+          {
+            "datei": "images/2832/2832_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.7,
+              600.1,
+              420.2,
+              672.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "40 Jahre Galerie Jürg Stuker .1938–1978. Hochbedeutende Jubiläums-Auktionen, Auktionskatalog Galerie Jürg Stuker, 16. November bis 6. Dezember 1978 und 9.–14. Dezember 1978, Bern 1978, Lot 1867."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Frank Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-06-04"
+          },
+          {
+            "text": "0 Treffer (105 Ergebnisse) für Suche «Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 105,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank» mit Filter: Publication Name «EU, Ardelia Hall Collection: Wiesbaden Administrative Records, 1945–1952» und «EU, Ardelia Hall Collection: OMGUS Records, 1938–1951» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Suche «Buchser», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Frank Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Frank Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2025-06-04"
+          },
+          {
+            "text": "0 Treffer (111 Ergebnisse) für Volltextsuche «Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 111,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Volltextsuche «Buchser» (inklusive Varianten der Namensschreibweise) [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Suche in Auktionskatalogen, Filter: Künstler «Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2025-06-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.1.2 (PDF, S. 173–174)",
+      "bilder": [
+        {
+          "datei": "images/2832/2832_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            504.8,
+            533.0,
+            702.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/2832/2832_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            133.8,
+            533.0,
+            333.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Expertise von Georges Terrisse, 30. Dezember 1937, Paris, auf der Rückseite einer Fotografie des Bildes. Darunter Expertise von Konservator Gottlieb Rüefli, Solothurn, vom 28. April 1938."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2832/2832_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            427.7,
+            532.7,
+            449.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1978, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Georges Terrisse (1885–1963)",
+      "information": "Gutachter und Kunsthändler in Paris, siehe https://agorha.inha.fr/de-tail/132 [5. Juni 2025]."
+    },
+    {
+      "thema": "Gottlieb Rüefli (1866–1954)",
+      "information": "Kunstmaler und Restaurator in Solothurn, siehe https://recherche.sik-isea.ch/sik:person-4026634/in/sikart [5. Juni 2025]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2832/2832_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          320.9,
+          464.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "l. m. Leinwand: handschriftlich mit schwarzer Farbe «FB»",
+        "position_traeger": "l. m. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «FB»",
+        "kommentar": "Monogramm des Künstlers, offenbar nachträglich aufgebracht",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              501.4,
+              209.5,
+              577.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Siehe Fn. 4."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallplakette, eingraviert «F. BUCHSER 1828-1890»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallplakette, eingraviert «F. BUCHSER 1828-1890»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              590.4,
+              268.9,
+              625.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Parkettierung: handschriftlich mit heller Kreide «29.»",
+        "position_traeger": "u. l. Parkettierung",
+        "merkmal": "handschriftlich mit heller Kreide «29.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              638.1,
+              232.1,
+              705.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit hellvioletter Kreide oder Fettstift «29.»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit hellvioletter Kreide oder Fettstift «29.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              139.8,
+              233.1,
+              209.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Parkettierung: mit schwarzem Schreibmittel «5 y [?] 8 GM»",
+        "position_traeger": "o. l. Parkettierung",
+        "merkmal": "mit schwarzem Schreibmittel «5 y [?] 8 GM»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              137.0,
+              222.0,
+              321.3,
+              278.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Parkettierung: schwarz schabloniert «3 0 0 FX»",
+        "position_traeger": "o. l. Parkettierung",
+        "merkmal": "schwarz schabloniert «3 0 0 FX»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.5,
+              291.0,
+              320.2,
+              336.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Parkettierung: handschriftlich mit heller Kreide «2 7»",
+        "position_traeger": "o. l. Parkettierung",
+        "merkmal": "handschriftlich mit heller Kreide «2 7»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              350.0,
+              319.1,
+              404.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit blauem Filzstift «RTH» und mit grünem Filzstift «RT 25», dabei «25» aus «24» korrigiert und «RT» mit blauem Filzstift doppelt durchgestrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Filzstift «RTH» und mit grünem Filzstift «RT 25», dabei «25» aus «24» korrigiert und «RT» mit blauem Filzstift doppelt durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              416.8,
+              319.1,
+              507.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: unleserlich",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              519.8,
+              322.2,
+              578.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, blau gedruckt «1867»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, blau gedruckt «1867»",
+        "kommentar": "Auktion Galerie Jürg Stuker 1978, Lot 1867",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2832/2832_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              591.4,
+              222.6,
+              666.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1978."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel nach Auktionskatalog Bern 1974."
+    },
+    {
+      "nr": 3,
+      "text": "Werktitel nach Auktionskatalog Bern 1971."
+    },
+    {
+      "nr": 4,
+      "text": "Gemäss Auktionskatalog Bern 1971 wurde das Monogramm nachträglich aufgebracht. Siehe dagegen Expertise von Georges Terrisse, 30. Dezember 1937, im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1971."
+    },
+    {
+      "nr": 6,
+      "text": "Möglicherweise erfolgte Ende der 1930er-Jahre ein Handwechsel. Darauf deuten zwei in dieser Zeit angefertigte Gutachten hin, die die Zuordnung des Werks zu Buchser bestätigen, siehe Archiv intern. Eines stammt von Georges Terrisse, Paris, 30. Dezember 1937, das andere vom Konservator Gottlieb Rüefli, Solothurn, 28. April 1938. Beide wurden wahrscheinlich anhand der Fotografie erstellt, auf deren Rückseite sie stehen. Zu Terrisse und Rüefli siehe Kontextinformationen."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1974."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Bern 1978 im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Fn. 4."
+    }
+  ],
+  "bilder_anzahl": 17
+}

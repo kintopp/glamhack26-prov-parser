@@ -1,0 +1,706 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4084_250408.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. April 2025",
+  "stand_iso": "2025-04-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4084",
+      "Adolf Dietrich (1877–1957)",
+      "Alpenlandschaft mit Fuhrwerk",
+      "1904",
+      "Öl auf Karton auf Sperrholz",
+      "51 × 35 cm (Bildmass)",
+      "76 × 61,5 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "4084",
+    "status": "Klar",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Alpenlandschaft mit Fuhrwerk",
+    "masse": [
+      "51 × 35 cm (Bildmass)",
+      "76 × 61,5 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1904",
+    "technik": "Öl auf Karton auf Sperrholz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4084/4084_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          317.0,
+          546.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1904 bis mindestens 1957, wahrscheinlich bis um 1965",
+      "besitzer": "Friedrich (Fritz) Neeser (1884–1980), Stein am Rhein, wahrscheinlich angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Ausstellungsetikett des Kunsthauses Zürich auf der Werkrückseite, Ausstellungskatalog Zürich 1957 sowie Auskunft des Kunsthauses Zürich vom 13. August 2024. Für die Datierung siehe handschriftlich beschriebenes Zusatzetikett auf der Werkrückseite. Der Bäcker Friedrich Neeser war mit Adolf Dietrich befreundet. 1908 malte Dietrich ein Porträt von ihm, siehe Ammann/Vögele 1994, Nr. 08.01. Neesers Tochter beschreibt die Freundschaft ihres Vaters mit dem Künstler, siehe Baumann-Neeser 2002. Auf einer in ihrem Beitrag wiedergegebenen Fotografie sind drei Bilder in einer Ausstellung zu sehen, die alle Friedrich Neeser gehört haben sollen; auch die Alpenlandschaft mit Fuhrwerk ist darauf zu erkennen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Bernhard Schuler, Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «A.D. 0–15 G», Werkdatenblatt Nr. 04.01, siehe Archive extern."
+        }
+      ]
+    },
+    {
+      "zeitraum": "möglicherweise 1986/87 bis 1. August 1988",
+      "besitzer": "vermutlich Walter Zehnder, Wallisellen, möglicherweise vermittelt durch Schoch, Moos",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Angabe gemäss Objektdatenbank SKKG. Auf dem Erwerbsnachweis auf der Werkrückseite steht lediglich «Z.». Bruno Stefanini hat von Walter Zehnder mehrfach Kunstwerke angekauft und ihn auch für die Aufgabe als Experte und Berater angefragt. Im Archiv SKKG hat sich eine auf Ende Juli 1988 – also wenige Tage vor dem Ankauf – datierte Anfahrtsbeschreibung für die Autofahrt von Winterthur nach Wallisellen, Tödistrasse, zu Zehnder erhalten, siehe Archiv intern. Vermutlich hat Stefanini das Werk vor Ort besichtigt, vielleicht sogar abgeholt."
+        },
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Worauf sich die Angabe zur Vermittlung bezieht, ist nicht ganz klar; angesichts der Datierung 1986/87 vermutlich auf die Vorprovenienz, also Zehnder. Um wen es sich bei «Schoch, Moos» handelt, konnte nicht in Erfahrung gebracht werden."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 1. August 1988",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, vermutlich von Walter Zehnder",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Fn. 4."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 04.01.",
+        "bilder": [
+          {
+            "datei": "images/4084/4084_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.4,
+              348.7,
+              420.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Adolf Dietrich. 1877–1957. Gedächtnisausstellung, 17. Oktober bis Ende November 1957, Ausstellungskatalog Kunsthaus Zürich, Zürich 1957, Nr. 3.",
+        "bilder": [
+          {
+            "datei": "images/4084/4084_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              502.5,
+              348.0,
+              551.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Lisel Baumann-Neeser, «Als Kind habe ich immer gewartet, bis Adolf Dietrich ins Erzählen kam und seine typischen ‹hou-hou› und ‹dä Galgechutzer› sagte», in: Adolf Dietrich – ein Künstlerleben am See, hrsg. von Urs Oskar Keller, Frauenfeld 2002, S. 31–35."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [8. Januar 2025]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2025-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (22 Ergebnisse) für Volltextsuche «Alpenlandschaft», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 22,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (144 Ergebnisse) für Volltextsuche «Alpenlandschaft» und «Fuhrwerk» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 144,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2024-01-08"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Adolf Dietrich» (inklusive aller Namensschreibweisen) [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche mit Filter: Künstler «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "13. August 2024",
+      "institution": "Kunsthaus Zürich",
+      "betreff": "Einlieferer Ausstellung 1957",
+      "antwort": "13. August 2024: Der Einlieferer war Fritz Neeser, Stein am Rhein."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.1382, NF_0158",
+      "bilder": [
+        {
+          "datei": "images/4084/4084_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            347.9,
+            533.0,
+            425.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Beschreibung vom 21. Juli 1988 für die Anfahrt von Winterthur nach Wallisellen, Tödistrasse, zu Walter Zehnder. Wahrscheinlich besteht ein Zusammenhang zum Ankauf des Werks am 1. August 1988."
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "–",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «A.D. 0–15 G»",
+      "bilder": [
+        {
+          "datei": "images/4084/4084_005_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            234.7,
+            533.0,
+            477.7
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/4084/4084_006_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            483.7,
+            533.0,
+            699.2
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Werkdatenblatt Nr. 04.01"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4084/4084_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          240.8,
+          311.7,
+          552.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «A.Dietrich | 1904»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «A.Dietrich | 1904»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              590.2,
+              243.3,
+              653.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Transkription nach Werkdatenblatt (unleserlich auf Digitalisat), siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: langrechteckiges beiges Etikett, schwarz gedruckt «3 LAND-SCHAFT, 1905»",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "langrechteckiges beiges Etikett, schwarz gedruckt «3 LAND-SCHAFT, 1905»",
+        "kommentar": "Ausstellung Kunsthaus Zürich 1957, Nr. 3",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              665.8,
+              311.8,
+              702.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Holztafel: rechteckiges beiges Etikett des Kunsthauses Zürich, zweiseitig gezahnt, schwarz bedruckt und handschriftlich mit blauem Kugelschreiber ergänzt, Besitzer: «Hr.Fritz […] Stein […] Rh» und «Fritz Neeser = Freund von Ad. Dietrich»",
+        "position_traeger": "o. r. Holztafel",
+        "merkmal": "rechteckiges beiges Etikett des Kunsthauses Zürich, zweiseitig gezahnt, schwarz bedruckt und handschriftlich mit blauem Kugelschreiber ergänzt, Besitzer: «Hr.Fritz […] Stein […] Rh» und «Fritz Neeser = Freund von Ad. Dietrich»",
+        "kommentar": "Ausstellung Kunsthaus Zürich 1957",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              311.7,
+              225.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Holztafel: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «von 1904 bis | ca. 1965 im | Besitz von F. Neeser | Bäcker […] | Stein a Rh»",
+        "position_traeger": "o. r. Holztafel",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «von 1904 bis | ca. 1965 im | Besitz von F. Neeser | Bäcker […] | Stein a Rh»",
+        "kommentar": "Erläuterungen zu Fritz Neeser, aufgebracht nach 1965 von derselben Hand wie die Annotationen auf dem Kunsthaus-Etikett (siehe vorausgehendes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              253.5,
+              251.9,
+              324.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: schwarzer Zollstempel",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "schwarzer Zollstempel",
+        "kommentar": "Schweizer Zoll",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              137.1,
+              405.1,
+              199.3,
+              465.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «4», unterstrichen",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «4», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              478.3,
+              197.4,
+              551.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Reste eines weissen gezahnten Etiketts",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Reste eines weissen gezahnten Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              564.3,
+              258.2,
+              646.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen (unter Etikettresten): handschriftlich mit rotem Schreibmittel «X» (Kreuz)",
+        "position_traeger": "o. r. Zierrahmen (unter Etikettresten)",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «X» (Kreuz)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              659.3,
+              258.2,
+              741.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «61/45»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «61/45»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              215.0,
+              202.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Holztafel: verbräuntes rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel «X» (Kreuz), schwarz gedruckt «5071», wohl handschriftlich nachgebessert, mit blauem Kugelschreiber unterstrichen",
+        "position_traeger": "o. l. Holztafel",
+        "merkmal": "verbräuntes rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel «X» (Kreuz), schwarz gedruckt «5071», wohl handschriftlich nachgebessert, mit blauem Kugelschreiber unterstrichen",
+        "kommentar": "vermutlich SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              215.3,
+              214.9,
+              260.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: möglicherweise ausgekratzter Vermerk (oder auch nur Schadstelle)",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "möglicherweise ausgekratzter Vermerk (oder auch nur Schadstelle)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              329.0,
+              259.9,
+              404.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiger weisser Zettel, angeheftet und mit Klebestreifen befestigt, handschriftlich mit schwarzem Filzstift beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiger weisser Zettel, angeheftet und mit Klebestreifen befestigt, handschriftlich mit schwarzem Filzstift beschrieben",
+        "kommentar": "Erwerbsnachweis des Ankaufs 1988, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4084/4084_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              416.7,
+              312.9,
+              548.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Jahresangabe gemäss Objektdatenbank SKKG (verdeckt auf Digitalisat)."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Ausstellungsetikett des Kunsthauses Zürich auf der Werkrückseite, Ausstellungskatalog Zürich 1957 sowie Auskunft des Kunsthauses Zürich vom 13. August 2024. Für die Datierung siehe handschriftlich beschriebenes Zusatzetikett auf der Werkrückseite. Der Bäcker Friedrich Neeser war mit Adolf Dietrich befreundet. 1908 malte Dietrich ein Porträt von ihm, siehe Ammann/Vögele 1994, Nr. 08.01. Neesers Tochter beschreibt die Freundschaft ihres Vaters mit dem Künstler, siehe Baumann-Neeser 2002. Auf einer in ihrem Beitrag wiedergegebenen Fotografie sind drei Bilder in einer Ausstellung zu sehen, die alle Friedrich Neeser gehört haben sollen; auch die Alpenlandschaft mit Fuhrwerk ist darauf zu erkennen."
+    },
+    {
+      "nr": 3,
+      "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «A.D. 0–15 G», Werkdatenblatt Nr. 04.01, siehe Archive extern."
+    },
+    {
+      "nr": 4,
+      "text": "Angabe gemäss Objektdatenbank SKKG. Auf dem Erwerbsnachweis auf der Werkrückseite steht lediglich «Z.». Bruno Stefanini hat von Walter Zehnder mehrfach Kunstwerke angekauft und ihn auch für die Aufgabe als Experte und Berater angefragt. Im Archiv SKKG hat sich eine auf Ende Juli 1988 – also wenige Tage vor dem Ankauf – datierte Anfahrtsbeschreibung für die Autofahrt von Winterthur nach Wallisellen, Tödistrasse, zu Zehnder erhalten, siehe Archiv intern. Vermutlich hat Stefanini das Werk vor Ort besichtigt, vielleicht sogar abgeholt."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Worauf sich die Angabe zur Vermittlung bezieht, ist nicht ganz klar; angesichts der Datierung 1986/87 vermutlich auf die Vorprovenienz, also Zehnder. Um wen es sich bei «Schoch, Moos» handelt, konnte nicht in Erfahrung gebracht werden."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Fn. 4."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 8,
+      "text": "Transkription nach Werkdatenblatt (unleserlich auf Digitalisat), siehe Fn. 3."
+    },
+    {
+      "nr": 9,
+      "text": "Jahresangabe gemäss Objektdatenbank SKKG (verdeckt auf Digitalisat)."
+    }
+  ],
+  "bilder_anzahl": 18
+}

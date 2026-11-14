@@ -1,0 +1,376 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1900_250528.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Mai 2025",
+  "stand_iso": "2025-05-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1900",
+      "Ernest Biéler (1863–1948)",
+      "Die Bohnenrüsterin",
+      "1940",
+      "Öl auf Holz",
+      "77 × 65 cm (Bildmass)",
+      "110 × 106 × 6,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "1900",
+    "status": "Klar",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "Die Bohnenrüsterin",
+    "masse": [
+      "77 × 65 cm (Bildmass)",
+      "110 × 106 × 6,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1940",
+    "technik": "Öl auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1900/1900_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.2,
+          451.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, Quelle unbekannt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "frühestens 1940 bis 1971",
+      "besitzer": "Kaufmann (gest. 1971), St. Prex, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Gemäss Ethel Mathier, Auskunft vom 28. Mai 2025. Siehe Adressetikett auf der Werkrückseite. Die Person liess sich nicht näher bestimmen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 1971, spätestens 1974",
+      "besitzer": "Transfer",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auf der Werkrückseite ist ein Etikett der Transportfirma Marcel Schneider aufgebracht, ansässig unter diesem Namen in Lausanne zwischen 1953 und 1974, siehe Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit o. D.",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Der Ankaufsbeleg – die erhaltenen Heftklammern auf der Werkrückseite weisen auf das vormalige Vorhandensein eines solchen hin – ist nicht aufzufinden. Erwerbsdatum und Erwerbsart sind unbekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv/Ad-ressat:in",
+      "betreff": "Betreff",
+      "antwort": "Antwort"
+    },
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "1. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (8 Ergebnisse) für Volltextsuche «Bieler»"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1900/1900_002_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          165.3,
+          291.0,
+          400.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. m. Leinwand: handschriftlich mit braunem Schreibmittel «E. BIELER – | 1940 –»",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "handschriftlich mit braunem Schreibmittel «E. BIELER – | 1940 –»",
+        "kommentar": "Signatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1900/1900_003_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              438.3,
+              242.0,
+              501.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit braunem Schreibmittel «2 3»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit braunem Schreibmittel «2 3»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1900/1900_004_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              513.8,
+              241.9,
+              565.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Heftklammern",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Heftklammern",
+        "kommentar": "Vermutlich war an dieser Stelle der Erwerbsnachweis der SKKG angeheftet.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1900/1900_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              577.9,
+              242.0,
+              740.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges beiges Etikett, liniert, handschriftlich mit Bleistift «H. [?] Kaufmann | St. Prex»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, liniert, handschriftlich mit Bleistift «H. [?] Kaufmann | St. Prex»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1900/1900_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              139.8,
+              291.6,
+              225.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges beiges Etikett, rot bedruckt; Etikett der Firma Marcel Schneider SA, Déménagements, Lausanne, mit Laufnummer 63732",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, rot bedruckt; Etikett der Firma Marcel Schneider SA, Déménagements, Lausanne, mit Laufnummer 63732",
+        "kommentar": "Die Umzugsfirma Marcel Schneider bestand unter diesem Namen von 1953 bis 1974 (danach «Schneider Déménagements»).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1900/1900_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              237.8,
+              291.6,
+              306.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "https://www.schneider-demenagements.ch [16. November 2022]."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, Quelle unbekannt."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Ethel Mathier, Auskunft vom 28. Mai 2025. Siehe Adressetikett auf der Werkrückseite. Die Person liess sich nicht näher bestimmen."
+    },
+    {
+      "nr": 3,
+      "text": "Auf der Werkrückseite ist ein Etikett der Transportfirma Marcel Schneider aufgebracht, ansässig unter diesem Namen in Lausanne zwischen 1953 und 1974, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Der Ankaufsbeleg – die erhaltenen Heftklammern auf der Werkrückseite weisen auf das vormalige Vorhandensein eines solchen hin – ist nicht aufzufinden. Erwerbsdatum und Erwerbsart sind unbekannt."
+    },
+    {
+      "nr": 5,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 6,
+      "text": "https://www.schneider-demenagements.ch [16. November 2022]."
+    }
+  ],
+  "bilder_anzahl": 7
+}

@@ -1,0 +1,540 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7524_230608.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7524",
+      "Albert Anker (1831–1910)",
+      "Mädchenbildnis",
+      "1871",
+      "Öl auf Leinwand",
+      "40,5 × 36,5 × 2,2 cm (Bildmass)",
+      "60 × 55,6 × 9,8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7524",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Mädchenbildnis",
+    "masse": [
+      "40,5 × 36,5 × 2,2 cm (Bildmass)",
+      "60 × 55,6 × 9,8 cm (Rahmenmass)"
+    ],
+    "datierung": "1871",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7524/7524_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.2,
+          467.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Portrait de jeune fille."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "von Muralt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Das Adelsgeschlecht von Muralt weist einen Zürcher und einen Berner Zweig auf; dem Werkkatalog sind keine weiteren Hinweise zur Familie zu entnehmen. Möglicherweise gehören die Siegelreste auf der Rückseite zu dieser Provenienz, siehe Provenienzmerkmale. Zum Geschlecht «von Muralt» siehe auch: https://de.wikipedia.org/wiki/Muralt_(Adelsgeschlecht) [30. März 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Dort wird wie im Werkkatalog 1962 «von Muralt» als Provenienz angegeben und der aktuelle Standort mit «Privatbesitz». Es ist möglich, dass es sich um dieselbe Eigentümerschaft handelt und das Werk durchgehend bei von Muralt war."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12.–14. November 1981",
+      "besitzer": "Auktion Galerie Villa Ulmberg (Auktion Schweizer Malerei […], Lot 19, Mädchenportrait), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1981, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. Juni 2012",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst / Swiss Art, Lot 14, Mädchenbildnis im Profil), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 4. Juni 2012",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 40 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2012 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 112, Nr. 154.",
+        "bilder": [
+          {
+            "datei": "images/7524/7524_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              322.3,
+              316.9,
+              435.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Albert Anker, Katalog der Gemälde und Ölstudien, hrsg. vom Berner Kunstmuseum, Bern 1962, Nr. 721."
+          },
+          {
+            "datei": "images/7524/7524_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.7,
+              480.0,
+              366.2,
+              533.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion Schweizer Malerei mit vielen bedeutenden Werken von bekannten Schweizer Malern, Auktionskatalog Galerie Villa Ulmberg, Zürich, 12.–14. November 1981, Zürich 1981, Lot 19.\n\nSchweizer Kunst / Swiss Art, Auktionskatalog Sotheby’s, Zürich, 4. Juni 2012, Zürich 2012, Lot 14."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Albert Anker» und «Mädchenbildnis» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2023-03-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "11. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7524/7524_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            191.2,
+            532.9,
+            291.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1981, annotiert von Bruno Stefanini (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7524/7524_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            348.1,
+            533.0,
+            409.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierter Auktionskatalog Zürich 2012"
+        }
+      ]
+    },
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7524/7524_006_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            453.5,
+            533.0,
+            557.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Zürich 2012 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7524/7524_007_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          292.1,
+          485.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit roter Farbe «Anker | [1871]»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit roter Farbe «Anker | [1871]»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7524/7524_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              523.1,
+              243.5,
+              613.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Nicht entzifferbar auf dem Digitalisat, Transkription nach Kuthy/Bhattacharya-Stettler 1995."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: verbräuntes rechteckiges Etikett, rechts mit Klebeband angeheftet, handschriftlich mit schwarzem Schreibmittel «A. ANKER»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, rechts mit Klebeband angeheftet, handschriftlich mit schwarzem Schreibmittel «A. ANKER»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7524/7524_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              626.2,
+              292.5,
+              671.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Kopie, handschriftlich mit blauem Schreibmittel «Z 40’000.–»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Kopie, handschriftlich mit blauem Schreibmittel «Z 40’000.–»",
+        "kommentar": "Erwerbsnachweis Auktion Sotheby’s 2012",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7524/7524_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              292.3,
+              253.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «18145», unterstrichen",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «18145», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7524/7524_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              135.5,
+              266.1,
+              229.7,
+              303.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rundes Siegel mit rotem Siegellack, nicht entzifferbar",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rundes Siegel mit rotem Siegellack, nicht entzifferbar",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7524/7524_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              329.4,
+              229.9,
+              437.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «18145», unterstrichen, handschriftlich mit braunem Schreibmittel «0» oder Kreis",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «18145», unterstrichen, handschriftlich mit braunem Schreibmittel «0» oder Kreis",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7524/7524_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              450.4,
+              229.9,
+              489.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Portrait de jeune fille."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Das Adelsgeschlecht von Muralt weist einen Zürcher und einen Berner Zweig auf; dem Werkkatalog sind keine weiteren Hinweise zur Familie zu entnehmen. Möglicherweise gehören die Siegelreste auf der Rückseite zu dieser Provenienz, siehe Provenienzmerkmale. Zum Geschlecht «von Muralt» siehe auch: https://de.wikipedia.org/wiki/Muralt_(Adelsgeschlecht) [30. März 2023]."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Dort wird wie im Werkkatalog 1962 «von Muralt» als Provenienz angegeben und der aktuelle Standort mit «Privatbesitz». Es ist möglich, dass es sich um dieselbe Eigentümerschaft handelt und das Werk durchgehend bei von Muralt war."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1981, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2012."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2012 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Nicht entzifferbar auf dem Digitalisat, Transkription nach Kuthy/Bhattacharya-Stettler 1995."
+    }
+  ],
+  "bilder_anzahl": 13
+}

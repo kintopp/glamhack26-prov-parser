@@ -1,0 +1,619 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6_230825.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "15. August 2023",
+  "stand_iso": "2023-08-15",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6",
+      "Sigismund Righini (1870–1937)",
+      "Tisch mit Blumen",
+      "1908",
+      "Öl auf Leinwand (auf Karton aufgezogen)",
+      "39 × 55 cm (Bildmass)",
+      "52,2 × 68,1 × 3,8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6",
+    "status": "Ungeklärt",
+    "kuenstler": "Sigismund Righini (1870–1937)",
+    "titel": "Tisch mit Blumen",
+    "masse": [
+      "39 × 55 cm (Bildmass)",
+      "52,2 × 68,1 × 3,8 cm (Rahmenmass)"
+    ],
+    "datierung": "1908",
+    "technik": "Öl auf Leinwand (auf Karton aufgezogen)",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6/6_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          316.1,
+          468.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Vereinbarung vom 24. Mai 1989 in der Objektdatenbank SKKG; siehe auch Etikett und handschriftliche Aufschrift auf der Werkrückseite mit identischer Angabe."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Sammlung E. Wolfensberger",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Etikett auf der Werkrückseite. Wahrscheinlich handelt es sich um den 1938 geborenen Zürcher Kunstsammler Edi Wolfensberger."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 24. Mai 1989",
+      "besitzer": "Atelier Righini Fries, Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Mai 1989",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erhalten als Schenkung von Hanny Fries, Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Die Schenkerin Hanny Fries ist Sigismund Righinis Enkeltochter. Sie hat das Werk Bruno Stefanini überlassen, siehe Vereinbarung vom 24. Mai 1989 in der Objektdatenbank SKKG (siehe auch Fn. 5). Ob das Gemälde durchgehend im Eigentum der Familie war, ist nicht geklärt; angesichts des auf E. Wolfensberger (siehe Fn. 2) verweisenden Etiketts auf der Werkrückseite ist ein entsprechender zwischenzeitlicher Besitz anzunehmen."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (57 Ergebnisse) für Volltextsuche «Righini», Filter: Conflict/War «World War II» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 57,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (55 Ergebnisse) für Volltextsuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 55,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Künstlersuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Righini» [14. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/6/6_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            190.7,
+            529.5,
+            428.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Vereinbarung zwischen Hanny Fries und SKKG vom 24. Mai 1989 zu Kauf und Schenkung von Righini-Werken, unterzeichnet von Hanny Fries, Bruno Stefanini und Dora Bösiger"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Gemäss Vereinbarung gingen einige Werke – darunter dieses – als Schenkung in die Stiftung über, während andere käuflich erworben wurden. Darin wurden auch weitere Bestimmungen, etwa zu Aufbewahrung und Leihgaben, getroffen."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6/6_003_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          165.3,
+          321.7,
+          372.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. r. Leinwand: «4 SR 1908» («SR» ligiert)",
+        "position_traeger": "o. r. Leinwand",
+        "merkmal": "«4 SR 1908» («SR» ligiert)",
+        "kommentar": "Monogramm des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_004_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.4,
+              409.7,
+              320.4,
+              475.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rückwand: weiss-blaues, unten gezahntes quadratisches Etikett, handschriftlich mit schwarzem Filzstift «134»",
+        "position_traeger": "o. m. Rückwand",
+        "merkmal": "weiss-blaues, unten gezahntes quadratisches Etikett, handschriftlich mit schwarzem Filzstift «134»",
+        "kommentar": "vermutlich angebracht von Ursula Netzer, Schlossverwalterin Brestenberg",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.4,
+              488.3,
+              209.9,
+              565.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: zweimal handschriftlich mit dunklem Schreibmittel «6»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "zweimal handschriftlich mit dunklem Schreibmittel «6»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_006_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.4,
+              578.8,
+              213.4,
+              665.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: angehefteter Zettel «SIGISMUND RIGHINI | Tisch mit Blumen, 1908 | Sammlung E. Wolfensberger», darauf handschriftlich mit schwarzem Schreibmittel «37153»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "angehefteter Zettel «SIGISMUND RIGHINI | Tisch mit Blumen, 1908 | Sammlung E. Wolfensberger», darauf handschriftlich mit schwarzem Schreibmittel «37153»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_007_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.4,
+              678.3,
+              321.4,
+              735.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rückwand: verbräuntes rechteckiges Etikett, vermutlich mit Angaben für einen neuen Rahmen",
+        "position_traeger": "o. r. Rückwand",
+        "merkmal": "verbräuntes rechteckiges Etikett, vermutlich mit Angaben für einen neuen Rahmen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              139.8,
+              321.0,
+              226.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. Rückwand: handschriftlich mit dunklem Schreibmittel «[…] | R 1905», teilweise unleserlich",
+        "position_traeger": "m. Rückwand",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «[…] | R 1905», teilweise unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              239.3,
+              321.1,
+              320.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. und u. m. Spannrahmen: zweimal handschriftlich mit dunklem Schreibmittel «6»",
+        "position_traeger": "r. m. und u. m. Spannrahmen",
+        "merkmal": "zweimal handschriftlich mit dunklem Schreibmittel «6»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              333.2,
+              176.5,
+              385.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/6/6_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              391.7,
+              176.5,
+              448.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Rückwand: handschriftlich mit dunklem Schreibmittel «1908 | Tisch mit Blumen | Fr. 4000, [?]»",
+        "position_traeger": "u. r. Rückwand",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «1908 | Tisch mit Blumen | Fr. 4000, [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_012_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              461.2,
+              321.1,
+              563.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: handschriftlich mit dunklem Schreibmittel «S R 4»",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «S R 4»",
+        "kommentar": "möglicherweise Initialen des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_013_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              575.7,
+              247.3,
+              620.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Spannrahmen: schwarz gestempelt «S. Righini» mit verwischter Adressangabe, allenfalls «Klosbachstrasse 150 | Zürich V»",
+        "position_traeger": "u. l. Spannrahmen",
+        "merkmal": "schwarz gestempelt «S. Righini» mit verwischter Adressangabe, allenfalls «Klosbachstrasse 150 | Zürich V»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_014_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              638.8,
+              288.2,
+              728.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Spannrahmen: handgeschriebene Aufschrift, unleserlich; vermutlich «statt Lichtmass […]»",
+        "position_traeger": "l. m. Spannrahmen",
+        "merkmal": "handgeschriebene Aufschrift, unleserlich; vermutlich «statt Lichtmass […]»",
+        "kommentar": "möglicherweise Anweisung für Rahmenbau",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              140.1,
+              321.3,
+              177.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: zweimal handschriftlich mit dunklem Schreibmittel «6» sowie einmal «Schleiflack»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "zweimal handschriftlich mit dunklem Schreibmittel «6» sowie einmal «Schleiflack»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_016_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              228.5,
+              321.0,
+              316.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rückwand: handschriftlich mit dunklem Schreibmittel «700 fr.»",
+        "position_traeger": "o. l. Rückwand",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «700 fr.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_017_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              329.2,
+              305.1,
+              431.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit dunklem Schreibmittel «15»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «15»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6/6_018_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              443.8,
+              210.3,
+              507.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Vereinbarung vom 24. Mai 1989 in der Objektdatenbank SKKG; siehe auch Etikett und handschriftliche Aufschrift auf der Werkrückseite mit identischer Angabe."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Etikett auf der Werkrückseite. Wahrscheinlich handelt es sich um den 1938 geborenen Zürcher Kunstsammler Edi Wolfensberger."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 4,
+      "text": "Die Schenkerin Hanny Fries ist Sigismund Righinis Enkeltochter. Sie hat das Werk Bruno Stefanini überlassen, siehe Vereinbarung vom 24. Mai 1989 in der Objektdatenbank SKKG (siehe auch Fn. 5). Ob das Gemälde durchgehend im Eigentum der Familie war, ist nicht geklärt; angesichts des auf E. Wolfensberger (siehe Fn. 2) verweisenden Etiketts auf der Werkrückseite ist ein entsprechender zwischenzeitlicher Besitz anzunehmen."
+    },
+    {
+      "nr": 5,
+      "text": "Gemäss Vereinbarung gingen einige Werke – darunter dieses – als Schenkung in die Stiftung über, während andere käuflich erworben wurden. Darin wurden auch weitere Bestimmungen, etwa zu Aufbewahrung und Leihgaben, getroffen."
+    }
+  ],
+  "bilder_anzahl": 18
+}

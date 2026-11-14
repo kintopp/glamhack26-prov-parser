@@ -1,0 +1,602 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5205_241114.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5205",
+      "Albert Anker (1831–1910)",
+      "Rotkäppchen",
+      "1883",
+      "Öl auf Leinwand",
+      "86 × 62 cm (Bildmass)",
+      "102,3 × 80 × 9,3 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5205",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Rotkäppchen",
+    "masse": [
+      "86 × 62 cm (Bildmass)",
+      "102,3 × 80 × 9,3 cm (Rahmenmass)"
+    ],
+    "datierung": "1883",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5205/5205_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          261.2,
+          532.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Le petit chaperon rouge."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "28. Juni 1883",
+      "besitzer": "Société des Beaux-Arts de Mulhouse, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 28. Juni 1883 in Albert Ankers Livre de vente: «De la Société des b. arts à Mulhouse pour le Chaperon rouge 1000». Die Société des Beaux-Arts de Mulhouse bestand lediglich bis 1843, siehe https://agorha.inha.fr/ark:/54721/27797385-bac0-447a-8c83-b3ea0627d07a. Vermutlich meinte Anker die Société des Arts de Mulhouse, die von 1876 bis 1971 existierte, siehe https://agorha.inha.fr/ark:/54721/50882127-ab01-490b-9ba2-09f821ada129 [1. März 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 28. Juni 1883 bis spätestens 1892",
+      "besitzer": "Theodor Frey-Bourcart (1825–1892), Guebwiller, angekauft von der Société des Beaux-Arts de Mulhouse",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Laut Auktionskatalog Bern 1991 kaufte Theodor Frey das Werk am 28. Juni 1883 an einer Ausstellung der Société des Beaux-Arts in Mulhouse, die vermutlich als Vermittlerin zwischen Künstler und Käufer diente. Siehe dazu auch Werkkatalog 1962: «Nach Mitteilung des Museums in Mulhouse findet sich das Bild in keinem Inventarbuch erwähnt. Theodor Frey soll in Mulhouse ein Haus besessen haben. So ist anzunehmen, dass das Werk an einer von der Société des Beaux-Arts Mulhouse veranstalteten Ausstellung verkauft worden ist.» Der gebürtige Schaffhauser Theodor Frey war Textilfabrikant im elsässischen Guebwiller, siehe https://www.stroux.org/patriz_f/stMh_f/MhBH_f.pdf [2. März 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 1892 bis o. D.",
+      "besitzer": "Cécile Steiner-Doll (1876–1957), Mulhouse, erworben im Erbgang vom Grossvater oder von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Gemäss Stammbaum der Familie Bourcart im Elsass (siehe Fn. 3) war Cécile Steiner-Doll die Tochter von Mathilde Doll-Frey und die Enkelin von Theodor Frey. Ob sie das Werk von der Mutter oder direkt vom Grossvater geerbt hat, liess sich nicht ermitteln."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1947",
+      "besitzer": "Fritz Nathan (1895–1972), St. Gallen / Zürich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Laut Auktionskatalog Bern 1991 hat Fritz Nathan das Werk 1947 verkauft. Der aus einer jüdischen Familie stammende Fritz Nathan war Kunsthändler in München, St. Gallen und Zürich. Wann er das Werk erwarb, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Schaffhausen",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Es ist möglich, dass der Standort Schaffhausen mit der Familie Frey-Bourcart zu tun hat, da Theodor Frey-Bourcart aus Schaffhausen stammt (siehe Fn. 3). Dies könnte bedeuten, dass das Werk bei Fritz Nathan nicht verkauft wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Bern",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. März bis 21. April 1985",
+      "besitzer": "Ausstellung Sporthalle Ins (Albert Anker – Der Maler und sein Werk)",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21. Juni 1991",
+      "besitzer": "Auktion Galerie Kornfeld (Kunst des 19. und 20. Jahrhunderts. Teil I, Lot 5, Rotkäppchen – Le Chaperon rouge), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Bern 1991, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21. Juni 1991 bis 1992",
+      "besitzer": "vermutlich Christoph Blocher (geb. 1940), Herrliberg, angekauft auf Auktion Galerie Kornfeld, Zuschlagspreis: 390 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Bruno Stefaninis Annotationen im Auktionskatalog Bern 1991 im Archiv SKKG deuten darauf hin, dass er sich mit Christoph Blocher absprach, der sich offenbar ebenfalls für das angebotene Werk interessierte. In der Objektdatenbank SKKG findet sich ein Ankaufsbeleg mit Angabe des Zuschlagspreises von 390 000 Franken. Die Aktenlage ist nicht eindeutig, doch vermutlich erwarb Blocher das Werk, ehe es in einem Tauschgeschäft an Stefanini überging, wie ein Brief von 1999 nahelegt, siehe Fn. 11."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich seit 1992",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, vermutlich im Tausch von Christoph Blocher",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Die SKKG hat das Werk offenbar in einem Tauschgeschäft erworben, siehe Schreiben der SKKG (wohl Dora Bösiger) an Gisela Gerber, Schlossverwalterin Luxburg, vom 27. August 1999 in der Objektdatenbank SKKG. Womit getauscht wurde, ist nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkataloge",
+        "text": "Albert Anker. Katalog der Gemälde und Ölstudien, hrsg. vom Berner Kunstmuseum, Bern 1962, Nr. 208.",
+        "bilder": [
+          {
+            "datei": "images/5205/5205_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              271.8,
+              339.4,
+              359.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge",
+            "bildunterschrift": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 161, Nr. 308."
+          },
+          {
+            "datei": "images/5205/5205_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              416.1,
+              390.0,
+              467.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge"
+          },
+          {
+            "datei": "images/5205/5205_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              473.3,
+              303.5,
+              581.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunst des 19. und 20. Jahrhunderts. Teil I, Auktionskatalog Galerie Kornfeld, Bern, 21. Juni 1991, Bern 1991, Lot 5."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Volltextsuche «chaperon rouge» und «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «Rotkäppchen» und «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Nathan», Filter: Jahr «1947» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5205/5205_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            291.3,
+            533.0,
+            429.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1991, annotiert von Bruno Stefanini (vermutlich nicht angekauft) mit zahlreichen, hier nicht vollständig wiedergegebenen Annotationen, darunter Kontaktangaben zu Kurt Meissner sowie – wahrscheinlich zwecks Absprache – zu Christoph Blocher"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Siehe Fn. 10."
+        }
+      ]
+    },
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5205/5205_006_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            561.7,
+            532.7,
+            691.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben der SKKG (wohl Dora Bösiger) an Gisela Gerber, Schlossverwalterin Luxburg, vom 27. August 1999 mit Angaben zum Rotkäppchen, das angeblich über einen Tausch mit Christoph Blocher zur SKKG kam"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Anmerkung zum Briefinhalt: «Bü. 15» steht für den Büelrain 15 in Winterthur, eine Liegenschaft von Bruno Stefanini."
+        }
+      ]
+    },
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5205/5205_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            184.2,
+            528.1,
+            347.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte Kopie des lotspezifischen Ausschnitts aus dem Auktionskatalog Bern 1991 (Erwerbsnachweis; vermutlich nicht angekauft)"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 14,
+          "text": "Siehe Fn. 10."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5205/5205_008_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          291.1,
+          454.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit brauner Farbe «Anker»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit brauner Farbe «Anker»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5205/5205_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              492.2,
+              216.5,
+              534.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit blauem Schreibmittel «68»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «68»",
+        "kommentar": "möglicherweise Massangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5205/5205_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              555.3,
+              194.6,
+              635.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «83»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «83»",
+        "kommentar": "möglicherweise Massangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5205/5205_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              647.6,
+              249.1,
+              698.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit schwarzem Schreibmittel «AK6»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit schwarzem Schreibmittel «AK6»",
+        "kommentar": "Ausstellung Ins 1985 (Werk nicht im Katalog)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5205/5205_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              287.4,
+              214.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Le petit chaperon rouge."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 28. Juni 1883 in Albert Ankers Livre de vente: «De la Société des b. arts à Mulhouse pour le Chaperon rouge 1000». Die Société des Beaux-Arts de Mulhouse bestand lediglich bis 1843, siehe https://agorha.inha.fr/ark:/54721/27797385-bac0-447a-8c83-b3ea0627d07a. Vermutlich meinte Anker die Société des Arts de Mulhouse, die von 1876 bis 1971 existierte, siehe https://agorha.inha.fr/ark:/54721/50882127-ab01-490b-9ba2-09f821ada129 [1. März 2023]."
+    },
+    {
+      "nr": 3,
+      "text": "Laut Auktionskatalog Bern 1991 kaufte Theodor Frey das Werk am 28. Juni 1883 an einer Ausstellung der Société des Beaux-Arts in Mulhouse, die vermutlich als Vermittlerin zwischen Künstler und Käufer diente. Siehe dazu auch Werkkatalog 1962: «Nach Mitteilung des Museums in Mulhouse findet sich das Bild in keinem Inventarbuch erwähnt. Theodor Frey soll in Mulhouse ein Haus besessen haben. So ist anzunehmen, dass das Werk an einer von der Société des Beaux-Arts Mulhouse veranstalteten Ausstellung verkauft worden ist.» Der gebürtige Schaffhauser Theodor Frey war Textilfabrikant im elsässischen Guebwiller, siehe https://www.stroux.org/patriz_f/stMh_f/MhBH_f.pdf [2. März 2023]."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Gemäss Stammbaum der Familie Bourcart im Elsass (siehe Fn. 3) war Cécile Steiner-Doll die Tochter von Mathilde Doll-Frey und die Enkelin von Theodor Frey. Ob sie das Werk von der Mutter oder direkt vom Grossvater geerbt hat, liess sich nicht ermitteln."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Laut Auktionskatalog Bern 1991 hat Fritz Nathan das Werk 1947 verkauft. Der aus einer jüdischen Familie stammende Fritz Nathan war Kunsthändler in München, St. Gallen und Zürich. Wann er das Werk erwarb, ist nicht bekannt."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Es ist möglich, dass der Standort Schaffhausen mit der Familie Frey-Bourcart zu tun hat, da Theodor Frey-Bourcart aus Schaffhausen stammt (siehe Fn. 3). Dies könnte bedeuten, dass das Werk bei Fritz Nathan nicht verkauft wurde."
+    },
+    {
+      "nr": 7,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 8,
+      "text": "Ebd."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Bern 1991, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 10,
+      "text": "Bruno Stefaninis Annotationen im Auktionskatalog Bern 1991 im Archiv SKKG deuten darauf hin, dass er sich mit Christoph Blocher absprach, der sich offenbar ebenfalls für das angebotene Werk interessierte. In der Objektdatenbank SKKG findet sich ein Ankaufsbeleg mit Angabe des Zuschlagspreises von 390 000 Franken. Die Aktenlage ist nicht eindeutig, doch vermutlich erwarb Blocher das Werk, ehe es in einem Tauschgeschäft an Stefanini überging, wie ein Brief von 1999 nahelegt, siehe Fn. 11."
+    },
+    {
+      "nr": 11,
+      "text": "Die SKKG hat das Werk offenbar in einem Tauschgeschäft erworben, siehe Schreiben der SKKG (wohl Dora Bösiger) an Gisela Gerber, Schlossverwalterin Luxburg, vom 27. August 1999 in der Objektdatenbank SKKG. Womit getauscht wurde, ist nicht bekannt."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Fn. 10."
+    },
+    {
+      "nr": 13,
+      "text": "Anmerkung zum Briefinhalt: «Bü. 15» steht für den Büelrain 15 in Winterthur, eine Liegenschaft von Bruno Stefanini."
+    },
+    {
+      "nr": 14,
+      "text": "Siehe Fn. 10."
+    }
+  ],
+  "bilder_anzahl": 12
+}

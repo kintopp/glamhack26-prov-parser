@@ -1,0 +1,802 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3603_251209.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "9. Dezember 2025",
+  "stand_iso": "2025-12-09",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3603",
+      "Augusto Giacometti (1877–1947)",
+      "Narziss",
+      "1905",
+      "Öl und Tempera auf Holz",
+      "66 × 197 cm (Bildmass)",
+      "76 × 206 × 8,4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3603",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Narziss",
+    "masse": [
+      "66 × 197 cm (Bildmass)",
+      "76 × 206 × 8,4 cm (Rahmenmass)"
+    ],
+    "datierung": "1905",
+    "technik": "Öl und Tempera auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3603/3603_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          316.3,
+          335.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Stutzer 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Stutzer 2023. Ob es sich bei den drei aufeinanderfolgenden Privatbesitz-Angaben im Werkkatalog um verschiedene Eigentümer:innen handelt oder sie sich teilweise oder vollständig decken, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "um 1971",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Bergell",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 2004. Ob es sich um dieselbe Provenienzstation wie die vorausgehende handelt, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18. Juni 2004",
+      "besitzer": "Auktion Galerie Kornfeld (Kunst des 19. und 20. Jahrhunderts, Lot 46, Narziss), Bern, vermutlich eingeliefert aus Bergeller Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Stutzer 2023, Auktionskatalog Bern 2004."
+        },
+        {
+          "nr": 7,
+          "text": "Gemäss Artprice wurde das Gemälde an der Kornfeld-Auktion am 18. Juni 2004 für 360 000 Franken zugeschlagen, siehe https://www.artprice.com/artist/41720/augusto-giacometti/painting/3154524/narziss [14. November 2024]. Jedoch ist gesichert, dass es die Galerie Kornfeld 2005 für 375 000 Franken an Bruno Stefanini verkaufte. Möglicherweise ist die Artprice-Angabe unrichtig und das Gemälde 2004 blieb unverkauft oder aber die Käuferschaft trat vom Kauf zurück oder gab das Objekt zurück. Jedenfalls war es im Januar 2005 – wieder oder immer noch – im Besitz der Galerie Kornfeld, von der es wahrscheinlich in Kommission veräussert wurde, denn die Rechnung enthält den Vermerk «margenbesteuert», siehe Rechnung der Galerie Kornfeld vom 12. Januar 2005 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 12. Januar 2005",
+      "besitzer": "Galerie Kornfeld, Bern",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Fn. 9."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 12. Januar 2005",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Galerie Kornfeld, Ankaufspreis: 375 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Rechnung der Galerie Kornfeld vom 12. Januar 2005 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Beat Stutzer, Narziss, in: Augusto Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 8, https://recherche.sik-isea.ch/sik:work-9631767 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/3603/3603_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.2,
+              533.2,
+              549.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/3603/3603_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              433.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/3603/3603_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              439.8,
+              533.2,
+              624.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/3603/3603_005_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              276.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunst des 19. und 20. Jahrhunderts. Teil I, Auktionskatalog Galerie Kornfeld, Bern, 18. Juni 2004, Bern 2004, Lot 46."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Narciss» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Volltextsuche «Giacometti», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm.",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/3603/3603_006_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              196.4,
+              374.4,
+              303.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Narciss» und «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Narcissus» und «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (155 Ergebnisse) für Freitextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 155,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Künstlersuche «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Narciss» mit Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Narcissus» mit Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "9. Dezember 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3603/3603_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            426.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 2005 mit Markierungen (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "18. März 2025",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3603/3603_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            470.1,
+            533.0,
+            618.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/3603/3603_009_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            133.8,
+            531.2,
+            378.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung der Galerie Kornfeld, Bern, an Stiftung für Kunst, Kultur und Geschichte, Winterthur, vom 12. Januar 2005 mit Auszug aus Auktionskatalog Bern 2004"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Weshalb die Rechnung vom 12. Januar 2005 mit dem Eingangsdatum «26. Nov. 2024» gestempelt wurde, ist unklar."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3603/3603_010_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          321.6,
+          260.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Holzplatte (Bildträger): handschriftlich mit dunkelgrüner Farbe «Augusto Giacometti»",
+        "position_traeger": "u. l. Holzplatte (Bildträger)",
+        "merkmal": "handschriftlich mit dunkelgrüner Farbe «Augusto Giacometti»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              316.6,
+              318.1,
+              362.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. erste Leiste: handschriftlich mit schwarzem Kugelschreiber «1197»",
+        "position_traeger": "o. erste Leiste",
+        "merkmal": "handschriftlich mit schwarzem Kugelschreiber «1197»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              392.8,
+              220.2,
+              442.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. erste Leiste: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33 204», unterstrichen",
+        "position_traeger": "o. erste Leiste",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33 204», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.7,
+              455.8,
+              219.9,
+              482.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. erste Leiste: Reste eines rechteckigen beigen oder lindgrünen Etiketts, oben gezahnt, schwarz gedruckt «IX. Internation[…] [M]ünchen 1[…]»",
+        "position_traeger": "o. erste Leiste",
+        "merkmal": "Reste eines rechteckigen beigen oder lindgrünen Etiketts, oben gezahnt, schwarz gedruckt «IX. Internation[…] [M]ünchen 1[…]»",
+        "kommentar": "9. Internationale Kunstausstellung, Glaspalast München 1905",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              137.0,
+              531.5,
+              318.8,
+              588.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. erste Leiste: Reste eines Etiketts oder Zeitungsausschnitts, schwarz gedruckt «[…]» (unleserlich)",
+        "position_traeger": "m. erste Leiste",
+        "merkmal": "Reste eines Etiketts oder Zeitungsausschnitts, schwarz gedruckt «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              208.0,
+              247.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. zwischen erster und zweiter Leiste: rechteckiges rosafarbenes Etikett",
+        "position_traeger": "o. zwischen erster und zweiter Leiste",
+        "merkmal": "rechteckiges rosafarbenes Etikett",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              260.3,
+              208.4,
+              320.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. zweite Leiste: handschriftlich mit dunkelblauem Wachsstift «C 100»",
+        "position_traeger": "m. zweite Leiste",
+        "merkmal": "handschriftlich mit dunkelblauem Wachsstift «C 100»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.7,
+              332.7,
+              320.7,
+              400.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. dritte Leiste: handschriftlich mit hellblauem Wachsstift «55», durchgestrichen",
+        "position_traeger": "o. dritte Leiste",
+        "merkmal": "handschriftlich mit hellblauem Wachsstift «55», durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.8,
+              413.1,
+              258.2,
+              472.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. dritte Leiste: handschriftlich mit hellblauem Wachsstift «N 1», Buchstabe durchgestrichen",
+        "position_traeger": "u. dritte Leiste",
+        "merkmal": "handschriftlich mit hellblauem Wachsstift «N 1», Buchstabe durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              485.0,
+              203.0,
+              536.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. vierte Leiste: handschriftlich mit hellblauem Wachsstift «V 55 )», teilweise durchgestrichen",
+        "position_traeger": "u. vierte Leiste",
+        "merkmal": "handschriftlich mit hellblauem Wachsstift «V 55 )», teilweise durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              549.8,
+              256.6,
+              593.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. sechste Leiste: handschriftlich mit hellblauem Wachsstift «C 100»",
+        "position_traeger": "o. sechste Leiste",
+        "merkmal": "handschriftlich mit hellblauem Wachsstift «C 100»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              606.7,
+              255.8,
+              657.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "u. zwischen sechster und siebter Leiste: schwarz gestempelt «Werkverzeichnis 1981 | Nr.» und handschriftlich mit schwarzem Stift «540»",
+        "position_traeger": "u. zwischen sechster und siebter Leiste",
+        "merkmal": "schwarz gestempelt «Werkverzeichnis 1981 | Nr.» und handschriftlich mit schwarzem Stift «540»",
+        "kommentar": "Verweis auf Giacometti-Werkverzeichnis von Hans Hartmann (1981), Nr. 540",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              670.3,
+              255.3,
+              713.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "u. siebte Leiste: rechteckiger schwarzer Stempel mit abgerundeten Ecken, schwarz gestempelt «BÜNDNER KUNSTMUSEUM CHUR | INV.NR.» und handschriftlich mit schwarzem Stift «9364.000.2003 | GIACOMETTI, AU-GUSTO»",
+        "position_traeger": "u. siebte Leiste",
+        "merkmal": "rechteckiger schwarzer Stempel mit abgerundeten Ecken, schwarz gestempelt «BÜNDNER KUNSTMUSEUM CHUR | INV.NR.» und handschriftlich mit schwarzem Stift «9364.000.2003 | GIACOMETTI, AU-GUSTO»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_023_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              319.5,
+              242.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Parkettierung: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33 204», unterstrichen",
+        "position_traeger": "o. r. Parkettierung",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33 204», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3603/3603_024_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              254.7,
+              236.6,
+              286.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [],
+    "fussnoten": [
+      {
+        "nr": 11,
+        "text": "Das vorliegende Werk weist langrechteckige Dimensionen und eine parkettierte Rückseite auf. Aufgrund dieser Besonderheit werden die Provenienzmerkmale den sieben Leisten entlang von links nach rechts erfasst."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Stutzer 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Stutzer 2023. Ob es sich bei den drei aufeinanderfolgenden Privatbesitz-Angaben im Werkkatalog um verschiedene Eigentümer:innen handelt oder sie sich teilweise oder vollständig decken, ist unklar."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Fn. 2."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Fn. 2."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 2004. Ob es sich um dieselbe Provenienzstation wie die vorausgehende handelt, ist unklar."
+    },
+    {
+      "nr": 6,
+      "text": "Stutzer 2023, Auktionskatalog Bern 2004."
+    },
+    {
+      "nr": 7,
+      "text": "Gemäss Artprice wurde das Gemälde an der Kornfeld-Auktion am 18. Juni 2004 für 360 000 Franken zugeschlagen, siehe https://www.artprice.com/artist/41720/augusto-giacometti/painting/3154524/narziss [14. November 2024]. Jedoch ist gesichert, dass es die Galerie Kornfeld 2005 für 375 000 Franken an Bruno Stefanini verkaufte. Möglicherweise ist die Artprice-Angabe unrichtig und das Gemälde 2004 blieb unverkauft oder aber die Käuferschaft trat vom Kauf zurück oder gab das Objekt zurück. Jedenfalls war es im Januar 2005 – wieder oder immer noch – im Besitz der Galerie Kornfeld, von der es wahrscheinlich in Kommission veräussert wurde, denn die Rechnung enthält den Vermerk «margenbesteuert», siehe Rechnung der Galerie Kornfeld vom 12. Januar 2005 im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Fn. 9."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Rechnung der Galerie Kornfeld vom 12. Januar 2005 im Archiv SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Weshalb die Rechnung vom 12. Januar 2005 mit dem Eingangsdatum «26. Nov. 2024» gestempelt wurde, ist unklar."
+    },
+    {
+      "nr": 11,
+      "text": "Das vorliegende Werk weist langrechteckige Dimensionen und eine parkettierte Rückseite auf. Aufgrund dieser Besonderheit werden die Provenienzmerkmale den sieben Leisten entlang von links nach rechts erfasst."
+    }
+  ],
+  "bilder_anzahl": 24
+}

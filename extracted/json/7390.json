@@ -1,0 +1,419 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7390_221007.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. Oktober 2022",
+  "stand_iso": "2022-10-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7390",
+      "Alexandre Calame (1810–1864)",
+      "Blick auf die Mythen",
+      "o. J.",
+      "Öl auf Leinwand",
+      "36,1 × 48,9 × 5,9 cm (Rahmenmass)",
+      "27,3 × 39,2 cm (Lichtmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7390",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Blick auf die Mythen",
+    "masse": [
+      "36,1 × 48,9 × 5,9 cm (Rahmenmass)",
+      "27,3 × 39,2 cm (Lichtmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7390/7390_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          315.4,
+          416.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Winterthur 1992 beziehungsweise Schweizerischem Institut für Kunstwissenschaft (SIK) 1991 (siehe Fn. 2)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "mindestens Dezember 1991",
+      "besitzer": "vermutlich Angelo Blarer, Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Schreiben vom Schweizerischen Institut für Kunstwissenschaft (SIK) in der Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "6./7. November 1992",
+      "besitzer": "Auktion Galerie Hochwacht (Versteigerung, Lot 1113, Blick auf die Mythen), Winterthur, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Winterthur 1992."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 7. November 1992",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Hochwacht, Zuschlagspreis: 7500 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Winterthur 1992 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Versteigerung. Auktionskatalog Galerie Hochwacht, Winterthur, 6./7. November 1992, Winterthur 1992, Lot 1113."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935, möglicherweise Lowerzer See gegen Mythen (28 × 40 cm, Privatbesitz Luzern).\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Calame» in der Rubrik «Malerei» unter «Suchmeldungen» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-10-07"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Mythen» in der Rubrik «Malerei» unter «Suchmeldungen» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (47 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 47,
+            "datum": "2022-07-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Mythen» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (44 Ergebnisse) für Volltextsuche «Mythen» UND «Calame» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 44,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Mythen», Filter: Artist «Calame» (inklusive aller Namensschreibweisen) [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-07"
+          },
+          {
+            "text": "0 Treffer (483 Ergebnisse) für Volltextsuche «Landschaft», Filter 1: Artist «Calame» (inklusive aller Namensschreibweisen), Filter 2: Object Type «painting» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 483,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv",
+      "bestand": "Dokumente"
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "Schreiben vom Schweizerischen Institut für Kunstwissenschaft an Angelo Blarer, Zürich, vom 23. Dezember 1991",
+      "bilder": [
+        {
+          "datei": "images/7390/7390_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            324.4,
+            454.5,
+            533.0,
+            759.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7390/7390_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            324.4,
+            184.2,
+            533.0,
+            261.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Winterthur 1992, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7390/7390_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            324.4,
+            292.3,
+            534.3,
+            361.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auszug Auktionskatalog Winterthur 1992, mit handschriftlich ergänztem Zuschlagspreis (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv",
+      "bestand": "Dokumente"
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Angelo Blarer",
+      "information": "Gemäss Business Monitor war Angelo Blarer Mitinhaber der Art Invest Graphis GmbH, Zürich, gegründet am 3. Dezember 1997, aufgelöst im Jahr 2011. Das Unternehmen war im «Handel mit Kunstwerken, insbesondere Bildern und Stichen», sowie in der «Organisation von Kunstausstellungen» tätig.",
+      "bilder": [
+        {
+          "datei": "images/7390/7390_005_kontextinformationen.png",
+          "seite": 5,
+          "bbox": [
+            218.3,
+            133.8,
+            531.4,
+            369.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "https://business-monitor.ch/en/companies/835154-art-invest-graphis-gmbh-in-liquidation [7. Oktober 2022]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7390/7390_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          431.8,
+          321.6,
+          625.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. m. Leinwand: handschriftlich «Alexandre Calame»",
+        "position_traeger": "o. m. Leinwand",
+        "merkmal": "handschriftlich «Alexandre Calame»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7390/7390_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              687.9,
+              318.6,
+              746.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: Klebstreifen, handschriftlich mit Bleistift «A. Calame»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Klebstreifen, handschriftlich mit Bleistift «A. Calame»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7390/7390_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              318.6,
+              170.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Vermutlich wurde ein früherer Rückseitenschutz entfernt. Ob sich darauf weitere Provenienzmerkmale befunden haben, ist nicht bekannt."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Winterthur 1992 beziehungsweise Schweizerischem Institut für Kunstwissenschaft (SIK) 1991 (siehe Fn. 2)."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Schreiben vom Schweizerischen Institut für Kunstwissenschaft (SIK) in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Winterthur 1992."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Winterthur 1992 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "https://business-monitor.ch/en/companies/835154-art-invest-graphis-gmbh-in-liquidation [7. Oktober 2022]."
+    },
+    {
+      "nr": 6,
+      "text": "Vermutlich wurde ein früherer Rückseitenschutz entfernt. Ob sich darauf weitere Provenienzmerkmale befunden haben, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 8
+}

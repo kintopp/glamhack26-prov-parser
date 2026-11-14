@@ -1,0 +1,798 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5638_221201.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. Dezember 2022",
+  "stand_iso": "2022-12-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5638",
+      "Félix Vallotton (1865–1925)",
+      "L’écharpe verte / Femme drapée de vert",
+      "1919",
+      "Öl auf Leinwand",
+      "92 × 66 cm (Bildmass)",
+      "96 × 69 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5638",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "L’écharpe verte / Femme drapée de vert",
+    "masse": [
+      "92 × 66 cm (Bildmass)",
+      "96 × 69 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1919",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5638/5638_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.0,
+          529.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Etikett der Galerie Paul Vallotton auf der Werkrückseite beziehungsweise Auktionskatalog Zürich 2001."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, Nr. 1134",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Marianne Vallotton (1893–1989), Pully",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Paris",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "2. Juni 1995",
+      "besitzer": "Auktion Hôtel Drouot (Tableaux, dessins et sculptures des XIXe et XXe siècles, Lot 62), Paris, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005. Ducrey zufolge hat es sich dabei um die «Vente Calmels» gehandelt, was bedeuten würde, dass die Sammlung eines gewissen Herr Calmels versteigert worden ist. Dieser Angabe könnte eine Verwechslung zugrunde liegen: Die Auktion am 2. Juni 1995 trug den Titel «Tableaux, dessins et sculptures des XIXe et XXe siècles» und wurde von einem Auktionator namens Laurence Calmels abgehalten, https://nal-vam.on.worldcat.org/search/de-tail/1031260037?queryString=no%3A1031260037 [1. Dezember 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11. Juni 2001",
+      "besitzer": "Auktion Sotheby’s (Möbel und Silber, Schweizer Kunst, Lot 486, Femme drapée de vert), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ducrey 2005 sowie Auktionskatalog Zürich 2001 mit der Provenienzangabe «Direkt aus der Familie des Künstlers»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 11. Juni 2001",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 58 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2001 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1323.",
+        "bilder": [
+          {
+            "datei": "images/5638/5638_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              397.9,
+              305.7,
+              462.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5638/5638_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              302.0,
+              373.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5638/5638_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              379.8,
+              305.7,
+              474.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1254."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Möbel und Silber, Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 11. Juni 2001, Zürich 2001, Lot 486."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– möglicherweise London, 1920\n\n– Pittsburgh, 1922, Twenty-first Annual International Exhibition of Paintings, Nr. 203 (The Green Scarf)\n\n– Lausanne/Bern, 1927, Nr. 59/62 (Femme nue drapée de vert)\n\n– Zürich, 1928, Nr. 135 (Frau mit grünem Tuch)\n\n– La Chaux-de-Fonds, 1943/44, Nr. 48\n\n– Paris, 1997/98",
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter 1: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Möglich wäre die Jeune femme (https://www.errproject.org/jeu-depaume/card_view.php?CardId=57221 [28. Oktober 2022]), die jedoch aufgrund mangelnder Angaben nicht identifiziert werden kann.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5638/5638_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            479.8,
+            524.4,
+            708.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2011, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5638/5638_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          341.4,
+          320.5,
+          690.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: Signatur mit Datierung",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "Signatur mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              139.8,
+              320.5,
+              198.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt oder gedruckt «30 P», dazwischen ein Rautensymbol und «B | LE PO[…]», sowie «92 × 65»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt oder gedruckt «30 P», dazwischen ein Rautensymbol und «B | LE PO[…]», sowie «92 × 65»",
+        "kommentar": "Die zweite Angabe entspricht dem Bildmass.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              210.9,
+              317.4,
+              285.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit dunklem Schreibmittel «[…] ver[?] 1919», teilweise verdeckt von Auktionshauszettel",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «[…] ver[?] 1919», teilweise verdeckt von Auktionshauszettel",
+        "kommentar": "Bildangaben",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              312.0,
+              320.5,
+              337.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Filzstift «95239»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Filzstift «95239»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              400.4,
+              247.8,
+              456.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: schwarz gestempelt «PHOTO P.V.»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "schwarz gestempelt «PHOTO P.V.»",
+        "kommentar": "Hinweis auf fotografische Aufnahme von Paul Vallotton",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              469.9,
+              247.8,
+              507.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «486», darunter gestempelt «11. JUNI 2001»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «486», darunter gestempelt «11. JUNI 2001»",
+        "kommentar": "Lotnummer und Datum der Auktion Sotheby’s 2001",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              545.6,
+              224.8,
+              608.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «BN [?] 122 on 7», wobei «7» aus «6» korrigiert wurde",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «BN [?] 122 on 7», wobei «7» aus «6» korrigiert wurde",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.7,
+              646.7,
+              321.2,
+              684.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Mittelstrebe Keilrahmen: langrechteckiges verbräuntes Etikett, gedruckt, gestempelt und handschriftlich «EMBA-LAGES DE TABLEAUX & [OB]JETS D’ART | 76, Rue Blanche, 76 – PARIS», darunter «Exposition de PITTSBURGH | № 28 | M Vallotton»",
+        "position_traeger": "m. r. Mittelstrebe Keilrahmen",
+        "merkmal": "langrechteckiges verbräuntes Etikett, gedruckt, gestempelt und handschriftlich «EMBA-LAGES DE TABLEAUX & [OB]JETS D’ART | 76, Rue Blanche, 76 – PARIS», darunter «Exposition de PITTSBURGH | № 28 | M Vallotton»",
+        "kommentar": "sehr wahrscheinlich von der Ausstellung Pittsburgh 1922",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              139.8,
+              320.8,
+              237.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Ducrey 2005 gibt für diese Ausstellung die Nummer 203 an. Allenfalls handelt es sich bei der auf dem Etikett angegebenen 28 um eine Transportnummer."
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Mittelstrebe Keilrahmen: Reste eines langrechteckigen beigen Etiketts, «CARNEGI[E MUSEUM], PITTS-BURGH, PA[…]», darunter handschriftlich: «[…] écharpe verte | […] Félix Vallotton […] | […] l’auteur […] | […] Belles-Feuilles, Paris», darüber Reste eines weissen Etiketts mit aufgedruckter Nummer 90",
+        "position_traeger": "m. l. Mittelstrebe Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen beigen Etiketts, «CARNEGI[E MUSEUM], PITTS-BURGH, PA[…]», darunter handschriftlich: «[…] écharpe verte | […] Félix Vallotton […] | […] l’auteur […] | […] Belles-Feuilles, Paris», darüber Reste eines weissen Etiketts mit aufgedruckter Nummer 90",
+        "kommentar": "sehr wahrscheinlich von der Ausstellung Pittsburgh 1922",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              278.8,
+              318.4,
+              380.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. Mittelstrebe Keilrahmen: Reste eines langrechteckigen verbräunten Etiketts, gestempelt «TABLEAUX MODERNES | Paul VALLOTTON | 7, rue Grand-Chêne | LAUSANNE (Suisse)», daneben handschriftlich mit blauem Kugelschreiber «961134» (korrigiert aus «960134»), mit schwarzer Tinte «№ 1134 | F. Vallotton | Femme drapée de vert» und mit schwarzem Schreibmittel «92 × 65»",
+        "position_traeger": "l. Mittelstrebe Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen verbräunten Etiketts, gestempelt «TABLEAUX MODERNES | Paul VALLOTTON | 7, rue Grand-Chêne | LAUSANNE (Suisse)», daneben handschriftlich mit blauem Kugelschreiber «961134» (korrigiert aus «960134»), mit schwarzer Tinte «№ 1134 | F. Vallotton | Femme drapée de vert» und mit schwarzem Schreibmittel «92 × 65»",
+        "kommentar": "Etikett der Galerie Paul Vallotton, Lausanne",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              443.1,
+              317.6,
+              529.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Keilrahmen: handschriftlich mit blauem Schreibmittel «Box 121 – [H/tt?]»",
+        "position_traeger": "l. u. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «Box 121 – [H/tt?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.9,
+              620.0,
+              317.8,
+              690.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: handschriftlich «135»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "handschriftlich «135»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              139.8,
+              212.7,
+              193.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: rechteckiges weisses Etikett mit roter Bordüre, handschriftlich «C. M. A.», darunter «23.23»",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit roter Bordüre, handschriftlich «C. M. A.», darunter «23.23»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              206.3,
+              235.4,
+              287.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: Zettel der Auktion Sotheby’s, Zürich, 11. Juni 2001, mit handschriftlich annotiertem Zuschlagspreis",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "Zettel der Auktion Sotheby’s, Zürich, 11. Juni 2001, mit handschriftlich annotiertem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              299.9,
+              319.3,
+              392.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: handschriftlich mit rotem Filzstift «[L?]ot 115», teilweise verdeckt von Auktionshauszettel",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Filzstift «[L?]ot 115», teilweise verdeckt von Auktionshauszettel",
+        "kommentar": "Möglicherweise eine bislang unbekannte Auktion, an der das Werk unter der Lotnummer 115 gelaufen ist.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5638/5638_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              405.4,
+              265.4,
+              450.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Etikett der Galerie Paul Vallotton auf der Werkrückseite beziehungsweise Auktionskatalog Zürich 2001."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005. Ducrey zufolge hat es sich dabei um die «Vente Calmels» gehandelt, was bedeuten würde, dass die Sammlung eines gewissen Herr Calmels versteigert worden ist. Dieser Angabe könnte eine Verwechslung zugrunde liegen: Die Auktion am 2. Juni 1995 trug den Titel «Tableaux, dessins et sculptures des XIXe et XXe siècles» und wurde von einem Auktionator namens Laurence Calmels abgehalten, https://nal-vam.on.worldcat.org/search/de-tail/1031260037?queryString=no%3A1031260037 [1. Dezember 2022]."
+    },
+    {
+      "nr": 7,
+      "text": "Ducrey 2005 sowie Auktionskatalog Zürich 2001 mit der Provenienzangabe «Direkt aus der Familie des Künstlers»."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2001 im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1254."
+    },
+    {
+      "nr": 10,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 11,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 12,
+      "text": "Ducrey 2005 gibt für diese Ausstellung die Nummer 203 an. Allenfalls handelt es sich bei der auf dem Etikett angegebenen 28 um eine Transportnummer."
+    }
+  ],
+  "bilder_anzahl": 21
+}

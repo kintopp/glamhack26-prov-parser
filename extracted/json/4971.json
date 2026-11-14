@@ -1,0 +1,742 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4971_250731.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "31. Juli 2025",
+  "stand_iso": "2025-07-31",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4971",
+      "Adolf Dietrich (1877–1957)",
+      "Raureif bei Sandegg",
+      "1925",
+      "Öl auf Karton",
+      "39 × 54 cm (Bildmass)",
+      "56 × 73 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4971",
+    "status": "Ungeklärt",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Raureif bei Sandegg",
+    "masse": [
+      "39 × 54 cm (Bildmass)",
+      "56 × 73 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1925",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4971/4971_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          318.2,
+          466.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994, orthografisch modernisiert."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Dr. Hans Buck (1902–1987), Kreuzlingen",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Werkdatenblatt Nr. 25.07. Siehe auch Etikett auf der Werkrückseite, dort mit mutmasslicher Fehlschreibung des Eigentümernamens («Dr. Bum [?]»). Sofern damit Buck gemeint ist, war das Gemälde bereits früh in seinem Besitz, da das Etikett nicht viel jünger als das Gemälde sein dürfte. Zur Person siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 1967 bis spätestens 1974",
+      "besitzer": "möglicherweise Ernst August Teves (1913–1981), Frankfurt am Main",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Gemäss Kunstmuseum Winterthur, Auskunft vom 28. August 2024, war «E. A. Tewes [sic]» der Einlieferer an die Ausstellung im Jahr 1967; gemeint ist wohl Ernst August Teves, siehe Kontextinformationen. Bei der Ausstellung im Kunstsalon Wolfsberg 1974, wo das Gemälde ebenfalls gezeigt wurde, erscheint Teves nicht in der Einliefererliste, dafür aber Dr. Hans Buck, siehe Ausstellungkatalog Zürich 1974. Es ist zwar theoretisch möglich, dass es einen Handwechsel von Buck zu Teves und zurück zu Buck gab oder von Teves an eine dritte Person, wobei Buck wegen eines anderen Werks in der Liste erschiene. Jedoch gibt es am Werk keine Hinweise auf Teves, auch keinen Zollstempel. Zudem war es vor der Auktion im Jahr 2003 in Ostschweizer Besitz. Teves ist bekannt als Eigentümer mindestens eines Dietrich-Bilds (Nr. 25.14, siehe «Archive extern»). Vor diesem Hintergrund ist nicht auszuschliessen, dass dem Museum eine Verwechslung unterlaufen ist und das Werk nie bei Teves, sondern durchgehend in der Ostschweiz beziehungsweise bis spätestens 1987 bei Buck war."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1.–30. November 1974",
+      "besitzer": "Ausstellung Kunstsalon Wolfsberg (Adolf Dietrich, Nr. 40, Rauhreif), Zürich, möglicherweise eingeliefert von Dr. Hans Buck, Kreuzlingen",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ausstellungskatalog Zürich 1974, Ammann/Vögele 1994. Auf der allgemeinen Leihgeberliste im Ausstellungskatalog ist «Herr Dr. H. Buck, Kreuzlingen» aufgeführt. Ob es dieses Werk ist, das er für die Ausstellung geliehen hat, ist unklar; siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis vermutlich 19. September 2003",
+      "besitzer": "Privatbesitz, Ostschweiz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2003."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16.–19. September 2003",
+      "besitzer": "Auktion Schuler (Auktion 90, Lot 3233, Rauhreif bei Sandegg), Zürich, vermutlich eingeliefert von Ostschweizer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. September 2003",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Schuler, Zuschlagspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie annotierten Auktionskatalog Zürich 2003 und Rechnung von Philippe Schuler Versteigerungen, Zürich, an Bruno Stefanini, Winterthur, vom 24. September 2003 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 25.07.",
+        "bilder": [
+          {
+            "datei": "images/4971/4971_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              397.9,
+              345.4,
+              511.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion 90, Auktionskatalog Schuler Auktionen, 16.–19. September 2003, Zürich 2003, Lot 3233."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Adolf Dietrich, Ausstellungskatalog Kunstsalon Wolfsberg, Zürich, 1.– 30. November 1974, Zürich 1974.",
+        "bilder": [
+          {
+            "datei": "images/4971/4971_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              152.4,
+              322.5,
+              374.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog",
+            "bildtitel": "Leihgeberliste, o. S.",
+            "bildunterschrift": "Zweiter Absatz, zweite Zeile: «Herr Dr. H. Buck, Kreuzlingen»"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [8. Januar 2025]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2025-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Sandegg», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-05-16"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Rauhreif», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Volltextsuche «Sandegg» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2023-05-16"
+          },
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Rauhreif» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2024-01-08"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Adolf Dietrich» (inklusive aller Namensschreibweisen) [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche «Dietrich», Filter: Künstler [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "14. August 2024",
+      "institution": "Kunstmuseum Winterthur",
+      "betreff": "Leihgeber Ausstellung Winterthur 1967",
+      "antwort": "28. August 2024: Der Leihgeber war «E. A. Tewes [sic] in Frankfurt»",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Vermutlich ist Ernst August Teves, Frankfurt am Main, gemeint, siehe Kontextinformationen."
+        }
+      ]
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4971/4971_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            369.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    },
+    {
+      "datum": "",
+      "institution": "",
+      "bestand": "Auktionskatalog Zürich 2003, annotiert von Bruno Stefanini"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4971/4971_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            414.5,
+            533.0,
+            520.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Zürich 2003 (Erwerbsnachweis)"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.1039, NF_0125",
+      "bilder": [
+        {
+          "datei": "images/4971/4971_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.3,
+            158.4,
+            531.5,
+            405.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Philippe Schuler Versteigerungen, Zürich, an Bruno Stefanini, Winterthur, vom 24. September 2003"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "Januar 2023",
+      "institution": "Landesarchiv Berlin",
+      "bestand": "B Rep. 025-07, Nr. 2379/57, Nr. 2380/57, Nr. 2381/57, Verfahren Dr. Herbert Tannenbaum (*07.03.1892), 19 East 57th Street, New York 22, USA, gegen das Deutsche Reich: Keine Treffer für vorliegendes Werk."
+    },
+    {
+      "datum": "14. August 2024",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Bildhinweise bis 1930",
+      "bilder": [
+        {
+          "datei": "images/4971/4971_007_archive_extern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            702.0,
+            534.9,
+            721.6
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Nr. 25.7, «Rauhreif», 38,5 × 54 cm, «Dr. H. Buck, Kreuzling[en]»"
+        },
+        {
+          "datei": "images/4971/4971_008_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            177.7,
+            533.0,
+            196.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildtitel": "Ernst A. Teves, Frankfurt, war Eigentümer von Nr. 25.14"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann",
+      "bilder": [
+        {
+          "datei": "images/4971/4971_009_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            239.8,
+            528.3,
+            476.8
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/4971/4971_010_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            482.8,
+            528.3,
+            715.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Werkdatenblatt Nr. 25.07"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Dr. Hans Buck, Kreuzlingen",
+      "information": "Dr. iur. Hans Buck (1902–1987), Rechtsanwalt in Kreuzlingen, war Berater und Nachlassverwalter von Adolf Dietrich. Er besass mindestens drei weitere Gemälde von Dietrich, die er 1942 dem Kunsthaus Zürich als Leihgaben zur Verfügung stellte. Zudem verfasste er eine Monografie über den Künstler (Hans Buck, Adolf Dietrich als Zeichner, Zürich/Stuttgart 1964). Zu seiner Beziehung zu Dietrich steht im Nachruf: «Im Thurgau galt seine ganze Sorge dem Maler Adolf Dietrich in Berlingen. Er ging manchmal zweimal in der Woche nach Berlingen, um den alten Künstler vor den angeblichen Liebhabern seiner Kunst zu schützen, die ihm für einen Pappenstil Bilder entlockten. Hans Buck hat dafür gesorgt, daß Dietrich ein Testament schrieb und darin sogar vorausschauend eines künftigen thurgauischen Kunstmuseums gedachte.»",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Adressbuch der Stadt Kreuzlingen 1965, Zürich 1965, S. 23, https://www.ancestry.com/discoveryui-con-tent/view/99355480:60778 [8. April 2025]; Urs Oskar Keller, Vorwort des Herausgebers, in: Adolf Dietrich – ein Künstlerleben am See, hrsg. von dems., Frauenfeld 2002, S. 9–17, hier: S. 9–10."
+        },
+        {
+          "nr": 11,
+          "text": "Kunsthaus Zürich, Briefsammlung, Ausgehende Korrespondenz 1933–1945, Ausstellungen, Bd. 76, S. 121, Schreiben von Kunsthaus Zürich an Herrn Dr. H. Buck, Tägerwilen, vom 15. April 1942, https://digital.kunsthaus.ch/vie-wer/image/58689_076/124 [8. April 2025]."
+        },
+        {
+          "nr": 12,
+          "text": "Nachruf Hans Buck, in: Thurgauer Jahrbuch 1988, Jg. 63, Frauenfeld 1987, S. 201–203, hier: S. 203, https://www.e-periodica.ch/digbib/view?pid=tjb-002%3A1988%3A63%3A%3A206 [31. Juli 2025]."
+        }
+      ]
+    },
+    {
+      "thema": "E. A. Teves, Frankfurt am Main",
+      "information": "Ernst August Teves (1913–1981) war Sohn des Industriellen Alfred Teves aus Frankfurt am Main und später Geschäftsführer des Familienbetriebs, der Maschinen- und Armaturenfabrik Alfred Teves (ATE). Die Rolle des Vaters in der NS-Zeit wird unterschiedlich diskutiert (Kriegswaffenproduktion und Zwangsarbeit gegenüber Widerstand).",
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Siehe https://de.wikipedia.org/wiki/Alfred_Teves [31. Juli 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4971/4971_011_provenienzmerkmale.jpeg",
+        "seite": 9,
+        "bbox": [
+          62.5,
+          165.3,
+          326.4,
+          373.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Karton: handschriftlich mit schwarzer Farbe «1925 | A. Dietrich»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "handschriftlich mit schwarzer Farbe «1925 | A. Dietrich»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4971/4971_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              411.2,
+              238.9,
+              460.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: vergilbtes rechteckiges Klebeetikett, schwarz gedruckt «Absender – Expéditeur | Mittente», handschriftlich mit verbräunter Tinte «Dr Bum [?] | Kreuzlingen» und «Ad. Dietrich. | Raureif 1925» (letzte Zeile unterstrichen) und mit dunkelblauem Schreibmittel «Winterthur No. 6.» (Ziffer unterstrichen)",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "vergilbtes rechteckiges Klebeetikett, schwarz gedruckt «Absender – Expéditeur | Mittente», handschriftlich mit verbräunter Tinte «Dr Bum [?] | Kreuzlingen» und «Ad. Dietrich. | Raureif 1925» (letzte Zeile unterstrichen) und mit dunkelblauem Schreibmittel «Winterthur No. 6.» (Ziffer unterstrichen)",
+        "kommentar": "Mit «Dr. Bum [?]» ist wahrscheinlich Dr. Buck gemeint, siehe Provenienzkette.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4971/4971_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              474.3,
+              326.3,
+              599.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit Bleistift «Buck [?]»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Buck [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4971/4971_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              651.3,
+              238.8,
+              727.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Karton: handschriftlich mit Bleistift «Rauhreif: Hügel Schloss Sandegg 21 | in 2331 Altsilber»",
+        "position_traeger": "u. m. Karton",
+        "merkmal": "handschriftlich mit Bleistift «Rauhreif: Hügel Schloss Sandegg 21 | in 2331 Altsilber»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4971/4971_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              327.4,
+              197.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: schwarz-goldenes wappenförmiges Etikett, «RAHMEN | W. Klopfer | ZÜRICH 8»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "schwarz-goldenes wappenförmiges Etikett, «RAHMEN | W. Klopfer | ZÜRICH 8»",
+        "kommentar": "Rahmenatelier",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4971/4971_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              210.8,
+              220.2,
+              312.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Karton: gezahntes weisses Etikett mit blauer Bordüre mit abgeschrägten Ecken, handschriftlich mit rotem Schreibmittel «L»",
+        "position_traeger": "u. m. Karton",
+        "merkmal": "gezahntes weisses Etikett mit blauer Bordüre mit abgeschrägten Ecken, handschriftlich mit rotem Schreibmittel «L»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4971/4971_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              325.3,
+              220.2,
+              376.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Zierrahmen: Reste eines weissen Klebeetiketts",
+        "position_traeger": "l. u. Zierrahmen",
+        "merkmal": "Reste eines weissen Klebeetiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4971/4971_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              389.3,
+              186.6,
+              439.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994, orthografisch modernisiert."
+    },
+    {
+      "nr": 2,
+      "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Werkdatenblatt Nr. 25.07. Siehe auch Etikett auf der Werkrückseite, dort mit mutmasslicher Fehlschreibung des Eigentümernamens («Dr. Bum [?]»). Sofern damit Buck gemeint ist, war das Gemälde bereits früh in seinem Besitz, da das Etikett nicht viel jünger als das Gemälde sein dürfte. Zur Person siehe Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Gemäss Kunstmuseum Winterthur, Auskunft vom 28. August 2024, war «E. A. Tewes [sic]» der Einlieferer an die Ausstellung im Jahr 1967; gemeint ist wohl Ernst August Teves, siehe Kontextinformationen. Bei der Ausstellung im Kunstsalon Wolfsberg 1974, wo das Gemälde ebenfalls gezeigt wurde, erscheint Teves nicht in der Einliefererliste, dafür aber Dr. Hans Buck, siehe Ausstellungkatalog Zürich 1974. Es ist zwar theoretisch möglich, dass es einen Handwechsel von Buck zu Teves und zurück zu Buck gab oder von Teves an eine dritte Person, wobei Buck wegen eines anderen Werks in der Liste erschiene. Jedoch gibt es am Werk keine Hinweise auf Teves, auch keinen Zollstempel. Zudem war es vor der Auktion im Jahr 2003 in Ostschweizer Besitz. Teves ist bekannt als Eigentümer mindestens eines Dietrich-Bilds (Nr. 25.14, siehe «Archive extern»). Vor diesem Hintergrund ist nicht auszuschliessen, dass dem Museum eine Verwechslung unterlaufen ist und das Werk nie bei Teves, sondern durchgehend in der Ostschweiz beziehungsweise bis spätestens 1987 bei Buck war."
+    },
+    {
+      "nr": 4,
+      "text": "Ausstellungskatalog Zürich 1974, Ammann/Vögele 1994. Auf der allgemeinen Leihgeberliste im Ausstellungskatalog ist «Herr Dr. H. Buck, Kreuzlingen» aufgeführt. Ob es dieses Werk ist, das er für die Ausstellung geliehen hat, ist unklar; siehe Fn. 3."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2003."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie annotierten Auktionskatalog Zürich 2003 und Rechnung von Philippe Schuler Versteigerungen, Zürich, an Bruno Stefanini, Winterthur, vom 24. September 2003 im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Vermutlich ist Ernst August Teves, Frankfurt am Main, gemeint, siehe Kontextinformationen."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 10,
+      "text": "Adressbuch der Stadt Kreuzlingen 1965, Zürich 1965, S. 23, https://www.ancestry.com/discoveryui-con-tent/view/99355480:60778 [8. April 2025]; Urs Oskar Keller, Vorwort des Herausgebers, in: Adolf Dietrich – ein Künstlerleben am See, hrsg. von dems., Frauenfeld 2002, S. 9–17, hier: S. 9–10."
+    },
+    {
+      "nr": 11,
+      "text": "Kunsthaus Zürich, Briefsammlung, Ausgehende Korrespondenz 1933–1945, Ausstellungen, Bd. 76, S. 121, Schreiben von Kunsthaus Zürich an Herrn Dr. H. Buck, Tägerwilen, vom 15. April 1942, https://digital.kunsthaus.ch/vie-wer/image/58689_076/124 [8. April 2025]."
+    },
+    {
+      "nr": 12,
+      "text": "Nachruf Hans Buck, in: Thurgauer Jahrbuch 1988, Jg. 63, Frauenfeld 1987, S. 201–203, hier: S. 203, https://www.e-periodica.ch/digbib/view?pid=tjb-002%3A1988%3A63%3A%3A206 [31. Juli 2025]."
+    },
+    {
+      "nr": 13,
+      "text": "Siehe https://de.wikipedia.org/wiki/Alfred_Teves [31. Juli 2025]."
+    }
+  ],
+  "bilder_anzahl": 18
+}

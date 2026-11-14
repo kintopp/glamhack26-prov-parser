@@ -1,0 +1,653 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2001_231003.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Oktober 2023",
+  "stand_iso": "2023-10-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2001",
+      "Ferdinand Hodler (1853–1918)",
+      "Wilhelm Tell",
+      "1895",
+      "Öl auf Leinwand",
+      "324 × 106 cm (Bildmass)",
+      "328,2 × 110,3 × 5,6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "2001",
+    "status": "Klar",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Wilhelm Tell",
+    "masse": [
+      "324 × 106 cm (Bildmass)",
+      "328,2 × 110,3 × 5,6 cm (Rahmenmass)"
+    ],
+    "datierung": "1895",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2001/2001_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          181.9,
+          546.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Bolleter 2017, wo auch Titelvarianten verzeichnet sind."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 1906",
+      "besitzer": "William Vogt (1859–1918), Genf",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 11. Dezember 1917",
+      "besitzer": "Fritz Meyer-Fierz (1847–1917), Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 11. Dezember 1917 bis 1962",
+      "besitzer": "Erbinnen und Erben nach Fritz Meyer-Fierz, Zürich, wohl Franz Meyer senior (1889–1962), erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd. Auf der Werkrückseite befinden sich zwei Etiketten, auf denen Frau Dr. Meyer-Mahler als Leihgeberin verzeichnet ist: das eine von der Ausstellung im Kunstmuseum Basel 1979, das andere vom Kunsthaus Zürich, wo es sich möglicherweise als Leihgabe befand, im Zusammenhang mit Basel, wohin es vermutlich direkt gesandt wurde. Jene war die zweite Ehefrau von Franz Meyer senior, was dafür spricht, dass dieser das Werk von seinem Vater geerbt haben könnte."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. März 1962 bis mindestens 1979 und spätestens 15. Mai 1990",
+      "besitzer": "Marguerite Meyer-Mahler (1898–1990), wohl erworben im Erbgang von ihrem Mann",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Bei Bolleter 2017 ist für den Zeitraum 1917–1962 «Privatbesitz» angegeben. Angesichts der in Fn. 4 erwähnten Etiketten ist es plausibel, dass Marguerite Meyer-Mahler das Werk besessen hat."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15.–17. Juni 1972",
+      "besitzer": "Auktion Kornfeld und Klipstein (Moderne Kunst des neunzehnten und zwanzigsten Jahrhunderts […], Lot 413, Eidgenosse. Älpler mit Pfeil und Armbrust), Bern, wohl eingeliefert von Marguerite Meyer-Mahler, wohl unverkauft",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Bern 1972, Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15. Mai 1990 bis 1991",
+      "besitzer": "wohl Franz Meyer junior (1919–2007), wohl erworben im Erbgang von der Mutter"
+    },
+    {
+      "zeitraum": "seit 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, Transaktion unbekannt, Ankaufspreis: 100 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Bolleter 2017, Ankaufspreis gemäss Objektdatenbank SKKG. Die Erwerbungsart und das genaue Erwerbsdatum sind unbekannt, ein Erwerbsnachweis ist nicht vorhanden."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Regula Bolleter, Wilhelm Tell, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Die Figurenbilder (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23/3), hrsg. von Oskar Bätschmann und Paul Müller, Zürich 2017, Nr. 1269, https://www.fer-dinand-hodler.ch/werke.aspx?id=10276223 [22. Juli 2022]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des neunzehnten und zwanzigsten Jahrhunderts. Bilder, Aquarelle, Zeichnungen, Graphik, Skulpturen, Autographen, Auktionskatalog Kornfeld und Klipstein, Bern, 15.–17. Juni 1972, Bern 1972, Lot 413."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Jura Brüschweiler, Ferdinand Hodler. Selbstbildnisse als Selbstbiographie, Ausstellungskatalog Kunstmuseum Basel, Bern 1979, S. 80."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Exposition Nationale Suisse, Genf, 1. Mai bis 15. Oktober 1896.\n\n– Galerie Wimmer, München, 1. Oktober 1906.\n\n– Kunsthandlung A. & M. Weil, Zürich, 15. Oktober bis 3. November 1906.\n\n– Künstlerhaus Zürich, IX. Serie, 27. November bis 9. Dezember 1906.",
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Bolleter 2017."
+          },
+          {
+            "nr": 9,
+            "text": "Ebd."
+          },
+          {
+            "nr": 10,
+            "text": "Ebd."
+          },
+          {
+            "nr": 11,
+            "text": "Ebd."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «‹Ferdinand Hodler› UND ‹Wilhelm Tell›» [22. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-22"
+          },
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche Filter 1: Künstler*in «Hodler» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «‹Ferdinand Hodler› UND ‹Wilhelm Tell›» [22. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-22"
+          },
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Wilhelm Tell» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (51 Ergebnisse) für Suche Filter 1: Künstler «Hodler» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 51,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "Das Werk «Landsknecht», Heinemann-Nummer 8655, Eingangsdatum 1. Januar 1907, Ausgangsdatum 31. Oktober 1907, gekauft von «C. F. Hausmann, St. Gallen», http://heinemann.gnm.de/de/kunst-werk-18628.htm [2. Oktober 2023], hat fast identische Massangaben (325 × 106 cm), jedoch stimmt das Bildmotiv nicht mit dem vorliegenden Werk überein.",
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «‹Ferdinand Hodler› UND ‹Wilhelm Tell›» [22. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «‹Ferdinand Hodler› UND ‹Wilhelm Tell›» [22. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-22"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «‹Wilhelm Tell›» (inklusive Namensvarianten von Ferdinand Hodler) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «‹Eidgenosse›» (inklusive Namensvarianten von Ferdinand Hodler) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «‹Mann›» (inklusive Namensvarianten von Ferdinand Hodler) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Homme›» (inklusive Namensvarianten von Ferdinand Hodler) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Älpler›» (inklusive Namensvarianten von Ferdinand Hodler) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Wilhelm Tell» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Eidgenosse» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          },
+          {
+            "text": "0 Treffer für Suche unter Akteure, Buchstabe «H» (76 Ergebnisse) [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 76,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche Filter 1: Künstler*in «Hodler» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche Filter 1: Künstler*in «Hodler» [2. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-02"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2001/2001_002_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          233.0,
+          601.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit rotem Schreibmittel «F. Hodler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «F. Hodler»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_003_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              639.2,
+              270.4,
+              699.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. und u. m. Keilrahmen sowie m. obere und untere Mittelstrebe:",
+        "position_traeger": null,
+        "merkmal": null,
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_004_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              711.7,
+              202.9,
+              742.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "schwarz gestempelt «106», links davon das Zeichen eines Rades",
+        "position_traeger": null,
+        "merkmal": null,
+        "kommentar": "bezeichnet wohl die Länge des Keilrahmens",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_005_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              133.8,
+              202.9,
+              170.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2001/2001_006_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              177.3,
+              202.9,
+              209.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2001/2001_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              216.3,
+              202.9,
+              246.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Fragment eines angehefteten Zettels, möglicherweise vom Erwerbsnachweis",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Fragment eines angehefteten Zettels, möglicherweise vom Erwerbsnachweis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              258.9,
+              200.4,
+              299.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2001/2001_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              305.4,
+              200.4,
+              363.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. obere Mittelstrebe Keilrahmen: rechteckiges beiges Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «[…] Leihgeber Frau Dr.M.Mayer-Mahler,Zürich»",
+        "position_traeger": "r. obere Mittelstrebe Keilrahmen",
+        "merkmal": "rechteckiges beiges Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «[…] Leihgeber Frau Dr.M.Mayer-Mahler,Zürich»",
+        "kommentar": "Ausstellung Kunstmuseum Basel 1979",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              135.9,
+              377.1,
+              321.5,
+              475.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. und l. Keilrahmen: schwarz gestempelt «324», links davon das Zeichen eines Rades",
+        "position_traeger": "r. und l. Keilrahmen",
+        "merkmal": "schwarz gestempelt «324», links davon das Zeichen eines Rades",
+        "kommentar": "bezeichnet wohl die Höhe des Keilrahmens",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.8,
+              487.9,
+              200.8,
+              519.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2001/2001_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              526.3,
+              200.8,
+              556.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. untere Mittelstrebe Keilrahmen: handschriftlich mit schwarzem Schreibmittel «Hodler: Skizze zu Tell»",
+        "position_traeger": "r. untere Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Hodler: Skizze zu Tell»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              576.3,
+              321.5,
+              606.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. untere Mittelstrebe Keilrahmen: rechteckiges gelbes Klebeetikett, Kunsthaus Zürich, schwarz gedruckt «[…] Zweck zur Weiterleitung nach Basel […] | Besitzer Frau Dr. M.Meyer-Mahler | Adresse Südstr. 40,8044 Zürich» vermutlich angebracht im Zusammenhang mit der Ausstellung im Kunsthaus Basel 1979",
+        "position_traeger": "l. untere Mittelstrebe Keilrahmen",
+        "merkmal": "rechteckiges gelbes Klebeetikett, Kunsthaus Zürich, schwarz gedruckt «[…] Zweck zur Weiterleitung nach Basel […] | Besitzer Frau Dr. M.Meyer-Mahler | Adresse Südstr. 40,8044 Zürich» vermutlich angebracht im Zusammenhang mit der Ausstellung im Kunsthaus Basel 1979",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2001/2001_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              626.8,
+              321.6,
+              709.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Siehe Fn. 4."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Bolleter 2017, wo auch Titelvarianten verzeichnet sind."
+    },
+    {
+      "nr": 2,
+      "text": "Bolleter 2017."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd. Auf der Werkrückseite befinden sich zwei Etiketten, auf denen Frau Dr. Meyer-Mahler als Leihgeberin verzeichnet ist: das eine von der Ausstellung im Kunstmuseum Basel 1979, das andere vom Kunsthaus Zürich, wo es sich möglicherweise als Leihgabe befand, im Zusammenhang mit Basel, wohin es vermutlich direkt gesandt wurde. Jene war die zweite Ehefrau von Franz Meyer senior, was dafür spricht, dass dieser das Werk von seinem Vater geerbt haben könnte."
+    },
+    {
+      "nr": 5,
+      "text": "Bei Bolleter 2017 ist für den Zeitraum 1917–1962 «Privatbesitz» angegeben. Angesichts der in Fn. 4 erwähnten Etiketten ist es plausibel, dass Marguerite Meyer-Mahler das Werk besessen hat."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Bern 1972, Bolleter 2017."
+    },
+    {
+      "nr": 7,
+      "text": "Bolleter 2017, Ankaufspreis gemäss Objektdatenbank SKKG. Die Erwerbungsart und das genaue Erwerbsdatum sind unbekannt, ein Erwerbsnachweis ist nicht vorhanden."
+    },
+    {
+      "nr": 8,
+      "text": "Bolleter 2017."
+    },
+    {
+      "nr": 9,
+      "text": "Ebd."
+    },
+    {
+      "nr": 10,
+      "text": "Ebd."
+    },
+    {
+      "nr": 11,
+      "text": "Ebd."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Fn. 4."
+    }
+  ],
+  "bilder_anzahl": 14
+}

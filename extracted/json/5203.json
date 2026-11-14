@@ -1,0 +1,674 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5203_241114.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5203",
+      "Albert Anker (1831–1910)",
+      "Grossvater mit schlafender Enkelin",
+      "1879",
+      "Öl auf Leinwand",
+      "66 × 78 cm (Bildmass)",
+      "86,5 × 97,8 × 9,2 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5203",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Grossvater mit schlafender Enkelin",
+    "masse": [
+      "66 × 78 cm (Bildmass)",
+      "86,5 × 97,8 × 9,2 cm (Rahmenmass)"
+    ],
+    "datierung": "1879",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5203/5203_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.7,
+          436.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La sieste."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "10. Dezember 1879 bis 28. Juni 1880",
+      "besitzer": "Adolphe Goupil (1806–1893), Goupil & Cie, Paris, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 10. Dezember 1879 in Albert Ankers Livre de vente: «De Goupil, pour la Sieste 1500». Im Verkaufsbuch von Goupil & Cie ist das Werk als «Grand père & Son Enfant dormant» aufgeführt, siehe Datenbankrecherche. Adolphe Goupil war der wichtigste Händler für Anker in Frankreich, siehe Kuthy/Bhattacharya-Stettler 1995, S. 46."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. Juni 1880 bis o. D.",
+      "besitzer": "M. Knoedler & Co, New York, angekauft von Adolphe Goupil",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Im Verkaufsbuch von Goupil & Cie ist als Käufer «Knoedler & Cie» vermerkt, siehe Datenbankrechereche. Die New Yorker Galerie Knoedler ging 1857 aus der seit 1846 bestehenden New Yorker Niederlassung der Galerie Goupil hervor, deren Stammhaus in Paris war. Siehe auch https://de.wikipedia.org/wiki/M_Knoedler_%26_Co [13. November 2024]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1975",
+      "besitzer": "Privatbesitz, New York",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. Juni 1975",
+      "besitzer": "Auktion Sotheby Parke Bernet (19th Century European Paintings, Lot 19), New York, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog New York 1975, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Kurt Meissner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 25. Mai 1984",
+      "besitzer": "Krattiger, Gais, angekauft bei Galerie Kurt Meissner",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Schreiben der SKKG, Winterthur, an Rolf Witschi, Ins, vom 18. Mai 1984 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. Mai 1984",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Galerie Kurt Meissner, in Kommission für Madeleine Krattiger-Balsiger, Gais, Ankaufspreis: 400 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Quittung von Galerie Kurt Meissner respektive Madeleine Krattiger-Balsiger, Gais, vom 25. Mai 1984 im Archiv SKKG. Der Erwerb ist als Freihandkauf von Kurt Meissner ausgewiesen. Der Ankaufspreis enthält eine Kommission von 30 000 Franken für Kurt Meissner, siehe Annotation von Bruno Stefanini. Demnach dürfte es sich bei Madeleine Krattiger-Balsiger, Gais, um die vormalige Besitzerin handeln, in deren Auftrag Meissner vermittelte. «Herr Krattiger», möglicherweise ihr Ehemann, hatte das Werk ursprünglich bei Kurt Meissner erworben, siehe Fn. 7."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 147, Nr. 264.",
+        "bilder": [
+          {
+            "datei": "images/5203/5203_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.4,
+              405.1,
+              402.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5203/5203_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              408.9,
+              289.3,
+              566.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "19th Century European Paintings, Auktionskatalog Sotheby Parke Bernet, New York, 4. Juni 1975, New York 1975, Lot 19 [nicht konsultiert, fehlt im Archiv SKKG]."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Volltextsuche «Anker» und «Sieste» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «Anker» und «enfant dormant» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (94 Ergebnisse) für Volltextsuche «Anker» und «Grossvater» und «Enkelin» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 94,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [],
+        "bilder": [
+          {
+            "datei": "images/5203/5203_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              549.5,
+              393.5,
+              655.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "1 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]"
+          },
+          {
+            "datei": "images/5203/5203_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              662.0,
+              533.0,
+              685.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "Verkaufsbuch Goupil & Cie, Paris, Bd. 10, S. 73, Nr. 14010, «14010 Grand père et son Enfant dormant Anker 12.[1.1880] RNNN RNNN Knoedler & Cie Anker 28.6.80». Das Werk wurde am 12. Januar 1879 von Anker angekauft und am 28. Juni 1880 an Knoedler, New York, weiterverkauft."
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "14. November 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1650.1.2, A.2152.2.1396.5.2, A.2152.2.1409.2.2",
+      "bilder": [
+        {
+          "datei": "images/5203/5203_006_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            133.8,
+            533.0,
+            355.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Quittung von Galerie Kurt Meissner respektive Madeleine Krattiger-Balsiger, Gais, 25. Mai 1984, annotiert von Bruno Stefanini (Erwerbsnachweis)"
+        }
+      ]
+    },
+    {
+      "datum": "6. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.660, NF_061",
+      "bilder": [
+        {
+          "datei": "images/5203/5203_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            456.2,
+            533.0,
+            679.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5203/5203_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            133.8,
+            532.9,
+            321.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben der SKKG, Winterthur, an Rolf Witschi, Ins, vom 18. Mai 1984 mit Erwähnung der Vorprovenienz: «Es ist uns bekannt, dass Herr Meissner das Gemälde seinerzeit an Herrn Krattiger verkaufte und dass er auch heute noch enge freundschaftliche Beziehungen zur Familie hat. Wir müssen allerdings noch nach Gais mit ihm, um das Bild zu besichtigen […].»"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5203/5203_009_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          342.6,
+          414.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubtes Metallschild, eingraviert «Albert ANKER»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubtes Metallschild, eingraviert «Albert ANKER»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              451.7,
+              292.0,
+              492.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «Anker 1879 [?]»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Anker 1879 [?]»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              504.7,
+              292.1,
+              560.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «0 2» mit Koordinatenkreuz",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «0 2» mit Koordinatenkreuz",
+        "kommentar": "vermutlich aufgebracht von einem Rahmenatelier",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              572.8,
+              196.8,
+              665.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: weisses Etikett, schwarz bedruckt, handschriftlich mit schwarzem Filzstift «Nr. 27»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "weisses Etikett, schwarz bedruckt, handschriftlich mit schwarzem Filzstift «Nr. 27»",
+        "kommentar": "Ausstellung Ins 1977, Nr. 27",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              677.5,
+              267.2,
+              720.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «Inst. f. Kunstw. No 12281»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Inst. f. Kunstw. No 12281»",
+        "kommentar": "Kontrollnummer des Schweizerischen Instituts für Kunstwissenschaft (SIK), Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              293.0,
+              164.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett, mit Klebeband fixiert, schwarz gedruckt «12281»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, mit Klebeband fixiert, schwarz gedruckt «12281»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              215.5,
+              292.9,
+              269.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: verbräuntes Etikett, rot gestempelt «P»",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "verbräuntes Etikett, rot gestempelt «P»",
+        "kommentar": "Vermutlich von Kurt Meissner aufgebracht. «P» steht für «photographiert» oder ähnlich.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              291.3,
+              192.5,
+              437.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: verbräuntes rechteckiges Etikett, schwarz gedruckt «2593»",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz gedruckt «2593»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              449.9,
+              215.0,
+              486.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: handschriftlich mit dunklem Schreibmittel «Col 1601 [?]»",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «Col 1601 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              499.9,
+              257.5,
+              576.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: dunkler hochrechteckiger Stempel mit Reiter auf Pferd, Galerie Meissner, Zürich",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "dunkler hochrechteckiger Stempel mit Reiter auf Pferd, Galerie Meissner, Zürich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5203/5203_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              589.0,
+              215.0,
+              709.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La sieste."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 10. Dezember 1879 in Albert Ankers Livre de vente: «De Goupil, pour la Sieste 1500». Im Verkaufsbuch von Goupil & Cie ist das Werk als «Grand père & Son Enfant dormant» aufgeführt, siehe Datenbankrecherche. Adolphe Goupil war der wichtigste Händler für Anker in Frankreich, siehe Kuthy/Bhattacharya-Stettler 1995, S. 46."
+    },
+    {
+      "nr": 3,
+      "text": "Im Verkaufsbuch von Goupil & Cie ist als Käufer «Knoedler & Cie» vermerkt, siehe Datenbankrechereche. Die New Yorker Galerie Knoedler ging 1857 aus der seit 1846 bestehenden New Yorker Niederlassung der Galerie Goupil hervor, deren Stammhaus in Paris war. Siehe auch https://de.wikipedia.org/wiki/M_Knoedler_%26_Co [13. November 2024]."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog New York 1975, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Schreiben der SKKG, Winterthur, an Rolf Witschi, Ins, vom 18. Mai 1984 im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Quittung von Galerie Kurt Meissner respektive Madeleine Krattiger-Balsiger, Gais, vom 25. Mai 1984 im Archiv SKKG. Der Erwerb ist als Freihandkauf von Kurt Meissner ausgewiesen. Der Ankaufspreis enthält eine Kommission von 30 000 Franken für Kurt Meissner, siehe Annotation von Bruno Stefanini. Demnach dürfte es sich bei Madeleine Krattiger-Balsiger, Gais, um die vormalige Besitzerin handeln, in deren Auftrag Meissner vermittelte. «Herr Krattiger», möglicherweise ihr Ehemann, hatte das Werk ursprünglich bei Kurt Meissner erworben, siehe Fn. 7."
+    }
+  ],
+  "bilder_anzahl": 19
+}

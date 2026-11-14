@@ -1,0 +1,1397 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5000_251218.pdf",
+  "seiten": 16,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "18. Dezember 2025",
+  "stand_iso": "2025-12-18",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5000",
+      "Ferdinand Hodler (1853–1918)",
+      "Heilige Stunde",
+      "1911",
+      "Öl auf Leinwand",
+      "187 × 230 cm (Bildmass)",
+      "194 × 236 × 7,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5000",
+    "status": "Klar",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Heilige Stunde",
+    "masse": [
+      "187 × 230 cm (Bildmass)",
+      "194 × 236 × 7,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1911",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5000/5000_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          312.0,
+          461.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller 2017."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "spätestens 1913 bis mindestens 1923",
+      "besitzer": "Willy Russ-Young (1877–1959), Neuenburg",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Müller 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1927 bis 1929",
+      "besitzer": "Alfred Rütschi (1868–1929), Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1929 bis 4. April 1936",
+      "besitzer": "Familienstiftung Alfred Rütschi, Schaffhausen",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Luzern 1930, S. 5/6 (Einleitung), Auskunft der Galerie Fischer vom 15. November 2022. In den Akten der Galerie Fischer wird die Einlieferin als «Familienstiftung A. Rütschi» bezeichnet, siehe Anfragen. Diese verwaltete den Nachlass Alfred Rütschi."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. August 1930",
+      "besitzer": "Auktion Galerie Fischer (Auktion in Luzern. Aus dem Nachlass eines Zürcher Kunstsammlers. Moderne und alte Gemälde […], Lot 85, Die Heilige Stunde), Luzern, eingeliefert von Familienstiftung Alfred Rütschi, nicht zugeschlagen",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Müller 2017, Auktionskatalog Luzern 1930."
+        },
+        {
+          "nr": 6,
+          "text": "Auskunft der Galerie Fischer vom 15. November 2022."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12./13. September 1930 bis 4. April 1936",
+      "besitzer": "Galerie Fischer, Luzern, und Galerie Neupert, Zürich, in halbanteiliger Kommission für Familienstiftung Alfred Rütschi",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auskunft der Galerie Fischer vom 3. Dezember 2024. Das Werk, das in der Auktion vom 30. August 1930 unverkauft blieb, stand danach im Auftrag der Familienstiftung Rütschi zum «kommissionsweisen Verkauf» als «Halbanteilsware» der Galerie Fischer und der Galerie Neupert, was so zu verstehen sein dürfte, dass sich die beiden Kunsthändler den Kommissionserlös aufteilten. Der Verkauf des Werks wurde im April 1936 im Kommissionsbuch der Galerie Fischer festgehalten, sodass von einem durchgehenden Besitz von Fischer und Neupert auszugehen ist. Das Gemälde war bereits 1930 im Vorfeld der Luzerner Auktion in der Galerie Neupert in Zürich ausgestellt worden, siehe ebd. Siehe auch Müller 2017, Ausstellungskatalog Basel 1934, Auktionskatalog Zürich 1936 sowie Bleistiftaufschrift «Galerie Neupert» auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. April 1936",
+      "besitzer": "Auktion Galerie Neupert (Gemälde. Schweizer Malerei des 19. und 20. Jahrhunderts […], Lot 141, Heilige Stunde), Zürich, eingeliefert von Familienstiftung Alfred Rütschi",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Müller 2017, Auktionskatalog Zürich 1936."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. April 1936 bis 1971",
+      "besitzer": "Arthur Stoll (1887–1971), Arlesheim/Corseaux, angekauft auf Auktion Galerie Neupert",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Müller 2017, Auktionskatalog Bern 1995."
+        },
+        {
+          "nr": 10,
+          "text": "Auskunft des Schweizerischen Instituts für Kunstwissenschaft (SIK) vom 18. Dezember 2025."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1971 bis 23. Juni 1995",
+      "besitzer": "Erbinnen und Erben von Arthur Stoll, Corseaux",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Auskunft der Galerie Kornfeld vom 1. Februar 2023, siehe auch Fn. 12."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. Juni 1995",
+      "besitzer": "Auktion Galerie Kornfeld (150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts, Lot 64, Heilige Stunde – Fassung mit 4 Figuren), Bern, eingeliefert von Erbinnen und Erben nach Arthur Stoll",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Müller 2017, Auktionskatalog Bern 1995, Auskunft der Galerie Kornfeld vom 1. Februar 2023. Die Galerie Kornfeld schreibt zu ihrer eigenen Geschichte als Auktionshaus: «1972 hatten wir Teile der Sammlung Arthur Stoll zum Verkauf anvertraut bekommen, nun wurden 1992 durch den Verkauf der grossen Villa in Corseaux am Genfersee weitere Bestände frei, die wir im Herbst 1992 übernehmen und ab 1993 über mehrere Auktionen verteilt, anbieten durften», siehe Eberhard W. Kornfeld, Geschichte des Hauses von 1864 bis in die heutigen Tage, Bern 2014, https://www.korn-feld.ch/d325.html [4. August 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 23. Juni 1995",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 2 500 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller, Heilige Stunde, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Teilband 2. Die Figurenbilder, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2017, Nr. 1486, https://recherche.sik-isea.ch/sik:work-6008193 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/5000/5000_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              234.8,
+              533.2,
+              337.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5000/5000_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              343.4,
+              533.2,
+              648.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5000/5000_004_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              139.8,
+              529.8,
+              436.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5000/5000_005_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              442.8,
+              346.4,
+              674.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Zur Werkgruppe «Heilige Stunde» siehe https://recherche.sik-isea.ch/de/everything/in/catalogues.hodler.band3.werkgruppen-fh-3%5bsik:work-12991754%5d:exp/work/ti-les?0.0.type=work&0.0.sikapi:is_part_of_work_group=sik:work-12991754 [26. Oktober 2023]."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion in Luzern. Aus dem Nachlass eines Zürcher Kunstsammlers. Moderne und alte Gemälde. Ringe, Auktionskatalog Galerie Fischer, Luzern, 30. August 1930, Luzern 1930, Lot 85, https://digi.ub.uni-hei-delberg.de/diglit/fischer1930_08_30/0017 [21. September 2023].",
+        "bilder": [
+          {
+            "datei": "images/5000/5000_006_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              196.4,
+              419.5,
+              236.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Zur Provenienz siehe Vorwort von Theodor Fischer (ebd., S. 5–6): «Aus dem Nachlass von Herrn Alfred Rüschi (Zürich) kommen Werke von F. Hodler […] zur Auktion»."
+          },
+          {
+            "datei": "images/5000/5000_007_recherche.png",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              286.8,
+              361.5,
+              525.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          },
+          {
+            "datei": "images/5000/5000_008_recherche.png",
+            "seite": 5,
+            "bbox": [
+              364.6,
+              348.3,
+              533.0,
+              524.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Gemälde. Schweizer Malerei des 19. und 20. Jahrhunderts. Französische und italienische Meister. Werke deutscher Meister aus der Sammlung R. von Becker, Auktionskatalog Galerie Neupert, Zürich, 4. April 1936, Zürich 1936, Lot 141, https://digi.ub.uni-heidel-berg.de/diglit/neupert1936_04_04/0026 [23. September 2023]."
+          },
+          {
+            "datei": "images/5000/5000_009_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              607.2,
+              419.7,
+              683.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts. Teil 1, Auktionskatalog Galerie Kornfeld, Bern, 23. Juni 1995, Bern 1995, Lot 64."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Ausstellung von Werken aus dem Besitz von Mitgliedern der Vereinigung Zürcher Kunstfreunde, Ausstellungskatalog Kunsthaus Zürich, 3. September bis 2. Oktober 1927, Zürich 1927, Nr. 137, https://digi-tal.kunsthaus.ch/viewer/image/46273/21 [23. September 2023].",
+        "bilder": [
+          {
+            "datei": "images/5000/5000_010_recherche.jpeg",
+            "seite": 6,
+            "bbox": [
+              193.0,
+              196.4,
+              419.7,
+              235.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "F. Hodler, Ausstellungskatalog Kunsthalle Basel, 16. Mai bis 1. Juli 1934, Basel 1934, Nr. 81, Leihgeberin: «Galerie Neupert, Zürich»."
+          },
+          {
+            "datei": "images/5000/5000_011_recherche.jpeg",
+            "seite": 6,
+            "bbox": [
+              193.0,
+              279.4,
+              419.2,
+              299.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Sammlung Arthur Stoll. Skulpturen und Gemälde des 19. und 20. Jahrhunderts, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich/Stuttgart 1961, S. 68, Nr. 380.",
+        "bilder": [
+          {
+            "datei": "images/5000/5000_012_recherche.jpeg",
+            "seite": 6,
+            "bbox": [
+              193.0,
+              356.8,
+              387.5,
+              578.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Weitere Literatur",
+            "bildunterschrift": "Carl Albert Loosli, Ferdinand Hodler. Leben, Werk und Nachlass, Bd. 3, Bern 1923, S. 75; Bd. 4, Bern 1924, S. 90, Nr. 921."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Heilige Stunde» [8. Juni 2024]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2024-06-08"
+          },
+          {
+            "text": "Darunter befindet sich ein Ergebnis zu einer anderen Version: Ferdinand Hodler, Heilige Stunde (mit 6 Figuren), Lost-Art-ID: 533688, https://www.lostart.de/de/Verlust/533688 [8. Juni 2024].",
+            "datum": "2024-06-08"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/5000/5000_013_recherche.png",
+            "seite": 7,
+            "bbox": [
+              193.0,
+              177.7,
+              465.3,
+              427.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Lost Art",
+            "bildunterschrift": "Dabei handelt es sich um eine andere Version. Das Werk mit der SKKG-Inventarnummer 5000 hat vier und nicht sechs Figuren und ist mit 187 × 230 cm deutlich kleiner als 199 × 350 cm."
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Heilige Stunde» [22. Juni 2022]",
+            "treffer": 0,
+            "datum": "2022-06-22"
+          },
+          {
+            "text": "0 Treffer (39 Ergebnisse) für Suche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 39,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "2 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Heilige Stunde» [22. Juni 2022]: Siehe Treffer 1 und 2 unter «Getty Provenance Index».",
+            "treffer": 2,
+            "datum": "2022-06-22"
+          },
+          {
+            "text": "2 Treffer (965 Ergebnisse) für Suche nach Volltext/Metadaten «Heilige Stunde» [20. September 2023]: Siehe Treffer 1 und 2 unter «Getty Provenance Index».",
+            "treffer": 2,
+            "ergebnisse": 965,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "3 Treffer (41 Ergebnisse) für Volltextsuche «Heilige Stunde» [Abfragedatum unbekannt]:",
+            "treffer": 3,
+            "ergebnisse": 41
+          },
+          {
+            "text": "1. Auktionskatalog Luzern 1930"
+          },
+          {
+            "text": "2 Treffer (565 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [22. Juni 2022]: Siehe Treffer 1 und 2 (oben).",
+            "treffer": 2,
+            "ergebnisse": 565,
+            "datum": "2022-06-22"
+          },
+          {
+            "text": "2 Treffer (4 Ergebnisse) für Suche nach Künstlernamen «Hodler» und Schlagwort «Heilige Stunde» [20. September 2023]: Siehe Treffer 1 und 2 (oben).",
+            "treffer": 2,
+            "ergebnisse": 4,
+            "datum": "2023-09-20"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/5000/5000_014_recherche.png",
+            "seite": 8,
+            "bbox": [
+              193.0,
+              240.8,
+              533.0,
+              359.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "2. Auktionskatalog Zürich 1936"
+          },
+          {
+            "datei": "images/5000/5000_015_recherche.png",
+            "seite": 8,
+            "bbox": [
+              193.0,
+              390.6,
+              529.8,
+              524.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "3. Artur Weese, Aus der Welt Ferdinand Hodlers. Sein Werdegang auf Grund der Sommerausstellung 1917 im Zürcher Kunsthaus, Bern 1918, S. 57, https://doi.org/10.11588/diglit.37743#0069: Ausstellungsansicht der Ausstellung Zürich 1917 mit Verweis auf die Sammlung Russ-Young."
+          },
+          {
+            "datei": "images/5000/5000_016_recherche.jpeg",
+            "seite": 8,
+            "bbox": [
+              193.0,
+              606.7,
+              447.0,
+              766.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "9. August 2022",
+      "institution": "Galerie Fischer, Luzern",
+      "betreff": "Anfrage zur Einlieferung an die Auktion 1930",
+      "antwort": "15. November 2022:\n\nEinlieferin war die Familienstiftung A. Rütschi, Schaffhausen. Das Werk blieb unverkauft und wurde retourniert."
+    },
+    {
+      "datum": "5. Dezember 2022",
+      "institution": "Galerie Kornfeld, Bern",
+      "betreff": "Anfrage zur Einlieferung an die Auktion 1995",
+      "antwort": "1. Februar 2023:\n\nEinlieferin war die Sammlung Arthur Stoll."
+    },
+    {
+      "datum": "21. November 2024",
+      "institution": "Galerie Fischer, Luzern",
+      "betreff": "Genauere Angaben zur Einlieferung an die Auktion 1930",
+      "antwort": "3. Dezember 2024:\n\nEinlieferin war die Familienstiftung A. Rütschi, Schaffhausen, vertreten durch Herrn A. E. Rütschi, Meggen. Im Auktionsvertrag zwischen der Familienstiftung Rütschi und Theodor Fischer für die Auktion vom August 1930 der Galerie Fischer in Luzern ist eine Ausstellung des Werks in der Galerie Neupert ab dem 15. August 1930 vereinbart. Das Bild wurde von Sohn Arthur in der Villa in Meggen abgeholt und in Zürich bei der Galerie Neupert abgeliefert. Am 12. September 1930 wurde vereinbart, dass das an der Auktion nicht verkaufte Werk «zum kommissionsweisen Verkauf überlassen» wird. Im Kommissionsbuch der Galerie Fischer ist es am 13./17. September 1930 als Halbanteilsware in Zusammenhang mit der Galerie Neupert eingetragen und am 21. April 1936 als verkauft."
+    },
+    {
+      "datum": "16. Dezember 2025",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich",
+      "betreff": "Lässt sich der Erwerb von Arthur Stoll 1936 zeitlich genauer fassen? Hat er das Werk an der Auktion vom 4. April 1936 gekauft oder in deren Nachgang? In der Fussnote im Werkkatalog werden Quellen vom Herbst 1936 und sogar von 1939 angegeben.",
+      "antwort": "18. Dezember 2025:\n\nArthur Stoll hat das Werk direkt bei Neupert gekauft. Den Betrag hat er am 17. April 1936 beglichen. In der Korrespondenz vom Herbst 1936 mit Gottardo Segantini geht es um die Vermittlungsprämie; Segantini hatte Stoll im Vorfeld der Auktion auf das Bild aufmerksam gemacht."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "15. Mai 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1380 (PDF, S. 94) /A.2151.1648.2.2 (PDF, S. 334)",
+      "bilder": [
+        {
+          "datei": "images/5000/5000_017_archiv_intern.png",
+          "seite": 11,
+          "bbox": [
+            368.5,
+            222.0,
+            533.0,
+            413.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: lotspezifischer Auszug (Kopie) aus Auktionskatalog Bern 1995, annotiert mit Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5000/5000_018_provenienzmerkmale.jpeg",
+        "seite": 12,
+        "bbox": [
+          62.5,
+          165.3,
+          312.9,
+          370.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «1911 F. Hodler.»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «1911 F. Hodler.»",
+        "kommentar": "Datierung und Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_019_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              408.2,
+              313.0,
+              445.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Reste eines verbräunten Etiketts, schwarz gedruckt «[…]1[…]» (teilweise verdeckt)",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Reste eines verbräunten Etiketts, schwarz gedruckt «[…]1[…]» (teilweise verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_020_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              471.3,
+              313.0,
+              550.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: schwarzer Stempel",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "schwarzer Stempel",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_021_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              563.3,
+              189.2,
+              616.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: schwarzer Stempel",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "schwarzer Stempel",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_022_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              628.8,
+              189.2,
+              679.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit Bleistift «SA 852»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «SA 852»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_023_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              691.5,
+              314.3,
+              753.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit Bleistift «Galerie Neupert»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Galerie Neupert»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_024_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.2,
+              139.8,
+              314.3,
+              198.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: schwarzer Stempel",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "schwarzer Stempel",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_025_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.2,
+              210.9,
+              189.2,
+              263.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Leinwand (Bildträger): quadratisches Etikett, gezahnt und kreuzförmig perforiert, mit Kleber angebracht",
+        "position_traeger": "o. r. Leinwand (Bildträger)",
+        "merkmal": "quadratisches Etikett, gezahnt und kreuzförmig perforiert, mit Kleber angebracht",
+        "kommentar": "wahrscheinlich Zolletikett Schweiz",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_026_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.2,
+              276.1,
+              230.2,
+              399.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5000/5000_027_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.2,
+              443.4,
+              230.2,
+              540.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Vergleichsetikett von anderem Werk"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: vermutlich quadratisches Etikett, gezahnt und kreuzförmig perforiert, mit Kleber angebracht",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "vermutlich quadratisches Etikett, gezahnt und kreuzförmig perforiert, mit Kleber angebracht",
+        "kommentar": "wahrscheinlich Zolletikett Schweiz",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_028_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.2,
+              552.5,
+              230.2,
+              612.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Keilrahmen: quadratisches weisses Etikett mit blauer Bordüre, gezahnt, handschriftlich mit schwarzem Schreibmittel «41»",
+        "position_traeger": "l. u. Keilrahmen",
+        "merkmal": "quadratisches weisses Etikett mit blauer Bordüre, gezahnt, handschriftlich mit schwarzem Schreibmittel «41»",
+        "kommentar": "Ausstellung Neuenburg 1949, Nr. 41",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_029_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.2,
+              640.9,
+              229.2,
+              739.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Keilrahmen (unter vorderem Etikett): weisses quadratisches Etikett mit blauer Bordüre (verdeckt)",
+        "position_traeger": "l. u. Keilrahmen (unter vorderem Etikett)",
+        "merkmal": "weisses quadratisches Etikett mit blauer Bordüre (verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_029_provenienzmerkmale.jpeg",
+            "seite": 14,
+            "bbox": [
+              136.2,
+              139.8,
+              229.2,
+              238.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Keilrahmen: langrechteckiges Etikett, blau und schwarz bedruckt, handschriftlich mit schwarzer Tinte «Ferd. Hodler | Heilige Stunde | Sammlung Prof. A. Stoll | Arlesheim bei Basel | Hodler 1948»",
+        "position_traeger": "l. u. Keilrahmen",
+        "merkmal": "langrechteckiges Etikett, blau und schwarz bedruckt, handschriftlich mit schwarzer Tinte «Ferd. Hodler | Heilige Stunde | Sammlung Prof. A. Stoll | Arlesheim bei Basel | Hodler 1948»",
+        "kommentar": "Ausstellung Amsterdam 1948 (Stedelijk Museum)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_030_provenienzmerkmale.jpeg",
+            "seite": 14,
+            "bbox": [
+              136.3,
+              251.5,
+              312.4,
+              331.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: verbräuntes viereckiges Etikett, blau bedruckt, handschriftlich mit schwarzer Tinte «No.92 Heilige Stunde | Herr Professor Stoll | […] | […] [Arles]heim», teilweise abgerissen",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "verbräuntes viereckiges Etikett, blau bedruckt, handschriftlich mit schwarzer Tinte «No.92 Heilige Stunde | Herr Professor Stoll | […] | […] [Arles]heim», teilweise abgerissen",
+        "kommentar": "Ausstellung Kunsthalle Bern 1936, Nr. 92",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_031_provenienzmerkmale.jpeg",
+            "seite": 14,
+            "bbox": [
+              136.2,
+              365.0,
+              312.4,
+              462.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: handschriftlich mit Bleistift «137», unterstrichen",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «137», unterstrichen",
+        "kommentar": "Ausstellung Zürich 1927, Nr. 137",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_032_provenienzmerkmale.jpeg",
+            "seite": 14,
+            "bbox": [
+              136.2,
+              475.0,
+              235.1,
+              564.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: schwarz schabloniert «136»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "schwarz schabloniert «136»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_033_provenienzmerkmale.jpeg",
+            "seite": 14,
+            "bbox": [
+              136.7,
+              577.5,
+              233.8,
+              627.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: schwarz gestempelt «ZOLL | […]»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "schwarz gestempelt «ZOLL | […]»",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_034_provenienzmerkmale.jpeg",
+            "seite": 14,
+            "bbox": [
+              136.2,
+              640.2,
+              208.7,
+              708.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: schwarz schabloniert «1280 [?]»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "schwarz schabloniert «1280 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_035_provenienzmerkmale.jpeg",
+            "seite": 15,
+            "bbox": [
+              137.2,
+              139.8,
+              264.6,
+              199.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: schwarzer Stempel",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "schwarzer Stempel",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_036_provenienzmerkmale.jpeg",
+            "seite": 15,
+            "bbox": [
+              136.2,
+              213.0,
+              191.7,
+              269.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: handschriftlich mit Bleistift «22[4/9?]/186»",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «22[4/9?]/186»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_037_provenienzmerkmale.jpeg",
+            "seite": 15,
+            "bbox": [
+              136.2,
+              282.5,
+              228.2,
+              396.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 20,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: schwarzer Stempel",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "schwarzer Stempel",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_038_provenienzmerkmale.jpeg",
+            "seite": 15,
+            "bbox": [
+              136.2,
+              409.4,
+              194.1,
+              469.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 21,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «H | 357» und «3 57»",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «H | 357» und «3 57»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_039_provenienzmerkmale.jpeg",
+            "seite": 15,
+            "bbox": [
+              136.2,
+              481.9,
+              228.2,
+              566.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 22,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 32’590»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 32’590»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_040_provenienzmerkmale.jpeg",
+            "seite": 15,
+            "bbox": [
+              136.2,
+              578.6,
+              264.7,
+              620.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 23,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Etikett, schwarz bedruckt und dunkel gestempelt «326»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz bedruckt und dunkel gestempelt «326»",
+        "kommentar": "Ausstellung Basel 1943, Nr. 326",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_041_provenienzmerkmale.jpeg",
+            "seite": 15,
+            "bbox": [
+              136.2,
+              654.3,
+              313.0,
+              755.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 24,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (teilweise unter Klammer): verbräuntes rechteckiges Etikett mit blauer Zierbordüre, handschriftlich mit schwarzer Tinte «Russ-Young | 33» (erste Zeile unterstrichen)",
+        "position_traeger": "o. l. Keilrahmen (teilweise unter Klammer)",
+        "merkmal": "verbräuntes rechteckiges Etikett mit blauer Zierbordüre, handschriftlich mit schwarzer Tinte «Russ-Young | 33» (erste Zeile unterstrichen)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_042_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              139.8,
+              313.4,
+              243.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 25,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Etikett, schwarz bedruckt und handschriftlich mit schwarzer Tinte ausgefüllt, Titel: «L’heure sacrée», Besitzer: «Mr W. Russ-Young […]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz bedruckt und handschriftlich mit schwarzer Tinte ausgefüllt, Titel: «L’heure sacrée», Besitzer: «Mr W. Russ-Young […]»",
+        "kommentar": "Ausstellung Bern 1921, Nr. 33",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_043_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              255.8,
+              313.0,
+              333.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 26,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit dunkelblauem Schreibmittel «B S 1325», durchgestrichen mit hellblauem Schreibmittel",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit dunkelblauem Schreibmittel «B S 1325», durchgestrichen mit hellblauem Schreibmittel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_044_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              356.8,
+              313.0,
+              411.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 27,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «II.», umkreist",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «II.», umkreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_045_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              423.7,
+              202.0,
+              463.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 28,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit rotem Schreibmittel «lyst [?] No [?] 43»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «lyst [?] No [?] 43»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_046_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              476.7,
+              313.0,
+              529.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 29,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (teilweise verdeckt von Klammer): handschriftlich mit hellblauem Schreibmittel «VV […]»",
+        "position_traeger": "o. l. Keilrahmen (teilweise verdeckt von Klammer)",
+        "merkmal": "handschriftlich mit hellblauem Schreibmittel «VV […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_047_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              541.7,
+              315.5,
+              579.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 30,
+        "seite": "Rückseite",
+        "beschreibung": "o. linke Mittelstrebe: schwarzer Stempel",
+        "position_traeger": "o. linke Mittelstrebe",
+        "merkmal": "schwarzer Stempel",
+        "kommentar": "vermutlich Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_048_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              592.2,
+              176.3,
+              635.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 31,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit hellrosa Schreibmittel «S A 858»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit hellrosa Schreibmittel «S A 858»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5000/5000_049_provenienzmerkmale.jpeg",
+            "seite": 16,
+            "bbox": [
+              136.2,
+              648.2,
+              312.9,
+              704.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller 2017."
+    },
+    {
+      "nr": 2,
+      "text": "Müller 2017."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Luzern 1930, S. 5/6 (Einleitung), Auskunft der Galerie Fischer vom 15. November 2022. In den Akten der Galerie Fischer wird die Einlieferin als «Familienstiftung A. Rütschi» bezeichnet, siehe Anfragen. Diese verwaltete den Nachlass Alfred Rütschi."
+    },
+    {
+      "nr": 5,
+      "text": "Müller 2017, Auktionskatalog Luzern 1930."
+    },
+    {
+      "nr": 6,
+      "text": "Auskunft der Galerie Fischer vom 15. November 2022."
+    },
+    {
+      "nr": 7,
+      "text": "Auskunft der Galerie Fischer vom 3. Dezember 2024. Das Werk, das in der Auktion vom 30. August 1930 unverkauft blieb, stand danach im Auftrag der Familienstiftung Rütschi zum «kommissionsweisen Verkauf» als «Halbanteilsware» der Galerie Fischer und der Galerie Neupert, was so zu verstehen sein dürfte, dass sich die beiden Kunsthändler den Kommissionserlös aufteilten. Der Verkauf des Werks wurde im April 1936 im Kommissionsbuch der Galerie Fischer festgehalten, sodass von einem durchgehenden Besitz von Fischer und Neupert auszugehen ist. Das Gemälde war bereits 1930 im Vorfeld der Luzerner Auktion in der Galerie Neupert in Zürich ausgestellt worden, siehe ebd. Siehe auch Müller 2017, Ausstellungskatalog Basel 1934, Auktionskatalog Zürich 1936 sowie Bleistiftaufschrift «Galerie Neupert» auf der Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Müller 2017, Auktionskatalog Zürich 1936."
+    },
+    {
+      "nr": 9,
+      "text": "Müller 2017, Auktionskatalog Bern 1995."
+    },
+    {
+      "nr": 10,
+      "text": "Auskunft des Schweizerischen Instituts für Kunstwissenschaft (SIK) vom 18. Dezember 2025."
+    },
+    {
+      "nr": 11,
+      "text": "Auskunft der Galerie Kornfeld vom 1. Februar 2023, siehe auch Fn. 12."
+    },
+    {
+      "nr": 12,
+      "text": "Müller 2017, Auktionskatalog Bern 1995, Auskunft der Galerie Kornfeld vom 1. Februar 2023. Die Galerie Kornfeld schreibt zu ihrer eigenen Geschichte als Auktionshaus: «1972 hatten wir Teile der Sammlung Arthur Stoll zum Verkauf anvertraut bekommen, nun wurden 1992 durch den Verkauf der grossen Villa in Corseaux am Genfersee weitere Bestände frei, die wir im Herbst 1992 übernehmen und ab 1993 über mehrere Auktionen verteilt, anbieten durften», siehe Eberhard W. Kornfeld, Geschichte des Hauses von 1864 bis in die heutigen Tage, Bern 2014, https://www.korn-feld.ch/d325.html [4. August 2025]."
+    },
+    {
+      "nr": 13,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 49
+}

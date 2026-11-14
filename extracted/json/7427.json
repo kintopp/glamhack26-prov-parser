@@ -1,0 +1,431 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7427_221007.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. Oktober 2022",
+  "stand_iso": "2022-10-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7427",
+      "Alexandre Calame (1810–1864)",
+      "Arbres / Waldige Landschaft",
+      "1850",
+      "Öl auf Papier",
+      "50 × 33 × 2 cm (Bildmass)",
+      "63 × 36 × 2,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7427",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Arbres / Waldige Landschaft",
+    "masse": [
+      "50 × 33 × 2 cm (Bildmass)",
+      "63 × 36 × 2,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1850",
+    "technik": "Öl auf Papier",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7427/7427_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          256.2,
+          516.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Anker 1987."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1977."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "5.–16. Mai 1977",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Kunstsammlungen aus hochadeligem Besitz. Lager-Auflösung der Galerie Jürg Stuker. Schweizer Kollektionen und Nachlässe […], Lot 1760, Waldige Landschaft), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "10. Mai 1977 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 1050 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 1977 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkataloge",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987, S. 395, Nr. 441 (Arbres).",
+        "bilder": [
+          {
+            "datei": "images/7427/7427_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              334.9,
+              343.7,
+              529.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge",
+            "bildunterschrift": "Das Werk im Catalogue raisonné mit der Nummer 441 ist fast identisch mit jenem mit der Nummer 442 (Hêtres, um 1850, 51,5 × 35 cm), wobei bei diesem ein Etikett der Familie Calame auf der Rückseite erwähnt wird, das bei unserem Werk nicht vorhanden ist."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Kunstsammlungen aus hochadeligem Besitz. Lager-Auflösung der Galerie Jürg Stuker. Schweizer Kollektionen und Nachlässe […], Auktionskatalog Galerie Jürg Stuker, Bern, 5.–16. Mai 1977, Bern 1977, Lot 1760.\n\nGemäss der Auktionsbeschreibung stammen neunzig Prozent der versteigerten Objekte aus hochadeligem Besitz und der Rest aus der Antiquitätensammlung der Prinzessin Chervachidze, dem Nachlass von Olga Probst sowie dem Lagerbestand der Galerie Jürg Stuker."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935, möglicherweise Waldpartie (35 × 53 cm, Privatbesitz Genf).\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» in der Rubrik «Malerei» unter «Suchmeldungen» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Alexandre Calame» [7. Oktober 2022]",
+            "treffer": 0,
+            "datum": "2022-10-07"
+          },
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [7. Oktober 2022]",
+            "treffer": 0,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (208 Ergebnisse) für Volltextsuche «Calame» UND «Waldpartie» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 208,
+            "datum": "2022-10-07"
+          },
+          {
+            "text": "0 Treffer (90 Ergebnisse) für Volltextsuche «Calame» UND «Waldige Landschaft» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 90,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «Wald», Filter: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [6. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-10-06"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «1850», Filter: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [6. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2022-10-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hetres», Filter: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [6. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-06"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «arbres», Filter: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [6. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-10-06"
+          },
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Bäume», Filter: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [6. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-10-06"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «foret», Filter: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [6. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-10-06"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «Waldpartie», Filter: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [6. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-10-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7427/7427_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            367.0,
+            562.4,
+            532.9,
+            582.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1977, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv",
+      "bestand": "Dokumente"
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7427/7427_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          232.7,
+          489.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      },
+      {
+        "datei": "images/7427/7427_005_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          158.2,
+          232.7,
+          387.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Merkmal",
+        "bildtitel": "Rahmen separat"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: beiges rechteckiges Etikett mit gezahnter Umrandung, schwarz bedruckt «6370»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "beiges rechteckiges Etikett mit gezahnter Umrandung, schwarz bedruckt «6370»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7427/7427_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              451.1,
+              232.4,
+              506.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: zweimal weisses rechteckiges Etikett, schwarz bedruckt «12992» (unterstrichen)",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "zweimal weisses rechteckiges Etikett, schwarz bedruckt «12992» (unterstrichen)",
+        "kommentar": "SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7427/7427_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              519.9,
+              242.8,
+              609.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rahmen: handschriftlich mit Kreide allenfalls «3 Bir»",
+        "position_traeger": "o. r. Rahmen",
+        "merkmal": "handschriftlich mit Kreide allenfalls «3 Bir»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7427/7427_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              621.6,
+              305.6,
+              708.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rahmen: angeheftetes Etikett der Erwerbsauktion Galerie Jürg Stuker, Mai 1977, Lot 1760",
+        "position_traeger": "o. l. Rahmen",
+        "merkmal": "angeheftetes Etikett der Erwerbsauktion Galerie Jürg Stuker, Mai 1977, Lot 1760",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7427/7427_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              305.6,
+              231.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Anker 1987."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1977."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1977."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 1977 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 9
+}

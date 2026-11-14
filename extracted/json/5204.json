@@ -1,0 +1,539 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5204_241114.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5204",
+      "Albert Anker (1831–1910)",
+      "Zwei erwachende Kinder",
+      "1891",
+      "Öl auf Leinwand",
+      "58 × 79 cm (Bildmass)",
+      "84,6 × 104 × 12 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5204",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Zwei erwachende Kinder",
+    "masse": [
+      "58 × 79 cm (Bildmass)",
+      "84,6 × 104 × 12 cm (Rahmenmass)"
+    ],
+    "datierung": "1891",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5204/5204_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.3,
+          430.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Deux enfants se revéillant au lit."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "2. September 1891 bis o. D.",
+      "besitzer": "Georges Wenger, Lausanne, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 2. September 1891 in Albert Ankers Livre de vente: «de M. Wenger pour les deux enfants se réveillant au lit 500». Georges Wenger war Kunsthändler in Lausanne und kaufte im letzten Viertel des 19. Jahrhunderts regelmässig Werke von Albert Anker, siehe Kuthy/Bhattacharya-Stettler 1995, S. 47."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. Juni bis 30. September 1901",
+      "besitzer": "Ausstellung (VII. nationale Kunstausstellung, Nr. 244), Vevey",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Hr. Nicod, La Tour-de-Peilz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1943",
+      "besitzer": "Hermann Bürki (1873–1943), Bern",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Bern",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13.–29. November 1997",
+      "besitzer": "Auktion Galerie Jürg Stuker (Lot 1005, Deux enfants se réveillant au lit), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1997, siehe auch Fn. 9."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 14. November 1997",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 330 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 209, Nr. 463.",
+        "bilder": [
+          {
+            "datei": "images/5204/5204_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.4,
+              304.2,
+              411.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5204/5204_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              416.9,
+              304.3,
+              513.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktionskatalog Galerie Jürg Stuker, Bern, 13.–29. November 1997, Bern 1997, Lot 1005 [nicht konsultiert, fehlt im Archiv SKKG].",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die (unvollständigen) Angaben stammen von Artprice, siehe https://de.artprice.com/artist/650/albert-anker/ge-malde/965827/deux-enfants-se-reveillant-au-lit [14. November 2024]."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Anker» und «deux enfants» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Volltextsuche «paresseuses» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für Volltextsuche «Anker» und «erwachende Kinder» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1381, A.2151.1648.3.2",
+      "bilder": [
+        {
+          "datei": "images/5204/5204_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            209.4,
+            532.9,
+            306.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: Kopie des lotspezifischen Ausschnitts des Auktionskatalogs Bern 1997, handschriftlich annotiert mit Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5204/5204_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          340.3,
+          393.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit dunkler Farbe «Anker»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit dunkler Farbe «Anker»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5204/5204_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              431.3,
+              226.3,
+              476.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «1005»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «1005»",
+        "kommentar": "Lotnummer Auktion Galerie Jürg Stuker 1997",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5204/5204_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              494.4,
+              226.6,
+              562.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit Bleistift «1401 [?]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «1401 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5204/5204_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              574.8,
+              226.3,
+              622.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «B»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «B»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5204/5204_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.6,
+              635.3,
+              223.8,
+              732.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 180704 0004», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 180704 0004», unterstrichen",
+        "kommentar": "SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5204/5204_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              139.8,
+              249.0,
+              168.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: langrechteckiges weisses Etikett, schwarz gedruckt «SIK 180704 0004», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz gedruckt «SIK 180704 0004», unterstrichen",
+        "kommentar": "SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5204/5204_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              215.5,
+              249.5,
+              249.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Deux enfants se revéillant au lit."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 2. September 1891 in Albert Ankers Livre de vente: «de M. Wenger pour les deux enfants se réveillant au lit 500». Georges Wenger war Kunsthändler in Lausanne und kaufte im letzten Viertel des 19. Jahrhunderts regelmässig Werke von Albert Anker, siehe Kuthy/Bhattacharya-Stettler 1995, S. 47."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1997, siehe auch Fn. 9."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Die (unvollständigen) Angaben stammen von Artprice, siehe https://de.artprice.com/artist/650/albert-anker/ge-malde/965827/deux-enfants-se-reveillant-au-lit [14. November 2024]."
+    }
+  ],
+  "bilder_anzahl": 11
+}

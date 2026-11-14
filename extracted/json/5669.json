@@ -1,0 +1,468 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5669_250220.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "20. Februar 2025",
+  "stand_iso": "2025-02-20",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5669",
+      "Frank Buchser (1828–1890)",
+      "Bildnis einer Dame",
+      "1857",
+      "Öl auf Leinwand",
+      "115 × 91,7 cm (Bildmass)",
+      "147 × 124,5 × 11,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5669",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Bildnis einer Dame",
+    "masse": [
+      "115 × 91,7 cm (Bildmass)",
+      "147 × 124,5 × 11,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1857",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5669/5669_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.9,
+          247.3,
+          261.7,
+          505.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 2002."
+      },
+      {
+        "nr": 2,
+        "text": "Das Pendant (siehe Fn. 6) ist dagegen signiert."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "vermutlich Auktion Galerie Jürg Stuker (Lot 1593), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Auktionsetikett auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "31. Mai 2001",
+      "besitzer": "Galerie Koller (Gemälde, Skulpturen, Graphik des 20. Jahrhunderts. Schweizer Kunst, Lot 104, Bildnis einer Dame), Zürich, eingeliefert von unbekannt, unverkauft",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 2001."
+        },
+        {
+          "nr": 5,
+          "text": "Siehe https://de.artprice.com/artist/4201/frank-buchser/gemalde/2154549/bildnis-einer-dame [7. Juni 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. November 2002",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst / Swiss Art, Lot 6, Bildnis eines Herrn und einer Dame), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 2002. Das Werk (Bildnis einer Dame) wurde zusammen mit einem Pendant (Bildnis eines Herrn) angeboten und erworben. Siehe auch Recherchedokumentation zum Werk mit der SKKG-Inventarnummer 5668."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. November 2002",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 40 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG. Der Zuschlagspreis bezieht sich auf beide unter der Lotnummer angebotenen Werke zusammen, siehe Fn. 6."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Gemälde, Skulpturen, Graphik des 20. Jahrhunderts. Schweizer Kunst, Auktionskatalog Koller Auktionen, Zürich, 31. Mai 2001, Zürich 2001, Lot 104.\n\nSchweizer Kunst / Swiss Art, Auktionskatalog, Sotheby’s, Zürich, 25. November 2002, Zürich 2002, Lot 6.",
+        "bilder": [
+          {
+            "datei": "images/5669/5669_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.4,
+              392.3,
+              437.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          },
+          {
+            "datei": "images/5669/5669_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              165.1,
+              439.9,
+              401.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Hersteller/Künst-ler/Autor:in «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Buchser», Filter 2: Titel einschränken «automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise) ohne Filter [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "1 Treffer (4 Ergebnisse im Archivverzeichnis, 33 in den Primärdaten) für Volltextsuche «Buchser» [7. Juni 2023]:\n\nA.2151.1672.2.2 (PDF, S. 179)",
+      "bilder": [
+        {
+          "datei": "images/5669/5669_004_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            485.8,
+            531.6,
+            557.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "lotspezifische Kopie aus Auktionskatalog Zürich 2002, annotiert mit Zuschlagspreis (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5669/5669_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          320.8,
+          550.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit rosa Schreibmittel «18»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit rosa Schreibmittel «18»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5669/5669_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              613.8,
+              232.2,
+              680.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit rosa Schreibmittel «18», unterstrichen",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit rosa Schreibmittel «18», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5669/5669_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              139.8,
+              230.4,
+              212.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: möglicherweise Reste eines Klebeetiketts",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "möglicherweise Reste eines Klebeetiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5669/5669_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              225.8,
+              229.7,
+              274.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisses rechteckiges Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «6» und handschriftlich mit dunklem Kugelschreiber «/2», zudem Markierungen oder Übermalungen mit schwarzem Filzstift",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisses rechteckiges Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «6» und handschriftlich mit dunklem Kugelschreiber «/2», zudem Markierungen oder Übermalungen mit schwarzem Filzstift",
+        "kommentar": "Auktion Sotheby’s, 25. November 2002, Lot 6",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5669/5669_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              287.8,
+              225.9,
+              347.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Dieser Vermerk dürfte sich darauf beziehen, dass das Werk ein Pendant hat, siehe Fn. 6."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisses rechteckiges Klebeetikett mit abgerundeten Ecken, blau gedruckt «1593» und handschriftlich mit dunklem Kugelschreiber «/2»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisses rechteckiges Klebeetikett mit abgerundeten Ecken, blau gedruckt «1593» und handschriftlich mit dunklem Kugelschreiber «/2»",
+        "kommentar": "Auktionsetikett, Lot 1593, vermutlich von der Galerie Jürg Stuker, Bern, von einer unbekannten Auktion wohl Ende der 1970er- bis 1990er-Jahre",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5669/5669_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              414.1,
+              228.9,
+              485.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Siehe vorausgehende Fussnote."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 2002."
+    },
+    {
+      "nr": 2,
+      "text": "Das Pendant (siehe Fn. 6) ist dagegen signiert."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Auktionsetikett auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 2001."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe https://de.artprice.com/artist/4201/frank-buchser/gemalde/2154549/bildnis-einer-dame [7. Juni 2023]."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 2002. Das Werk (Bildnis einer Dame) wurde zusammen mit einem Pendant (Bildnis eines Herrn) angeboten und erworben. Siehe auch Recherchedokumentation zum Werk mit der SKKG-Inventarnummer 5668."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG. Der Zuschlagspreis bezieht sich auf beide unter der Lotnummer angebotenen Werke zusammen, siehe Fn. 6."
+    },
+    {
+      "nr": 8,
+      "text": "Dieser Vermerk dürfte sich darauf beziehen, dass das Werk ein Pendant hat, siehe Fn. 6."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe vorausgehende Fussnote."
+    }
+  ],
+  "bilder_anzahl": 10
+}

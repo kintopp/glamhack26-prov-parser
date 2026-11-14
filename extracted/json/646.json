@@ -1,0 +1,591 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_646_241113.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 646",
+      "Albert Anker (1831–1910)",
+      "Der Gefangene",
+      "o. J.",
+      "Öl auf Leinwand",
+      "50 × 30 cm (Bildmass)",
+      "63 × 42 × 5,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "646",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Der Gefangene",
+    "masse": [
+      "50 × 30 cm (Bildmass)",
+      "63 × 42 × 5,5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/646/646_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          260.9,
+          568.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Un prisonnier. Im Auktionskatalog Bern 1984 wird die Ansicht geäussert, es handle sich «um eine weibliche Gestalt», was den Titel Die Gefangene / Une prisonnière nahelegen würde."
+      },
+      {
+        "nr": 2,
+        "text": "Im Ausstellungskatalog Bern 1931 wird das Werk auf «um 1865» datiert."
+      },
+      {
+        "nr": 3,
+        "text": "Auf der Werkrückseite findet sich ein Anker-Nachlassstempel, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis vermutlich 1957",
+      "besitzer": "Cécile Du Bois-Anker (Dubois) (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters (des Künstlers)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Aufgrund des Nachlassstempels auf der Werkrückseite und der Angabe zur Leihgabe im Ausstellungskatalog Bern 1931 («Frau D. B.-A., Genf») lässt sich das Werk Cécile Du Bois-Anker, der Tochter von Albert Anker, zuordnen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich nach 1957 bis 1983",
+      "besitzer": "Jean Du Bois (1907–1983), Genf, erworben im Erbgang von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Die Angabe «J. Du Bois» auf dem Nachlassstempel auf der Werkrückseite verweist auf Jean Du Bois, den Sohn von Cécile Du Bois-Anker."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1983/1984",
+      "besitzer": "Nachlass Jean Du Bois, Genf",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Nachlassstempel auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17.–30. Mai 1984",
+      "besitzer": "Auktion Galerie Jürg Stuker (Bedeutende Schweizer Sammlungen. Nachlass Professor Klaesi, Inventar Schloss Knonau, Lot 378, Der Gefangene), Bern, eingeliefert aus dem Nachlass Jean Du Bois",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1984."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. Mai 1984",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 24 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 1984 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 265, Nr. 648.",
+        "bilder": [
+          {
+            "datei": "images/646/646_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              486.6,
+              284.2,
+              590.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bedeutende Schweizer Sammlungen. Nachlass Professor Klaesi, Inventar Schloss Knonau, Auktionskatalog Galerie Jürg Stuker, Bern, 17.–30. Mai 1984, Bern 1984, Lot 378."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker, 1831–1910. Jahrhundert-Ausstellung, 20. Juni bis 23. August 1931, Ausstellungskatalog Kunstmuseum Bern, Bern 1931, Nr. 160.",
+        "bilder": [
+          {
+            "datei": "images/646/646_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              183.7,
+              333.3,
+              219.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Salles Léopold Robert, Neuchâtel, Exposition Albert Anker, 1.– 30. November 1910, Nr. 18\n\n– Kunsthaus Zürich, Ausstellung Albert Anker, 7. Mai bis 5. Juni 1911, Nr. 129\n\n– Kunsthalle Bern, Albert Anker, September bis Oktober 1928, Nr. 238\n\n– Kunstmuseum Bern, Albert Anker (1831–1910). Jahrhundertausstellung, 20. Juni bis 23. August 1931, Nr. 160\n\n– Kunsthalle Bern, Schweizerische Malerei im 19. Jahrhundert, August bis Oktober 1936, Nr. 9",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die Angaben zu den Ausstellungen stammen aus Kuthy/Bhattacharya-Stettler 1995."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (22 Ergebnisse) für Volltextsuche «Anker» und «die Gefangene» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 22,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (78 Ergebnisse) für Volltextsuche «Anker» und «der Gefangene» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 78,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/646/646_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            532.2,
+            246.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1984, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/646/646_005_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          312.7,
+          541.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: verbräuntes rechteckiges Etikett, handschriftlich mit schwarzer Tinte «Eing. Nr. 171 | Kat. [Nr.]» und mit Bleistift «160»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, handschriftlich mit schwarzer Tinte «Eing. Nr. 171 | Kat. [Nr.]» und mit Bleistift «160»",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1931, Nr. 160 (siehe Etikett oben links)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              604.5,
+              243.4,
+              668.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: handschriftlich mit schwarzem Schreibmittel «Mad Anker | Serre 3 [8?] Neuchâtel»",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Mad Anker | Serre 3 [8?] Neuchâtel»",
+        "kommentar": "Möglicherweise handelt es sich um die Angabe der Adresse «Rue de la Serre» in Neuchâtel.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              314.1,
+              179.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "In Neuchâtel lebte Ankers Tochter Marie Anker-Quinche (1872–1950), allerdings nicht an der Rue de la Serre. In den Jahren 1894 und 1912 sind an der Rue de la Serre 3/8 verschiedene Ateliers greifbar, sodass ein Zusammenhang mit dem Rahmen des Werks denkbar ist, siehe https://www.e-newspaperarchives.ch/?a=d&d=IMP19120716-01.2.30.3 und https://www.e-newspaperarchives.ch/?a=d&d=IMP18940708-01.2.53.2 [21. Januar 2025]."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: weisser Zettel, handschriftlich mit blauem Kugelschreiber «F 84 | Kauf | Stefanini | 378»; daneben rechteckiger weisser Zettel, blau gedruckt «378»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "weisser Zettel, handschriftlich mit blauem Kugelschreiber «F 84 | Kauf | Stefanini | 378»; daneben rechteckiger weisser Zettel, blau gedruckt «378»",
+        "kommentar": "Auktion Galerie Jürg Stuker 1984, Lot 378",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              240.8,
+              273.6,
+              374.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: vergilbtes rechteckiges Etikett mit Rahmenlinie, bedruckt",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "vergilbtes rechteckiges Etikett mit Rahmenlinie, bedruckt",
+        "kommentar": "Ausstellung Kunsthalle Bern 1928",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              386.9,
+              216.6,
+              445.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Leinwand: ovaler schwarzer Stempel, «Succession | A. Anker | .O. | suc. J. Du Bois»",
+        "position_traeger": "o. l. Leinwand",
+        "merkmal": "ovaler schwarzer Stempel, «Succession | A. Anker | .O. | suc. J. Du Bois»",
+        "kommentar": "Nachlassstempel Jean Du Bois (Linie Cécile Du Bois-Anker)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              458.4,
+              248.2,
+              527.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisser Zettel, schwarz gestempelt «- - Mai 1984», handschriftlich mit Bleistift «Stuker» und mit schwarzem Kugelschreiber «378 Anker, Albert | Der (die) Gefangene | 24’»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisser Zettel, schwarz gestempelt «- - Mai 1984», handschriftlich mit Bleistift «Stuker» und mit schwarzem Kugelschreiber «378 Anker, Albert | Der (die) Gefangene | 24’»",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Jürg Stuker 1984, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              546.8,
+              312.4,
+              653.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Zur Titelvariante siehe Fn. 1."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: vergilbtes rechteckiges Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "vergilbtes rechteckiges Etikett, schwarz bedruckt",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1931, Nr. 160",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              248.1,
+              197.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (unter Abdeckpapier): handschriftliche Aufschrift, verdeckt",
+        "position_traeger": "o. l. Keilrahmen (unter Abdeckpapier)",
+        "merkmal": "handschriftliche Aufschrift, verdeckt",
+        "kommentar": "steht möglicherweise in Zusammenhang mit dem Notat auf der Mittelstrebe (gleiche Schriftgrösse)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/646/646_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              215.5,
+              314.9,
+              246.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Un prisonnier. Im Auktionskatalog Bern 1984 wird die Ansicht geäussert, es handle sich «um eine weibliche Gestalt», was den Titel Die Gefangene / Une prisonnière nahelegen würde."
+    },
+    {
+      "nr": 2,
+      "text": "Im Ausstellungskatalog Bern 1931 wird das Werk auf «um 1865» datiert."
+    },
+    {
+      "nr": 3,
+      "text": "Auf der Werkrückseite findet sich ein Anker-Nachlassstempel, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Aufgrund des Nachlassstempels auf der Werkrückseite und der Angabe zur Leihgabe im Ausstellungskatalog Bern 1931 («Frau D. B.-A., Genf») lässt sich das Werk Cécile Du Bois-Anker, der Tochter von Albert Anker, zuordnen."
+    },
+    {
+      "nr": 5,
+      "text": "Die Angabe «J. Du Bois» auf dem Nachlassstempel auf der Werkrückseite verweist auf Jean Du Bois, den Sohn von Cécile Du Bois-Anker."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Nachlassstempel auf der Werkrückseite."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1984."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 1984 im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Die Angaben zu den Ausstellungen stammen aus Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 10,
+      "text": "In Neuchâtel lebte Ankers Tochter Marie Anker-Quinche (1872–1950), allerdings nicht an der Rue de la Serre. In den Jahren 1894 und 1912 sind an der Rue de la Serre 3/8 verschiedene Ateliers greifbar, sodass ein Zusammenhang mit dem Rahmen des Werks denkbar ist, siehe https://www.e-newspaperarchives.ch/?a=d&d=IMP19120716-01.2.30.3 und https://www.e-newspaperarchives.ch/?a=d&d=IMP18940708-01.2.53.2 [21. Januar 2025]."
+    },
+    {
+      "nr": 11,
+      "text": "Zur Titelvariante siehe Fn. 1."
+    }
+  ],
+  "bilder_anzahl": 13
+}

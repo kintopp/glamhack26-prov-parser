@@ -1,0 +1,506 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1299_230113.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. Januar 2023",
+  "stand_iso": "2023-01-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1299",
+      "Augusto Giacometti (1877–1947)",
+      "Rosen",
+      "1935",
+      "Öl auf Leinwand",
+      "21 × 25 × 2,5 cm (Bildmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1299",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Rosen",
+    "masse": [
+      "21 × 25 × 2,5 cm (Bildmass)"
+    ],
+    "datierung": "1935",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1299/1299_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.0,
+          447.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Stutzer 2023, siehe auch Bezeichnung auf der Werkrückseite."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Neupert, Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Bern 1991, siehe auch Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Stutzer 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19.–21. Juni 1991",
+      "besitzer": "Auktion Galerie Kornfeld (Kunst des 19. und 20. Jahrhunderts, Lot 424, Rosen), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Bern 1991."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 20. Juni 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 26 500 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Bern 1991 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Beat Stutzer, Rosen, in: Augusto Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 353, https://recherche.sik-isea.ch/sik:work-14725428 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/1299/1299_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              247.5,
+              533.2,
+              528.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, 19.–21. Juni 1991, Bern 1991, Lot 424."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hans Hartmann, Augusto Giacometti. Pionier der abstrakten Malerei. Ein Leben für die Farbe, Chur 1981, S. 249, Nr. 1759: gleiche Datierung, leicht abweichende Masse (20 × 24 cm), ohne Abbildung und ohne weiterführende Informationen."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Volltextsuche «Giacometti», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm [15. August 2023].",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/1299/1299_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              373.0,
+              391.4,
+              490.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (155 Ergebnisse) für Freitextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 155,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (43 Ergebnisse) für Freitextsuche «Giacometti» und «Rosen» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 43,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Künstlersuche «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Freitextsuche «Rosen», Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1299/1299_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            291.3,
+            533.0,
+            367.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1991, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1299/1299_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          306.3,
+          372.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit beiger Farbe «a. g.»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit beiger Farbe «a. g.»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              409.7,
+              232.4,
+              464.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: angehefteter rechteckiger weisser Zettel, Kopie des annotierten lotspezifischen Ausschnitts aus Auktionskatalog Bern 1991",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, Kopie des annotierten lotspezifischen Ausschnitts aus Auktionskatalog Bern 1991",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Kornfeld 1991",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              476.7,
+              306.2,
+              536.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: schwarz gestempelt «[…] A.-G.» (verdeckt von Erwerbsnachweis), gemäss Auktionskatalog Bern 1991 «Galerie Neupert A.-G.»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "schwarz gestempelt «[…] A.-G.» (verdeckt von Erwerbsnachweis), gemäss Auktionskatalog Bern 1991 «Galerie Neupert A.-G.»",
+        "kommentar": "Stempel der Galerie Neupert, Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              577.7,
+              306.2,
+              659.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Farbstift «P»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Farbstift «P»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              672.7,
+              195.1,
+              740.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit blauem Farbstift «//»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Farbstift «//»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              197.5,
+              194.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «4»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              207.8,
+              198.1,
+              265.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: schwarz gestempelt «20»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «20»",
+        "kommentar": "möglicherweise Bildmass (Höhe)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              137.0,
+              278.8,
+              198.3,
+              332.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: handschriftlich mit schwarzer Farbe «1935. | AUGUSTO | GIACOMETTI | „Rosen“», letztes Wort unterstrichen; wohl von Künstlerhand",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «1935. | AUGUSTO | GIACOMETTI | „Rosen“», letztes Wort unterstrichen; wohl von Künstlerhand",
+        "kommentar": "Datierung, Signatur und Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1299/1299_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              345.1,
+              306.2,
+              462.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Stutzer 2023, siehe auch Bezeichnung auf der Werkrückseite."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Bern 1991, siehe auch Provenienzmerkmale."
+    },
+    {
+      "nr": 3,
+      "text": "Stutzer 2023."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Bern 1991."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Bern 1991 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    }
+  ],
+  "bilder_anzahl": 13
+}

@@ -1,0 +1,656 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4991_250528.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Mai 2025",
+  "stand_iso": "2025-05-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4991",
+      "Ernest Biéler (1863–1948)",
+      "La femme en blanc",
+      "o. J.",
+      "Tempera auf Leinwand",
+      "172 × 61 cm (Bildmass)",
+      "195 × 77 × 7 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "4991",
+    "status": "Klar",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "La femme en blanc",
+    "masse": [
+      "172 × 61 cm (Bildmass)",
+      "195 × 77 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Tempera auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4991/4991_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          246.2,
+          634.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Etikett des im Zusammenhang der Ausstellung Lausanne/Solothurn 1999/2000 beauftragten Transportunternehmens auf der Werkrückseite. Im Auktionskatalog Zürich 1997 wird das Werk als Stehende junge Frau mit Blumenstrauss bezeichnet, auf der Rechnung der Galerie Kurt Meissner vom 8. August 2005 im Archiv SKKG als Stehende Frau in Weiss mit Blumenstrauss."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Ethel Mathier, Auskunft vom 29. November 2022, wurde das Werk nachträglich beschnitten."
+      },
+      {
+        "nr": 3,
+        "text": "Auf der Werkvorderseite befindet sich der sogenannte Signaturstempel, der die Signatur von Ernest Biéler trägt beziehungsweise imitiert und nicht von ihm selbst, sondern nach seinem Tod auf das Werk im Nachlass aufgebracht wurde; siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "um 1898 bis mindestens 1905",
+      "besitzer": "Samuel Keser (1860–1953), Villa Place Claparède, Genf",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Das Werk gehörte zu einer mehrteiligen Raumdekoration für die Villa des Arztes Dr. Samuel Louis Keser (alternative Schreibweisen: Kaeser, Keyser, Kaiser, Kayser) an der Place Claparède (auch Chemin de Chapel oder Chemin Sautter 21) in Genf, erbaut vom Architekten Gustave Brocher 1898, siehe Kontextinformationen. Die Villa wurde 1932 abgebrochen, siehe: Matthias Frehner und Ethel Mathier (Hrsg.), Ernest Biéler (1863–1948). Geträumte Wirklichkeit, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Bern/Martigny 2011, S. 19. Zum Auftrag siehe: Madeleine Biéler, Ernest Biéler. Sa vie, son œuvre, Lausanne 1953, S. 60–61; Ethel Mathier, Ernest Biéler und der Sammler Jules Tissières, in: Vallesia 58 (2003), S. 417–473, hier S. 425, Fn. 29, sowie Ausstellungskatalog Lausanne/Solothurn 1999."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 1905 bis um 1932",
+      "besitzer": "Baron Blanc, Villa Place Claparède, Genf",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auskunft von Ethel Mathier vom 28. Mai 2025. Gemäss Staatsarchiv Genf, Auskunft vom 5. Dezember 2022 (siehe Anfragen), war Samuel Keser bis 1905 in Genf wohnhaft und wechselte 1905/06 den Wohnort. Madeleine Biéler-de Cérenville kaufte das Werk vermutlich im Zeitraum des Abbruchs (1932) zurück, siehe Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "um 1932 bis 1975",
+      "besitzer": "Madeleine Biéler-de Cérenville (1884–1975)",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Gemäss Ethel Mathier, Auskunft vom 29. November 2022, hat Madeleine Biéler-de Cérenville das Werk 1931/32 zurückgekauft, vermutlich im Zusammenhang mit dem Abbruch der Villa Keser."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1975–1992",
+      "besitzer": "Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Das Etikett der Galerie Kurt Meissner auf der Rückseite («Prov. Nachlass Ernest Biéler») und der Signaturstempel auf der Vorderseite verweisen auf den Nachlass Madeleine Biéler (Succession Madeleine Biéler-de Cérenville). Darunter ist der Nachlass Ernest Biéler ab 1975, bisweilen auch als Fonds Ernest Biéler bezeichnet, zu verstehen, der von François-Hadrien Pétermann verwaltet wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13. November 1992",
+      "besitzer": "Auktion Galerie Koller (Lot 5084), Zürich, vermutlich eingeliefert aus dem Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ethel Mathier, Auskunft vom 29. November 2022. Der Auktionskatalog fehlt im Archiv SKKG, die Angabe konnte nicht überprüft werden."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1992–1997",
+      "besitzer": "vermutlich Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Vermutlich ging das Werk nach der Auktion unverkauft zurück an den Einlieferer."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12. Juni 1997",
+      "besitzer": "Auktion Galerie Koller (Gemälde und Skulpturen des 19. und 20. Jh. Schweizer Kunst. Moderne Graphik, Lot 3064, Stehende junge Frau mit Blumenstrauss), Zürich, vermutlich eingeliefert aus dem Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Auktionskatalog Zürich 1997."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12. Juni 1997 bis 8. August 2005",
+      "besitzer": "Galerie Kurt Meissner, Zürich, angekauft auf Auktion Galerie Koller",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Auskunft von Ethel Mathier vom 28. Mai 2025. Gemäss Ausstellungkatalog Lausanne/Solothurn 1999 war das Werk damals (1999/2000) im Eigentum von Kurt Meissner (1909–2004), der als Leihgeber angegeben ist. Diese Angabe korrespondiert mit dem Etikett der Transportfirma und jenem der Galerie Kurt Meissner auf der Werkrückseite (siehe Provenienzmerkmale)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. August 2005",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, bei Galerie Kurt Meissner, Ankaufspreis: 120 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Siehe Rechnung von Kurt Meissner an SKKG vom 8. August 2005 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde und Skulpturen des 19. und 20. Jh. Schweizer Kunst. Moderne Graphik, Auktionskatalog Galerie Koller, Zürich, 12. Juni 1997, Zürich 1997, Lot 3064 (nicht angekauft)."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Jörg Zutter und Catherine Lepdor (Hrsg.), Ernest Biéler, 1862–1948. Vom Realismus zum Jugendstil, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne / Kunstmuseum Solothurn, Lausanne 1999, S. 84, Abb. 51; S. 147, Nr. 38."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Maurice Rheims, L’art 1900 ou le style Jules Verne, Paris 1965, S. 131, Abb. 199.\n\nDavid Ripoll, Villa Les Feuillantines (Avenue de la Paix 13). Étude historique, Service de l’inventaire des monuments d’art et d’histoire /Office du Patrimoine et des Sites de l’État de Genève, 2019 [nicht mehr greifbar]; zur Villa Keser siehe S. 32 mit Abb. 36."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Musée cantonal des Beaux-Arts, Lausanne / Kunstmuseum Solothurn, Du réalisme à l’Art nouveau / Vom Realismus zum Jugendstil, 3. Juli 1999 bis 10. Oktober 1999 / 23. Oktober 1999 bis 2. Januar 2000, Nr. 38."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv/Ad-ressat:in",
+      "betreff": "Betreff",
+      "antwort": "Antwort"
+    },
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    },
+    {
+      "datum": "21. November 2022",
+      "institution": "Archives de la Ville de Genève",
+      "betreff": "Villa Dr. Keser, Familie, Abbruch",
+      "antwort": "an das Staatsarchiv des Kantons Genf verwiesen"
+    },
+    {
+      "datum": "22. November 2022",
+      "institution": "Archives d’Etat de Genève",
+      "betreff": "Villa Dr. Keser, Familie, Abbruch",
+      "antwort": "5. Dezember 2022: E-Mail mit Angaben zu Dr. Samuel Keser"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "Auktionskatalog Zürich 1997, annotiert von Bruno Stefanini (nicht angekauft)",
+      "bilder": [
+        {
+          "datei": "images/4991/4991_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            690.7,
+            531.8,
+            758.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    },
+    {
+      "datum": "1. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (8 Ergebnisse) für Volltextsuche «Bieler»\n\n2 Treffer (6 Ergebnisse) für Volltextsuche «Meissner»: Rechnung von Kurt Meissner vom 8. August 2005 (siehe unten) sowie Schreiben von Dora Bösiger vom 26. Oktober 2005 bezüglich Verwendung des Motivs für Neujahrskarte"
+    },
+    {
+      "datum": "10. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.825, NF_0088",
+      "bilder": [
+        {
+          "datei": "images/4991/4991_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            354.5,
+            528.9,
+            567.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Kurt Meissner an die SKKG vom 8. August 2005. Werktitel: Stehende Frau in Weiss mit Blumenstrauss. Ankaufspreis: 120 000 Franken."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "8. Dezember 2022",
+      "institution": "Archives d’Etat de Genève",
+      "bestand": "Signatur: CH AEG Chancellerie Ab 97, Passeport No. 18\n\nPassbüro Genf, Pass von Samuel Keser, ausgestellt 1897.",
+      "fussnoten": [
+        {
+          "nr": 14,
+          "text": "Für weitere Informationen vom Genfer Staatsarchiv zu Samuel Keser siehe Anfragen."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Villa von Dr. Samuel Keser (Kaiser) in Genf",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/4991/4991_004_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            221.9,
+            383.8,
+            368.8
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "André Lambert, L’architecture contemporaine dans la Suisse romande, in: Schweizerische Bauzeitung, Bd. 40, Nr. 25, 20. Dezember 1902, S. 275–277, hier S. 277; https://www.e-periodica.ch/dig-bib/view?pid=sbz-002%3A1902%3A39%3A%3A3145 [18. November 2022]."
+        }
+      ]
+    },
+    {
+      "thema": "Ernest Biéler, Werke aus der gleichen Serie, Auktion Koller 1997",
+      "information": "Aus der gleichen Serie: Zwei Frauen am Rande eines Wäldchens, siehe Auktionskatalog Zürich 1997, Lot 3065 (nicht angekauft).",
+      "bilder": [
+        {
+          "datei": "images/4991/4991_005_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            481.9,
+            310.9,
+            527.4
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        },
+        {
+          "datei": "images/4991/4991_006_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            533.4,
+            310.9,
+            687.5
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    },
+    {
+      "thema": "Ernest Biéler, Werke aus der gleichen Serie, Auktion Christie’s 1998",
+      "information": "Aus der gleichen Serie: La cueillette des pommes und La cueillette des fleurs, https://www.christies.com/en/lot/lot-855158 [18. November 2022].\n\nZu Ersterem siehe auch: https://www.sikart.ch/werke.aspx?id=9839286 [18. November 2022].",
+      "bilder": [
+        {
+          "datei": "images/4991/4991_007_kontextinformationen.jpeg",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            221.7,
+            244.0,
+            361.7
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4991/4991_008_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          139.5,
+          226.7,
+          514.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: weiss gestempelt «Ernest Biéler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "weiss gestempelt «Ernest Biéler»",
+        "kommentar": "Signaturstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4991/4991_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              551.9,
+              249.6,
+              600.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 15,
+            "text": "Siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. obere Strebe: weisses rechteckiges Etikett, schwarz bedruckt",
+        "position_traeger": "m. l. obere Strebe",
+        "merkmal": "weisses rechteckiges Etikett, schwarz bedruckt",
+        "kommentar": "Galerie Meissner (Kurt Meissner) an der Florastrasse in Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4991/4991_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              615.0,
+              249.6,
+              669.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. obere Strebe: weisses rechteckiges Etikett mit abgerundeten Ecken, blau und schwarz bedruckt",
+        "position_traeger": "m. r. obere Strebe",
+        "merkmal": "weisses rechteckiges Etikett mit abgerundeten Ecken, blau und schwarz bedruckt",
+        "kommentar": "Transportfirma MSE, Transport von «La femme en blanc» nach Lausanne, Musée des Beaux-Arts, Ausstellung 1999/2000, Leihgeber: Galerie Meissner, Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4991/4991_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              690.8,
+              249.6,
+              736.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzem Schreibmittel «Décoration Villa K[aeser?]»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Décoration Villa K[aeser?]»",
+        "kommentar": "Das Notat bezeichnet den ursprünglichen Standort des Wandbilds in der Villa Keser, Genf. Es dürfte nach der Entfernung aufgebracht worden sein (um 1932).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4991/4991_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              196.9,
+              306.8,
+              237.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4991/4991_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              243.4,
+              306.8,
+              273.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 16,
+            "text": "Siehe Fn. 6."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. untere Strebe: weisses rechteckiges Etikett mit abgerundeten Ecken, schwarz maschinenbeschrieben, rot gestempelt, Laufnummer 5347, «Prov. Nachlass Ernest Biéler»",
+        "position_traeger": "m. l. untere Strebe",
+        "merkmal": "weisses rechteckiges Etikett mit abgerundeten Ecken, schwarz maschinenbeschrieben, rot gestempelt, Laufnummer 5347, «Prov. Nachlass Ernest Biéler»",
+        "kommentar": "Etikett der Galerie Kurt Meissner. Das rot gestempelte «P» dürfte «photographiert» bedeuten.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4991/4991_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              310.6,
+              306.8,
+              395.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. untere Strebe: rot gestempelt «P»",
+        "position_traeger": "l. untere Strebe",
+        "merkmal": "rot gestempelt «P»",
+        "kommentar": "«P» dürfte «photographiert» bedeuten.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4991/4991_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              436.9,
+              184.8,
+              486.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Etikett des im Zusammenhang der Ausstellung Lausanne/Solothurn 1999/2000 beauftragten Transportunternehmens auf der Werkrückseite. Im Auktionskatalog Zürich 1997 wird das Werk als Stehende junge Frau mit Blumenstrauss bezeichnet, auf der Rechnung der Galerie Kurt Meissner vom 8. August 2005 im Archiv SKKG als Stehende Frau in Weiss mit Blumenstrauss."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Ethel Mathier, Auskunft vom 29. November 2022, wurde das Werk nachträglich beschnitten."
+    },
+    {
+      "nr": 3,
+      "text": "Auf der Werkvorderseite befindet sich der sogenannte Signaturstempel, der die Signatur von Ernest Biéler trägt beziehungsweise imitiert und nicht von ihm selbst, sondern nach seinem Tod auf das Werk im Nachlass aufgebracht wurde; siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Das Werk gehörte zu einer mehrteiligen Raumdekoration für die Villa des Arztes Dr. Samuel Louis Keser (alternative Schreibweisen: Kaeser, Keyser, Kaiser, Kayser) an der Place Claparède (auch Chemin de Chapel oder Chemin Sautter 21) in Genf, erbaut vom Architekten Gustave Brocher 1898, siehe Kontextinformationen. Die Villa wurde 1932 abgebrochen, siehe: Matthias Frehner und Ethel Mathier (Hrsg.), Ernest Biéler (1863–1948). Geträumte Wirklichkeit, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Bern/Martigny 2011, S. 19. Zum Auftrag siehe: Madeleine Biéler, Ernest Biéler. Sa vie, son œuvre, Lausanne 1953, S. 60–61; Ethel Mathier, Ernest Biéler und der Sammler Jules Tissières, in: Vallesia 58 (2003), S. 417–473, hier S. 425, Fn. 29, sowie Ausstellungskatalog Lausanne/Solothurn 1999."
+    },
+    {
+      "nr": 5,
+      "text": "Auskunft von Ethel Mathier vom 28. Mai 2025. Gemäss Staatsarchiv Genf, Auskunft vom 5. Dezember 2022 (siehe Anfragen), war Samuel Keser bis 1905 in Genf wohnhaft und wechselte 1905/06 den Wohnort. Madeleine Biéler-de Cérenville kaufte das Werk vermutlich im Zeitraum des Abbruchs (1932) zurück, siehe Fn. 6."
+    },
+    {
+      "nr": 6,
+      "text": "Gemäss Ethel Mathier, Auskunft vom 29. November 2022, hat Madeleine Biéler-de Cérenville das Werk 1931/32 zurückgekauft, vermutlich im Zusammenhang mit dem Abbruch der Villa Keser."
+    },
+    {
+      "nr": 7,
+      "text": "Das Etikett der Galerie Kurt Meissner auf der Rückseite («Prov. Nachlass Ernest Biéler») und der Signaturstempel auf der Vorderseite verweisen auf den Nachlass Madeleine Biéler (Succession Madeleine Biéler-de Cérenville). Darunter ist der Nachlass Ernest Biéler ab 1975, bisweilen auch als Fonds Ernest Biéler bezeichnet, zu verstehen, der von François-Hadrien Pétermann verwaltet wurde."
+    },
+    {
+      "nr": 8,
+      "text": "Ethel Mathier, Auskunft vom 29. November 2022. Der Auktionskatalog fehlt im Archiv SKKG, die Angabe konnte nicht überprüft werden."
+    },
+    {
+      "nr": 9,
+      "text": "Vermutlich ging das Werk nach der Auktion unverkauft zurück an den Einlieferer."
+    },
+    {
+      "nr": 10,
+      "text": "Auktionskatalog Zürich 1997."
+    },
+    {
+      "nr": 11,
+      "text": "Auskunft von Ethel Mathier vom 28. Mai 2025. Gemäss Ausstellungkatalog Lausanne/Solothurn 1999 war das Werk damals (1999/2000) im Eigentum von Kurt Meissner (1909–2004), der als Leihgeber angegeben ist. Diese Angabe korrespondiert mit dem Etikett der Transportfirma und jenem der Galerie Kurt Meissner auf der Werkrückseite (siehe Provenienzmerkmale)."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Rechnung von Kurt Meissner an SKKG vom 8. August 2005 im Archiv SKKG."
+    },
+    {
+      "nr": 13,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 14,
+      "text": "Für weitere Informationen vom Genfer Staatsarchiv zu Samuel Keser siehe Anfragen."
+    },
+    {
+      "nr": 15,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 16,
+      "text": "Siehe Fn. 6."
+    }
+  ],
+  "bilder_anzahl": 15
+}

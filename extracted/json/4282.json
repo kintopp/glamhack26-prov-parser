@@ -1,0 +1,551 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4282_221117.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "17. November 2022",
+  "stand_iso": "2022-11-17",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4282",
+      "Augusto Giacometti (1877–1947)",
+      "Farbkreis",
+      "um 1907",
+      "Öl und Bleistift auf Leinwand",
+      "69,5 × 68 cm (Bildmass)",
+      "79,3 × 77,2 × 7,1 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4282",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Farbkreis",
+    "masse": [
+      "69,5 × 68 cm (Bildmass)",
+      "79,3 × 77,2 × 7,1 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1907",
+    "technik": "Öl und Bleistift auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4282/4282_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.4,
+          470.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel nach Egli 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "um 1974",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Egli 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vor 14. April 1997",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1997. Möglicherweise handelt es sich um dieselbe Station wie die vorausgehende."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. April 1997",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 55, Farbkreis), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1997."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 14. April 1997",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 40 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1997 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Erwin Poeschel, Augusto Giacometti, Zürich 1928 [Werk nicht verzeichnet].\n\nHans Hartmann, Augusto Giacometti. Pionier der abstrakten Malerei. Ein Leben für die Farbe, Chur 1981 [Werk nicht verzeichnet].\n\nMichael Egli, Farbkreis, in: August Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 10, https://recherche.sik-isea.ch/sik:work-9706545 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/4282/4282_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              323.4,
+              533.2,
+              424.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4282/4282_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              430.4,
+              533.2,
+              651.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4282/4282_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              420.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4282/4282_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              420.6,
+              533.2,
+              560.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4282/4282_006_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              417.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4282/4282_007_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              423.3,
+              533.2,
+              626.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 14. April 1997, Zürich 1997, Lot 55."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm [15. August 2023].",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/4282/4282_008_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              423.2,
+              391.4,
+              541.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» und «Farbkreis» [17. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-17"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Farbkreis» [17. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Farbkreis» mit Filter: Artist «Augusto Giacometti» und «Giacometti» [17. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-17"
+          },
+          {
+            "text": "0 Treffer (142 Ergebnisse) für freie Suche mit Filter: Artist «Augusto Giacometti» und «Giacometti» [17. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-11-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4282/4282_009_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            353.6,
+            533.0,
+            579.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1997, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4282/4282_010_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          240.8,
+          333.9,
+          520.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      },
+      {
+        "datei": "images/4282/4282_011_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          164.8,
+          333.9,
+          441.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Merkmal",
+        "bildtitel": "Aufnahme ohne Zierrahmen mit weiteren Provenienzmerkmalen"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubte Metallplakette, schwarz graviert «AU-GUSTO GIACOMETTI «Farbkreis»»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubte Metallplakette, schwarz graviert «AU-GUSTO GIACOMETTI «Farbkreis»»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4282/4282_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              479.7,
+              334.5,
+              513.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «[…]» (verdeckt)",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «[…]» (verdeckt)",
+        "kommentar": "vermutlich Massangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4282/4282_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              530.2,
+              285.0,
+              610.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz bedruckt und handschriftlich mit blauem Kugelschreiber beschrieben",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz bedruckt und handschriftlich mit blauem Kugelschreiber beschrieben",
+        "kommentar": "Ausstellung Bündner Kunstmuseum, Chur, 1981",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4282/4282_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              622.6,
+              286.7,
+              730.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: möglicherweise schwarz gestempelt «[…]» (verdeckt)",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "möglicherweise schwarz gestempelt «[…]» (verdeckt)",
+        "kommentar": "möglicherweise Massangabe (vergleiche Provenienzmerkmal o. m.)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4282/4282_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              139.8,
+              288.8,
+              214.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4282/4282_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              227.5,
+              289.0,
+              274.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt",
+        "kommentar": "SIK-Archivnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4282/4282_017_provenienzmerkmale.png",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              290.6,
+              289.2,
+              322.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel nach Egli 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Egli 2023."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1997. Möglicherweise handelt es sich um dieselbe Station wie die vorausgehende."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1997."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1997 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 17
+}

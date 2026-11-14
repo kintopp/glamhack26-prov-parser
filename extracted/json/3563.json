@@ -1,0 +1,682 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3563_250203.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Februar 2025",
+  "stand_iso": "2025-02-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3563",
+      "Cuno Amiet (1868–1961)",
+      "Stillleben No. 2",
+      "1909",
+      "Öl auf Leinwand",
+      "40 × 32 cm (Bildmass)",
+      "51,5 × 44,5 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "3563",
+    "status": "Klar",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Stillleben No. 2",
+    "masse": [
+      "40 × 32 cm (Bildmass)",
+      "51,5 × 44,5 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1909",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3563/3563_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.9,
+          510.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller 2014."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "November 1910 bis vermutlich mindestens 31. Oktober 1948",
+      "besitzer": "Margrit (1884–1958) und Walther Kottmann-Müller (1873–1936), Solothurn, erhalten als Geschenk vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Müller 2014; Auktionskatalog Zürich 1983 mit der Provenienzangabe «Sammlung Frau Dr. M. Kottmann, Solothurn». Siehe auch Etikett mit Angaben zum Erwerb sowie Inschrift auf der Werkrückseite. Vom 25. September bis zum 31. Oktober 1948 war das Werk im Kunstmuseum Solothurn ausgestellt, siehe Margrit Kottmann-Müller zuordenbares Etikett mit Ausstellungsverweis auf der Werkrückseite sowie Ausstellungskatalog Solothurn 1948."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1958",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Müller 2014."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. Juni 1981",
+      "besitzer": "Auktion Galerie Kornfeld (175 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts, Lot 66, Blumenstrauss in Vase), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Müller 2014, Auktionskatalog Bern 1981."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1983. Es ist möglich, dass es sich um dieselbe Provenienzstation handelt wie den für 1958 ohne Ortsangabe dokumentierten Privatbesitz."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11. Juni 1983",
+      "besitzer": "Auktion Sotheby Parke Bernet (Schweizerische Malerei des 18., 19. und 20. Jahrhunderts, Lot 39, Stilleben mit Blumenstrauss), Zürich, vermutlich eingeliefert aus Schweizer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Müller 2014, Auktionskatalog Zürich 1983."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 11. Juni 1983",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby Parke Bernet, Zuschlagspreis: 34 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1983 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Franz Müller, Stillleben No. 2, in: Franz Müller und Viola Radlach, Cuno Amiet. Die Gemälde 1883–1919 (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014, Nr. 1909.33, https://recherche.sik-isea.ch/sik:work-6012008 [16. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/3563/3563_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              423.2,
+              533.2,
+              633.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "175 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, 26. Juni 1981, Bern 1981, Lot 66.\n\nSchweizerische Malerei des 18., 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 11. Juni 1983, Zürich 1983, Lot 39."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Cuno Amiet, Ausstellungskatalog Kunstmuseum Solothurn, 25. September bis 31. Oktober 1948, Solothurn 1948, Nr. 94 [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Amiet» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (461 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Amiet», Filter 2: Titel einschränken «Alle Treffer» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 461,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (107 Ergebnisse) für Suche «Cuno Amiet» (inklusive Varianten der Namensschreibweise) [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 107,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "INHA – Gazette Drouot",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Amiet» in den Jahrgängen 1900–1950 [17. August 2023]",
+            "treffer": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [26. November 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-11-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche in Auktionskatalogen mit Filter: Keywords «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-08-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3563/3563_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            353.6,
+            533.0,
+            492.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1981, annotiert von Bruno Stefanini (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3563/3563_004_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            548.7,
+            533.0,
+            668.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1983, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "18. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (2 Ergebnisse im Archivverzeichnis, 20 in den Primärdaten) für Volltextsuche «Blumenstrauss» [18. Dezember 2023]\n\n0 Treffer (0 Ergebnisse im Archivverzeichnis, 3 in den Primärdaten) für Volltextsuche «Stillleben» [18. Dezember 2023]\n\n0 Treffer (34 Ergebnisse in den Primärdaten) für Volltextsuche «Amiet» [12. Dezember 2023]\n\n0 Treffer (12 Ergebnisse im Archivverzeichnis) für Volltextsuche «Amiet» [20. Januar 2025]"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Margrit und Walther Kottmann-Müller",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/3563/3563_005_kontextinformationen.png",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            461.6,
+            325.5,
+            654.3
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Walther Kottmann, in: Der Bund, Jg. 87, Nr. 388, 21. August 1936, S. 10, https://www.e-newspaperarchi-ves.ch/?a=d&d=DBB19360821-01.2.53.10.1 [18. Dezember 2023]."
+        },
+        {
+          "datei": "images/3563/3563_006_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            133.8,
+            329.3,
+            247.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Margrit Kottmann-Müller, in: Neue Zürcher Zeitung (NZZ), Jg. 179, Nr. 1916, 30. Juni 1958, S. 23, https://www.e-news-paperarchives.ch/?a=d&d=NZZ19580630-01.2.61.4 [18. Dezember 2023]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3563/3563_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          366.9,
+          291.0,
+          632.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. u. Leinwand: handschriftlich mit Bleistift «CA»",
+        "position_traeger": "r. u. Leinwand",
+        "merkmal": "handschriftlich mit Bleistift «CA»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              669.8,
+              211.5,
+              722.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "r. u. Leinwand: handschriftlich mit dunkelgrüner Farbe «CA»",
+        "position_traeger": "r. u. Leinwand",
+        "merkmal": "handschriftlich mit dunkelgrüner Farbe «CA»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              211.1,
+              193.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: handschriftlich mit dunklem Schreibmittel «[…]» (verwischt, unleserlich)",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «[…]» (verwischt, unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              205.0,
+              292.4,
+              240.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «Margrit Kottmann»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Margrit Kottmann»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              255.5,
+              292.3,
+              285.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich mit blauem Schreibmittel «17235»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «17235»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              298.0,
+              292.3,
+              365.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Es handelt sich dabei um keine München-, Linz- oder Göring-Nummer."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: rechteckiges weisses Etikett, handschriftlich mit verbräunter Tinte «Dieses schöne Blumenbild hat uns | Cuno Amiet zum Einzug in unser | neues Haus geschenkt. – 1910. – | November 1910.»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, handschriftlich mit verbräunter Tinte «Dieses schöne Blumenbild hat uns | Cuno Amiet zum Einzug in unser | neues Haus geschenkt. – 1910. – | November 1910.»",
+        "kommentar": "Angabe des Ehepaars Kottmann-Müller zum Erwerb des Bilds",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              378.0,
+              289.8,
+              440.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Spannrahmen: schwarz gestempelt «[…] | Künstlermagazin» (teilweise verdeckt)",
+        "position_traeger": "u. l. Spannrahmen",
+        "merkmal": "schwarz gestempelt «[…] | Künstlermagazin» (teilweise verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              491.9,
+              289.9,
+              556.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger rosa Zettel, handschriftlich mit Bleistift beschrieben und schwarz gestempelt",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger rosa Zettel, handschriftlich mit Bleistift beschrieben und schwarz gestempelt",
+        "kommentar": "Erwerbsnachweis zur Auktion Sotheby Parke Bernet 1983, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              568.9,
+              289.9,
+              648.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzer Tinte «[Mu]seum Solothurn | [ausg]estellt: | [Septe]mber–Oktober 1948», vermutlich verfasst von Margrit Kottmann-Müller",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzer Tinte «[Mu]seum Solothurn | [ausg]estellt: | [Septe]mber–Oktober 1948», vermutlich verfasst von Margrit Kottmann-Müller",
+        "kommentar": "Verweis auf Ausstellung Solothurn 1948",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              290.4,
+              223.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Zur Zuordnung der Handschrift siehe Schriftbild des Etiketts unten auf dem Zierrahmen sowie des Etiketts auf der Mittelstrebe des Werks mit der SKKG-Inventarnummer 471."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Leinwand (umgeschlagen): handschriftlich mit schwarzem Schreibmittel «4889 [a/d?]»",
+        "position_traeger": "o. m. Leinwand (umgeschlagen)",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «4889 [a/d?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3563/3563_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              253.5,
+              289.9,
+              302.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller 2014."
+    },
+    {
+      "nr": 2,
+      "text": "Müller 2014; Auktionskatalog Zürich 1983 mit der Provenienzangabe «Sammlung Frau Dr. M. Kottmann, Solothurn». Siehe auch Etikett mit Angaben zum Erwerb sowie Inschrift auf der Werkrückseite. Vom 25. September bis zum 31. Oktober 1948 war das Werk im Kunstmuseum Solothurn ausgestellt, siehe Margrit Kottmann-Müller zuordenbares Etikett mit Ausstellungsverweis auf der Werkrückseite sowie Ausstellungskatalog Solothurn 1948."
+    },
+    {
+      "nr": 3,
+      "text": "Müller 2014."
+    },
+    {
+      "nr": 4,
+      "text": "Müller 2014, Auktionskatalog Bern 1981."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1983. Es ist möglich, dass es sich um dieselbe Provenienzstation handelt wie den für 1958 ohne Ortsangabe dokumentierten Privatbesitz."
+    },
+    {
+      "nr": 6,
+      "text": "Müller 2014, Auktionskatalog Zürich 1983."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1983 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Es handelt sich dabei um keine München-, Linz- oder Göring-Nummer."
+    },
+    {
+      "nr": 9,
+      "text": "Zur Zuordnung der Handschrift siehe Schriftbild des Etiketts unten auf dem Zierrahmen sowie des Etiketts auf der Mittelstrebe des Werks mit der SKKG-Inventarnummer 471."
+    }
+  ],
+  "bilder_anzahl": 17
+}

@@ -1,0 +1,5 @@
+old/
+.DS_Store
+__pycache__/
+Provenienz_Datenblatt/
+extracted/images/

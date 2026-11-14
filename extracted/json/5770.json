@@ -1,0 +1,514 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5770_231015.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "15. Oktober 2023",
+  "stand_iso": "2023-10-15",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5770",
+      "Giovanni Giacometti (1868–1933)",
+      "Sera d’inverno",
+      "1905/06",
+      "Öl auf Leinwand",
+      "71 × 65 cm (Bildmass)",
+      "81 × 76,6 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5770",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Giacometti (1868–1933)",
+    "titel": "Sera d’inverno",
+    "masse": [
+      "71 × 65 cm (Bildmass)",
+      "81 × 76,6 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1905/06",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5770/5770_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          248.5,
+          317.9,
+          457.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller/Radlach 1997. In älteren Ausstellungskatalogen wird das Werk als Sonniger Wintertag aufgeführt, siehe Ausstellungen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "Juli 1907 bis 18. November 1929",
+      "besitzer": "Sammlung Richard Kisling (1862–1917), Zürich, erworben an einer Ausstellung im Kunsthaus Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Müller/Radlach 1997, Volkart-Baumann 2005, S. 66–67. Richard Kissling starb am 7. März 1917, siehe: Chronik der Stadt Zürich, Nr. 11, 17. März 1917, S. 98, https://www.e-newspaperarchives.ch/?a=d&d=CSZ19170317-01.2.23.1 [14. Januar 2025]. Die Sammlung Kisling wurde 1929 aufgelöst."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18. November 1929",
+      "besitzer": "Auktion G. & L. Bollag (Sammlung von Gemälden, Graphik und Plastik aus dem Nachlass des † Herrn Richard Kisling u[nd] a[us] anderem Besitz, Lot 265, Sonniger Wintertag), Zürich, eingeliefert aus der Sammlung Richard Kisling",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1929."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Frau Dr. Wehrli, Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Etikett auf der Werkrückseite mit Angabe von «Frau Dr. Wehrli, Zürich». Der handschriftliche Zusatz «1908» ist wahrscheinlich keine Angabe zum Besitzzeitpunkt – im Jahr 1908 war das Werk bei Kisling –, sondern eher zum vermuteten Entstehungsjahr des Gemäldes. Um wen es sich bei Frau Dr. Wehrli handelt, ist derzeit nicht bekannt; es wäre zu überprüfen, ob sie mit Dr. René Wehrli in Verbindung steht, der von 1950 bis 1975 Direktor des Kunsthauses Zürich war, siehe: Christian Baertschi, Wehrli, René, in: Historisches Lexikon der Schweiz (HLS), Version vom 14. November 2011, https://hls-dhs-dss.ch/de/articles/027785/2011-11-14 [28. November 2024]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit o. D.",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Wann und wo Bruno Stefanini das Werk erworben hat, ist derzeit nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller und Viola Radlach, Giovanni Giacometti. 1868–1933. Werkkatalog der Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 16), hrsg. vom Schweizerischen Institut für Kunstgeschichte, Bd. 2.1, Zürich 1997, Nr. 1905.13.",
+        "bilder": [
+          {
+            "datei": "images/5770/5770_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              310.8,
+              292.2,
+              505.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Sammlung von Gemälden, Graphik und Plastik aus dem Nachlass des † Herrn Richard Kisling u[nd] a[us] anderem Besitz, Auktionskatalog G. & L. Bollag, Zürich, 18. November 1929, Lot 265, https://doi.org/10.11588/diglit.21692#0032 [13. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/5770/5770_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              574.9,
+              429.4,
+              614.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Giovanni Giacometti, Registro dei quadri, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 2015, S. 29, Nr. 78.\n\nSilvia Volkart-Baumann, Richard Kisling (1862–1917). Ein Schweizer Sammler und Kunstvermittler der Moderne, Diss. Zürich 2005, https://www.zora.uzh.ch/id/eprint/163245/1/20050089.pdf [12. Oktober 2023]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Zürich 1907, Nr. 56 (Sonniger Wintertag)\n\n– Winterthur 1908, Nr. 20\n\n– möglicherweise Wien 1909, Nr. 5\n\n– Zürich 1913, Nr. 116\n\n– Zürich 1927, Nr. 43 (Sonniger Wintertag)\n\n– Zürich 1929, Nr. 265 (Sonniger Wintertag)\n\n– Zürich 1934, Nr. 56 (Sonniger Wintertag)",
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Die Angaben zu den Ausstellungen stammen aus Müller/Radlach 1997 und wurden weder überprüft noch ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [8. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche mit Filter: Artist «Giacometti» [13. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Giacometti» [12. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2023-10-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 Treffer (155 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Giacometti», Filter 2: Titel einschränken «automatisch» [13. Oktober 2023]:",
+            "treffer": 1,
+            "ergebnisse": 155,
+            "datum": "2023-10-13"
+          },
+          {
+            "text": "Auktionskatalog Zürich 1929 (siehe oben). Masse, Datierung und Beschreibung passen und auch das Auktionsjahr."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 Treffer (142 Ergebnisse) für Suche «Giovanni Giacometti» (inklusive Varianten der Namensschreibweise) [12. Oktober 2023]:",
+            "treffer": 1,
+            "ergebnisse": 142,
+            "datum": "2023-10-12"
+          },
+          {
+            "text": "Auktionskatalog Zürich 1929 (siehe oben)."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "14. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (9 Ergebnisse) für Volltextsuche «Giovanni Giacometti» im Archivverzeichnis und 0 Treffer (22 Ergebnisse) in den Primärdaten"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5770/5770_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          166.5,
+          311.1,
+          429.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «GG»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «GG»",
+        "kommentar": "Künstlersignatur (Monogramm)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              466.5,
+              183.0,
+              511.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit blauem Schreibmittel vermutlich «GG1»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel vermutlich «GG1»",
+        "kommentar": "entspricht Initialen des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              529.6,
+              313.9,
+              583.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «265»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «265»",
+        "kommentar": "Lotnummer Auktion G. & L. Bollag 1929",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              596.1,
+              312.7,
+              669.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: langrechteckiges beiges Etikett, schwarz gedruckt «Giovanni Giacometti | ‹Sonniger Wintertag› | Frau Dr. Wehrli, Zürich» sowie handschriftlich mit Bleistift «1908»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "langrechteckiges beiges Etikett, schwarz gedruckt «Giovanni Giacometti | ‹Sonniger Wintertag› | Frau Dr. Wehrli, Zürich» sowie handschriftlich mit Bleistift «1908»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              682.1,
+              312.8,
+              733.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit dunkelblauem Schreibmittel «56»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit dunkelblauem Schreibmittel «56»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              142.1,
+              187.5,
+              190.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: rechteckiges blau-weisses Etikett der Zürcher Kunstgesellschaft, schwarz gedruckt «№ 629»",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "rechteckiges blau-weisses Etikett der Zürcher Kunstgesellschaft, schwarz gedruckt «№ 629»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              203.3,
+              312.8,
+              281.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier- und Keilrahmen: zweimal rechteckiges weisses SIK-Etikett, schwarz gedruckt «SIK-ISEA 19 744» respektive «19744», je unterstrichen",
+        "position_traeger": "o. l. Zier- und Keilrahmen",
+        "merkmal": "zweimal rechteckiges weisses SIK-Etikett, schwarz gedruckt «SIK-ISEA 19 744» respektive «19744», je unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              294.0,
+              207.0,
+              314.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5770/5770_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              321.0,
+              207.0,
+              359.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «[…]20», teilweise verdeckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…]20», teilweise verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5770/5770_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              382.4,
+              313.3,
+              431.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller/Radlach 1997. In älteren Ausstellungskatalogen wird das Werk als Sonniger Wintertag aufgeführt, siehe Ausstellungen."
+    },
+    {
+      "nr": 2,
+      "text": "Müller/Radlach 1997, Volkart-Baumann 2005, S. 66–67. Richard Kissling starb am 7. März 1917, siehe: Chronik der Stadt Zürich, Nr. 11, 17. März 1917, S. 98, https://www.e-newspaperarchives.ch/?a=d&d=CSZ19170317-01.2.23.1 [14. Januar 2025]. Die Sammlung Kisling wurde 1929 aufgelöst."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1929."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Etikett auf der Werkrückseite mit Angabe von «Frau Dr. Wehrli, Zürich». Der handschriftliche Zusatz «1908» ist wahrscheinlich keine Angabe zum Besitzzeitpunkt – im Jahr 1908 war das Werk bei Kisling –, sondern eher zum vermuteten Entstehungsjahr des Gemäldes. Um wen es sich bei Frau Dr. Wehrli handelt, ist derzeit nicht bekannt; es wäre zu überprüfen, ob sie mit Dr. René Wehrli in Verbindung steht, der von 1950 bis 1975 Direktor des Kunsthauses Zürich war, siehe: Christian Baertschi, Wehrli, René, in: Historisches Lexikon der Schweiz (HLS), Version vom 14. November 2011, https://hls-dhs-dss.ch/de/articles/027785/2011-11-14 [28. November 2024]."
+    },
+    {
+      "nr": 5,
+      "text": "Wann und wo Bruno Stefanini das Werk erworben hat, ist derzeit nicht bekannt."
+    },
+    {
+      "nr": 6,
+      "text": "Die Angaben zu den Ausstellungen stammen aus Müller/Radlach 1997 und wurden weder überprüft noch ergänzt."
+    }
+  ],
+  "bilder_anzahl": 13
+}

@@ -1,0 +1,520 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5004_221201.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. Dezember 2022",
+  "stand_iso": "2022-12-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5004",
+      "Ernest Biéler (1863–1948)",
+      "La conversation",
+      "um 1930",
+      "Tempera auf Holz",
+      "83 × 131 cm (Bildmass)",
+      "108 × 156 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5004",
+    "status": "Ungeklärt",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "La conversation",
+    "masse": [
+      "83 × 131 cm (Bildmass)",
+      "108 × 156 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1930",
+    "technik": "Tempera auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5004/5004_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          353.5,
+          459.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1996. Auf der Rechnung der Galerie Kurt Meissner vom 13. Mai 1997 ist das Werk als La conversation sur le banc verzeichnet."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Auktionskatalog Zürich 1996 misst das Gemälde 84 × 122 cm."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "frühestens 1948 bis o. D.",
+      "besitzer": "Madeleine Biéler-de Cérenville (1884–1975) / Nachlass Madeleine Biéler-de Cérenville, Lausanne",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Auktionskatalog Zürich 1996 sowie Etikett der Galerie Kurt Meissner auf der Werkrückseite. Unter dem Nachlass Madeleine Biéler-de Cérenville (Succession Madeleine Biéler-de Cérenville) ist der Nachlass Ernest Biéler ab 1948 (Todesjahr des Künstlers), bisweilen auch als Fonds Ernest Biéler bezeichnet, zu verstehen, der von ihr und François-Hadrien Pétermann verwaltet wurde. Da im Rahmen der Nachlasspflege bisweilen zum Verkauf stehende Werke zurückgekauft wurden, ist der Nachlassnachweis kein Beleg dafür, dass das Werk dauerhaft im Eigentum der Familie war."
+        }
+      ]
+    },
+    {
+      "zeitraum": "2.–24. September 1978",
+      "besitzer": "Ausstellung Galerie de la Grange à l’Évêque, Sion",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "In der Galerie de la Grange à l’Évêque in Sion fand eine Ausstellung mit Werken aus dem Nachlass Ernest Biéler beziehungsweise dem Nachlass Madeleine Biéler-de Cérenville statt, siehe Ausstellungen. La conversation wurde auf der Einladungskarte reproduziert, siehe Archiv SKKG, A.212.827."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. März 1996",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 70, La Conversation), Zürich, wahrscheinlich eingeliefert aus Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1996."
+        },
+        {
+          "nr": 6,
+          "text": "Darauf weist der Auktionskatalog Zürich 1996 mit der Provenienzangabe «Nachlass Ernest Biéler, Lausanne» hin. Vermutlich ging das Werk unverkauft an den Einlieferer zurück."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13. Mai 1997",
+      "besitzer": "Galerie Kurt Meissner, Zürich, wahrscheinlich eingeliefert aus Nachlass Madeleine Biéler-de Cérenville",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auf der Rechnung von Kurt Meissner ist wiederum die Provenienz Nachlass Biéler angegeben. Daher ist denkbar, dass das Werk 1996 bei Christie’s nicht verkauft wurde und deshalb 1997 erneut zum Angebot stand, diesmal bei Kurt Meissner. Das Werk ging ab 1997 direkt von der Galerie Meissner als Dauerleihgabe ans Musée cantonal des Beaux-Arts in Lausanne, siehe Archiv SKKG, A.412.497 und A.212.827, Dossier VI."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 13. Mai 1997",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, bei Galerie Kurt Meissner, Ankaufspreis: 65 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Rechnung von Kurt Meissner, 13. Mai 1997, im Archiv SKKG. Wann das Werk vom Musée cantonal des Beaux-Arts in Lausanne an die SKKG zurückging, also die Leihgabe (siehe Fn. 7) aufgehoben wurde, ist nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 25. März 1996, Zürich 1996, Lot 70 (nicht angekauft)."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Galerie de la Grange à l’Évêque, Sion, Ernest Biéler, 2.–24. September 1978"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "1. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "2 Treffer (8 Ergebnisse) für Volltextsuche «Bieler»: A.22.1565 und A.412.497 (siehe unten)\n\n1 Treffer (6 Ergebnisse) für Volltextsuche «Meissner»: A.212.827 (siehe unten)"
+    },
+    {
+      "datum": "15. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.827, NF_0090, Dossier VI\n\nAusstellung der Galerie de la Grange à l’Êveque 1978.\n\nConversation ist auf der Einladungskarte abgebildet."
+    },
+    {
+      "datum": "15. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.827, NF_0090, Dossier VI\n\nGutachten von François-Hadrien Pétermann vom 19. August 1996 sowie undatiertes Gutachten von Prof. Dr. Werner Sumowski"
+    },
+    {
+      "datum": "29. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565, NF_0246, Dossier II\n\nGutachten von François-Hadrien Pétermann (siehe oben) im Doppel"
+    },
+    {
+      "datum": "15. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.827, NF_0090, Dossier VI",
+      "bilder": [
+        {
+          "datei": "images/5004/5004_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            354.4,
+            532.1,
+            571.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Kurt Meissner an SKKG, 13. Mai 1997"
+        }
+      ]
+    },
+    {
+      "datum": "17. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5004/5004_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            139.8,
+            533.7,
+            270.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1996 mit Annotationen von Bruno Stefanini (nicht angekauft), unter anderem zum Austausch mit François-Hadrien Pétermann sowie Kurt Meissner"
+        }
+      ]
+    },
+    {
+      "datum": "15. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.827, NF_0090, Dossier VI\n\nKorrespondenz von 1997 mit Jörg Zutter, Musée cantonal des Beaux-Arts, Lausanne, zur Dauerleihgabe"
+    },
+    {
+      "datum": "1. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.412.497, NF_0040\n\nSchreiben der SKKG vom 7. Mai 1999 an das Musée cantonal des Beaux-Arts, Lausanne, bezüglich Leihgabe des Gemäldes"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Ausstellung Sion 1978",
+      "information": "Ernest Biéler à la Grange de l’Evêque, in: Le Confédéré, Nr. 65, 8. September 1978, S. 3, https://www.e-newspaperarchi-ves.ch/?a=d&d=LCE19780908-01.2.23 [1. Dezember 2022].\n\nHinweis auf die Biéler-Ausstellung in der Galerie de la Grange à l’Évêque in Sion"
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5004/5004_004_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          221.6,
+          319.1,
+          408.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzem Schreibmittel «E. BIÉLER»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «E. BIÉLER»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5004/5004_005_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              446.5,
+              259.7,
+              497.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubtes graviertes Messingschild",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubtes graviertes Messingschild",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5004/5004_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              510.0,
+              319.1,
+              546.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: weisses rechteckiges Etikett mit abgerundeten Ecken, schwarz bedruckt; Etikett der Galerie Kurt Meissner mit Laufnummer 5342",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "weisses rechteckiges Etikett mit abgerundeten Ecken, schwarz bedruckt; Etikett der Galerie Kurt Meissner mit Laufnummer 5342",
+        "kommentar": "Verweis auf Ausstellung in Sion 1978",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5004/5004_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              559.0,
+              319.2,
+              663.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: langrechteckiges oranges Etikett mit abgeschrägten Ecken, schwarz bedruckt; Rahmenatelier S. Fontannaz, Lausanne",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "langrechteckiges oranges Etikett mit abgeschrägten Ecken, schwarz bedruckt; Rahmenatelier S. Fontannaz, Lausanne",
+        "kommentar": "Das Atelier besteht seit 1969 an der Rue Saint-Laurent 8 in Lausanne. Zu unbestimmtem Zeitpunkt nach 1969 fanden Arbeiten am Rahmen statt.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5004/5004_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              139.8,
+              318.9,
+              208.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "https://www.encadrements.net [25. November 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Holztafel: weisses rechteckiges Etikett, schwarz bedruckt; Galerie Meissner, Zürich",
+        "position_traeger": "u. r. Holztafel",
+        "merkmal": "weisses rechteckiges Etikett, schwarz bedruckt; Galerie Meissner, Zürich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5004/5004_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              266.1,
+              267.0,
+              322.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Holztafel: handschriftlich mit bläulichem Schreibmittel «Lot 8W [?]» oder allenfalls «M 8 107 [?]» (gedreht)",
+        "position_traeger": "u. l. Holztafel",
+        "merkmal": "handschriftlich mit bläulichem Schreibmittel «Lot 8W [?]» oder allenfalls «M 8 107 [?]» (gedreht)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5004/5004_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              335.6,
+              319.2,
+              401.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5004/5004_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              432.9,
+              319.2,
+              498.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "um 180 Grad gedreht"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1996. Auf der Rechnung der Galerie Kurt Meissner vom 13. Mai 1997 ist das Werk als La conversation sur le banc verzeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Auktionskatalog Zürich 1996 misst das Gemälde 84 × 122 cm."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Auktionskatalog Zürich 1996 sowie Etikett der Galerie Kurt Meissner auf der Werkrückseite. Unter dem Nachlass Madeleine Biéler-de Cérenville (Succession Madeleine Biéler-de Cérenville) ist der Nachlass Ernest Biéler ab 1948 (Todesjahr des Künstlers), bisweilen auch als Fonds Ernest Biéler bezeichnet, zu verstehen, der von ihr und François-Hadrien Pétermann verwaltet wurde. Da im Rahmen der Nachlasspflege bisweilen zum Verkauf stehende Werke zurückgekauft wurden, ist der Nachlassnachweis kein Beleg dafür, dass das Werk dauerhaft im Eigentum der Familie war."
+    },
+    {
+      "nr": 4,
+      "text": "In der Galerie de la Grange à l’Évêque in Sion fand eine Ausstellung mit Werken aus dem Nachlass Ernest Biéler beziehungsweise dem Nachlass Madeleine Biéler-de Cérenville statt, siehe Ausstellungen. La conversation wurde auf der Einladungskarte reproduziert, siehe Archiv SKKG, A.212.827."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1996."
+    },
+    {
+      "nr": 6,
+      "text": "Darauf weist der Auktionskatalog Zürich 1996 mit der Provenienzangabe «Nachlass Ernest Biéler, Lausanne» hin. Vermutlich ging das Werk unverkauft an den Einlieferer zurück."
+    },
+    {
+      "nr": 7,
+      "text": "Auf der Rechnung von Kurt Meissner ist wiederum die Provenienz Nachlass Biéler angegeben. Daher ist denkbar, dass das Werk 1996 bei Christie’s nicht verkauft wurde und deshalb 1997 erneut zum Angebot stand, diesmal bei Kurt Meissner. Das Werk ging ab 1997 direkt von der Galerie Meissner als Dauerleihgabe ans Musée cantonal des Beaux-Arts in Lausanne, siehe Archiv SKKG, A.412.497 und A.212.827, Dossier VI."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Rechnung von Kurt Meissner, 13. Mai 1997, im Archiv SKKG. Wann das Werk vom Musée cantonal des Beaux-Arts in Lausanne an die SKKG zurückging, also die Leihgabe (siehe Fn. 7) aufgehoben wurde, ist nicht bekannt."
+    },
+    {
+      "nr": 9,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 10,
+      "text": "https://www.encadrements.net [25. November 2022]."
+    }
+  ],
+  "bilder_anzahl": 10
+}

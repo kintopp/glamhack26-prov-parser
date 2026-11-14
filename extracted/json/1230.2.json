@@ -1,0 +1,604 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1230.2_250203.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Februar 2025",
+  "stand_iso": "2025-02-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1230.2",
+      "Cuno Amiet (1868–1961)",
+      "Blumenstillleben",
+      "1908",
+      "Öl auf Leinwand",
+      "24,5 × 14 × 1,5 cm (Bildmass)",
+      "37 × 26,5 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1230.2",
+    "status": "Ungeklärt",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Blumenstillleben",
+    "masse": [
+      "24,5 × 14 × 1,5 cm (Bildmass)",
+      "37 × 26,5 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1908",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1230.2/1230.2_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.8,
+          576.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller/Radlach 2014. Der vormalige Werktitel der SKKG lautete Wiesenblumenstrauss in blauer Vase vor Fenster (Quelle unbekannt)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 13. November 1987",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Bern 1987. Dem Titel des Auktionskatalogs zufolge wurden Objekte aus Schweizer Besitz angeboten. Auf der Werkrückseite steht der handschriftliche Vermerk «[…] Weber». Womöglich handelt es sich dabei um den Einlieferer oder die Einlieferin. Das Werk mit der SKKG-Inventarnummer 1230.1, das zusammen mit dem vorliegenden angeboten und erworben wurde, hat dieselbe Provenienz."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12.–25. November 1987",
+      "besitzer": "Auktion Galerie Jürg Stuker (Schweizer Sammlungen und Nachlässe, Lot 2009, Zwei Blumenstilleben), Bern, eingeliefert aus Schweizer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1987, Müller/Radlach 2014. Im Auktionskatalog steht «Aus alter Sammlung»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 13. November 1987",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 21 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Zuschlagspreis bezieht sich auf beide Werke zusammen, siehe Fn. 2."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Franz Müller und Viola Radlach, Cuno Amiet. Die Gemälde 1883–1919 (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014, Nr. 1908.42, https://recherche.sik-isea.ch/sik:work-12989490/in/catalogues.amiet [16. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              530.6,
+              596.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Sammlungen und Nachlässe, Auktionskatalog Galerie Jürg Stuker, Bern, 12.–25. November 1987, Bern 1987, Lot 2009.",
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              640.5,
+              449.8,
+              686.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Amiet» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (461 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Amiet», Filter 2: Titel einschränken «Alle Treffer» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 461,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (107 Ergebnisse) für Suche «Cuno Amiet» (inklusive Varianten der Namensschreibweise) ohne Filter [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 107,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "INHA – Gazette Drouot",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Amiet» in den Jahrgängen 1900–1950 [17. August 2023]",
+            "treffer": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [26. November 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-11-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche in den Auktionskatalogen mit Filter: Keywords «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-08-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "12. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Wiesenblumenstrauss in blauer Vase vor Fenster›» [13. Dezember 2023]\n\n1 Treffer (20 Ergebnisse in den Primärdaten) für Volltextsuche «Wiesenblumenstrauss» [13. Dezember 2023]: A.2152.1.1310.14.2 (siehe unten)\n\n0 Treffer (0 Ergebnisse) für Volltextsuche «‹blaue Vase›» [13. Dezember 2023]\n\n1 Treffer (2 Ergebnisse im Archivverzeichnis, 20 in den Primärdaten) für Volltextsuche «Blumenstrauss» [13. Dezember 2023]: A.2152.1.1310.14.2 (siehe unten)\n\n0 Treffer (12 Ergebnisse im Archivverzeichnis, 34 in den Primärdaten) für Volltextsuche «Amiet» [12. Dezember 2023]"
+    },
+    {
+      "datum": "13. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1310.14.2 (PDF, S. 254)",
+      "bilder": [
+        {
+          "datei": "images/1230.2/1230.2_004_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            651.4,
+            532.5,
+            698.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte Kopie des lotspezifischen Ausschnitts aus dem Auktionskatalog Bern 1987 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1230.2/1230.2_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          290.0,
+          662.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. u. Leinwand: handschriftlich mit schwarzer Farbe «CA»",
+        "position_traeger": "r. u. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «CA»",
+        "kommentar": "Initialen des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              700.2,
+              214.2,
+              755.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "l. u. Leinwand: handschriftlich mit schwarzer Farbe «08»",
+        "position_traeger": "l. u. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «08»",
+        "kommentar": "Datierung (1908)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              208.3,
+              209.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: angehefteter langrechteckiger weisser Zettel, schwarz bedruckt, maschinen- und handschriftlich und ergänzt",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "angehefteter langrechteckiger weisser Zettel, schwarz bedruckt, maschinen- und handschriftlich und ergänzt",
+        "kommentar": "Erwerbsnachweis mit Zuschlagspreis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              222.8,
+              292.8,
+              266.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «Frau Sandt [?]»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Frau Sandt [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              298.5,
+              292.8,
+              343.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «C G 70»",
+        "position_traeger": "r. o. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «C G 70»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              356.0,
+              292.9,
+              434.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: schwarz schabloniert «2 M»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "schwarz schabloniert «2 M»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              447.2,
+              292.9,
+              532.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand/Spannrahmen: Klarsichttasche mit weissem oder gelblichem Etikett mit abgerundeten Ecken, schwarz gedruckt «2009»",
+        "position_traeger": "m. Leinwand/Spannrahmen",
+        "merkmal": "Klarsichttasche mit weissem oder gelblichem Etikett mit abgerundeten Ecken, schwarz gedruckt «2009»",
+        "kommentar": "Auktion Galerie Jürg Stuker 1987, Lot 2009",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              544.5,
+              220.7,
+              619.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Spannrahmen: handschriftlich mit Bleistift «W. Weber» oder «U. Weber»",
+        "position_traeger": "l. u. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «W. Weber» oder «U. Weber»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              632.0,
+              292.9,
+              680.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Spannrahmen: handschriftlich mit Bleistift «[…] № 5046 [?] | […]»",
+        "position_traeger": "l. m. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…] № 5046 [?] | […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.9,
+              292.5,
+              193.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «24,5 / 14»",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «24,5 / 14»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              206.4,
+              250.9,
+              272.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen (unter Ankaufsbeleg): rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «704’347 | /2»",
+        "position_traeger": "o. l. Zierrahmen (unter Ankaufsbeleg)",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «704’347 | /2»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1230.2/1230.2_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              284.9,
+              250.9,
+              349.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller/Radlach 2014. Der vormalige Werktitel der SKKG lautete Wiesenblumenstrauss in blauer Vase vor Fenster (Quelle unbekannt)."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Bern 1987. Dem Titel des Auktionskatalogs zufolge wurden Objekte aus Schweizer Besitz angeboten. Auf der Werkrückseite steht der handschriftliche Vermerk «[…] Weber». Womöglich handelt es sich dabei um den Einlieferer oder die Einlieferin. Das Werk mit der SKKG-Inventarnummer 1230.1, das zusammen mit dem vorliegenden angeboten und erworben wurde, hat dieselbe Provenienz."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1987, Müller/Radlach 2014. Im Auktionskatalog steht «Aus alter Sammlung»."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Zuschlagspreis bezieht sich auf beide Werke zusammen, siehe Fn. 2."
+    }
+  ],
+  "bilder_anzahl": 16
+}

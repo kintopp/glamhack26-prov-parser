@@ -1,0 +1,642 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1392_230430.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "30. April 2023",
+  "stand_iso": "2023-04-30",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1392",
+      "Alexandre Blanchet (1882–1961)",
+      "Sommerlandschaft",
+      "1915",
+      "Öl auf Leinwand",
+      "50 × 61 cm (Bildmass)",
+      "58 × 68 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1392",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Blanchet (1882–1961)",
+    "titel": "Sommerlandschaft",
+    "masse": [
+      "50 × 61 cm (Bildmass)",
+      "58 × 68 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1915",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1392/1392_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.8,
+          431.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1979."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "spätestens 1975 bis wahrscheinlich 1977",
+      "besitzer": "Josef Müller (1887–1977), Solothurn/Genf/Paris",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Etikett auf der Werkrückseite sowie Ausstellungskatalog Solothurn 1975. Das Werk wurde 1975 an der Ausstellung «Schweizer Kunst in der Sammlung Josef Müller» gezeigt, befand sich also spätestens dann im Eigentum des Sammlers."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1977–1979",
+      "besitzer": "wahrscheinlich Nachlass Josef Müller, Genf",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20.–22. Juni 1979",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 113, Sommerlandschaft), Bern, wahrscheinlich eingeliefert aus Nachlass Josef Müller",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1979. Im Untertitel des Auktionskatalogs wird an erster Stelle die Sammlung «J. M., Solothurn» genannt. Demnach ist anzunehmen, dass das Gemälde zwei Jahre im Nachlass des 1977 verstorbenen Sammlers verblieb und von dort eingeliefert wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20. Juni 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Kornfeld, Zuschlagspreis: 4000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Erwerbsliste zur Auktion vom 20. Juni 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, 20.–22. Juni 1979, Bern 1979, Lot 113.",
+        "bilder": [
+          {
+            "datei": "images/1392/1392_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              322.1,
+              436.0,
+              380.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Schweizer Kunst in der Sammlung Josef Müller. 125 Jahre Kunstverein Solothurn, hrsg. von Kunstverein Solothurn, Ausstellungskatalog Museum der Stadt Solothurn, 15. Juni bis 7. September 1975, S. 159, Nr. 130.",
+        "bilder": [
+          {
+            "datei": "images/1392/1392_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              449.7,
+              299.1,
+              503.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Museum der Stadt Solothurn, Schweizer Kunst in der Sammlung Josef Müller, 15. Juni bis 7. September 1975, Nr. 130 (Sommerlandschaft)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Blanchet» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Blanchet» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (59 Ergebnisse) für Volltextsuche «Blanchet», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [31. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 59,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (172 Ergebnisse) für Volltextsuche «Blanchet» mit Filter: Jahr «1915–1945» [31. März 2023]: derselbe Treffer wie bei Getty Provenance Index, siehe dort.",
+            "treffer": 1,
+            "ergebnisse": 172,
+            "datum": "2023-03-31"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [],
+        "bilder": [
+          {
+            "datei": "images/1392/1392_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              385.5,
+              402.6,
+              491.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "1 möglicher Treffer (68 Ergebnisse) für Volltextsuche «Blanchet; Blanchet, Alexandre; Blanchet, A.» mit Filter: Object Type «Painting» [31. März 2023]",
+            "bildunterschrift": "Gemälde, Aquarelle, Zeichnungen aus Schweizer Privatsammlungen und anderem Besitz, Auktionskatalog G. & L. Bollag, Zürich, 28. September 1932, Zürich 1932, Lot 15 (La ferme), https://doi.org/10.11588/diglit.8332#0006 [30. April 2023]."
+          },
+          {
+            "datei": "images/1392/1392_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              196.1,
+              561.3,
+              360.3,
+              587.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "Ob es sich dabei um das vorliegende Gemälde handelt, ist unklar. Die Masse würden stimmen."
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Alexandre Blanchet» [20. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-03-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1392/1392_006_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            378.9,
+            532.2,
+            412.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "20. März 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.643, NF_0061",
+      "bilder": [
+        {
+          "datei": "images/1392/1392_007_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            475.0,
+            519.5,
+            688.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1392/1392_008_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            739.1,
+            533.0,
+            750.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildtitel": "Erwerbsliste zur Auktion vom 20. Juni 1979, verfasst von Bruno Stefanini, siehe Lot 113"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Sammlung Josef Müller",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/1392/1392_009_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            360.7,
+            328.7,
+            525.5
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Der Schweizer Sammler Josef Müller (1887–1977) ist eng mit dem Kunstmuseum Solothurn verbunden. Zeitweilig war er als Konservator des Hauses tätig. Nach seinem Tod verblieb ein Teil seiner Sammlung als Dauerleihgabe im Museum. 1975 richtete dieses eine Ausstellung schweizerischer Kunst aus seiner Sammlung aus, wo auch das besagte Bild gezeigt wurde. Auf einer erhaltenen Saalaufnahme ist Josef Müller vor dem Gemälde zu sehen",
+          "bildunterschrift": "Im privaten Archiv/Nachlass von Josef Müller in Genf, der seit einigen Jahren aufgearbeitet wird, finden sich höchstwahrscheinlich weitere Informationen."
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Leonardo Bezzola und Annemarie Monteil, Das Kunstmuseum Solothurn 1972–1997, Solothurn 1997 [Seite unbekannt]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1392/1392_010_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          305.9,
+          372.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit gelbbrauner Farbe «A. Blanchet»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit gelbbrauner Farbe «A. Blanchet»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              409.7,
+              305.8,
+              456.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: handschriftlich mit schwarzem Schreibmittel «1915.»",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «1915.»",
+        "kommentar": "Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              472.8,
+              223.8,
+              518.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: schwarz schabloniert «12»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "schwarz schabloniert «12»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.8,
+              536.0,
+              224.3,
+              591.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «148» und «x» (Kreuz), eingekreist",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «148» und «x» (Kreuz), eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              603.7,
+              223.5,
+              657.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit Bleistift «4», unterstrichen",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «4», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              669.3,
+              203.2,
+              726.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit Bleistift beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit Bleistift beschrieben",
+        "kommentar": "Erwerbsnachweis Auktion Kornfeld 1979, Lot 113, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              304.8,
+              269.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges weisses Klebeetikett mit blauem Rahmen, schwarz gestempelt «KH 20» (teilweise verdeckt)",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit blauem Rahmen, schwarz gestempelt «KH 20» (teilweise verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              282.8,
+              305.1,
+              361.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges weisses Klebeetikett, schwarz gedruckt «SAMM-LUNG JOSEF MÜLLER | SOLOTHURN» (teilweise verdeckt)",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett, schwarz gedruckt «SAMM-LUNG JOSEF MÜLLER | SOLOTHURN» (teilweise verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1392/1392_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              373.6,
+              305.0,
+              435.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Etikett auf der Werkrückseite sowie Ausstellungskatalog Solothurn 1975. Das Werk wurde 1975 an der Ausstellung «Schweizer Kunst in der Sammlung Josef Müller» gezeigt, befand sich also spätestens dann im Eigentum des Sammlers."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1979. Im Untertitel des Auktionskatalogs wird an erster Stelle die Sammlung «J. M., Solothurn» genannt. Demnach ist anzunehmen, dass das Gemälde zwei Jahre im Nachlass des 1977 verstorbenen Sammlers verblieb und von dort eingeliefert wurde."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Erwerbsliste zur Auktion vom 20. Juni 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Leonardo Bezzola und Annemarie Monteil, Das Kunstmuseum Solothurn 1972–1997, Solothurn 1997 [Seite unbekannt]."
+    }
+  ],
+  "bilder_anzahl": 18
+}

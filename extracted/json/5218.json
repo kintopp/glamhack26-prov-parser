@@ -1,0 +1,435 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5218_230608.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5218",
+      "Albert Anker (1831–1910)",
+      "Lesender",
+      "um 1881",
+      "Öl auf Leinwand",
+      "38 × 46 cm (Bildmass)",
+      "51 × 62 × 9,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5218",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Lesender",
+    "masse": [
+      "38 × 46 cm (Bildmass)",
+      "51 × 62 × 9,5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1881",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5218/5218_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.0,
+          427.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La lecture. In der Objektdatenbank SKKG ist der Werktitel Bauer, eine Zeitung lesend vermerkt (Quelle unbekannt). Der Werkkatalog 1962 und der Auktionskatalog Bern 1983 führen das Werk als Lesender Bauer auf."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Kunsthandel, Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17.–30. November / 2.– 6. Dezember 1983",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen. Auflösung bedeutender Schweizer Nachlässe […], Lot 8, Lesender Bauer), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Bern 1983, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18. November 1983 bis 6. Mai 1985",
+      "besitzer": "Ernst und Else Spitzer, Uetikon am See, angekauft auf Auktion Galerie Jürg Stuker",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Verkaufsbeleg von Ernst und Else Spitzer, Uetikon am See, vom 6. Mai 1985 im Archiv SKKG. «Spitzer» ist zudem als Annotation im annotierten Auktionskatalog Bern 1983 im Archiv SKKG zu lesen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 6. Mai 1985",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, von Ernst und Else Spitzer, Ankaufspreis: 230 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd. Bruno Stefanini hat von Ernst und Else Spitzer für den Pauschalpreis von 728 000 Franken fünf Werke erworben und diesen auf dem Verkaufsbeleg Teilbeträge zugeordnet."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkataloge",
+        "text": "Albert Anker. Katalog der Gemälde und Ölstudien, hrsg. vom Berner Kunstmuseum, Bern 1962, Nr. 359.\n\nSandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 154, Nr. 284.",
+        "bilder": [
+          {
+            "datei": "images/5218/5218_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              322.4,
+              301.4,
+              435.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Auktionen. Auflösung bedeutender Schweizer Nachlässe […], Auktionskatalog Galerie Jürg Stuker, Bern, 17.–30. November und 2.–6. Dezember, Bern 1983, Lot 8."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (611 Ergebnisse) für Volltextsuche «Bauer» und «Zeitung» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 611,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Zeitungsleser» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «liseur» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «lesender Bauer» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (82 Ergebnisse) für Volltextsuche «la lecture» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 82,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (518 Ergebnisse) für Volltextsuche «Lesender» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 518,
+            "datum": "2023-03-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5218/5218_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            291.3,
+            532.3,
+            327.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1983, annotiert von Bruno Stefanini (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "13. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1396.7.2",
+      "bilder": [
+        {
+          "datei": "images/5218/5218_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            402.6,
+            533.0,
+            621.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Verkaufsbeleg von Ernst und Else Spitzer, Uetikon am See, vom 6. Mai 1985, annotiert von Bruno Stefanini mit Zuordnung von Teilbeträgen des Pauschalpreises"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5218/5218_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          290.0,
+          527.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit hellem Schreibmittel «Anker», stark fragmentiert",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit hellem Schreibmittel «Anker», stark fragmentiert",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5218/5218_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              565.2,
+              239.9,
+              620.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges beiges Etikett, handschriftlich mit blauem Kugelschreiber «№ 359. № 359. | dans édition des | œuvres d’ Anker | Berne | page 367.»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, handschriftlich mit blauem Kugelschreiber «№ 359. № 359. | dans édition des | œuvres d’ Anker | Berne | page 367.»",
+        "kommentar": "Verweis auf Anker-Werkkatalog 1962",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5218/5218_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              633.3,
+              293.1,
+              729.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La lecture. In der Objektdatenbank SKKG ist der Werktitel Bauer, eine Zeitung lesend vermerkt (Quelle unbekannt). Der Werkkatalog 1962 und der Auktionskatalog Bern 1983 führen das Werk als Lesender Bauer auf."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Bern 1983, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Verkaufsbeleg von Ernst und Else Spitzer, Uetikon am See, vom 6. Mai 1985 im Archiv SKKG. «Spitzer» ist zudem als Annotation im annotierten Auktionskatalog Bern 1983 im Archiv SKKG zu lesen."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd. Bruno Stefanini hat von Ernst und Else Spitzer für den Pauschalpreis von 728 000 Franken fünf Werke erworben und diesen auf dem Verkaufsbeleg Teilbeträge zugeordnet."
+    }
+  ],
+  "bilder_anzahl": 7
+}

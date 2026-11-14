@@ -1,0 +1,480 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2740_220915.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "15. September 2022",
+  "stand_iso": "2022-09-15",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2740",
+      "Caspar Wolf (1735–1783)",
+      "Prospect auf dem Weg nach Grindelwald",
+      "und Lauterbrunnen",
+      "o. J.",
+      "Öl auf Leinwand",
+      "46 × 67 cm (Bildmass)",
+      "58 × 79 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2740",
+    "status": "Ungeklärt",
+    "kuenstler": "Caspar Wolf (1735–1783)",
+    "titel": "Prospect auf dem Weg nach Grindelwald und Lauterbrunnen",
+    "masse": [
+      "46 × 67 cm (Bildmass)",
+      "58 × 79 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2740/2740_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          318.7,
+          418.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1994."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Auktionskatalog Bern 1994 findet sich unten rechts auf einem der Felsbrocken eine «verblassene Sign[atur]». Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 24. Mai 1994",
+      "besitzer": "Privatbesitz, Chur",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "24. Mai bis 4. Juni 1994",
+      "besitzer": "Auktion Galerie Jürg Stuker (Frühlings-Auktion 1994, Lot 3262, Prospect auf dem Weg nach Grindelwald und Lauterbrunnen), Bern, wohl eingeliefert aus Churer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 27. Mai 1994",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 34 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bern 1994 im Archiv SKKG. Die Gemälde liefen am 27. Mai 1994, siehe Auktionskatalog Bern 1994."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Willi Raeber, Caspar Wolf, 1735–1783. Sein Leben und sein Werk. Ein Beitrag zur Geschichte der Schweizer Malerei des 18. Jahrhunderts, hrsg. vom Schweizerischen Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 7), Aarau/München 1979 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Frühlings-Auktion 1994, Auktionskatalog Galerie Jürg Stuker, Bern, 24. Mai bis 4. Juni 1994, Bern 1994, Lot 3262."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (50 Ergebnisse) für erweiterte Suche Filter 1: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 50,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (73 Ergebnisse) für erweiterte Suche Filter 1: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (78 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 78,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Caspar Wolf / Caspar Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (310 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolff C.» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 310,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (501 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolf C.» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 501,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (203 Ergebnisse) für erweiterte Suche Filter 1: Künstler enthält «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 203,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (27 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Caspar Wolf›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 27,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Caspar Wolff›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (269 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹C. Wolf›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 269,
+            "datum": "2022-09-14"
+          },
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹C. Wolff›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-09-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche «Caspar Wolf» (inklusive Varianten der Namensschreibweise) ohne Filter [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-09"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 (6 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "ergebnisse": 6,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2740/2740_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            366.7,
+            190.6,
+            533.0,
+            240.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/2740/2740_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            366.7,
+            246.0,
+            534.2,
+            276.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1994, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2740/2740_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            366.7,
+            319.7,
+            533.0,
+            401.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Koller, Mai 1978, Lot 5125, verfasst von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2740/2740_005_provenienzmerkmale.png",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.4,
+          318.2,
+          350.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m., r. m., u. m., l. m. Keilrahmen: gestempelte Ziffern",
+        "position_traeger": "o. m., r. m., u. m., l. m. Keilrahmen",
+        "merkmal": "gestempelte Ziffern",
+        "kommentar": "Rahmenmasse",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2740/2740_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              412.6,
+              233.0,
+              487.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2740/2740_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              493.7,
+              232.8,
+              589.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: quadratisches weiss-blaues Klebeetikett, oben gezahnt, mit schwarzem Filzstift handschriftlich «51»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "quadratisches weiss-blaues Klebeetikett, oben gezahnt, mit schwarzem Filzstift handschriftlich «51»",
+        "kommentar": "vermutlich aufgebracht von Ursula Netzer, Schlossverwalterin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2740/2740_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              602.2,
+              232.6,
+              713.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges beiges Etikett, blau gedruckt «3262»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, blau gedruckt «3262»",
+        "kommentar": "Lotnummer Auktion Galerie Jürg Stuker 1994",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2740/2740_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              233.5,
+              218.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Zettel Auktion Galerie Jürg Stuker 1994, angetackert, mit gedruckter Beschreibung des Bilds und handschriftlich annotiertem Zuschlagspreis",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Zettel Auktion Galerie Jürg Stuker 1994, angetackert, mit gedruckter Beschreibung des Bilds und handschriftlich annotiertem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2740/2740_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              230.4,
+              370.1,
+              317.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Auktionskatalog Bern 1994 findet sich unten rechts auf einem der Felsbrocken eine «verblassene Sign[atur]». Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1994."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bern 1994 im Archiv SKKG. Die Gemälde liefen am 27. Mai 1994, siehe Auktionskatalog Bern 1994."
+    }
+  ],
+  "bilder_anzahl": 10
+}

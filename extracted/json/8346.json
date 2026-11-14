@@ -1,0 +1,651 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_8346_250312.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "12. März 2025",
+  "stand_iso": "2025-03-12",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 8346",
+      "Frank Buchser (1828–1890)",
+      "Fischermädchen am Meeresufer",
+      "um 1876",
+      "Öl auf Leinwand",
+      "89 × 127 × 14 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "8346",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Fischermädchen am Meeresufer",
+    "masse": [
+      "89 × 127 × 14 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1876",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/8346/8346_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          317.0,
+          434.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1980."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 26. November 1980",
+      "besitzer": "Privatbesitz, England",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 1980. Frank Buchsers letzte Reise nach Grossbritannien fand von «August 1875 [...] bis Herbst 1877» statt, siehe Wälchli 1941, S. 179. Somit kann das Werk dieser Periode zugeordnet werden. Wälchli schreibt weiter: «Sein Atelier war das Stelldichein der englischen Aristokratie, und die vielen Bilder von Fischermädchen sollen ihm noch nass von der Staffelei weg gekauft worden sein» (S. 182). Dass sich das vorliegende Gemälde in englischem Privatbesitz befand, korrespondiert mit dieser Aussage. Weiter berichtet Wälchli, dass Buchser an der Schweizerischen Kunstausstellung 1879 mit einem als «Flutgefangen an der Küste von Irland» bezeichneten Werk teilgenommen habe (siehe Ausstellungskatalog Basel 1879), auf dem «zwei Fischermädchen» dargestellt seien und das vom Berner Kunstverein für das dortige Museum angekauft worden sei (S. 185). Allerdings scheint ihm dabei eine Verwechslung unterlaufen zu sein. Zwar besitzt das Kunstmuseum Bern ein Gemälde mit dem Titel «Flutumfangen», darauf ist jedoch nur ein Fischermädchen dargestellt, siehe Kontextinformationen. Ob es sich stattdessen um das vorliegende Werk handelt, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November 1980",
+      "besitzer": "Auktion Sotheby Parke Bernet (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 41, Fischermädchen am Meeresufer), Zürich, eingeliefert aus englischem Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1980."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby Parke Bernet, Zuschlagspreis: 35 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 26. November 1980, Zürich 1980, Lot 41."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Schweizerische Kunst-Ausstellung. Turnus 1879. Catalog der ausgestellten Kunstwerke, Basel 1879, möglicherweise S. 14, Nr. 143, https://www.sik-isea.ch/Portals/0/Content/Bibliothek/Digi-tale%20Best%C3%A4nde/1879_Basel.pdf [12. März 2025].",
+        "bilder": [
+          {
+            "datei": "images/8346/8346_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.2,
+              386.3,
+              444.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Gottfried Wälchli, Frank Buchser 1828–1890. Leben und Werk, Zürich 1941."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Hersteller/Künst-ler/Autor:in «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Buchser», Filter 2: Titel einschränken «automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise von) ohne Filter [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (4 Ergebnisse im Archivverzeichnis, 33 in den Primärdaten) für Volltextsuche «Buchser» [7. Juni 2023]"
+    },
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/8346/8346_003_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            504.8,
+            508.3,
+            628.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Vergleichsbild im Kunstmuseum Bern",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/8346/8346_004_kontextinformationen.png",
+          "seite": 4,
+          "bbox": [
+            193.0,
+            165.6,
+            379.5,
+            443.5
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Hinweis auf Frank Buchser im Zusammenhang mit dem Kunstmuseum Bern und auf das Gemälde «Flutumfangen» an der schweizerischen Kunstausstellung, in: Der Bund, Jg. 30, 1879, Nr. 222, 13. August 1879, S. 2, https://www.e-newspaperarchi-ves.ch/?a=d&d=DBB18790813-01.1.2 [25. Juni 2025]."
+        },
+        {
+          "datei": "images/8346/8346_005_kontextinformationen.jpeg",
+          "seite": 4,
+          "bbox": [
+            193.0,
+            518.8,
+            430.8,
+            692.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Xymna Engel, Sie zeigt vergessene Meisterwerke, Der Bund, 27. Juli 2023, https://www.derbund.ch/sie-zeigt-vergessene-meisterwerke-248580273314 [25. Juni 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/8346/8346_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          325.8,
+          349.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «F. Buchser»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «F. Buchser»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              387.2,
+              325.9,
+              447.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Fragment eines Klebeetiketts, schwarz gedruckt «J […]»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Fragment eines Klebeetiketts, schwarz gedruckt «J […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              460.4,
+              328.3,
+              518.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit weisser Kreide «41»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «41»",
+        "kommentar": "Auktion Sotheby’s 1980, Lot 41",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              531.4,
+              259.2,
+              602.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit unbekanntem Schreibmittel «[…] LAND | T»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit unbekanntem Schreibmittel «[…] LAND | T»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              615.9,
+              327.6,
+              716.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit grauem Schreibmittel «X»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «X»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              139.8,
+              226.0,
+              205.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit grauem Schreibmittel «X»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «X»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              218.3,
+              226.0,
+              277.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit weisser Kreide vermutlich «530022/2», sonst «53002212» oder «530022l2»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide vermutlich «530022/2», sonst «53002212» oder «530022l2»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              290.8,
+              328.7,
+              343.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: Fragment eines rechteckigen weissen Klebeetiketts, liniert, handschriftlich mit schwarzem Schreibmittel «[…]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "Fragment eines rechteckigen weissen Klebeetiketts, liniert, handschriftlich mit schwarzem Schreibmittel «[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              355.8,
+              328.7,
+              494.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit weisser Kreide «41», umkreist",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «41», umkreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              508.0,
+              232.1,
+              579.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: handschriftlich mit weisser Kreide «P»",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «P»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_016_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              592.3,
+              188.2,
+              675.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: viereckiges weisses Klebeetikett, schwarz gedruckt «16123», unterstrichen",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett, schwarz gedruckt «16123», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_017_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              687.7,
+              230.2,
+              727.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rosa Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rosa Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "kommentar": "Erwerbsnachweis, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              327.4,
+              271.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Klebeetikett, schwarz gedruckt «16123», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett, schwarz gedruckt «16123», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_019_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              284.3,
+              227.2,
+              325.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit rotem Wachsstift «A29» oder «A21»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Wachsstift «A29» oder «A21»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8346/8346_020_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              360.0,
+              325.2,
+              440.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 1980. Frank Buchsers letzte Reise nach Grossbritannien fand von «August 1875 [...] bis Herbst 1877» statt, siehe Wälchli 1941, S. 179. Somit kann das Werk dieser Periode zugeordnet werden. Wälchli schreibt weiter: «Sein Atelier war das Stelldichein der englischen Aristokratie, und die vielen Bilder von Fischermädchen sollen ihm noch nass von der Staffelei weg gekauft worden sein» (S. 182). Dass sich das vorliegende Gemälde in englischem Privatbesitz befand, korrespondiert mit dieser Aussage. Weiter berichtet Wälchli, dass Buchser an der Schweizerischen Kunstausstellung 1879 mit einem als «Flutgefangen an der Küste von Irland» bezeichneten Werk teilgenommen habe (siehe Ausstellungskatalog Basel 1879), auf dem «zwei Fischermädchen» dargestellt seien und das vom Berner Kunstverein für das dortige Museum angekauft worden sei (S. 185). Allerdings scheint ihm dabei eine Verwechslung unterlaufen zu sein. Zwar besitzt das Kunstmuseum Bern ein Gemälde mit dem Titel «Flutumfangen», darauf ist jedoch nur ein Fischermädchen dargestellt, siehe Kontextinformationen. Ob es sich stattdessen um das vorliegende Werk handelt, ist unklar."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    }
+  ],
+  "bilder_anzahl": 20
+}

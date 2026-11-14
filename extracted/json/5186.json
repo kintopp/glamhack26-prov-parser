@@ -1,0 +1,533 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5186_230427.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. April 2023",
+  "stand_iso": "2023-04-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5186",
+      "Giovanni Segantini (1858–1899)",
+      "Ritratto di Leopoldina Grubicy",
+      "um 1880",
+      "Öl auf Leinwand",
+      "42 × 35 cm (Bildmass)",
+      "55 × 47,5 × 7 cm (Rahmenmass)",
+      "unsigniert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5186",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Ritratto di Leopoldina Grubicy",
+    "masse": [
+      "42 × 35 cm (Bildmass)",
+      "55 × 47,5 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1880",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "unsigniert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5186/5186_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.4,
+          487.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Quinsac 1982. Zur Porträtierten siehe Fn. 2."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "möglicherweise Vittore Grubicy (1851–1920), Milano",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Leopoldina Grubicy war laut Ausstellungskatalog St. Gallen 1956 «die Schwester von Vittore und Alberto Grubicy, der Freunde Segantinis». Gemäss Quinsac 1982 dürfte es sich beim Gemälde um eine unvollendete Auftragsarbeit für Segantinis Kunsthändler Vittore Grubicy handeln. Es ist daher denkbar, dass es sich eine Zeit lang im Eigentum der Familie Grubicy befand."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1953 bis mindestens 1982",
+      "besitzer": "Privatbesitz, Olten, vermutlich Dr. med. R. J. Schenk",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ausstellungskatalog St. Gallen 1956, Arcangeli/Gozzoli 1973, Quinsac 1982. Angesichts des Erscheinungsjahrs des Werkkatalogs von Quinsac muss sich das Werk bis mindestens 1982 dort befunden haben."
+        },
+        {
+          "nr": 4,
+          "text": "Im Ausstellungskatalog St. Gallen 1956 steht beim betreffenden Werk lediglich «Privatbesitz Olten». Im Leihgeberverzeichnis (o. S.) ist ein «Herr Dr. med. R. J. Schenk, Olten» aufgeführt; es ist der einzige Eintrag für Olten. Auch bei anderen Werkeinträgen ist der Besitzer bisweilen anonymisiert, anhand der angegebenen Ortschaft über das Leihgeberverzeichnis aber offenbar aufzuschlüsseln."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. März 2002",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 33, Bildnis der Leopoldina Grubicy), Zürich, eingeliefert aus Schweizer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2002."
+        }
+      ]
+    },
+    {
+      "zeitraum": "höchstwahrscheinlich seit 25. März 2002",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, höchstwahrscheinlich auf Auktion Christie’s, Zürich, Ankaufspreis: 212 400 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 2002. Der Auktionskatalog fehlt im Archiv SKKG, ein Erwerbsnachweis ist nicht vorhanden. In der Objektdatenbank SKKG ist die Auktion als Erwerbsreferenz angegeben, sodass anzunehmen ist, dass Bruno Stefanini das Werk dort erwarb. Der Zuschlagspreis ohne Aufgeld ist nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973, Nr. 42.\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, Bd. 1, Mailand 1982, Nr. 144.",
+        "bilder": [
+          {
+            "datei": "images/5186/5186_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.4,
+              308.8,
+              563.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Nr. 1296, 25. März 2002, Zürich 2002, Lot 33, https://www.christies.com/lot/lot-3883512 [27. März 2023]."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Giovanni Segantini. 1858–1899, Ausstellungskatalog Kunstmuseum St. Gallen, 7. Juli bis 30. September 1956, St. Gallen 1956, Nr. 21.",
+        "bilder": [
+          {
+            "datei": "images/5186/5186_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.1,
+              420.3,
+              263.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          },
+          {
+            "datei": "images/5186/5186_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              287.7,
+              335.2,
+              303.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog",
+            "bildtitel": "Eintrag im Leihgeberverzeichnis (o. S.) mit Ortsangabe «Olten»"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Siehe Fn. 4."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "‒ Mailand, Esposizione annuale della Società «La Famiglia artistica», 1880\n\n‒ Kunstmuseum St. Gallen, Giovanni Segantini, 7. Juli bis 30. September 1956\n\n‒ Japan, Giovanni Segantini, 1978\n\n‒ Segantini-Museum, St. Moritz, Sonderausstellung, 11. Dezember 1981 bis 11. Januar 1982\n\n‒ Kunsthaus Zürich, Giovanni Segantini, 9. November 1990 bis 3. Februar 1991, Nr. 11",
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Die Angaben stammen weitgehend aus Quinsac 1982 und dem Auktionskatalog Zürich 2002 und wurden im Rahmen des Erstchecks nicht systematisch überprüft und ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 150,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (22 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Volltext/Metadaten «Grubicy», Filter 3: Titel einschränken «automatisch» [6. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 22,
+            "datum": "2023-02-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 151,
+            "datum": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5186/5186_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          292.7,
+          606.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz bedruckt; Ausstellung Kunsthaus Zürich, 9. November 1990 bis 3. Februar 1991",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt; Ausstellung Kunsthaus Zürich, 9. November 1990 bis 3. Februar 1991",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5186/5186_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              292.5,
+              214.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit Bleistift «10.», umkreist",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «10.», umkreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5186/5186_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              227.3,
+              194.8,
+              280.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: langrechteckiges weisses Etikett mit abgerundeten Ecken, MAT Securitas Express, Feld für Leihgeber mit weissem Korrekturmittel übermalt",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett mit abgerundeten Ecken, MAT Securitas Express, Feld für Leihgeber mit weissem Korrekturmittel übermalt",
+        "kommentar": "Transportunternehmen",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5186/5186_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              292.6,
+              293.3,
+              357.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Schweizer Zollstempel, Zollkreis und Nummer unleserlich",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Schweizer Zollstempel, Zollkreis und Nummer unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5186/5186_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              381.0,
+              192.9,
+              430.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: langrechteckiges weisses Etikett, Sonderausstellung Segantini-Museum St. Moritz, 11. Dezember 1981 bis 11. Januar 1982",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, Sonderausstellung Segantini-Museum St. Moritz, 11. Dezember 1981 bis 11. Januar 1982",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5186/5186_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              443.0,
+              293.3,
+              495.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Klebeband, handschriftlich «113 Glas»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Klebeband, handschriftlich «113 Glas»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5186/5186_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              508.0,
+              221.3,
+              574.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier- und Keilrahmen: Etikett mit SIK-Nummer 33216",
+        "position_traeger": "o. l. Zier- und Keilrahmen",
+        "merkmal": "Etikett mit SIK-Nummer 33216",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5186/5186_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              587.2,
+              221.3,
+              608.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5186/5186_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              614.8,
+              221.2,
+              641.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Quinsac 1982. Zur Porträtierten siehe Fn. 2."
+    },
+    {
+      "nr": 2,
+      "text": "Leopoldina Grubicy war laut Ausstellungskatalog St. Gallen 1956 «die Schwester von Vittore und Alberto Grubicy, der Freunde Segantinis». Gemäss Quinsac 1982 dürfte es sich beim Gemälde um eine unvollendete Auftragsarbeit für Segantinis Kunsthändler Vittore Grubicy handeln. Es ist daher denkbar, dass es sich eine Zeit lang im Eigentum der Familie Grubicy befand."
+    },
+    {
+      "nr": 3,
+      "text": "Ausstellungskatalog St. Gallen 1956, Arcangeli/Gozzoli 1973, Quinsac 1982. Angesichts des Erscheinungsjahrs des Werkkatalogs von Quinsac muss sich das Werk bis mindestens 1982 dort befunden haben."
+    },
+    {
+      "nr": 4,
+      "text": "Im Ausstellungskatalog St. Gallen 1956 steht beim betreffenden Werk lediglich «Privatbesitz Olten». Im Leihgeberverzeichnis (o. S.) ist ein «Herr Dr. med. R. J. Schenk, Olten» aufgeführt; es ist der einzige Eintrag für Olten. Auch bei anderen Werkeinträgen ist der Besitzer bisweilen anonymisiert, anhand der angegebenen Ortschaft über das Leihgeberverzeichnis aber offenbar aufzuschlüsseln."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2002."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 2002. Der Auktionskatalog fehlt im Archiv SKKG, ein Erwerbsnachweis ist nicht vorhanden. In der Objektdatenbank SKKG ist die Auktion als Erwerbsreferenz angegeben, sodass anzunehmen ist, dass Bruno Stefanini das Werk dort erwarb. Der Zuschlagspreis ohne Aufgeld ist nicht bekannt."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 8,
+      "text": "Die Angaben stammen weitgehend aus Quinsac 1982 und dem Auktionskatalog Zürich 2002 und wurden im Rahmen des Erstchecks nicht systematisch überprüft und ergänzt."
+    }
+  ],
+  "bilder_anzahl": 13
+}

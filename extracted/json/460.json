@@ -1,0 +1,545 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_460_241113.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 460",
+      "Albert Anker (1831–1910)",
+      "Die Pfahlbauerin III",
+      "1884",
+      "Öl auf Leinwand",
+      "66 × 82 cm (Bildmass)",
+      "82 × 98,5 × 6,2 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "460",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Die Pfahlbauerin III",
+    "masse": [
+      "66 × 82 cm (Bildmass)",
+      "82 × 98,5 × 6,2 cm (Rahmenmass)"
+    ],
+    "datierung": "1884",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/460/460_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.0,
+          434.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La femme lacustre III."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "3. Januar 1884 bis o. D.",
+      "besitzer": "Schinz und Schutz, vermutlich Charles-Rodolphe Schinz (1868–1928) und Hans-Ulrich Schütz (1831–1915), Neuchâtel, angekauft beim Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 3. Januar 1884 in Albert Ankers Livre de vente: «Schinz et Schutz pr une femme d’attente 950». Bei «Schinz et Schutz» dürfte es sich um die Eigentümer des gleichnamigen Kaufhauses in Neuchâtel (Grand Bazar Schutz & Schinz) handeln, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Mai bis 11. August 1991",
+      "besitzer": "Ausstellung Seedamm-Kulturzentrum (Albert Anker, Nr. 48), Pfäffikon",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. März 1999",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 78, Die Pfahlbauerin III), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1999."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 23. März 1999",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 380 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie annotierten Auktionskatalog Zürich 1999 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 164, Nr. 317.",
+        "bilder": [
+          {
+            "datei": "images/460/460_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              284.5,
+              329.1,
+              392.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/460/460_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              398.5,
+              328.6,
+              453.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 23. März 1999, Zürich 1999, Lot 78."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "Darunter befindet sich ein Ergebnis (http://heine-mann.gnm.de/de/kunstwerk-40313.htm [25. Januar 2023]), das sich nicht auf dieses Werk, sondern auf die Version II bezieht, siehe Kuthy/Bhattacharya-Stettler 1995, S. 125, Nr. 194; dort Hinweis auf Seinet, Luzern.",
+            "datum": "2023-01-25"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «femme lacustre» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Pfahlbauerin» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "Darunter befindet sich ein Ergebnis (https://rosettaapp.getty.edu/de-livery/DeliveryManagerServlet?dps_pid=FL1683977), das sich wohl auf die Version II bezieht, siehe Kuthy/Bhattacharya-Stettler 1995, S. 125, Nr. 194; dort Hinweis auf Goupil und Wenger, Lausanne 1899, korrespondierend mit dem Getty-Eintrag."
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "6. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.1001, NF_0121\n\nSchreiben von Andres Furger, Direktor Schweizerisches Landesmuseum, an Bruno Stefanini und Christoph Blocher vom 16. März 1991 mit der Bitte, das Interesse des Landesmuseums am Bild zu berücksichtigen, samt Mitteilung des Preislimits.",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Möglicherweise begann Bruno Stefanini erst mitzubieten, nachdem das vom Landesmuseum gesetzte Limit von 320 000 Franken überschritten worden war, siehe Notizen im annotierten Auktionskatalog Bern 1999 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "datum": "6. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/460/460_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            329.7,
+            531.2,
+            571.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1999, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/460/460_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            139.8,
+            534.0,
+            270.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Christie’s 1999, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Bazar Schutz & Schinz, Neuchâtel",
+      "information": "Zur Geschichte des Warenhauses siehe: Feuille d’Avis de Neuchâtel – L’express, Jg. 247, Nr. 267, 16./17. November 1985, S. 5, www.e-newspaperarchives.ch/?a=d&d=EXR19851116-01.2.37 [25. Januar 2023].",
+      "bilder": [
+        {
+          "datei": "images/460/460_006_kontextinformationen.png",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            477.6,
+            307.6,
+            589.9
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Anzeige im Feuille d’Avis de Neuchâtel, Jg. 118, Nr. 14, 1. Februar 1883, www.e-newspaperarchives.ch/?a=d&d=EXR18830201-01.2.34 [25. Januar 2023]."
+        }
+      ]
+    },
+    {
+      "thema": "Hans-Ulrich Schütz (1831–1915)",
+      "information": "Zu Hans-Ulrich Schütz (1831–1915) siehe: Sabine Laplane, Frère Roger, Paris 2015, o. S. Das Erdgeschosses seines Hauses an der Rue de la Serre, Neuchâtel, war eine Kunstgalerie, siehe ebd."
+    },
+    {
+      "thema": "Charles-Rodolphe Schinz (1868–1928)",
+      "information": "Todesanzeige Charles-Rodolphe Schinz, in: Feuille d’Avis de Neuchâtel, Jg. 190, Nr. 13, 17. Januar 1928, S. 5, https://www.e-newspaperarchives.ch/?a=d&d=EXR19280117-01.2.51 [16. Dezember 2024]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/460/460_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          252.9,
+          293.5,
+          445.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit brauner Farbe «Anker»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit brauner Farbe «Anker»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/460/460_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              482.5,
+              252.6,
+              530.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Klebereste eines rechteckigen Etiketts",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Klebereste eines rechteckigen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/460/460_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              545.6,
+              292.0,
+              641.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett, rot und schwarz bedruckt, «Lot 78»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, rot und schwarz bedruckt, «Lot 78»",
+        "kommentar": "entspricht Lotnummer der Auktion Christie’s 1999",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/460/460_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              654.1,
+              232.4,
+              715.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Klebereste eines Etiketts",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/460/460_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              226.4,
+              224.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: zwei langrechteckige weisse Etiketten, schwarz gedruckt «[1688]5» /«16’885»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "zwei langrechteckige weisse Etiketten, schwarz gedruckt «[1688]5» /«16’885»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/460/460_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              237.8,
+              226.3,
+              291.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: zwei langrechteckige weisse Etiketten, schwarz gedruckt «16885» /«16’885»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "zwei langrechteckige weisse Etiketten, schwarz gedruckt «16885» /«16’885»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/460/460_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              313.5,
+              226.2,
+              364.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La femme lacustre III."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 3. Januar 1884 in Albert Ankers Livre de vente: «Schinz et Schutz pr une femme d’attente 950». Bei «Schinz et Schutz» dürfte es sich um die Eigentümer des gleichnamigen Kaufhauses in Neuchâtel (Grand Bazar Schutz & Schinz) handeln, siehe Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1999."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie annotierten Auktionskatalog Zürich 1999 im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Möglicherweise begann Bruno Stefanini erst mitzubieten, nachdem das vom Landesmuseum gesetzte Limit von 320 000 Franken überschritten worden war, siehe Notizen im annotierten Auktionskatalog Bern 1999 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 13
+}

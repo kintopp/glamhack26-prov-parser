@@ -1,0 +1,448 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5216_241218.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "18. Dezember 2024",
+  "stand_iso": "2024-12-18",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5216",
+      "Frank Buchser (1828–1890)",
+      "Spanischer Landstreicher",
+      "1857",
+      "Öl auf Leinwand",
+      "35 × 47 cm (Bildmass)",
+      "48 × 58 × 9,2 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5216",
+    "status": "Klar",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Spanischer Landstreicher",
+    "masse": [
+      "35 × 47 cm (Bildmass)",
+      "48 × 58 × 9,2 cm (Rahmenmass)"
+    ],
+    "datierung": "1857",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5216/5216_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          317.4,
+          473.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Luzern 1982, wo das Werk als Spanischer Landstreicher beim Vesper angeführt wird. Zum Motiv siehe Fn. 2."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1857–1917",
+      "besitzer": "Edmund Theodore Doxat (1829–1917), wahrscheinlich erhalten als Geschenk vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog London 1981. Dort steht zur Provenienz: «One of two pictures by Buchser given to the present owner’s grandfather, Edmund Theodore Doxat, by the artist, after the two had been on a walking holiday in the Pyrenees», und zum Motiv: «The subject of the picture is said to have been one of two bandits with whom Buchser and Mr. Doxat stayed on this trip»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1917 bis mindestens 27. November 1981",
+      "besitzer": "Nachkommen von Edmund Theodore Doxat",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "27. November 1981",
+      "besitzer": "Auktion Christie’s (Important Continental Pictures of the 19th and 20th Centuries, Lot 89, A Spanish Bandit), London, eingeliefert von einem Enkel oder einer Enkelin von Edmund Theodore Doxat",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "9.–16. November 1982",
+      "besitzer": "Auktion Galerie Fischer (Grosse Kunstauktionen in Luzern, Lot 2744, Spanischer Landstreicher beim Vesper), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Luzern 1982 sowie handschriftliche Erwerbsliste vom 15. Mai 1990 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 16. November 1982",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Fischer, Ankaufspreis: 31 050 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe handschriftliche Erwerbsliste vom 15. Mai 1990 im Archiv SKKG. Der Zuschlagspreis ist nicht bekannt, auf der Liste sind die Ankaufspreise inklusive Aufgeld aufgeführt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Important Continental Pictures of the 19th and 20th Centuries, Auktionskatalog Christie’s, London, 27. November 1981, London 1981, Lot 89.",
+        "bilder": [
+          {
+            "datei": "images/5216/5216_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              410.5,
+              394.8,
+              537.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Grosse Kunstauktionen in Luzern, Auktionskatalog Galerie Fischer, Luzern, 9.–13. und 16. November, Luzern 1982, Lot 2744."
+          },
+          {
+            "datei": "images/5216/5216_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              582.0,
+              469.2,
+              626.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Hersteller/Künst-ler/Autor:in «Buchser» [6. Juni 2023].",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Buchser», Filter 2: Titel einschränken «automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise) ohne Filter [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "(Signatur unbekannt)",
+      "bilder": [
+        {
+          "datei": "images/5216/5216_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            209.4,
+            533.0,
+            357.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsliste von Werken Frank Buchsers vom 15. Mai 1990, verfasst von Ursula Netzer"
+        },
+        {
+          "datei": "images/5216/5216_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            429.3,
+            533.0,
+            439.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildtitel": "relevanter Ausschnitt",
+          "bildunterschrift": "Verweis auf Auktion Fischer im November 1982, Lot 2744, Ankaufspreis (inklusive Aufgeld): 31 050 Franken"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5216/5216_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          292.2,
+          353.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzem Schreibmittel «F. B. | 1857 | Sevilla»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «F. B. | 1857 | Sevilla»",
+        "kommentar": "Künstlersignatur (Monogramm) mit Datierung und Lokalisierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5216/5216_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              390.4,
+              290.6,
+              504.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: schwarze Markierungen",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "schwarze Markierungen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5216/5216_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              516.9,
+              219.8,
+              598.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit weisser Kreide: «Lot 89 27 11 8[1]»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide: «Lot 89 27 11 8[1]»",
+        "kommentar": "Auktion Christie’s, 27. November 1981, Lot 89",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5216/5216_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              611.9,
+              292.0,
+              642.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5216/5216_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              648.5,
+              292.0,
+              676.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit Bleistift «4»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5216/5216_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              688.5,
+              205.7,
+              737.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Luzern 1982, wo das Werk als Spanischer Landstreicher beim Vesper angeführt wird. Zum Motiv siehe Fn. 2."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog London 1981. Dort steht zur Provenienz: «One of two pictures by Buchser given to the present owner’s grandfather, Edmund Theodore Doxat, by the artist, after the two had been on a walking holiday in the Pyrenees», und zum Motiv: «The subject of the picture is said to have been one of two bandits with whom Buchser and Mr. Doxat stayed on this trip»."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Luzern 1982 sowie handschriftliche Erwerbsliste vom 15. Mai 1990 im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe handschriftliche Erwerbsliste vom 15. Mai 1990 im Archiv SKKG. Der Zuschlagspreis ist nicht bekannt, auf der Liste sind die Ankaufspreise inklusive Aufgeld aufgeführt."
+    }
+  ],
+  "bilder_anzahl": 11
+}

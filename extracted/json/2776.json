@@ -1,0 +1,694 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2776_221101.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2776",
+      "François Diday (1802–1877)",
+      "Baumgruppe in Berglandschaft",
+      "o. J.",
+      "Öl auf Malkarton auf Leinwand",
+      "31 × 40 cm (Bildmass)",
+      "39 × 48,5 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2776",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Baumgruppe in Berglandschaft",
+    "masse": [
+      "31 × 40 cm (Bildmass)",
+      "39 × 48,5 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Malkarton auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2776/2776_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          350.6,
+          440.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1977."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Objektdatenbank SKKG ist das Werk unten links signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich um 1965",
+      "besitzer": "John J. Zwicky, Kaufmann, Arlesheim",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Provenienzmerkmale sowie Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich nach 1965",
+      "besitzer": "Rudolf Dörfler, vormals Kunsthandlung Wortmann, Basel",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd. Das mit «vormals Kunsthandlung Wortmann» betitelte Etikett ist vermutlich auf die Zeit nach Wortmanns Pensionierung oder Tod zu datieren, also nach 1965/66."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25./26. November 1977",
+      "besitzer": "Auktion Galerie Koller (Bilder, Graphik und Plastiken des 19. und 20. Jahrhunderts, Lot 5091, Baumgruppe in Berglandschaft), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. November 1977 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Koller, Zuschlagspreis: 4300 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bilder, Graphik und Plastiken des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Koller, Zürich, Nr. 38/2, 25./26. November 1977, Zürich 1977, Lot 5091."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (28 Ergebnisse) für Suche Filter 1: Volltext/Meta-daten «‹Diday Francois›» [28. Juli 2022]:",
+            "treffer": 1,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "Tableaux anciens et modernes provenant des collections de divers amateurs suisses et étrangers, Auktionskatalog Galérie Moos, 23./24. Mai 1941, Genf 1941, Lot 77 (François Diday [zugeschrieben], Chemin dans les bois, «Marouflé toile» [marouflierte Leinwand], 30 × 40 cm), https://doi.org/10.11588/diglit.12627#0013 [28. Juli 2022].",
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "Die Technik nicht ganz klar; das Werk mit der Inventarnummer 2776 ist in Öl auf Malkarton gemalt und wurde auf eine Leinwand montiert. Allenfalls war die Technik bei dem bei Moos versteigerten Werk umgekehrt."
+          },
+          {
+            "text": "1 möglicher Treffer (25 Ergebnisse) für Suche Filter 1: Volltext/Meta-daten «Diday», Filter 2: Volltext/Metadaten «orage» [3. August 2022]:",
+            "treffer": 1,
+            "ergebnisse": 25,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "Collection Paul Chavan. Deuxième Partie, Auktionskatalog Galérie Moos, 3. Juni 1937, Genf 1937, Lot 42 (François Diday, Sous-bois, «Toile», 30 × 40 cm), https://doi.org/10.11588/diglit.12630#0008 [3. August 2022].",
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "Vermutlich kein Treffer, da der Titel «Sous-bois» Unterholz bedeutet und beim Werk mit der Inventarnummer 2776 ein ganzer Baum abgebildet ist. Masse und Technik könnten aber stimmen."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (64 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 64,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "Gemälde, Aquarelle, Zeichnungen. Aus Schweizer Privatsammlungen und aus anderem Besitz, Auktionskatalog G. & L. Bollag, 28. September 1932, Zürich 1932, Lot 57 (François Diday, Paysage, Öl auf Leinwand, 40 × 55 cm, links unten signiert, Einlieferer unbekannt), https://doi.org/10.11588/diglit.8332#0008 [8. Juli 2022].",
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "Sehr unpräziser Eintrag. Wenn die Masse stimmen sollen, dann höchstens annäherungsweise die Rahmenmasse. Technik fragwürdig."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Archives des Musée d’art et d’histoire, Genf",
+      "betreff": "Anfrage zu Archivunterlagen der Galérie Moos, Einliefererliste der Auktion vom 3. Juni 1937, siehe Datenbank-Recherche German Sales",
+      "antwort": "Eine Einliefererliste ist nicht vorhanden, auch kein annotiertes Exemplar des Auktionskatalogs.",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Es ist unwahrscheinlich, dass das Werk mit der Inventarnummer 2776 als Lot 42 am 3. Juni 1937 bei der Galérie Moos gelaufen ist. Es könnte am 23./24. Mai 1941 als Lot 77 gelaufen sein, aber auch dies ist Spekulation. Eine Scan-Anfrage wurde für ein anderes Werk von Diday (Inventarnummer 2777) gestellt."
+        }
+      ]
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2776/2776_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            530.9,
+            418.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/2776/2776_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            424.8,
+            532.7,
+            508.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/2776/2776_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            134.0,
+            529.2,
+            363.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1977"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Kunsthandlung Wortmann",
+      "information": "Die Recherche zu Rudolf Dörfler beziehungsweise zur Kunsthandlung Wortmann umfasste folgende Teilrecherchen:\n\nRecherche auf e-newspaperarchives.ch: Volltextsuche «Kunsthandlung Wortmann» (0 Ergebnisse) ohne kantonale Beschränkung [4. August 2022].\n\nRecherche auf e-newspaperarchives.ch: Volltextsuche «Wortmann», kantonale Beschränkung auf Basel-Stadt (3 Ergebnisse, 0 Treffer) [4. August 2022].\n\nDie Recherche in Ancestry für Name «Rudolf Dörfler» und Ort «Basel-Stadt» ergab ein Ergebnis von 1917. Ein Rudolf Dörfler war 1917 wohnhaft an der Hebelstrasse 2 und Pfründer von Beruf. Es ist unklar, ob es sich dabei um denselben Rudolf Dörfler handelt.\n\nDie Recherche in Ancestry für Name «Wortmann» und Ort «Basel-Stadt» ergab 14 Ergebnisse und mehrere Treffer (siehe unten). Es handelt sich um Ferdinand Wortmann (-Zimmerli), mindestens 1917 bis 1965/66 wohnhaft an der Mittleren Strasse 143 in Basel. Vermutlich um 1965 zu datieren, örtlich Basel-Stadt.\n\nWortmann in Ancestry auf; ebenso lange wird die Tätigkeit als Kunsthändler genannt.\n\nUm seine aktive Zeit als Kunsthändler besser einschränken zu können, wären weitere Recherchen, unter anderem in den oben zitierten Adressbüchern, nötig.",
+      "bilder": [
+        {
+          "datei": "images/2776/2776_005_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            266.3,
+            449.6,
+            358.7
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Basler Adressbuch 1918"
+        },
+        {
+          "datei": "images/2776/2776_006_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            390.6,
+            449.5,
+            491.8
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Basler Adressbuch 1930"
+        },
+        {
+          "datei": "images/2776/2776_007_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            523.1,
+            449.2,
+            622.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Basler Adressbuch 1965/66",
+          "bildunterschrift": "Ferdinand Wortmann (-Zimmerli) war von spätestens 1918 bis mindestens 1965/66 an der Mittleren Strasse 143 in Basel wohnhaft. Im Telefonbuch von 1929 wird er noch nicht als Kunsthändler angeführt, ab 1930 taucht diese Berufsbezeichnung auf (sowie der Eintrag seiner Kunsthandlung in der Aeschenvorstadt 37). Bis 1965/66 scheint"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Provenienzmerkmale, Etikett auf der Werkrückseite."
+        },
+        {
+          "nr": 9,
+          "text": "Adressbuch der Stadt Basel und der Gemeinden Riehen und Bettingen 1917."
+        },
+        {
+          "nr": 10,
+          "text": "https://www.ancestry.com/sharing/29778552?h=0f5379 [4. August 2022]"
+        },
+        {
+          "nr": 11,
+          "text": "https://www.ancestry.com/sharing/29779082?h=dd0218 [4. August 2022]."
+        },
+        {
+          "nr": 12,
+          "text": "https://www.ancestry.com/sharing/29778565?h=05a725 [4. August 2022]."
+        }
+      ]
+    },
+    {
+      "thema": "John J. Zwicky",
+      "information": "Die Recherche zu John J. Zwicky umfasste folgende Teilrecherchen:\n\nRecherche auf e-newspaperarchives: Volltextsuche «John J. Zwicky» (1 Ergebnis, möglicher Treffer) und «Zwicky switzerland» (0 Ergebnisse) ohne kantonale Beschränkung [4. August 2022].\n\nErgebnisse sehr mager, ein «John J. Zwicky, Frauenfeld» wurde einmal erwähnt im Zusammenhang mit seiner Tätigkeit als «Governor des Distrikts Ost» des Lions Club. Es ist unklar, ob es sich dabei um denselben John Zwicky handelt.\n\nAuch diverse Volltextsuchen in Google beziehungsweise Google Books ergaben keine nennenswerten Ergebnisse. Es kann aber die Vermutung angestellt werden, dass es sich bei John J. Zwicky um einen «Amerika-Schweizer» handelte.\n\nDie Suche auf Proveana ergab keine Ergebnisse.\n\nZwicky erscheint nur einmal in Ancestry (Suchstichworte in Ancestry: Vorname/Name: John Zwicky, Europa, Schweiz, Record Date: 1900s): 52 Ergebnisse, 1 definitiver Treffer (siehe unten).\n\nVermutlich um 1965 zu datieren, örtlich Baselland. John J. Zwicky war 1965 sicher ein in Baselland tätiger Kaufmann. Von wann bis wann er tätig war, ist unklar.",
+      "bilder": [
+        {
+          "datei": "images/2776/2776_008_kontextinformationen.jpeg",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            551.1,
+            412.8,
+            631.8
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "John J. Zwicky, Kaufmann, Finkelerweg 20 (im Adressbuch «Finkerlerweg»), Arlesheim, Baselland."
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Siehe Provenienzmerkmale, Stempel auf der Werkrückseite."
+        },
+        {
+          "nr": 14,
+          "text": "Bote vom Untersee und Rhein, Nr. 36, 69. Jahrgang, 6. Mai 1969, www.e-newspaperarchi-ves.ch/?a=d&d=BUR19690506-01.2.7 [4. August 2022]."
+        },
+        {
+          "nr": 15,
+          "text": "Basler Adressbuch, 1965, Arlesheim, Baselland, https://www.ancestry.com/sharing/29778735?h=d11798 [4. August 2022]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2776/2776_009_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          319.3,
+          372.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «5091»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «5091»",
+        "kommentar": "Lotnummer Auktion Galerie Koller, Zürich, November 1977",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.5,
+              410.1,
+              245.2,
+              466.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 16,
+            "text": "Zur Signatur siehe Fn. 2."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rahmen: handschriftliche Notiz, unleserlich",
+        "position_traeger": "o. m. Rahmen",
+        "merkmal": "handschriftliche Notiz, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.5,
+              498.5,
+              320.2,
+              559.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: mit schwarzem Schreibmittel handschriftlich «J. P. Georges | Ed. German | XTX», daneben durchgestrichen «Diday» in anderer Handschrift",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "mit schwarzem Schreibmittel handschriftlich «J. P. Georges | Ed. German | XTX», daneben durchgestrichen «Diday» in anderer Handschrift",
+        "kommentar": "Die Bedeutung dieser Notiz ist unklar. Eventuell wird auf den Künstler J. P. Georges-Juillard (1818–1888) verwiesen. Das durchgestrichene «Diday» könnte anzeigen, dass zwischenzeitlich an der Zuschreibung zu Diday gezweifelt wurde oder eine andere Zuschreibung galt.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.5,
+              572.5,
+              320.1,
+              648.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. sowie u. l. Rahmen: schwarz gestempelt «[J]OHN J. ZWICKY | […] S S.G. | [SWITZER]LAND»",
+        "position_traeger": "u. r. sowie u. l. Rahmen",
+        "merkmal": "schwarz gestempelt «[J]OHN J. ZWICKY | […] S S.G. | [SWITZER]LAND»",
+        "kommentar": "siehe Kontextinformationen für Recherche zu John J. Zwicky",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              171.6,
+              320.7,
+              285.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2776/2776_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              291.6,
+              320.6,
+              384.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: langrechteckiges beiges Etikett mit schwarzem Rand, Kunsthandlung Rudolf Dörfler, vormals Wortmann, Basel",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "langrechteckiges beiges Etikett mit schwarzem Rand, Kunsthandlung Rudolf Dörfler, vormals Wortmann, Basel",
+        "kommentar": "siehe Kontextinformationen für Recherche zu Rudolf Dörfler / Kunsthandlung Wortmann",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              397.1,
+              321.4,
+              483.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: langrechteckiges weisses Etikett, schwarz gedruckt «13682», unterstrichen",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz gedruckt «13682», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              510.8,
+              320.7,
+              603.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Etikett Auktion Galerie Koller, Herbst 1977, Lot 5091, vermutlich verfasst von Bruno Stefanini",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Etikett Auktion Galerie Koller, Herbst 1977, Lot 5091, vermutlich verfasst von Bruno Stefanini",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              616.3,
+              320.7,
+              718.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rahmen und Leinwand: Schweizer Zollstempel und auf dem Rahmen handschriftlich mit schwarzem Schreibmittel «20»",
+        "position_traeger": "o. l. Rahmen und Leinwand",
+        "merkmal": "Schweizer Zollstempel und auf dem Rahmen handschriftlich mit schwarzem Schreibmittel «20»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2776/2776_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.5,
+              139.8,
+              227.8,
+              228.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2776/2776_019_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.5,
+              234.3,
+              227.8,
+              343.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1977."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Objektdatenbank SKKG ist das Werk unten links signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Provenienzmerkmale sowie Kontextinformationen."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd. Das mit «vormals Kunsthandlung Wortmann» betitelte Etikett ist vermutlich auf die Zeit nach Wortmanns Pensionierung oder Tod zu datieren, also nach 1965/66."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1977."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Objektdatenbank SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Es ist unwahrscheinlich, dass das Werk mit der Inventarnummer 2776 als Lot 42 am 3. Juni 1937 bei der Galérie Moos gelaufen ist. Es könnte am 23./24. Mai 1941 als Lot 77 gelaufen sein, aber auch dies ist Spekulation. Eine Scan-Anfrage wurde für ein anderes Werk von Diday (Inventarnummer 2777) gestellt."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Provenienzmerkmale, Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 9,
+      "text": "Adressbuch der Stadt Basel und der Gemeinden Riehen und Bettingen 1917."
+    },
+    {
+      "nr": 10,
+      "text": "https://www.ancestry.com/sharing/29778552?h=0f5379 [4. August 2022]"
+    },
+    {
+      "nr": 11,
+      "text": "https://www.ancestry.com/sharing/29779082?h=dd0218 [4. August 2022]."
+    },
+    {
+      "nr": 12,
+      "text": "https://www.ancestry.com/sharing/29778565?h=05a725 [4. August 2022]."
+    },
+    {
+      "nr": 13,
+      "text": "Siehe Provenienzmerkmale, Stempel auf der Werkrückseite."
+    },
+    {
+      "nr": 14,
+      "text": "Bote vom Untersee und Rhein, Nr. 36, 69. Jahrgang, 6. Mai 1969, www.e-newspaperarchi-ves.ch/?a=d&d=BUR19690506-01.2.7 [4. August 2022]."
+    },
+    {
+      "nr": 15,
+      "text": "Basler Adressbuch, 1965, Arlesheim, Baselland, https://www.ancestry.com/sharing/29778735?h=d11798 [4. August 2022]."
+    },
+    {
+      "nr": 16,
+      "text": "Zur Signatur siehe Fn. 2."
+    }
+  ],
+  "bilder_anzahl": 19
+}

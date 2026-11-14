@@ -1,0 +1,558 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5602_230427.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. April 2023",
+  "stand_iso": "2023-04-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5602",
+      "Giovanni Segantini (1858–1899)",
+      "Ritratto maschile",
+      "1880–1882",
+      "Öl auf Leinwand",
+      "48 × 43 cm (Bildmass)",
+      "76 × 71,5 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5602",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Ritratto maschile",
+    "masse": [
+      "48 × 43 cm (Bildmass)",
+      "76 × 71,5 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1880–1882",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5602/5602_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.0,
+          493.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Quinsac 1982. Die Bezeichnung auf der Werkvorderseite lautet dagegen «Barbieri ritrado [sic]», siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Sammlung Bloch, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Quinsac 1982, Auktionskatalog Zürich 2003. Welche Sammlung hiermit gemeint ist, ist unklar. Möglicherweise handelt es sich um eine jüdische Sammlung."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1969",
+      "besitzer": "Privatbesitz, Bergamo",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Quinsac 1982, Auktionskatalog Zürich 2003."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1982",
+      "besitzer": "Privatbesitz, Aarau",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Quinsac 1982. Angesichts des Erscheinungsjahrs des Werkkatalogs, der die Aarauer Privatsammlung als aktuellen Standort anführt, muss sich das Werk mindestens 1982 dort befunden haben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "9. Dezember 2003",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 31, Ritratto maschile), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2003."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 9. Dezember 2003",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 48 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973, Nr. 13.\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, Bd. 1, Mailand 1982, Nr. 140.",
+        "bilder": [
+          {
+            "datei": "images/5602/5602_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              317.4,
+              510.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 9. Dezember 2003, Zürich 2003, Lot 31.",
+        "bilder": [
+          {
+            "datei": "images/5602/5602_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              554.9,
+              472.9,
+              670.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 150,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 151,
+            "datum": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5602/5602_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            291.3,
+            533.2,
+            410.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Sotheby’s, 9. Dezember 2003, mit handschriftlich annotiertem Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5602/5602_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          293.1,
+          416.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. l. Leinwand: handschriftlich mit schwarzer Farbe «Barbieri | ritrado [sic] | G.S.», teilweise durch Zierrahmen verdeckt",
+        "position_traeger": "o. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Barbieri | ritrado [sic] | G.S.», teilweise durch Zierrahmen verdeckt",
+        "kommentar": "Bezeichnung und Monogramm des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5602/5602_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              453.6,
+              258.4,
+              598.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Transkription der Bezeichnung nach Quinsac 1982."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «31», schwarz gestempelt «09. DEZ. 2003»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «31», schwarz gestempelt «09. DEZ. 2003»",
+        "kommentar": "Lotnummer der Erwerbsauktion Sotheby’s 2003",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5602/5602_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              610.6,
+              204.7,
+              661.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit Bleistift «297[7] […]ant grün [?] eg.»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «297[7] […]ant grün [?] eg.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5602/5602_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              325.4,
+              179.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5602/5602_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              204.9,
+              328.9,
+              274.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail 1"
+          },
+          {
+            "datei": "images/5602/5602_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              298.9,
+              326.5,
+              373.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail 2"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit Bleistift «2977 25 Elg […]etat [?] pat met pat»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «2977 25 Elg […]etat [?] pat met pat»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5602/5602_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              386.4,
+              328.7,
+              412.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5602/5602_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              438.1,
+              326.5,
+              490.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail 1"
+          },
+          {
+            "datei": "images/5602/5602_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              515.2,
+              326.4,
+              561.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail 2"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: handschriftlich mit Bleistift «2977»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «2977»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5602/5602_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              575.0,
+              255.7,
+              620.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier- und o. l. Keilrahmen: langrechteckiges weisses Etikett mit SIK-Nummer",
+        "position_traeger": "o. l. Zier- und o. l. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett mit SIK-Nummer",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5602/5602_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              633.4,
+              202.7,
+              661.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5602/5602_016_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              667.0,
+              202.7,
+              701.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Quinsac 1982. Die Bezeichnung auf der Werkvorderseite lautet dagegen «Barbieri ritrado [sic]», siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Quinsac 1982, Auktionskatalog Zürich 2003. Welche Sammlung hiermit gemeint ist, ist unklar. Möglicherweise handelt es sich um eine jüdische Sammlung."
+    },
+    {
+      "nr": 3,
+      "text": "Quinsac 1982, Auktionskatalog Zürich 2003."
+    },
+    {
+      "nr": 4,
+      "text": "Quinsac 1982. Angesichts des Erscheinungsjahrs des Werkkatalogs, der die Aarauer Privatsammlung als aktuellen Standort anführt, muss sich das Werk mindestens 1982 dort befunden haben."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2003."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Transkription der Bezeichnung nach Quinsac 1982."
+    }
+  ],
+  "bilder_anzahl": 16
+}

@@ -1,0 +1,522 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1091_221101.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1091",
+      "Alexandre Calame (1810–1864)",
+      "Vierwaldstättersee / Landschaftsstudie",
+      "o. J.",
+      "Öl auf Holzfaserplatte",
+      "24,4 × 35,5 cm (Bildmass)",
+      "38,8 × 49,2 × 6,3 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1091",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Vierwaldstättersee / Landschaftsstudie",
+    "masse": [
+      "24,4 × 35,5 cm (Bildmass)",
+      "38,8 × 49,2 × 6,3 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Holzfaserplatte",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1091/1091_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          322.8,
+          421.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1981, wo der Vierwaldstättersee in der Bildbeschreibung erwähnt wird."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG, wohl vergeben von Isabelle Messerli. In der Objektdatenbank SKKG ist zudem Etude als Werktitel verzeichnet, wohl nach dem beschreibenden Etikett auf der Werkrückseite."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "frühestens 1864 bis 1919",
+      "besitzer": "Arthur Calame (1843–1919), Genf, erworben im Erbgang von Alexandre Calame",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Etikett auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1919 bis spätestens 15. April 1922",
+      "besitzer": "Nachlass Arthur Calame, Genf",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 15. April 1922 bis o. D.",
+      "besitzer": "Marguerite Buscarlet-Calame, Genf, erworben im Erbgang von Arthur Calame",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd. Marguerite Buscarlet-Calame war die Tochter von Arthur Calame und damit Enkelin von Alexandre Calame."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "vermutlich Elisabeth de Meuron-von Tscharner (1882–1980)",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Bern 1981, S. 8."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12.–28. November 1981",
+      "besitzer": "Auktion Galerie Jürg Stuker (Objekte aus dem Nachlass von Frau Elisabeth de Meuron-von Tscharner […], Lot 4062, Ölstudie), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1981. Die Gemäldeauktion fand am 26. November 1981 statt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. November 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 7900 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Bern 1981 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Valentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987, möglicherweise Nr. 354 (Lac de Lowertz, 1848, Öl auf Leinwand, 23 × 39,2 cm, Provenienz: Collection Benni Richter, Zumikon, Paris Art Market [1971]).\n\nDie Darstellung scheint identisch zu sein, die Masse sind jedoch etwas schmaler als beim Werk mit der Inventarnummer 1091. Laut Katalog trägt das Werk einen Stempel der Vente Calame mit der Nummer 445, während das Werk mit der Inventarnummer 1091 die Nummer 216 trägt. Möglicherweise ist eines vom anderen kopiert.\n\nAlfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Objekte aus dem Nachlass von Frau Elisabeth de Meuron-von Tscharner. Inventar aus altem Zürcher Hause, Spitzenstücke aus Berner, Solothurner, Fribourger und Basler Erbschaften, Auktionskatalog Galerie Jürg Stuker, Bern, Nr. 202–213, 12.–28. November und 3.–5. Dezember 1981, Bern 1981, Lot 4062.",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Im Nachruf auf Elisabeth de Meuron-von Tscharner schrieb Stuker: «Meinem gewählten Beruf stand Frau von Meuron höchst skeptisch gegenüber. Antiquitäten besass man; man erbte sie bestenfalls – aber man kaufte sie doch nicht! Kunstwerke – die sie in Unmengen besass – wusste sie nicht zu bewerten; das Erbgut war einfach da; Künstlernamen spielten keine Rolle, jedoch die vornehme Provenienz vermerkte sie auf fast jedem Stück.» Auktionskatalog Bern 1981, S. 8."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht verzeichnet].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Calame» in der Rubrik «Malerei» unter «Suchmeldungen» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [9. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-09"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War: «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Vierwaldstättersee», Filter 1: Artist «Calame» (inklusive aller Namensschreibweisen) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Lac des quatre cantons», Filter 1: Artist «Calame» (inklusive aller Namensschreibweisen) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «etude», Filter 1: Artist «Calame» (inklusive aller Namensschreibweisen) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1091/1091_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            190.6,
+            529.7,
+            223.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1981, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1091/1091_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            267.4,
+            523.0,
+            382.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Galerie Jürg Stuker, November 1981, Lot 4062, verfasst von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1091/1091_004_provenienzmerkmale.png",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.4,
+          326.9,
+          373.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Rahmen: Metallplakette, eingraviert «AL.CALAME»",
+        "position_traeger": "u. m. Rahmen",
+        "merkmal": "Metallplakette, eingraviert «AL.CALAME»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1091/1091_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              411.1,
+              327.8,
+              446.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gestempelt «4062»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gestempelt «4062»",
+        "kommentar": "Lotnummer Auktion Galerie Jürg Stuker 1981",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1091/1091_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              458.4,
+              231.8,
+              529.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Holzfaserplatte: handschriftliche Aufschrift mit rotem Schreibmittel, unleserlich",
+        "position_traeger": "u. r. Holzfaserplatte",
+        "merkmal": "handschriftliche Aufschrift mit rotem Schreibmittel, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1091/1091_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              546.7,
+              327.1,
+              636.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Holzfaserplatte: «Etude d’Alexandre Calame | retrouvée à l’inventaire | de la succession de son fils Arthur Calame | Genève, le 15 Avril 1922 | No 216 B. [?] Buscarlet Calame»",
+        "position_traeger": "u. r. Holzfaserplatte",
+        "merkmal": "«Etude d’Alexandre Calame | retrouvée à l’inventaire | de la succession de son fils Arthur Calame | Genève, le 15 Avril 1922 | No 216 B. [?] Buscarlet Calame»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1091/1091_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              327.1,
+              240.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Holzfaserplatte: rechteckiges weisses Etikett mit gezahntem Rand, blaues Dekor als Rahmen, handschriftlich mit blauem Schreibmittel «EL 39»",
+        "position_traeger": "u. l. Holzfaserplatte",
+        "merkmal": "rechteckiges weisses Etikett mit gezahntem Rand, blaues Dekor als Rahmen, handschriftlich mit blauem Schreibmittel «EL 39»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1091/1091_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              252.7,
+              255.6,
+              330.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Holzfaserplatte: Fragmente eines weissen Etiketts mit blauem Dekor",
+        "position_traeger": "u. l. Holzfaserplatte",
+        "merkmal": "Fragmente eines weissen Etiketts mit blauem Dekor",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1091/1091_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              342.5,
+              215.5,
+              458.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Holzfaserplatte: handschriftlich, vermutlich mit Bleistift, einzelner Buchstabe, möglicherweise «C»",
+        "position_traeger": "o. l. Holzfaserplatte",
+        "merkmal": "handschriftlich, vermutlich mit Bleistift, einzelner Buchstabe, möglicherweise «C»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1091/1091_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              470.9,
+              215.5,
+              578.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1981, wo der Vierwaldstättersee in der Bildbeschreibung erwähnt wird."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG, wohl vergeben von Isabelle Messerli. In der Objektdatenbank SKKG ist zudem Etude als Werktitel verzeichnet, wohl nach dem beschreibenden Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd. Marguerite Buscarlet-Calame war die Tochter von Arthur Calame und damit Enkelin von Alexandre Calame."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Bern 1981, S. 8."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1981. Die Gemäldeauktion fand am 26. November 1981 statt."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Bern 1981 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Im Nachruf auf Elisabeth de Meuron-von Tscharner schrieb Stuker: «Meinem gewählten Beruf stand Frau von Meuron höchst skeptisch gegenüber. Antiquitäten besass man; man erbte sie bestenfalls – aber man kaufte sie doch nicht! Kunstwerke – die sie in Unmengen besass – wusste sie nicht zu bewerten; das Erbgut war einfach da; Künstlernamen spielten keine Rolle, jedoch die vornehme Provenienz vermerkte sie auf fast jedem Stück.» Auktionskatalog Bern 1981, S. 8."
+    }
+  ],
+  "bilder_anzahl": 11
+}

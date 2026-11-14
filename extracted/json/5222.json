@@ -1,0 +1,1036 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5222_221125.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. November 2022",
+  "stand_iso": "2022-11-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5222",
+      "Félix Vallotton (1865–1925)",
+      "Baigneuse au rocher",
+      "1911",
+      "Öl auf Leinwand",
+      "113 × 146 cm (Bildmass)",
+      "146,2 × 178 × 10,7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5222",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Baigneuse au rocher",
+    "masse": [
+      "113 × 146 cm (Bildmass)",
+      "146,2 × 178 × 10,7 cm (Rahmenmass)"
+    ],
+    "datierung": "1911",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5222/5222_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          314.0,
+          450.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (Paul Vallotton, Lausanne), Nr. 263",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, Nr. 437",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1977",
+      "besitzer": "Pierre-René Vallotton (1902–1977), Richmond, vermutlich erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005. Pierre-René war ein Neffe des Künstlers und Sohn von Paul Vallotton, siehe Stammbaum in Ducrey 2005, Bd. 1, S. 72."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1980",
+      "besitzer": "Maxime Vallotton (1895–1980), Lausanne, vermutlich erworben im Erbgang vom Bruder",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005. Maxime war eine Nichte des Künstlers und Tochter von Paul Vallotton, siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1998",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, Nr. 960437",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005. Gemäss Ausstellungsetikett auf der Werkrückseite war das Werk als Leihgabe der Galerie Paul Vallotton in der Ausstellung im Musée Maillol (Fondation Dina Vierny) in Paris. Diese dauerte vom 5. November 1997 bis zum 10. März 1998."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1998 bis 19. Dezember 1999",
+      "besitzer": "Galerie Kurt Meissner, Zürich, Nr. 5354",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ducrey 2005, siehe auch Etiketten der Galerie auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. Dezember 1999",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, von Galerie Kurt Meissner, Ankaufspreis: 265 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Kaufvereinbarung zwischen SKKG und Kurt Meissner vom 19. Dezember 1999 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 847.",
+        "bilder": [
+          {
+            "datei": "images/5222/5222_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.1,
+              395.1,
+              487.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5222/5222_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              290.6,
+              464.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5222/5222_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              470.3,
+              279.1,
+              535.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 792."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Möglich wäre die Jeune femme (https://www.errproject.org/jeu-depaume/card_view.php?CardId=57221 [28. Oktober 2022]), die jedoch aufgrund mangelnder Angaben nicht identifiziert werden kann. Zudem scheint das Werk in der fraglichen Zeit um 1940 in Familienbesitz gewesen zu sein.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "vermutlich A.212.827",
+      "bilder": [
+        {
+          "datei": "images/5222/5222_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            384.9,
+            532.3,
+            628.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kaufvereinbarung zwischen SKKG, Winterthur, und Kurt Meissner, Zürich, vom 19. Dezember 1999, verfasst von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5222/5222_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          341.4,
+          313.4,
+          546.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «F. VALLOTTON . 11»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «F. VALLOTTON . 11»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              584.3,
+              313.3,
+              628.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit weisser Kreide «9[7?]308»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «9[7?]308»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              647.4,
+              258.1,
+              687.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: langrechteckiges Etikett mit abgerundeten Ecken, blau bedruckt und schwarz maschinenbeschrieben, Securitas Express MSE, Leihgeberin: Galerie Vallotton, Lausanne",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "langrechteckiges Etikett mit abgerundeten Ecken, blau bedruckt und schwarz maschinenbeschrieben, Securitas Express MSE, Leihgeberin: Galerie Vallotton, Lausanne",
+        "kommentar": "Etikett eines Transportunternehmens, aufgebracht im Zusammenhang mit einer Ausstellung im Besitzzeitraum der Galerie Vallotton",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              313.2,
+              201.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. senkrechte Mittelstrebe Keilrahmen: schwarz gestempelt «PHOTO P.V.»",
+        "position_traeger": "o. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "schwarz gestempelt «PHOTO P.V.»",
+        "kommentar": "Hinweis auf Anfertigung einer Fotografie, wohl von Galerie Paul Vallotton (Initialen)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              278.8,
+              259.5,
+              316.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: langrechteckiges beiges Etikett, schwarz gedruckt «GALERIE MEISSNER | Florastrasse 1 | ZÜRICH»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "langrechteckiges beiges Etikett, schwarz gedruckt «GALERIE MEISSNER | Florastrasse 1 | ZÜRICH»",
+        "kommentar": "Galerie Meissner, Zürich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              354.5,
+              259.5,
+              412.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: langrechteckiges weisses Etikett, schwarz und rot bedruckt und schwarz maschinenbeschrieben, International Art Transport, Leihgeberin: Galerie Paul Vallotton",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz und rot bedruckt und schwarz maschinenbeschrieben, International Art Transport, Leihgeberin: Galerie Paul Vallotton",
+        "kommentar": "Etikett einer französischen Transportfirma, aufgebracht im Zusammenhang mit der Ausstellung im Musée Maillol, Paris, 1997/98",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              430.3,
+              313.1,
+              500.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit Bleistift «[…]» (unleserlich, wohl teilweise verdeckt von Etikett)",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…]» (unleserlich, wohl teilweise verdeckt von Etikett)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              569.3,
+              263.5,
+              631.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit dunkelblauem Schreibmittel «20 V»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit dunkelblauem Schreibmittel «20 V»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              643.6,
+              313.7,
+              712.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: langrechteckiges weisses Etikett, schwarz bedruckt, Yamato Transport, Fine Arts Division",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz bedruckt, Yamato Transport, Fine Arts Division",
+        "kommentar": "Etikett einer japanischen Transportfirma, wohl aufgebracht im Zusammenhang mit der Ausstellung Takamatsu 1996/97",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              313.1,
+              206.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: verbräuntes langrechteckiges Etikett, schwarz gedruckt «80 F | 146 × 114», dazwischen Rautensymbol und «Paris […]» (nicht entzifferbar)",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "verbräuntes langrechteckiges Etikett, schwarz gedruckt «80 F | 146 × 114», dazwischen Rautensymbol und «Paris […]» (nicht entzifferbar)",
+        "kommentar": "Massangaben, aufgebracht vom Rahmenhersteller",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              241.0,
+              263.0,
+              298.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "r. waagrechte Mittelstrebe: rechteckiges beiges Etikett mit abgerundeten Ecken, maschinenbeschrieben mit Werkangaben und Laufnummer 5354, rot gestempelt «P»",
+        "position_traeger": "r. waagrechte Mittelstrebe",
+        "merkmal": "rechteckiges beiges Etikett mit abgerundeten Ecken, maschinenbeschrieben mit Werkangaben und Laufnummer 5354, rot gestempelt «P»",
+        "kommentar": "Etikett der Galerie Kurt Meissner, Nr. 5354",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              341.9,
+              314.4,
+              440.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "r. waagrechte Mittelstrebe: rechteckiges weisses Etikett mit abgerundeten Ecken, LP Art, Lyon, Leihgeber: Galerie Kurt Meissner, Zürich",
+        "position_traeger": "r. waagrechte Mittelstrebe",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, LP Art, Lyon, Leihgeber: Galerie Kurt Meissner, Zürich",
+        "kommentar": "Etikett einer Transportfirma aus Lyon, wahrscheinlich aufgebracht im Zusammenhang mit der Ausstellung im Musée des Beaux-Arts, Lyon, die vom 22. Februar bis zum 20. Mai 2001 stattfand.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              453.4,
+              314.4,
+              536.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Warum als Leihgeberin die Galerie Kurt Meissner angegeben ist, ist unklar. Das Werk war am 19. Dezember 1999 von der SKKG angekauft worden. Gemäss Kaufvereinbarung (siehe Archiv intern) sollte es nach der «Frühjahrsausstellung 2000 der Galerie Kurt Meissner» abgeholt werden. Möglicherweise war es über diesen Zeitpunkt hinaus bei Meissner und wurde von dort in die Ausstellung im Frühjahr 2001 eingeliefert, was erklären könnte, warum dieser als Leihgeber erscheint."
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe: schwarzer Stempel in Rautenform, unleserliche Schrift",
+        "position_traeger": "m. waagrechte Mittelstrebe",
+        "merkmal": "schwarzer Stempel in Rautenform, unleserliche Schrift",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              592.3,
+              207.2,
+              642.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe: langrechteckiges beiges Etikett, handschriftlich mit blauem Kugelschreiber «960437» und mit schwarzer Tinte «No [?] 437», wobei die Ziffer mit Kugelschreiber durchgestrichen ist; zudem mit schwarzer Tinte «Felix Vallotton | Baigneuse au rocher | 113 × 144 [?]», möglicherweise mit blauem Kugelschreiber korrigiert zu «146»",
+        "position_traeger": "m. waagrechte Mittelstrebe",
+        "merkmal": "langrechteckiges beiges Etikett, handschriftlich mit blauem Kugelschreiber «960437» und mit schwarzer Tinte «No [?] 437», wobei die Ziffer mit Kugelschreiber durchgestrichen ist; zudem mit schwarzer Tinte «Felix Vallotton | Baigneuse au rocher | 113 × 144 [?]», möglicherweise mit blauem Kugelschreiber korrigiert zu «146»",
+        "kommentar": "Galerie Paul Vallotton, Nr. 437 beziehungsweise Nr. 960437. Die ältere, schwarze Aufschrift dürfte vom ersten Aufenthalt des Gemäldes in der Galerie stammen, die jüngere, blaue vom zweiten (siehe Provenienzkette).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.1,
+              139.8,
+              314.4,
+              226.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "l. waagrechte Mittelstrebe: langrechteckiges weisses Etikett, schwarz und rot bedruckt und schwarz maschinenbeschrieben, International Art Transport, Leihgeberin: Galerie Paul Vallotton",
+        "position_traeger": "l. waagrechte Mittelstrebe",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz und rot bedruckt und schwarz maschinenbeschrieben, International Art Transport, Leihgeberin: Galerie Paul Vallotton",
+        "kommentar": "Etikett einer Transportfirma, aufgebracht im Zusammenhang mit einer Ausstellung, möglicherweise ebenfalls Paris 1997/98 (siehe Etikett desselben Unternehmens weiter oben)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              354.7,
+              314.4,
+              429.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "l. waagrechte Mittelstrebe: rechteckiges weisses Etikett, schwarz bedruckt, Maison du Spectacle / Bellone, Brüssel",
+        "position_traeger": "l. waagrechte Mittelstrebe",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt, Maison du Spectacle / Bellone, Brüssel",
+        "kommentar": "Ausstellung Brüssel 1991 (Les Symbolistes et Richard Wagner)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              506.3,
+              257.9,
+              580.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit weisser Kreide «8[…]»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «8[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              594.7,
+              257.9,
+              673.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: handschriftlich mit dunklem Schreibmittel «89», teilweise verdeckt",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «89», teilweise verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_024_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              139.8,
+              229.0,
+              250.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «033 Fint […]» (unleserlich)",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «033 Fint […]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_025_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.8,
+              263.2,
+              312.8,
+              308.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5222/5222_026_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              314.8,
+              313.9,
+              351.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 20,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen (unter Aufhängung): rechteckiges beiges Etikett, schwarz gedruckt «704», möglicherweise teilweise verdeckt",
+        "position_traeger": "o. l. Zierrahmen (unter Aufhängung)",
+        "merkmal": "rechteckiges beiges Etikett, schwarz gedruckt «704», möglicherweise teilweise verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_027_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              364.1,
+              226.3,
+              421.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 21,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: langrechteckiges weisses Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz bedruckt",
+        "kommentar": "SIK-Archivnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_028_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              433.7,
+              314.4,
+              460.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 22,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: langrechteckiges weisses Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz bedruckt",
+        "kommentar": "SIK-Archivnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_029_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              496.8,
+              314.5,
+              523.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 23,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges gelbes Etikett mit abgerundeten Ecken, Lavanchy S. A., Lausanne, Nr. 266004",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges gelbes Etikett mit abgerundeten Ecken, Lavanchy S. A., Lausanne, Nr. 266004",
+        "kommentar": "Lausanner Transportfirma",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_030_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              559.9,
+              225.2,
+              618.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 24,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «[V]allo[tton?] – Baigneuse»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[V]allo[tton?] – Baigneuse»",
+        "kommentar": "Künstlername und Bildtitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_031_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              635.7,
+              313.3,
+              656.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 25,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt",
+        "kommentar": "Galerie Paul Vallotton, Nr. 960437",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5222/5222_032_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              139.8,
+              265.9,
+              213.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005. Pierre-René war ein Neffe des Künstlers und Sohn von Paul Vallotton, siehe Stammbaum in Ducrey 2005, Bd. 1, S. 72."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005. Maxime war eine Nichte des Künstlers und Tochter von Paul Vallotton, siehe Fn. 4."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005. Gemäss Ausstellungsetikett auf der Werkrückseite war das Werk als Leihgabe der Galerie Paul Vallotton in der Ausstellung im Musée Maillol (Fondation Dina Vierny) in Paris. Diese dauerte vom 5. November 1997 bis zum 10. März 1998."
+    },
+    {
+      "nr": 7,
+      "text": "Ducrey 2005, siehe auch Etiketten der Galerie auf der Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Kaufvereinbarung zwischen SKKG und Kurt Meissner vom 19. Dezember 1999 im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 792."
+    },
+    {
+      "nr": 10,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 11,
+      "text": "Warum als Leihgeberin die Galerie Kurt Meissner angegeben ist, ist unklar. Das Werk war am 19. Dezember 1999 von der SKKG angekauft worden. Gemäss Kaufvereinbarung (siehe Archiv intern) sollte es nach der «Frühjahrsausstellung 2000 der Galerie Kurt Meissner» abgeholt werden. Möglicherweise war es über diesen Zeitpunkt hinaus bei Meissner und wurde von dort in die Ausstellung im Frühjahr 2001 eingeliefert, was erklären könnte, warum dieser als Leihgeber erscheint."
+    }
+  ],
+  "bilder_anzahl": 32
+}

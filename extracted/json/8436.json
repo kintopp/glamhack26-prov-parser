@@ -1,0 +1,743 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_8436_231026.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2023",
+  "stand_iso": "2023-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 8436",
+      "Ferdinand Hodler (1853–1918)",
+      "Heilige Stunde, Studie",
+      "um 1907",
+      "Öl auf Leinwand",
+      "91 × 61 cm (Bildmass)",
+      "100,8 × 70,6 × 5,8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "8436",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Heilige Stunde, Studie",
+    "masse": [
+      "91 × 61 cm (Bildmass)",
+      "100,8 × 70,6 × 5,8 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1907",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/8436/8436_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.8,
+          547.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller 2017."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1914",
+      "besitzer": "Fritz Meyer-Fierz (1848–1917), Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Müller 2017. Fritz Meyer-Fierz war Zürcher Textilkaufmann und kam in Malaysia in der Tabakindustrie zu Vermögen; er besass eine bedeutende Kunstsammlung zur Schweizer Kunst, siehe https://de.wikipedia.org/wiki/Fritz_Meyer-Fierz [26. Oktober 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20. August bis 23. Oktober 1921",
+      "besitzer": "Ausstellung Kunstmuseum Bern (Hodler-Gedächtnis-Ausstellung, Nr. 362, Frau in Blau, von vorne [Studie zur «Heiligen Stunde»])",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Müller 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1986",
+      "besitzer": "Privatsammlung, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 2010."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18.–20. Juni 1986",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 1016, L’Heure sacrée / Die heilige Stunde), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1986, Müller 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. Juni 2010",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 45, Heilige Stunde [Studie zur zweiten Figur von rechts der sechsfigurigen Fassung]), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 2010, Müller 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 14. Juni 2010",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 150 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller, Heilige Stunde, Studie, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Die Figurenbilder. Teilband 1, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2017, Nr. 1372, https://www.ferdinand-hodler.ch/werke.aspx?id=6008209 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/8436/8436_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              449.6,
+              510.4,
+              519.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/8436/8436_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              525.3,
+              334.5,
+              589.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, Nr. 192, 18.–20. Juni 1986, Bern 1986, Lot 1016.",
+        "bilder": [
+          {
+            "datei": "images/8436/8436_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.4,
+              436.0,
+              290.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 14. Juni 2010, Zürich 2010, Lot 45."
+          },
+          {
+            "datei": "images/8436/8436_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              335.0,
+              435.9,
+              437.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunsthaus Zürich, Ausstellung aus Zürcher Privatsammlungen, 1.– 29. November 1914, Nr. 100 (Studie zu Heilige Stunde).\n\nKunstmuseum Bern, Hodler-Gedächtnis-Ausstellung, 20. August 23. Oktober 1921, Nr. 362 (Frau in Blau, von vorne [Studie zur Heiligen Stunde])."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (65 Ergebnisse) für Volltextsuche «‹Ferdinand Hodler› und ‹Heilige Stunde›» [23. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 65,
+            "datum": "2022-12-23"
+          },
+          {
+            "text": "0 Treffer (65 Ergebnisse) für Volltextsuche «‹Ferdinand Hodler› und ‹holy hour›» [23. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 65,
+            "datum": "2022-12-23"
+          },
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [26. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2022-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (24 Ergebnisse) für Volltextsuche «Ferdinand Hodler» und «Heilige Stunde» [26. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 24,
+            "datum": "2022-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) ohne Filter [23. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2022-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "Aufgrund fehlender Massangaben und Abbildung ist keine Identifikation möglich."
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/8436/8436_006_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              398.2,
+              368.8,
+              508.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Kunsthandlung Böhler",
+            "bildtitel": "1 möglicher Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "bildunterschrift": "Karteikarte Luzern Nr. 4039, «1 Bild Hodler | Frauenportrait», Eingang: 6. März 1923 von Böhm, Cassirer, Berlin, Ausgang: 22. Oktober 1925 («an Böhm zurück»), https://boehler.zikg.eu/wisski/navi-gate/209497/view [26. Oktober 2023]."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-24"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "23. Oktober 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/8436/8436_007_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            291.3,
+            533.1,
+            401.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis der Auktion Sotheby’s 2010 mit annotiertem Zuschlagspreis"
+        }
+      ]
+    },
+    {
+      "datum": "26. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (17 Ergebnisse) für Suche nach «Heilige Stunde»"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/8436/8436_008_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          292.7,
+          488.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzem Schreibmittel «Ferd. Hodler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Ferd. Hodler»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              525.8,
+              257.5,
+              574.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Klebespuren eines rechteckigen Etiketts",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Klebespuren eines rechteckigen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              588.9,
+              200.2,
+              622.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Reste eines verbräunten Etiketts, schwarz gedruckt «895»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Reste eines verbräunten Etiketts, schwarz gedruckt «895»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              634.4,
+              292.0,
+              687.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen (auf Etikett): schwarz gestempelt «SCHWEIZ […]»",
+        "position_traeger": "o. r. Keilrahmen (auf Etikett)",
+        "merkmal": "schwarz gestempelt «SCHWEIZ […]»",
+        "kommentar": "Schweizer Zollstempel (siehe übernächstes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              238.9,
+              221.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, blau bedruckt und violett gestempelt",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau bedruckt und violett gestempelt",
+        "kommentar": "Auktion Sotheby’s, 14. Juni 2010, Lot 45",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              233.9,
+              186.9,
+              273.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Leinwand (Bildträger): schwarz gestempelt «SCHWEIZ ZOLL[AMT] ZÜRICH[- FRACHT?]»",
+        "position_traeger": "o. r. Leinwand (Bildträger)",
+        "merkmal": "schwarz gestempelt «SCHWEIZ ZOLL[AMT] ZÜRICH[- FRACHT?]»",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              309.6,
+              226.7,
+              391.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Dazu Müller 2017: «Aufgrund der Zolletiketten am Chassis kann angenommen werden, dass das […] Gemälde zu unbekanntem Zeitpunkt die Schweizer Grenze passierte. Ob es sich dabei um eine Leihgabe an eine Ausstellung handelte, konnte nicht eruiert werden.»"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: in dunkler Farbe gestempelt «90»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "in dunkler Farbe gestempelt «90»",
+        "kommentar": "Angabe des Rahmenherstellers, entspricht Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              137.0,
+              403.7,
+              210.9,
+              475.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: in dunkler Farbe gestempelt «60»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "in dunkler Farbe gestempelt «60»",
+        "kommentar": "Angabe des Rahmenherstellers, entspricht Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              488.5,
+              208.6,
+              544.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: rechteckiges weisses Etikett, blau gedruckt «012.»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, blau gedruckt «012.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              564.4,
+              226.7,
+              612.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: runder Stempel, stark verblasst; nicht entzifferbar",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "runder Stempel, stark verblasst; nicht entzifferbar",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              625.0,
+              220.5,
+              712.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier-/Keilrahmen: zweimal rechteckiges weisses Etikett, schwarz gedruckt «21042», unterstrichen",
+        "position_traeger": "o. l. Zier-/Keilrahmen",
+        "merkmal": "zweimal rechteckiges weisses Etikett, schwarz gedruckt «21042», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              221.7,
+              175.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/8436/8436_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              180.9,
+              221.4,
+              218.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines beigen Etiketts, schwarz maschinenbeschrieben, «F. HOD[LER] […] | Weibli[…]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines beigen Etiketts, schwarz maschinenbeschrieben, «F. HOD[LER] […] | Weibli[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              230.9,
+              292.2,
+              285.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «Kornfeld»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «Kornfeld»",
+        "kommentar": "Auktion Galerie Kornfeld 1986",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8436/8436_022_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              297.5,
+              247.8,
+              337.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller 2017."
+    },
+    {
+      "nr": 2,
+      "text": "Müller 2017. Fritz Meyer-Fierz war Zürcher Textilkaufmann und kam in Malaysia in der Tabakindustrie zu Vermögen; er besass eine bedeutende Kunstsammlung zur Schweizer Kunst, siehe https://de.wikipedia.org/wiki/Fritz_Meyer-Fierz [26. Oktober 2023]."
+    },
+    {
+      "nr": 3,
+      "text": "Müller 2017."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 2010."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1986, Müller 2017."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 2010, Müller 2017."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Dazu Müller 2017: «Aufgrund der Zolletiketten am Chassis kann angenommen werden, dass das […] Gemälde zu unbekanntem Zeitpunkt die Schweizer Grenze passierte. Ob es sich dabei um eine Leihgabe an eine Ausstellung handelte, konnte nicht eruiert werden.»"
+    }
+  ],
+  "bilder_anzahl": 22
+}

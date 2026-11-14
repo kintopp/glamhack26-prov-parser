@@ -1,0 +1,627 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6792.2_240904.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "4. September 2024",
+  "stand_iso": "2024-09-04",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6792.2",
+      "Ferdinand Hodler (1853–1918)",
+      "Bacchantischer Tanz",
+      "um 1878",
+      "Öl auf Karton auf Leinwand",
+      "38,5 × 27,6 × 2 cm (Bildmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6792.2",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bacchantischer Tanz",
+    "masse": [
+      "38,5 × 27,6 × 2 cm (Bildmass)"
+    ],
+    "datierung": "um 1878",
+    "technik": "Öl auf Karton auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6792.2/6792.2_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          229.7,
+          505.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Bolleter 2017. Der frühere Werktitel lautet Bacchusopfer. Das Werk gehörte zu einem zehnteiligen Zyklus und entstand im Rahmen eines Dekorationsauftrags von 1878 für die Ausstattung des Genfer Café de la Bourse. Siehe auch Fn. 8 sowie Recherchedokumentation zum Werk mit der Inventarnummer 6792.1. Dieses zweite Gemälde wurde ebenfalls 1977 bei Koller versteigert (Lot 5189)."
+      },
+      {
+        "nr": 2,
+        "text": "Technikangabe gemäss Bolleter 2017. In der Objektdatenbank SKKG ist «Öl auf Leinwand» angegeben."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1878",
+      "besitzer": "Madame Jean Andrieu, Café de la Bourse, Genf, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Bolleter 2017. Die Familie Andrieu war Auftraggeberin für das Werk."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1889",
+      "besitzer": "Edouard Landolt, Genf",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Bolleter 2017, siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 1905 bis mindestens 1911",
+      "besitzer": "Familie Tardivat, vermutlich Berthe und Pierre Tardivat (1841–1914), Cafetier, Genf",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Bolleter 2017, siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1916",
+      "besitzer": "Émile-Pierre Sanselme (geb. 1876), Cafetier, Genf, vermutlich erworben im Erbgang von den Schwiegereltern",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Bolleter 2017, siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 1917 bis mindestens 1929",
+      "besitzer": "Stéphanie Guerzoni (1887–1970), Genf/Paris",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Guerzoni lebte seit 1924 in Paris, wie sie im Schreiben an Dr. Wartmann, Direktor des Kunsthauses Zürich, vom 10. Juni 1934 erwähnte, siehe https://digital.kunsthaus.ch/viewer/image/212240 [25. November 2024]."
+        },
+        {
+          "nr": 8,
+          "text": "Bolleter 2017. Stéphanie Guerzoni, eine Schülerin Hodlers, ist auf dem Rückseitenetikett im Zusammenhang mit der Hodler-Ausstellung im Kunstmuseum Bern 1921 als Leihgeberin vermerkt. Auf welcher Quelle die Angabe des Jahres 1929 beruht, ist dem Werkkatalog nicht zu entnehmen; das Werk könnte wie andere Objekte mit derselben Provenienz aus dem gleichen Zyklus durchaus auch länger in der Sammlung Guerzoni geblieben sein, siehe https://www.schuler-auktionen.ch/de/items/149-3125-hodler-ferdinand [4. September 2024]. Es gibt Hinweise auf das Datum 1929 aus einer Korrespondenz zwischen Guerzoni und dem Kunsthausdirektor Wartmann in Zürich, siehe Angaben zu einem anderen Objekt aus dem gleichen Zyklus: https://recherche.sik-isea.ch/sik:work-11058012 [4. September 2024]. In der Publikation von Guerzoni über Hodler ist die Rede von einem Auftrag für Wandmalereien in einer Bierwirtschaft: «Um sich für einige Monate die Nahrung zu sichern, schmückte er [Hodler] eine Bierwirtschaft mit Wandmalereien aus. Diese Kompositionen waren auf Leinwand gemalt. Später ließ der Besitzer sie kopieren und verkaufte die Originale zu hohen Preisen» (Guerzoni 1959, S. 25). Wahrscheinlich handelt es sich dabei um den vorliegenden Zyklus. Vermutlich wurde er erst um 1916 aus dem Wirtshaus herausgelöst."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20./21. Mai 1977",
+      "besitzer": "Auktion Galerie Koller (Bilder 15.–20. Jh., Lot 5190, Offrande à Bacchus), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Zürich 1977, Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20. Mai 1977 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Koller, Zuschlagspreis: 4000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1977 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Regula Bolleter, Bacchantischer Tanz, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Die Figurenbilder. Teilband 1, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2017, Nr. 1076, https://www.ferdinand-hodler.ch/werke.aspx?id=6005798 [3. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/6792.2/6792.2_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              139.8,
+              533.2,
+              212.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/6792.2/6792.2_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              213.3,
+              348.5,
+              283.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/6792.2/6792.2_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              289.8,
+              358.5,
+              508.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/6792.2/6792.2_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              514.8,
+              354.8,
+              657.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bilder 15.–20. Jh. Graphik und bibliophile Editionen 19. und 20. Jh., Auktionskatalog Galerie Koller, Zürich, Nr. 37/2, 20./21. Mai 1977, Zürich 1977, Lot 5190."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Stéphanie Guerzoni, Ferdinand Hodler als Mensch, Maler und Lehrer, Zürich/Stuttgart 1959."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [3. September 2024]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2024-09-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Bacchusopfer›» [19. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-19"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Tanzender›» [19. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-19"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Tänzer›» [19. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-19"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Bacchantischer Tanz›» [19. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-19"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [4. September 2024]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2024-09-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Bacchusopfer» [4. September 2024]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2024-09-04"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Bachusopfer» [4. September 2024]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2024-09-04"
+          },
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Offrande» und «Hodler» [4. September 2024]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2024-09-04"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Tanzender›» [19. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-19"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Tänzer›» [19. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-19"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Bacchantischer Tanz›» [19. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-19"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche mit Filter: Artist «Hodler» [4. September 2024]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2024-09-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [4. September 2024]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2024-09-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "5. September 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (0 Ergebnisse) für Suche nach «Bacchusopfer»\n\n0 Treffer (0 Ergebnisse) für Suche nach «Bachusopfer»\n\n0 Treffer (4 Ergebnisse) für Suche nach «Koller» und «5190»\n\n0 Treffer (43 Ergebnisse) für Suche nach «Hodler» und «1878»"
+    },
+    {
+      "datum": "5. September 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/6792.2/6792.2_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            505.3,
+            530.2,
+            600.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1977, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Edouard Landolt",
+      "information": "Edouard Landolt, Genf, taucht in Anzeigen aus den späten 1880er-Jahren mehrfach im Zusammenhang mit der Grand Brasserie de Rive auf.",
+      "bilder": [
+        {
+          "datei": "images/6792.2/6792.2_007_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            209.5,
+            301.4,
+            351.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Anzeige Grande Brasserie de Rive, in: La Tribune de Genève, Jg. 9, Nr. 67, 23. März 1887, S. 1, https://www.e-newspaperarchi-ves.ch/?a=d&d=TDG18870323-04.2.4.3 [21. Januar 2025]."
+        }
+      ]
+    },
+    {
+      "thema": "Tardivat/Sanselme",
+      "information": "Émile-Pierre Sanselme, 1876 geboren, war Cafetier, siehe Anzeige zur Einbürgerung in: La Tribune de Genève, Jg. 30, Nr. 28, 2. Februar 1908, https://www.e-newspaperarchi-ves.ch/?a=d&d=TDG19080202-04.2.11 [21. Januar 2025].",
+      "bilder": [
+        {
+          "datei": "images/6792.2/6792.2_008_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            408.5,
+            329.0,
+            513.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Pierre Tardivat, in: La Tribune de Genève, Jg. 36, Nr. 239, 21. Oktober 1914, S. 4, https://www.e-newspaperarchi-ves.ch/?a=d&d=TDG19141021-05.2.18.2 [21. Januar 2025]. Unter den Kundgebenden sind «M. et Mme Emile Sanselme» aufgeführt."
+        },
+        {
+          "datei": "images/6792.2/6792.2_009_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            582.7,
+            372.9,
+            649.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Pierre Tardivat war der Schwiegervater von Émile Sanselme, siehe: La Tribune de Genève, Jg. 36, Nr. 240, 22. Oktober 1914, https://www.e-newspaperarchives.ch/?a=d&d=TDG19141022-05.2.14.1 [21. Januar 2025]."
+        },
+        {
+          "datei": "images/6792.2/6792.2_010_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            719.5,
+            416.8,
+            755.5
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    },
+    {
+      "thema": "Stéphanie Guerzoni",
+      "information": "Guerzoni war Malerin und Schülerin von Hodler. Sie lebte in der Schweiz, dann in Paris und Rom und starb 1970 in Zürich. 1957 veröffentlichte sie eine Monografie über Hodler.",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "https://fr.wikipedia.org/wiki/St%C3%A9phanie_Guerzoni [4. September 2024]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6792.2/6792.2_011_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          297.4,
+          284.1,
+          599.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: handschriftlich mit dunklem Schreibmittel «Offrande à Bacchus | Bacchusopfer»",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «Offrande à Bacchus | Bacchusopfer»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6792.2/6792.2_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              661.8,
+              284.2,
+              729.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich mit dunklem Schreibmittel «F H 01»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «F H 01»",
+        "kommentar": "Initialen des Künstlers. Mit «01» dürfte «101» gemeint sein entsprechend der Werknummer im Generalkatalog von C. A. Loosli.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6792.2/6792.2_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              139.8,
+              283.7,
+              232.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Siehe Recherchedokumentation zum Werk mit der Inventarnummer 6792.1, das zum selben Zyklus gehört. Auf diesem befindet sich, sehr wahrscheinlich von derselben Hand, die Aufschrift «F H 101»."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: rechteckiges beiges Etikett mit blauer Bordüre, handschriftlich mit grauem und schwarzem Schreibmittel «Guer[zoni] | 416»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "rechteckiges beiges Etikett mit blauer Bordüre, handschriftlich mit grauem und schwarzem Schreibmittel «Guer[zoni] | 416»",
+        "kommentar": "Eigentümerin Stéphanie Guerzoni, Eingangsnummer 416, vermutlich aufgebracht für Ausstellung Kunstmuseum Bern 1921; das Werk wurde jedoch nicht ausgestellt.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6792.2/6792.2_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              245.3,
+              283.8,
+              333.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Siehe auch Recherchedokumentation zum Werk mit der Inventarnummer 6792.1."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: handschriftlich mit blauem Schreibmittel «416»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «416»",
+        "kommentar": "siehe vorausgehendes Provenienzmerkmal",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6792.2/6792.2_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              371.7,
+              210.2,
+              425.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: zwei rechteckige weisse Etiketten, schwarz gedruckt beziehungsweise handschriftlich mit schwarzem Kugelschreiber «b.) 13453», unterstrichen",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "zwei rechteckige weisse Etiketten, schwarz gedruckt beziehungsweise handschriftlich mit schwarzem Kugelschreiber «b.) 13453», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6792.2/6792.2_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              438.2,
+              256.5,
+              517.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Bolleter 2017. Der frühere Werktitel lautet Bacchusopfer. Das Werk gehörte zu einem zehnteiligen Zyklus und entstand im Rahmen eines Dekorationsauftrags von 1878 für die Ausstattung des Genfer Café de la Bourse. Siehe auch Fn. 8 sowie Recherchedokumentation zum Werk mit der Inventarnummer 6792.1. Dieses zweite Gemälde wurde ebenfalls 1977 bei Koller versteigert (Lot 5189)."
+    },
+    {
+      "nr": 2,
+      "text": "Technikangabe gemäss Bolleter 2017. In der Objektdatenbank SKKG ist «Öl auf Leinwand» angegeben."
+    },
+    {
+      "nr": 3,
+      "text": "Bolleter 2017. Die Familie Andrieu war Auftraggeberin für das Werk."
+    },
+    {
+      "nr": 4,
+      "text": "Bolleter 2017, siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 5,
+      "text": "Bolleter 2017, siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 6,
+      "text": "Bolleter 2017, siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 7,
+      "text": "Guerzoni lebte seit 1924 in Paris, wie sie im Schreiben an Dr. Wartmann, Direktor des Kunsthauses Zürich, vom 10. Juni 1934 erwähnte, siehe https://digital.kunsthaus.ch/viewer/image/212240 [25. November 2024]."
+    },
+    {
+      "nr": 8,
+      "text": "Bolleter 2017. Stéphanie Guerzoni, eine Schülerin Hodlers, ist auf dem Rückseitenetikett im Zusammenhang mit der Hodler-Ausstellung im Kunstmuseum Bern 1921 als Leihgeberin vermerkt. Auf welcher Quelle die Angabe des Jahres 1929 beruht, ist dem Werkkatalog nicht zu entnehmen; das Werk könnte wie andere Objekte mit derselben Provenienz aus dem gleichen Zyklus durchaus auch länger in der Sammlung Guerzoni geblieben sein, siehe https://www.schuler-auktionen.ch/de/items/149-3125-hodler-ferdinand [4. September 2024]. Es gibt Hinweise auf das Datum 1929 aus einer Korrespondenz zwischen Guerzoni und dem Kunsthausdirektor Wartmann in Zürich, siehe Angaben zu einem anderen Objekt aus dem gleichen Zyklus: https://recherche.sik-isea.ch/sik:work-11058012 [4. September 2024]. In der Publikation von Guerzoni über Hodler ist die Rede von einem Auftrag für Wandmalereien in einer Bierwirtschaft: «Um sich für einige Monate die Nahrung zu sichern, schmückte er [Hodler] eine Bierwirtschaft mit Wandmalereien aus. Diese Kompositionen waren auf Leinwand gemalt. Später ließ der Besitzer sie kopieren und verkaufte die Originale zu hohen Preisen» (Guerzoni 1959, S. 25). Wahrscheinlich handelt es sich dabei um den vorliegenden Zyklus. Vermutlich wurde er erst um 1916 aus dem Wirtshaus herausgelöst."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Zürich 1977, Bolleter 2017."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1977 im Archiv SKKG."
+    },
+    {
+      "nr": 11,
+      "text": "https://fr.wikipedia.org/wiki/St%C3%A9phanie_Guerzoni [4. September 2024]."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Recherchedokumentation zum Werk mit der Inventarnummer 6792.1, das zum selben Zyklus gehört. Auf diesem befindet sich, sehr wahrscheinlich von derselben Hand, die Aufschrift «F H 101»."
+    },
+    {
+      "nr": 13,
+      "text": "Siehe auch Recherchedokumentation zum Werk mit der Inventarnummer 6792.1."
+    }
+  ],
+  "bilder_anzahl": 16
+}

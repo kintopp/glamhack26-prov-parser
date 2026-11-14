@@ -1,0 +1,552 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1432_241001.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. Oktober 2024",
+  "stand_iso": "2024-10-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1432",
+      "Adolf Dietrich (1877–1957)",
+      "Blick auf Horn",
+      "1930",
+      "Öl auf Karton auf Holzfaserplatte",
+      "37 × 66 cm (Bildmass)",
+      "51,8 × 80,3 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1432",
+    "status": "Ungeklärt",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Blick auf Horn",
+    "masse": [
+      "37 × 66 cm (Bildmass)",
+      "51,8 × 80,3 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1930",
+    "technik": "Öl auf Karton auf Holzfaserplatte",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1432/1432_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          316.7,
+          428.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "23. Juli bis Ende September 1932",
+      "besitzer": "Ausstellung Schwörhaus, Museum der Stadt Ulm (Deutsche romantische Malerei der Gegenwart, Nr. 21, Horn am Untersee), Ulm, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ammann/Vögele 1994. Gemäss Museum Ulm, Auskunft vom 1. Juni 2023, kann der Einlieferer des Gemäldes nicht ermittelt werden; möglicherweise lieferte es der Künstler selbst ein."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1952 bis spätestens 1962",
+      "besitzer": "wahrscheinlich Dr. Franz Meyer (1889–1962), Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Das Werk wurde 1952 an der Dietrich-Jubiläumsausstellung im Museum zu Allerheiligen, Schaffhausen, gezeigt. Gemäss Auskunft vom 14. Mai 2024 wurde es von «Dr. F. M., Z.» eingeliefert, womit wahrscheinlich Dr. Franz Meyer, Zürich, gemeint ist, der auch weitere Dietrich-Werke besass."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20. August 1979",
+      "besitzer": "Kurt Huber, Villa Ulmberg, Zürich, wahrscheinlich in Kommission, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Schreiben von Kurt Huber an Bruno Stefanini vom 18. Juli 1979 mit Verkaufsangebot sowie Quittung von Kurt Huber für Bruno Stefanini vom 20. August 1979 im Archiv SKKG. Auf dieser steht «im Auftrag» ohne weitere Angaben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20. August 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, erworben im Freihandkauf von Kurt Huber, Villa Ulmberg, Ankaufspreis: 38 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Quittung von Kurt Huber für Bruno Stefanini vom 20. August 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 30.15.",
+        "bilder": [
+          {
+            "datei": "images/1432/1432_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              309.6,
+              344.4,
+              387.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Schwörhaus, Museum der Stadt Ulm, 23. Juli bis Ende September 1932, Deutsche romantische Malerei der Gegenwart, Nr. 21 (Horn am Untersee)\n\n– Museum zu Allerheiligen, Schaffhausen, 12. Oktober bis 16. November 1952, Adolf Dietrich. Jubiläumsausstellung zu seinem 75. Geburtstag, Nr. 99 (Höri)"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Höri», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Dietrich» und «Höri» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (1376 Ergebnisse) für Suche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 1376,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche «Höri» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche «Dietrich», Filter: Künstler [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "17. Mai 2023",
+      "institution": "Museum Ulm",
+      "betreff": "Einlieferer Ausstellung 1932",
+      "antwort": "1. Juni 2023: Aus der erhaltenen Korrespondenz geht der Einlieferer nicht eindeutig hervor. Möglicherweise lieferte der Künstler das Werk selbst ein."
+    },
+    {
+      "datum": "17. Mai 2023 und 2. Mai 2024",
+      "institution": "Museum zu Allerheiligen, Schaffhausen",
+      "betreff": "Einlieferer Ausstellung 1952",
+      "antwort": "14. Mai 2024: Der Leihgeber war\n\n«Dr. F. M., Z.», möglicherweise Franz Meyer aus Zürich, der Dietrich gesammelt hat. Ein Verkauf des Werks ist im Rechnungsbuch nicht verzeichnet. Weitere Quellen zu den Finanzen des Kunstvereins finden sich im Stadtarchiv Schaffhausen."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.117",
+      "bilder": [
+        {
+          "datei": "images/1432/1432_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            404.8,
+            533.0,
+            623.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Kurt Huber, Villa Ulmberg, Zürich, an Bruno Stefanini, Winterthur, vom 18. Juli 1979 mit Verkaufsangebot zum Dietrich-Bild für 38 000 Franken"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.117",
+      "bilder": [
+        {
+          "datei": "images/1432/1432_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            158.4,
+            527.8,
+            379.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Quittung von Kurt Huber für Bruno Stefanini vom 20. August 1979"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "–",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 29–30 G»",
+      "bilder": [
+        {
+          "datei": "images/1432/1432_005_archive_extern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            234.7,
+            533.0,
+            484.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1432/1432_006_archive_extern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            490.0,
+            536.4,
+            730.1
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Werkdatenblatt zu Nr. 30.15"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1432/1432_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          240.8,
+          305.8,
+          398.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «Ad Dietrich 1930»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Ad Dietrich 1930»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1432/1432_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              436.3,
+              305.5,
+              492.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: verbräuntes rechteckiges Etikett, schwarz gedruckt «50», unterstrichen",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz gedruckt «50», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1432/1432_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              504.8,
+              193.2,
+              551.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rückseitenschutz: handschriftlich mit schwarzem Schreibmittel möglicherweise «279», unterstrichen",
+        "position_traeger": "o. r. Rückseitenschutz",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel möglicherweise «279», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1432/1432_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              563.8,
+              234.0,
+              640.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Rückseitenschutz: handschriftlich mit rotem Schreibmittel möglicherweise «3500» (verschmiert)",
+        "position_traeger": "u. r. Rückseitenschutz",
+        "merkmal": "handschriftlich mit rotem Schreibmittel möglicherweise «3500» (verschmiert)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1432/1432_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              653.2,
+              233.1,
+              731.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rückseitenschutz: handschriftlich mit rotem Schreibmittel «20»",
+        "position_traeger": "o. l. Rückseitenschutz",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «20»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1432/1432_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              233.0,
+              203.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Filzstift beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Filzstift beschrieben",
+        "kommentar": "Erwerbsnachweis Auktion Kurt Huber 1979, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1432/1432_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              215.7,
+              306.3,
+              336.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Ammann/Vögele 1994. Gemäss Museum Ulm, Auskunft vom 1. Juni 2023, kann der Einlieferer des Gemäldes nicht ermittelt werden; möglicherweise lieferte es der Künstler selbst ein."
+    },
+    {
+      "nr": 3,
+      "text": "Das Werk wurde 1952 an der Dietrich-Jubiläumsausstellung im Museum zu Allerheiligen, Schaffhausen, gezeigt. Gemäss Auskunft vom 14. Mai 2024 wurde es von «Dr. F. M., Z.» eingeliefert, womit wahrscheinlich Dr. Franz Meyer, Zürich, gemeint ist, der auch weitere Dietrich-Werke besass."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Schreiben von Kurt Huber an Bruno Stefanini vom 18. Juli 1979 mit Verkaufsangebot sowie Quittung von Kurt Huber für Bruno Stefanini vom 20. August 1979 im Archiv SKKG. Auf dieser steht «im Auftrag» ohne weitere Angaben."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Quittung von Kurt Huber für Bruno Stefanini vom 20. August 1979 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 13
+}

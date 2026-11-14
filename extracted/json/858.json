@@ -1,0 +1,606 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_858_221108.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. November 2022",
+  "stand_iso": "2022-11-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 858",
+      "Félix Vallotton (1865–1925)",
+      "Femme nue couchée sur le sable",
+      "1921",
+      "Öl auf Leinwand",
+      "103 × 192 cm (Bildmass)",
+      "122 × 211 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "858",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Femme nue couchée sur le sable",
+    "masse": [
+      "103 × 192 cm (Bildmass)",
+      "122 × 211 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1921",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/858/858_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          344.3,
+          414.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005. In der Objektdatenbank SKKG ist zudem der Werktitel Liegender Akt nach dem Auktionskatalog Zürich 1980 verzeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (1865–1925), Paris",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1925 bis 1968",
+      "besitzer": "Jacques Rodrigues-Henriques (1886–1968), Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005 (ohne Jahreszahlen). Das Werk blieb nach Vallottons Tod in seinem Nachlass in Paris und damit beim Pariser Teil der Familie. Laut Ducrey war es anschliessend bei Vallottons Stiefsohn Jacques Rodrigues-Henriques und später in dessen Nachlass."
+        }
+      ]
+    },
+    {
+      "zeitraum": "nach 1968",
+      "besitzer": "Nachlass Jacques Rodrigues-Henriques, Paris",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Frankreich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1980; bei Ducrey 2005 fehlt diese Angabe."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November 1980",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 117, Liegender Akt / Nu couché), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 1980, Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November 1980 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby’s, Zuschlagspreis: 48 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1421.",
+        "bilder": [
+          {
+            "datei": "images/858/858_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              372.7,
+              339.5,
+              455.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/858/858_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              325.3,
+              474.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/858/858_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              480.3,
+              325.5,
+              561.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1349."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby’s, Zürich, 26. November 1980, Zürich 1980, Lot 117."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Paris, 1922, Nr. 3 (Femme couchée)\n\n– Galerie Druet, Paris, Exposition de 25 peintres contemporains, 2. Juni bis 30. September 1925, Nr. 182 (Nu couché)\n\n– Paris, 1955, Nr. 51 (Nu étendu devant la mer)",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die Angaben zu den Ausstellungen stammen aus Ducrey 2005 und wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Grundsätzlich möglich wäre das Gemälde Jeune femme (https://www.errproject.org/jeudepaume/card_view.php?Car-dId=57221 [28. Oktober 2022]). Jedoch kann es mangels weiterer Angaben nicht identifiziert werden. Zudem befand sich das vorliegende Werk in der Zeit um 1940 laut Ducrey 2005 woanders.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.216.434, NF_0035 (Diverse Künstler: Korrespondenz (1985–2014)): Faszikel zu «Vallotton» konsultiert, keine relevanten Informationen zu diesem Werk"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/858/858_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            139.8,
+            532.8,
+            368.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/858/858_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            374.1,
+            532.8,
+            553.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/858/858_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          240.8,
+          342.4,
+          402.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur des Künstlers mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur des Künstlers mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/858/858_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              439.4,
+              291.4,
+              469.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit weisser Kreide «117»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «117»",
+        "kommentar": "entspricht Lotnummer der Auktion Sotheby’s 1980",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/858/858_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              481.9,
+              265.3,
+              547.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zier- und o. r. Keilrahmen: weisses Etikett mit SIK-Nummer 16115",
+        "position_traeger": "o. r. Zier- und o. r. Keilrahmen",
+        "merkmal": "weisses Etikett mit SIK-Nummer 16115",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/858/858_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              560.6,
+              212.2,
+              597.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/858/858_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              603.6,
+              212.6,
+              640.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. waagrechte Mittelstrebe Keilrahmen: Reste eines beigen Etiketts der Speditionsfirma Welti-Furrer",
+        "position_traeger": "r. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "Reste eines beigen Etiketts der Speditionsfirma Welti-Furrer",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/858/858_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              653.2,
+              219.0,
+              732.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter Zettel, Auktion Sotheby’s, verfasst von Bruno Stefanini, November 1980",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter Zettel, Auktion Sotheby’s, verfasst von Bruno Stefanini, November 1980",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/858/858_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              319.5,
+              265.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit weisser Kreide «NOW | 118»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «NOW | 118»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/858/858_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.0,
+              279.0,
+              210.3,
+              390.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005. In der Objektdatenbank SKKG ist zudem der Werktitel Liegender Akt nach dem Auktionskatalog Zürich 1980 verzeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005 (ohne Jahreszahlen). Das Werk blieb nach Vallottons Tod in seinem Nachlass in Paris und damit beim Pariser Teil der Familie. Laut Ducrey war es anschliessend bei Vallottons Stiefsohn Jacques Rodrigues-Henriques und später in dessen Nachlass."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1980; bei Ducrey 2005 fehlt diese Angabe."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 1980, Ducrey 2005."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Ducrey 2005."
+    },
+    {
+      "nr": 8,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1349."
+    },
+    {
+      "nr": 9,
+      "text": "Die Angaben zu den Ausstellungen stammen aus Ducrey 2005 und wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 10,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    }
+  ],
+  "bilder_anzahl": 14
+}

@@ -1,0 +1,891 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5747_230608.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5747",
+      "Albert Anker (1831–1910)",
+      "Ruhende Venus",
+      "1861",
+      "Öl auf Leinwand",
+      "26,8 × 35,2 cm (Bildmass)",
+      "40,6 × 48,4 × 4,6 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5747",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Ruhende Venus",
+    "masse": [
+      "26,8 × 35,2 cm (Bildmass)",
+      "40,6 × 48,4 × 4,6 cm (Rahmenmass)"
+    ],
+    "datierung": "1861",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5747/5747_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          63.0,
+          247.3,
+          313.6,
+          401.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La Vénus d’Urbino. Es handelt sich um eine Kopie von Tizians Venus von Urbino von 1538."
+      },
+      {
+        "nr": 2,
+        "text": "Datierung nach Kuthy/Bhattacharya-Stettler 1995."
+      },
+      {
+        "nr": 3,
+        "text": "Das Werk trägt auf der Vorder- und Rückseite einen Nachlassstempel, vermutlich aufgebracht von Anna Anker-Rüfli (1835–1917), der Gattin des Künstlers, siehe https://www.marquesdecollections.fr/FtDetail/eb3a3169-8dd6-f048-b6ee-5dad4843b30d [8. Juni 2023]."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1910 bis o. D.",
+      "besitzer": "Nachlass Albert Anker (1831–1910)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Nachlassstempel auf der Vorder- und Rückseite des Werks."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1931 bis spätestens 1950",
+      "besitzer": "Marie Quinche-Anker (1872–1950), Neuchâtel, erworben aus dem Nachlass des Vaters/Künstlers",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Im Ausstellungskatalog Bern 1931 ist Marie Quinche-Anker als Leihgeberin angegeben («Frau Q.-A., Neuenburg»)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Möglicherweise befand sich das Werk 1962 immer noch bei den Erbinnen und Erben von Marie Quinche-Anker; die Ortsangabe Neuchâtel könnte ein Hinweis darauf sein."
+        }
+      ]
+    },
+    {
+      "zeitraum": "6. November bis 20. Dezember 1975",
+      "besitzer": "Ausstellung Galerie Kurt Meissner (Handzeichnungen von Albert Anker, ein bedeutendes Gemälde, Zeichnungen und Aquarelle aus seinen Skizzenbüchern, Verkaufs-Ausstellung, Nr. 20), Zürich",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15. November bis 8. Dezember 1979",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen, Lot 1812, Ruhende Venus), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auktionskatalog Bern 1979, Kuthy/Bhattacharya-Stettler 1995 (dort 1978 statt 1979)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "31. Oktober bis 1. November 1980",
+      "besitzer": "Auktion Galerie Koller (Gemälde 16.–20. Jahrhundert. Graphik und Plastiken 19. und 20. Jahrhundert, Lot 5002, Ruhende Venus), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Zürich 1980, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1. November bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Koller, Zuschlagspreis: 26 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Albert Anker, Katalog der Gemälde und Ölstudien, hrsg. vom Berner Kunstmuseum, Bern 1962, Nr. 474.\n\nSandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 78, Nr. 56.",
+        "bilder": [
+          {
+            "datei": "images/5747/5747_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.4,
+              435.6,
+              339.6,
+              507.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5747/5747_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              177.7,
+              302.5,
+              387.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Auktionen. Bedeutende Schweizer Nachlässe. Fürstliche Silbersammlung. Kollektion Berner Fayencen. Inventar eines Basler Landhauses, Auktionskatalog Galerie Jürg Stuker, Bern, 15. November bis 1. Dezember und 6.–8. Dezember 1979, Bern 1979, Lot 1812.",
+        "bilder": [
+          {
+            "datei": "images/5747/5747_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.7,
+              456.7,
+              531.8,
+              499.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Gemälde 16.–20. Jahrhundert. Graphik und Plastiken 19. und 20. Jahrhundert, Auktionskatalog Galerie Koller, Zürich, 31. Oktober bis 1. November 1980, Zürich 1980, Lot 5002."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker. Jahrhundertausstellung. 20. Juni bis 23. August 1931, Ausstellungskatalog Kunstmuseum Bern, Bern 1931, S. 2, Nr. 13.",
+        "bilder": [
+          {
+            "datei": "images/5747/5747_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              593.9,
+              391.6,
+              629.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (600 Ergebnisse) für Volltextsuche «Anker» und «Venus» und «Tizian» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 600,
+            "datum": "2023-03-28"
+          },
+          {
+            "text": "0 Treffer (36 Ergebnisse) für Volltextsuche «Anker» und «Venus» und «Titien» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 36,
+            "datum": "2023-03-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5747/5747_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            263.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5747/5747_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          327.9,
+          389.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallschild, graviert",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallschild, graviert",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              426.6,
+              297.1,
+              459.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: schwarz gestempelt «A·ANKER.»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "schwarz gestempelt «A·ANKER.»",
+        "kommentar": "Nachlassstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              472.1,
+              297.3,
+              525.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: handschriftlich mit grauem Schreibmittel «allgem.»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «allgem.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              537.3,
+              242.7,
+              575.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: handschriftlich mit rotem Schreibmittel «6»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «6»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              588.8,
+              170.7,
+              625.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Reste eines weissen Etiketts mit abgerundeten Ecken",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Reste eines weissen Etiketts mit abgerundeten Ecken",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              637.5,
+              207.3,
+              684.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: rechteckiges weisses Etikett, zweiseitig gezahnt, handschriftlich mit blauer Tinte «№ 43 allg.»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "rechteckiges weisses Etikett, zweiseitig gezahnt, handschriftlich mit blauer Tinte «№ 43 allg.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              696.7,
+              238.3,
+              736.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Karton: handschriftlich mit schwarzem Schreibmittel «474»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «474»",
+        "kommentar": "Nummer des Werks im Werkkatalog 1962",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              206.7,
+              177.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Karton: handschriftlich mit schwarzer Tinte «Kopie von Albert Anker | nach Tizian.»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "handschriftlich mit schwarzer Tinte «Kopie von Albert Anker | nach Tizian.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              215.5,
+              328.4,
+              269.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Karton: schwarz gestempelt «A·ANKER.»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "schwarz gestempelt «A·ANKER.»",
+        "kommentar": "Nachlassstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              281.2,
+              245.2,
+              322.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Karton: rot gestempelt «P»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "rot gestempelt «P»",
+        "kommentar": "Fotografierhinweis von Kurt Meissner 1975",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              344.3,
+              184.2,
+              409.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit grauem Schreibmittel «2114 [?] E len [?]»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «2114 [?] E len [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              421.7,
+              328.0,
+              454.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Karton: handschriftlich mit rotem Schreibmittel «474 Huggler»",
+        "position_traeger": "u. l. Karton",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «474 Huggler»",
+        "kommentar": "Nummer des Werks im Werkkatalog 1962. Max Huggler war Direktor des Kunstmuseum Berns, das den Werkkatalog herausgab.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_019_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              472.2,
+              277.6,
+              519.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit blauem Schreibmittel «20»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «20»",
+        "kommentar": "entspricht Katalognummer der Ausstellung Kurt Meissner 1975",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_020_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              573.7,
+              213.1,
+              631.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "l. Karton: Klebespuren von rechteckigen Etiketten",
+        "position_traeger": "l. Karton",
+        "merkmal": "Klebespuren von rechteckigen Etiketten",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              326.1,
+              275.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Karton: rechteckiges oranges Etikett mit abgerundeten Ecken, handschriftlich mit rotem Schreibmittel «FS»",
+        "position_traeger": "l. m. Karton",
+        "merkmal": "rechteckiges oranges Etikett mit abgerundeten Ecken, handschriftlich mit rotem Schreibmittel «FS»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_022_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              287.9,
+              207.2,
+              359.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit grauem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_023_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              372.4,
+              256.2,
+              436.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: rechteckiges weisses Etikett, schwarz gedruckt «15996», unterstrichen",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «15996», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_024_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              448.4,
+              215.4,
+              482.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «15996», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «15996», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_025_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              524.1,
+              215.5,
+              561.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit grauem Schreibmittel «3[9?]18», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «3[9?]18», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5747/5747_026_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              599.9,
+              256.3,
+              682.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: La Vénus d’Urbino. Es handelt sich um eine Kopie von Tizians Venus von Urbino von 1538."
+    },
+    {
+      "nr": 2,
+      "text": "Datierung nach Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 3,
+      "text": "Das Werk trägt auf der Vorder- und Rückseite einen Nachlassstempel, vermutlich aufgebracht von Anna Anker-Rüfli (1835–1917), der Gattin des Künstlers, siehe https://www.marquesdecollections.fr/FtDetail/eb3a3169-8dd6-f048-b6ee-5dad4843b30d [8. Juni 2023]."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Nachlassstempel auf der Vorder- und Rückseite des Werks."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Im Ausstellungskatalog Bern 1931 ist Marie Quinche-Anker als Leihgeberin angegeben («Frau Q.-A., Neuenburg»)."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Möglicherweise befand sich das Werk 1962 immer noch bei den Erbinnen und Erben von Marie Quinche-Anker; die Ortsangabe Neuchâtel könnte ein Hinweis darauf sein."
+    },
+    {
+      "nr": 7,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Bern 1979, Kuthy/Bhattacharya-Stettler 1995 (dort 1978 statt 1979)."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Zürich 1980, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Fn. 3."
+    }
+  ],
+  "bilder_anzahl": 26
+}

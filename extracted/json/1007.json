@@ -1,0 +1,758 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1007_221107.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. November 2022",
+  "stand_iso": "2022-11-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1007",
+      "Félix Vallotton (1865–1925)",
+      "La tunique égyptienne",
+      "1919",
+      "Öl auf Leinwand",
+      "81 × 60 cm (Bildmass)",
+      "100,5 × 79 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1007",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "La tunique égyptienne",
+    "masse": [
+      "81 × 60 cm (Bildmass)",
+      "100,5 × 79 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1919",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1007/1007_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.6,
+          477.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005; siehe auch Etikett auf der Werkrückseite."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (Paul Vallotton, Lausanne), Nr. 351",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005 (ohne Jahresangabe). Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Vallotton, Lausanne, Nr. 1022",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Claude Vallotton (1905–2000), Pully",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005. Claude Vallotton war ein Neffe von Félix Vallotton, siehe Stammbaum in Ducrey 2005, Bd. 1, S. 72."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28./29. November 2000",
+      "besitzer": "Auktion Phillips (Feine Möbel, Objekte und Gemälde, Lot 656, La tunique égyptienne), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2000. Darin wird als Provenienz «Aus dem Besitz der Familie des Künstlers» angegeben. Es ist gut möglich, dass es sich dabei um den Nachlass des im Jahr 2000 verstorbenen Claude Vallotton handelte. Bereits am 21. März 2000 waren – bei Christie’s in Zürich – Werke daraus versteigert worden."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 29. November 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Phillips, Zuschlagspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Ankaufsbeleg auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2000 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1278.",
+        "bilder": [
+          {
+            "datei": "images/1007/1007_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              334.9,
+              304.0,
+              403.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1007/1007_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              409.9,
+              304.0,
+              549.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1211."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Feine Möbel, Objekte und Gemälde, Auktionskatalog Phillips Auctioneers, Zürich, 28./29. November 2000, Zürich 2000, Lot 656."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (14 Ergebnisse) für erweiterte Suche, Filter: Artist «Vallotton» [28. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Möglich wäre die Jeune femme (https://www.errproject.org/jeu-depaume/card_view.php?CardId=57221 [28. Oktober 2022]), die jedoch aufgrund mangelnder Angaben nicht identifiziert werden kann.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche, Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.216.434, NF_0035 (Diverse Künstler: Korrespondenz (1985–2014)): Faszikel zu «Vallotton» konsultiert, keine relevanten Informationen zu diesem Werk"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1007/1007_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            511.6,
+            531.3,
+            724.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1007/1007_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            133.8,
+            531.4,
+            344.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini. Provenienz: «Aus dem Besitz der Familie des Künstlers»."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1007/1007_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          312.8,
+          480.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: Signatur des Künstlers mit Datierung",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "Signatur des Künstlers mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              517.9,
+              312.6,
+              560.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m., r. m., u. m. und l. m. Zierrahmen: handschriftlich «81 x 60»",
+        "position_traeger": "o. m., r. m., u. m. und l. m. Zierrahmen",
+        "merkmal": "handschriftlich «81 x 60»",
+        "kommentar": "entspricht dem Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              572.7,
+              257.2,
+              612.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: gestempelt «23» in Schwarz mit Rhombus sowie «P» in Rot",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "gestempelt «23» in Schwarz mit Rhombus sowie «P» in Rot",
+        "kommentar": "Formatstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              635.8,
+              312.7,
+              721.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Stefan Schreier, SIK-ISEA, Zustandsuntersuchung und Restaurierungsbericht zum Werk mit der Inventarnummer 463 vom 12. Juni 2018 in der Objektdatenbank SKKG."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Stempel oval, Schrift unleserlich",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Stempel oval, Schrift unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              158.9,
+              312.7,
+              270.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit grünem Schreibmittel «La tunique égyptienne 1919» und «ne pas vernir»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «La tunique égyptienne 1919» und «ne pas vernir»",
+        "kommentar": "wohl angebracht von Vallotton selbst, der den Gebrauch von Firnis ablehnte",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              282.7,
+              312.6,
+              306.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1007/1007_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              312.7,
+              312.6,
+              345.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Ducrey 1998/2015, Félix Vallotton, in: SIKART-Lexikon, https://recherche.sik-isea.ch/sik:person-4022849 [3. November 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit grünem Schreibmittel «150»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «150»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              371.1,
+              223.3,
+              435.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich «№ 1143»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich «№ 1143»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.8,
+              448.3,
+              290.8,
+              495.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. Mittelstrebe Keilrahmen: handschriftlich mit rotem Schreibmittel «P.V. 351.», durchgestrichen",
+        "position_traeger": "r. Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «P.V. 351.», durchgestrichen",
+        "kommentar": "«P.V.» steht für Paul Vallotton, die Nummer entspricht der von Ducrey angegebenen (siehe Provenienzkette).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              508.0,
+              289.2,
+              573.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: langrechteckiges beiges Etikett der Kunsthandlung Paul Vallotton, handschriftlich mit schwarzer Tinte «№ 1022. | F. Vallotton | Tunique égyptienne | 81 x 60», daneben in Blau «961022»",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "langrechteckiges beiges Etikett der Kunsthandlung Paul Vallotton, handschriftlich mit schwarzer Tinte «№ 1022. | F. Vallotton | Tunique égyptienne | 81 x 60», daneben in Blau «961022»",
+        "kommentar": "Die Galerie von Félix Vallottons Bruder Paul war eine Filiale der Pariser Galerie Bernheim-Jeune und bestand in Lausanne von 1913 bis 1922. 1923 eröffnete Paul eine eigene Kunstgalerie, die bis 2005 im Besitz der Familie blieb.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              313.6,
+              222.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Marina Ducrey, Paul Vallotton, in: Historisches Lexikon der Schweiz (HLS), Version vom 17. Oktober 2011, https://hls-dhs-dss.ch/de/articles/027780/2011-10-17 [28. September 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l., u. l. und m. l. Keilrahmen: Zollstempel Schweiz",
+        "position_traeger": "o. l., u. l. und m. l. Keilrahmen",
+        "merkmal": "Zollstempel Schweiz",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              316.7,
+              187.3,
+              364.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1007/1007_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.9,
+              370.7,
+              187.1,
+              419.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1007/1007_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              425.4,
+              187.0,
+              476.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit rotem Schreibmittel «Maxi[ma?]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «Maxi[ma?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.8,
+              489.1,
+              272.3,
+              559.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel der Auktion Phillips, 29. November 2000, mit handschriftlich annotiertem Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel der Auktion Phillips, 29. November 2000, mit handschriftlich annotiertem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1007/1007_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              572.7,
+              313.6,
+              660.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005; siehe auch Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005 (ohne Jahresangabe). Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005. Claude Vallotton war ein Neffe von Félix Vallotton, siehe Stammbaum in Ducrey 2005, Bd. 1, S. 72."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2000. Darin wird als Provenienz «Aus dem Besitz der Familie des Künstlers» angegeben. Es ist gut möglich, dass es sich dabei um den Nachlass des im Jahr 2000 verstorbenen Claude Vallotton handelte. Bereits am 21. März 2000 waren – bei Christie’s in Zürich – Werke daraus versteigert worden."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Ankaufsbeleg auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2000 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1211."
+    },
+    {
+      "nr": 8,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 9,
+      "text": "Stefan Schreier, SIK-ISEA, Zustandsuntersuchung und Restaurierungsbericht zum Werk mit der Inventarnummer 463 vom 12. Juni 2018 in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Ducrey 1998/2015, Félix Vallotton, in: SIKART-Lexikon, https://recherche.sik-isea.ch/sik:person-4022849 [3. November 2022]."
+    },
+    {
+      "nr": 11,
+      "text": "Marina Ducrey, Paul Vallotton, in: Historisches Lexikon der Schweiz (HLS), Version vom 17. Oktober 2011, https://hls-dhs-dss.ch/de/articles/027780/2011-10-17 [28. September 2022]."
+    }
+  ],
+  "bilder_anzahl": 21
+}

@@ -1,0 +1,518 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7528_241205.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "5. Dezember 2024",
+  "stand_iso": "2024-12-05",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7528",
+      "Albert Anker (1831–1910)",
+      "Sitzender Knabe, Gemüse rüstend",
+      "o. J.",
+      "Öl auf Papier",
+      "14 × 15 cm (Lichtmass)",
+      "15,5 × 14,7 cm (Bildmass)",
+      "26,5 × 25,5 × 6 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7528",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Sitzender Knabe, Gemüse rüstend",
+    "masse": [
+      "14 × 15 cm (Lichtmass)",
+      "15,5 × 14,7 cm (Bildmass)",
+      "26,5 × 25,5 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Papier",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7528/7528_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          491.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Garçon épluchant des légumes. Auf der Plakette auf der Werkvorderseite steht generisch «Etude». In der Echtheitsbestätigung auf der Werkrückseite wird das Motiv als «Gamin d’Anet» (Knabe aus Ins) beschrieben, siehe Provenienzmerkmale."
+      },
+      {
+        "nr": 2,
+        "text": "Laut Kuthy/Bhattacharya-Stettler 1995 «Öl auf Leinwand»."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis spätestens 1957",
+      "besitzer": "Cécile Du Bois-Anker (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters (des Künstlers)",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Biel",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. Juni 2012",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 1, Sitzender Knabe, Gemüse rüstend), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 4. Juni 2012",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 17 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 267, Nr. 657.",
+        "bilder": [
+          {
+            "datei": "images/7528/7528_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              284.5,
+              427.0,
+              416.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 4. Juni 2012, Zürich 2012, Lot 1."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Sporthalle Ins, Albert Anker. Der Maler und sein Werk, Gemäldeausstellung aus Anlass des 75. Todestages, 23. März bis 21. April 1985, Nr. 76."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker», Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker»: Die Ergebnisse wurden angesichts der hohen Anzahl mit weiteren Begriffen eingegrenzt:",
+            "ergebnisse": 6938
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» und «Knabe, Gemüse rüstend» [3. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-03"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» und «épluchant» [13. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-13"
+          },
+          {
+            "text": "0 Treffer (362 Ergebnisse) für Volltextsuche «Anker» und «Knabe» und «Gemüse» [13. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 362,
+            "datum": "2023-06-13"
+          },
+          {
+            "text": "0 Treffer (362 Ergebnisse) für Volltextsuche «Anker» und «gamin d’Anet» [13. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 362,
+            "datum": "2023-06-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Object Type «painting» [12. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-06-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "5. Juli 2023",
+      "institution": "–",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7528/7528_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            530.6,
+            311.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/7528/7528_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            318.2,
+            533.0,
+            445.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2012 mit annotierter Fotokopie des lotspezifischen Ausschnitts (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7528/7528_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          320.4,
+          432.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallschild, graviert «A. ANKER | Etude»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallschild, graviert «A. ANKER | Etude»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7528/7528_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              469.9,
+              320.5,
+              516.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rückseitenseitenschutz: rechteckiges beiges Etikett, handschriftlich mit verbräuntem Schreibmittel «Etude à l’huile | d’Albert Anker | gamin d’Anet | C. Du Bois Anker»",
+        "position_traeger": "o. m. Rückseitenseitenschutz",
+        "merkmal": "rechteckiges beiges Etikett, handschriftlich mit verbräuntem Schreibmittel «Etude à l’huile | d’Albert Anker | gamin d’Anet | C. Du Bois Anker»",
+        "kommentar": "Echtheitsbestätigung von Tochter Cécile Du Bois-Anker",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7528/7528_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              528.9,
+              320.6,
+              651.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Siehe auch Provenienzstationen."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: weisse Grundierung, mit schwarzem Schreibmittel möglicherweise «INV.NR. […]41», weiss übermalt",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "weisse Grundierung, mit schwarzem Schreibmittel möglicherweise «INV.NR. […]41», weiss übermalt",
+        "kommentar": "Sehr wahrscheinlich handelt es sich um eine falsche und daher übermalte SKKG-Inventarnummer (richtig wäre 7528).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7528/7528_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              139.8,
+              320.5,
+              196.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. Rückseitenschutz: Klebereste eines Etiketts",
+        "position_traeger": "m. Rückseitenschutz",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7528/7528_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              240.8,
+              320.9,
+              319.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Rückseitenschutz: Klebereste eines Etiketts",
+        "position_traeger": "u. m. Rückseitenschutz",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7528/7528_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              332.8,
+              260.9,
+              398.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Rückseitenschutz: rechteckiges weisses Etikett, schwarz maschinenbeschrieben und handschriftlich mit blauer Tinte «76»",
+        "position_traeger": "u. l. Rückseitenschutz",
+        "merkmal": "rechteckiges weisses Etikett, schwarz maschinenbeschrieben und handschriftlich mit blauer Tinte «76»",
+        "kommentar": "Ausstellung Ins 1985, Nr. 76",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7528/7528_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              410.3,
+              318.5,
+              479.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Klebereste eines Etiketts",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7528/7528_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              498.7,
+              237.9,
+              562.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Garçon épluchant des légumes. Auf der Plakette auf der Werkvorderseite steht generisch «Etude». In der Echtheitsbestätigung auf der Werkrückseite wird das Motiv als «Gamin d’Anet» (Knabe aus Ins) beschrieben, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Laut Kuthy/Bhattacharya-Stettler 1995 «Öl auf Leinwand»."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2012."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe auch Provenienzstationen."
+    }
+  ],
+  "bilder_anzahl": 12
+}

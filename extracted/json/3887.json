@@ -1,0 +1,542 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3887_220818.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "18. August 2022",
+  "stand_iso": "2022-08-18",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3887",
+      "François Diday (1801–1877)",
+      "Baigneuses au Lac Léman / Badende am",
+      "Genfersee",
+      "1839",
+      "Öl auf Leinwand",
+      "76 × 101 cm (Bildmass)",
+      "104 × 130 × 10,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3887",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1801–1877)",
+    "titel": "Baigneuses au Lac Léman / Badende am Genfersee",
+    "masse": [
+      "76 × 101 cm (Bildmass)",
+      "104 × 130 × 10,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1839",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3887/3887_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          314.7,
+          436.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel nach Auktionskatalog Zürich 1980."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1944",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ausstellungskatalog Lausanne 1944, siehe auch Ausstellungsetikett auf der Werkrückseite. Das Objekt trägt keinen Zollstempel, demnach dürfte es sich dabei um Schweizer Privatbesitz handeln."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 26. November 1980",
+      "besitzer": "Privatbesitz, Genf",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1980. Ob es sich um dieselbe Eigentümerschaft handelt wie bei der vorausgehenden Provenienzstation, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November 1980",
+      "besitzer": "Auktion Sotheby Parke Bernet (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 20, Badende am Genfersee / Baigneuses au Lac Léman), Zürich, eingeliefert aus Genfer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1980."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby Parke Bernet, Zuschlagspreis: 32 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte (SKKG), Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 26. November 1980, Zürich 1980, Lot 20."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Les peintres du Léman, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne, 17. Juni bis 24. September 1944, Lausanne 1944, Nr. 6, Provenienz: «Propriété particulière».",
+        "bilder": [
+          {
+            "datei": "images/3887/3887_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              334.8,
+              366.1,
+              373.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Musée cantonal des beaux-arts, Lausanne, 17. Juni bis 24. September 1944, Les peintres du Léman, Nr. 6."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (80 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Diday Francois», Filter 2: Volltext/Metadaten «Holz» [sic] [29. Juli 2022]:",
+            "treffer": 1,
+            "ergebnisse": 80,
+            "datum": "2022-07-29"
+          },
+          {
+            "text": "Katalog über die Gemäldesammlung des Herrn Direktor Alfred Kock, Bremen, 400 alte und moderne Meisterwerke umfassend, Auktionskatalog Emil Mühlenpfordt, Hamburg, 18.–20. Oktober 1916, Lot 278, https://doi.org/10.11588/diglit.20898#0035 [29. Juli 2022].",
+            "datum": "2022-07-29"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/3887/3887_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              139.8,
+              419.7,
+              196.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "German Sales",
+            "bildunterschrift": "François Diday, Landschaft und See mit badenden Frauen. Die nähere Beschreibung des Sujets im Auktionskatalog würde zum vorliegenden Gemälde passen. Jedoch ist unklar, ob es sich dabei um Version 1 (das vorliegende Gemälde) oder Version 3 (siehe Kontextinformationen) handelt, die beide passende Masse aufweisen, oder um eine weitere, bislang nicht bekannte Version. Gemäss Bleistiftnotiz wurde das Werk für 2500 Mark von einer Person namens «Jürgensen» erworben."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (Ergebnisse unbekannt) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise) mit Filter: Object Type «painting» [8. Juli 2022]:",
+            "treffer": 1,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "Sämtl[iche] Oelgemälde alter und neuer Meister aus der Galerie des Schlosses Rosenstein b[ei] Stuttgart. Besitz des ehemal[igen] Königs Wilhelm II. von Württemberg, Auktionskatalog Felix Fleischhauer, Hofkunsthändler, Stuttgart, 26.–28. Oktober 1920, Stuttgart 1920, Lot 56, https://doi.org/10.11588/diglit.17054#0019 [8. Juli 2022].",
+            "datum": "2022-07-08"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/3887/3887_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              436.3,
+              419.7,
+              489.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "François Diday, Landschaft am Genfer See mit Segelbooten. Im Vordergrunde badende Frauen. Die Beschreibung des Sujets im Auktionskatalog passt zum vorliegenden Gemälde, die Datierung (1841) nicht. Angesichts der Massangaben scheint es sich um keine der drei bekannten Versionen zu handeln (siehe Kontextinformationen), sondern um eine vierte, noch grössere."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3887/3887_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            191.1,
+            530.9,
+            373.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Versionen der Baigneuses",
+      "information": "Es gibt von François Diday mindestens drei Versionen der Baigneuses, deren Sujets nur leicht voneinander abweichen:\n\nVersion 1 (SKKG): Les baigneuses, Öl auf Leinwand, 1839, 76 × 101 cm, signiert und datiert. Provenienz: siehe oben.",
+      "bilder": [
+        {
+          "datei": "images/3887/3887_006_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            157.4,
+            234.8,
+            313.3,
+            351.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Version 2: Les baigneuses, Öl auf Leinwand, 1838, 97 × 129 cm. Provenienz: Sammlung Charles Humbert (1813–1881), im Besitz der Familie bis zur Versteigerung bei Piguet, Genf, am 12. Dezember 2018."
+        },
+        {
+          "datei": "images/3887/3887_007_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            157.4,
+            408.4,
+            313.3,
+            524.3
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Version 3: Les baigneuses, Öl auf Leinwand, 1838, 76,5 × 101,5 cm. Provenienz: Sammlung Pictet de Rochement, 1962 Otto Büel Antiquitäten, Luzern, anschliessend Privatbesitz, 21. September 2019 Galerie Gloggner, Luzern."
+        },
+        {
+          "datei": "images/3887/3887_008_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            157.4,
+            580.9,
+            313.3,
+            698.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "https://de.artprice.com/artist/7685/francois-diday/gemalde/17539767/les-baigneuses [17. Dezember 2025]"
+        },
+        {
+          "nr": 7,
+          "text": "https://de.artprice.com/artist/7685/francois-diday/gemalde/19403070/les-baigneuses-a-villeneuve [17. Dezember 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3887/3887_009_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          313.5,
+          367.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «Diday. 1839»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Diday. 1839»",
+        "kommentar": "Signatur des Künstlers und Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3887/3887_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              405.3,
+              313.5,
+              490.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: Reste eines rechteckigen Etiketts, handschriftlich mit unbekanntem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "Reste eines rechteckigen Etiketts, handschriftlich mit unbekanntem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3887/3887_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              503.3,
+              223.2,
+              569.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger rosafarbener Zettel, handschriftlich mit schwarzem Kugelschreiber «Sotheby, Nov. 8[0] | 20 F. Diday | Badende am Genfersee | 32’»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger rosafarbener Zettel, handschriftlich mit schwarzem Kugelschreiber «Sotheby, Nov. 8[0] | 20 F. Diday | Badende am Genfersee | 32’»",
+        "kommentar": "Erwerbsnachweis, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3887/3887_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              582.2,
+              313.4,
+              733.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «15766», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «15766», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3887/3887_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              227.0,
+              185.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «15766», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «15766», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3887/3887_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              215.5,
+              227.0,
+              261.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Etikett, schwarz gedruckt sowie maschinengeschrieben «Musée Cantonal des Beaux-Arts Lausanne | Exposition | „Les Peintres du Léman“ | 17. juin – 24. septembre 1944“ | F. Diday | Titre Les Baigneuses | Propr. P.P | No. 6»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz gedruckt sowie maschinengeschrieben «Musée Cantonal des Beaux-Arts Lausanne | Exposition | „Les Peintres du Léman“ | 17. juin – 24. septembre 1944“ | F. Diday | Titre Les Baigneuses | Propr. P.P | No. 6»",
+        "kommentar": "Ausstellung Lausanne 1944, Nr. 6. «P.P» steht für «Propriété particulière» (Privatbesitz).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3887/3887_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              291.3,
+              313.4,
+              428.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «To be | Photographed» und handschriftlich mit schwarzem Kugelschreiber «F»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «To be | Photographed» und handschriftlich mit schwarzem Kugelschreiber «F»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3887/3887_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              442.9,
+              236.7,
+              514.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel nach Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 2,
+      "text": "Ausstellungskatalog Lausanne 1944, siehe auch Ausstellungsetikett auf der Werkrückseite. Das Objekt trägt keinen Zollstempel, demnach dürfte es sich dabei um Schweizer Privatbesitz handeln."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1980. Ob es sich um dieselbe Eigentümerschaft handelt wie bei der vorausgehenden Provenienzstation, ist unklar."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1980."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1980 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 6,
+      "text": "https://de.artprice.com/artist/7685/francois-diday/gemalde/17539767/les-baigneuses [17. Dezember 2025]"
+    },
+    {
+      "nr": 7,
+      "text": "https://de.artprice.com/artist/7685/francois-diday/gemalde/19403070/les-baigneuses-a-villeneuve [17. Dezember 2025]."
+    }
+  ],
+  "bilder_anzahl": 16
+}

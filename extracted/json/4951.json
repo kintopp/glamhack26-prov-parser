@@ -1,0 +1,847 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4951_231026.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2023",
+  "stand_iso": "2023-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4951",
+      "Ferdinand Hodler (1853–1918)",
+      "Bildnis Bertha Stucki",
+      "um 1887",
+      "Öl auf Leinwand",
+      "74 × 52 × 4 cm (Bildmass)",
+      "93,5 × 72,5 × 7 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4951",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bildnis Bertha Stucki",
+    "masse": [
+      "74 × 52 × 4 cm (Bildmass)",
+      "93,5 × 72,5 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1887",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4951/4951_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.6,
+          513.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Brunner 2012. Ein früherer Titel des Werks lautet Dame mit rotem Schirm. Bertha Stucki war von 1889 bis 1891 mit Ferdinand Hodler verheiratet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis mindestens 1907",
+      "besitzer": "Fritz Meyer-Fierz (1847–1917), Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1907",
+      "besitzer": "Kunstsalon Cassirer (Nr. 12, Sitzende Frau), Berlin",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Brunner 2012 mit Angabe der Ausstellung Cassirer 1907; ob es sich um eine Verkaufsausstellung handelte, ist nicht angegeben. Möglicherweise bezieht sich das Etikett mit der Angabe «Sitzende Frau» auf der Werkrückseite auf den Kunstsalon Cassirer, siehe Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis mindestens 7. Februar 1919",
+      "besitzer": "Jeanne Charles Cerani-Ćišić (1874–1955)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "7. Februar 1919",
+      "besitzer": "Galerie Grand Salon d’Art (Charles D. Wyatt) (La femme au parasol rouge), Genf, eingeliefert von Jeanne Charles Cerani-Ćišić",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd. Es handelte sich um eine Verkaufsausstellung."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Ferdinand Wortmann, Rahmenbauer und Sammler, Basel",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Stempel auf der Werkrückseite, der auf Ferdinand Wortmann hinweist. Dieser ist sowohl als Rahmenbauer als auch als Sammler in Erscheinung getreten, siehe Kontextinformationen. Die Korrespondenz mit dem Kunsthaus Zürich in den 1930er- und 1940er-Jahren (siehe ebd.) legt nahe, dass es sich nicht um zwei Personen gleichen Namens, sondern um eine Person handelt. Ob der Stempel in Zusammenhang mit auftragsbedingten Arbeiten am Rahmen aufgebracht wurde (Wortmann als Rahmenbauer) oder als Eigentumsnachweis zu verstehen ist (Wortmann als Sammler), ist unklar. Jedoch ist bekannt, dass Wortmann mehrere Werke von Hodler besass (siehe ebd.)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1952 bis mindestens 1970",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Brunner 2012. Siehe auch folgende Fussnote."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1991",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ebd. Ob die beiden aufeinanderfolgenden «Privatbesitz»-Angaben im Werkkatalog so zu verstehen sind, dass 1970 ein Handwechsel von einem Privatbesitz in einen anderen stattgefunden hat, ist nicht sicher. Möglicherweise handelt es sich um dieselbe Provenienzstation."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Dezember 1991",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Lot 44, Bertha Stucki mit Federhut und rotem Schirm), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Zürich 1991, Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Dezember 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 100 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe annotierten Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Monika Brunner, Bildnis Bertha Stucki, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 751, https://www.ferdinand-hodler.ch/werke.aspx?id=6006016 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/4951/4951_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              234.8,
+              478.9,
+              413.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4951/4951_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              419.7,
+              338.0,
+              498.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 5. Dezember 1991, Zürich 1991, Lot 44."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Der frühe Hodler. Das Werk 1870–1890, Ausstellungskatalog Seedamm-Kulturzentrum, Pfäffikon, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Bern 1981, Nr. 107."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "",
+        "bilder": [
+          {
+            "datei": "images/4951/4951_004_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              139.8,
+              335.9,
+              279.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungen"
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-10-26"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «‹Ferdinand Hodler› und ‹Bertha Stucki›» [17. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-02-17"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «‹Ferdinand Hodler› und ‹roter Schirm›» [17. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-02-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «‹Ferdinand Hodler› und ‹Bertha Stucki›» [17. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-02-17"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «‹Ferdinand Hodler› und ‹roter Schirm›» [17. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-02-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [17. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-17"
+          },
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) ohne Filter [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "Aufgrund fehlender Massangaben und Abbildung ist keine Identifikation möglich."
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/4951/4951_005_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              246.8,
+              368.8,
+              357.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Kunsthandlung Böhler",
+            "bildtitel": "1 möglicher Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "bildunterschrift": "Karteikarte Luzern L_04039, «1 Bild Hodler | Frauenportrait», Eingang: 6. März 1923 von Böhm, Cassirer, Berlin, Ausgang: 22. Oktober 1925 («an Böhm zurück»), https://boehler.zikg.eu/wisski/navi-gate/209497/view [26. Oktober 2023]."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-24"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "23. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4951/4951_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            190.7,
+            532.0,
+            426.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1991, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "23. Oktober 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4951/4951_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            470.0,
+            532.0,
+            683.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Sotheby’s, 5. Dezember 1991, mit annotiertem Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Ferdinand Wortmann, Basel",
+      "information": "Bei Ferdinand Wortmann handelt es sich um einen Basler Rahmenbauer, der auch als Sammler in Erscheinung trat und offenbar mehrere Werke von Hodler besass.\n\n1934 hat Wortmann dem Kunsthaus Zürich zwei Gemälde von Hodler angeboten:\n\n– Schreiben von Wilhelm Wartmann, Direktor Kunsthaus Zürich, an Ferdinand Wortmann, Aeschenvorstadt 37, Basel, vom 25. April 1934, https://digital.kunsthaus.ch/viewer/image/58617_074/458 [17. Dezember 2024].\n\n– Schreiben von Wilhelm Wartmann, Direktor Kunsthaus Zürich, an Ferdinand Wortmann, Aeschenvorstadt 75, Basel, vom 23. Mai 1934, https://digital.kunsthaus.ch/viewer/image/58617_075/15 [17. Dezember 2024].\n\nFerdinand Wortmann stand auch 1933, 1943 und 1944 mit dem Kunsthaus Zürich in Kontakt.",
+      "bilder": [
+        {
+          "datei": "images/4951/4951_008_kontextinformationen.jpeg",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            310.1,
+            306.2,
+            405.3
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Anzeige von Ferdinand Wortmann, Aeschenvorstadt 41, Basel, Rahmenschreinerei und Vergolderei, aus einem Ausstellungskatalog der Kunsthalle Basel von 1943."
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe Kunsthaus-Korrespondenz unten. 2021 wurden im Auktionshaus Koller, Zürich, Hodler-Werke aus der Sammlung Ferdinand Wortmann, Basel, versteigert, siehe https://www.kollerauktionen.ch/de/491420----------1197-FERDI- NAND-HODLER.-Studie-eine-1197_491420.html und https://www.kollerauktionen.ch/de/491417----------1197-FERDI- NAND-HODLER.-Enttaeuscht-1197_491417.html [17. Dezember 2024]."
+        },
+        {
+          "nr": 12,
+          "text": "Siehe auch Fn. 6."
+        },
+        {
+          "nr": 13,
+          "text": "Im Juni 1933 für eine Auskunft zu Böcklin (Schreiben von Wilhelm Wartmann, Direktor Kunsthaus Zürich, an Ferdinand Wortmann, vormals Rath A.-G., Aeschenvorstadt 37, Basel, vom 13. Juni 1933, https://digital.kunsthaus.ch/viewer/image/58617_072/320 [17. Dezember 2024]), im Dezember 1943 im Zusammenhang mit einem Gemälde von René Auberjonois, vermutlich zwecks Einrahmung (Schreiben von Wilhelm Wartmann, Direktor Kunsthaus Zürich, an Herrn Wortmann, Aeschenvorstadt, Basel, vom 22. Dezember 1943, https://digital.kunst-haus.ch/viewer/image/58689_079/225 [17. Dezember 2024]), sowie im November 1944 im Zusammenhang mit sechs Gemälden von Hans Sturzenegger als Leihgaben für die Ausstellung 1944 (Schreiben von Kunsthaus Zürich an Ferdinand Wortmann, Aeschenvorstadt 41, Basel, vom 16. November 1944, https://digital.kunsthaus.ch/vie-wer/image/58689_080/394 [17. Dezember 2024])."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4951/4951_009_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          290.7,
+          455.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Reste eines rechteckigen weissen Etiketts mit abgerundeten Ecken",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Reste eines rechteckigen weissen Etiketts mit abgerundeten Ecken",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              517.9,
+              193.2,
+              558.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «44»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «44»",
+        "kommentar": "Lotnummer Auktion Sotheby’s 1991",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              570.9,
+              193.3,
+              615.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: verbräuntes rechteckiges Etikett, handschriftlich mit verbräuntem Schreibmittel «[…] | [Hodl]er [?] | Sitzende Frau»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, handschriftlich mit verbräuntem Schreibmittel «[…] | [Hodl]er [?] | Sitzende Frau»",
+        "kommentar": "Das Etikett könnte von der Ausstellung bei Cassirer in Berlin 1907 oder der Ausstellung im Kunsthaus Zürich 1914 stammen; bei beiden wurde das Werk als Sitzende Frau bezeichnet, siehe Ausstellungen.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              292.3,
+              223.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «F. M. F. 16. 9.»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «F. M. F. 16. 9.»",
+        "kommentar": "Initialen von Fritz Meyer-Fierz",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              279.9,
+              269.0,
+              307.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett, schwarz bedruckt",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt",
+        "kommentar": "Ausstellung Seedamm-Kulturzentrum Pfäffikon 1981, Nr. 107",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              343.0,
+              269.2,
+              415.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit weisser Kreide «5.12.91»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «5.12.91»",
+        "kommentar": "Auktion Sotheby’s vom 5. Dezember 1991",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              427.9,
+              249.5,
+              460.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «H | 119»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «H | 119»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              491.0,
+              210.5,
+              579.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierahmen: weisses rechteckiges Etikett, schwarz gedruckt «16157»",
+        "position_traeger": "o. l. Zierahmen",
+        "merkmal": "weisses rechteckiges Etikett, schwarz gedruckt «16157»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              592.1,
+              192.7,
+              611.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: zweimal weisses rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel beziehungsweise schwarz gedruckt «16157»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "zweimal weisses rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel beziehungsweise schwarz gedruckt «16157»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              655.9,
+              192.9,
+              667.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4951/4951_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              673.9,
+              193.0,
+              695.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit weisser Kreide «lot 44»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «lot 44»",
+        "kommentar": "Lotnummer der Auktion Sotheby’s 1991",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_020_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              243.4,
+              181.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: schwarz gestempelt «WORTMANN | BASEL»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "schwarz gestempelt «WORTMANN | BASEL»",
+        "kommentar": "Ferdinand Wortmann, Basel, Rahmenbauer und Sammler",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_021_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              202.9,
+              240.1,
+              249.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Siehe Kontextinformationen."
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «K 15», durchgestrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «K 15», durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_022_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              279.8,
+              237.5,
+              323.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit dunklem Schreibmittel «№ 2», Ziffer unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «№ 2», Ziffer unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4951/4951_023_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              335.9,
+              238.0,
+              393.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Brunner 2012. Ein früherer Titel des Werks lautet Dame mit rotem Schirm. Bertha Stucki war von 1889 bis 1891 mit Ferdinand Hodler verheiratet."
+    },
+    {
+      "nr": 2,
+      "text": "Brunner 2012."
+    },
+    {
+      "nr": 3,
+      "text": "Brunner 2012 mit Angabe der Ausstellung Cassirer 1907; ob es sich um eine Verkaufsausstellung handelte, ist nicht angegeben. Möglicherweise bezieht sich das Etikett mit der Angabe «Sitzende Frau» auf der Werkrückseite auf den Kunstsalon Cassirer, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Brunner 2012."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd. Es handelte sich um eine Verkaufsausstellung."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Stempel auf der Werkrückseite, der auf Ferdinand Wortmann hinweist. Dieser ist sowohl als Rahmenbauer als auch als Sammler in Erscheinung getreten, siehe Kontextinformationen. Die Korrespondenz mit dem Kunsthaus Zürich in den 1930er- und 1940er-Jahren (siehe ebd.) legt nahe, dass es sich nicht um zwei Personen gleichen Namens, sondern um eine Person handelt. Ob der Stempel in Zusammenhang mit auftragsbedingten Arbeiten am Rahmen aufgebracht wurde (Wortmann als Rahmenbauer) oder als Eigentumsnachweis zu verstehen ist (Wortmann als Sammler), ist unklar. Jedoch ist bekannt, dass Wortmann mehrere Werke von Hodler besass (siehe ebd.)."
+    },
+    {
+      "nr": 7,
+      "text": "Brunner 2012. Siehe auch folgende Fussnote."
+    },
+    {
+      "nr": 8,
+      "text": "Ebd. Ob die beiden aufeinanderfolgenden «Privatbesitz»-Angaben im Werkkatalog so zu verstehen sind, dass 1970 ein Handwechsel von einem Privatbesitz in einen anderen stattgefunden hat, ist nicht sicher. Möglicherweise handelt es sich um dieselbe Provenienzstation."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Zürich 1991, Brunner 2012."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe annotierten Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Kunsthaus-Korrespondenz unten. 2021 wurden im Auktionshaus Koller, Zürich, Hodler-Werke aus der Sammlung Ferdinand Wortmann, Basel, versteigert, siehe https://www.kollerauktionen.ch/de/491420----------1197-FERDI- NAND-HODLER.-Studie-eine-1197_491420.html und https://www.kollerauktionen.ch/de/491417----------1197-FERDI- NAND-HODLER.-Enttaeuscht-1197_491417.html [17. Dezember 2024]."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe auch Fn. 6."
+    },
+    {
+      "nr": 13,
+      "text": "Im Juni 1933 für eine Auskunft zu Böcklin (Schreiben von Wilhelm Wartmann, Direktor Kunsthaus Zürich, an Ferdinand Wortmann, vormals Rath A.-G., Aeschenvorstadt 37, Basel, vom 13. Juni 1933, https://digital.kunsthaus.ch/viewer/image/58617_072/320 [17. Dezember 2024]), im Dezember 1943 im Zusammenhang mit einem Gemälde von René Auberjonois, vermutlich zwecks Einrahmung (Schreiben von Wilhelm Wartmann, Direktor Kunsthaus Zürich, an Herrn Wortmann, Aeschenvorstadt, Basel, vom 22. Dezember 1943, https://digital.kunst-haus.ch/viewer/image/58689_079/225 [17. Dezember 2024]), sowie im November 1944 im Zusammenhang mit sechs Gemälden von Hans Sturzenegger als Leihgaben für die Ausstellung 1944 (Schreiben von Kunsthaus Zürich an Ferdinand Wortmann, Aeschenvorstadt 41, Basel, vom 16. November 1944, https://digital.kunsthaus.ch/vie-wer/image/58689_080/394 [17. Dezember 2024])."
+    },
+    {
+      "nr": 14,
+      "text": "Siehe Kontextinformationen."
+    }
+  ],
+  "bilder_anzahl": 23
+}

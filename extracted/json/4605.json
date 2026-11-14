@@ -1,0 +1,426 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4605_221018.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "18. Oktober 2022",
+  "stand_iso": "2022-10-18",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4605",
+      "Alexandre Calame (1810–1864)",
+      "Landschaftsstudie mit Kastell",
+      "o. J.",
+      "Öl auf Leinwand",
+      "20,1 × 29,2 cm (Bildmass)",
+      "34,2 × 43,5 × 6,1 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4605",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Landschaftsstudie mit Kastell",
+    "masse": [
+      "20,1 × 29,2 cm (Bildmass)",
+      "34,2 × 43,5 × 6,1 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4605/4605_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          318.5,
+          418.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Luzern 1977, wo das Werk als «Landschaftsstudie mit dichten Laubbaumgruppen, im Mittelgrund auf Anhöhe ein Kastell» beschrieben ist."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 15. November 1977",
+      "besitzer": "möglicherweise Schloss Binz auf Rügen",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Luzern 1977. Möglicherweise stammt das Werk aus dem Schloss Binz; gemäss Einführungstext des Auktionskatalogs gab es jedoch auch andere Einlieferinnen und Einlieferer."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15.–19. November 1977",
+      "besitzer": "Auktion Galerie Fischer (Bedeutende Jubiläums-Auktionen […], Lot 2101a, Landschaftsstudie mit dichten Laubbaumgruppen, im Mittelgrund auf Anhöhe ein Kastell), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Luzern 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. November 1977 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Fischer, Zuschlagspreis: 2400 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkataloge",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Bedeutende Jubiläums-Auktionen in Luzern […], Nachlass Schloss Binz auf Rügen, Auktionskatalog Galerie Fischer, Luzern, Nr. 247, 15.–22. November 1977, Luzern 1977, Lot 2101a.",
+        "bilder": [
+          {
+            "datei": "images/4605/4605_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              285.3,
+              492.7,
+              306.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Der Auktionskatalog umfasst zwei Teilauktionen; die erste lief vom 15. bis zum 19. und die zweite am 21. und 22. November 1977."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht verzeichnet].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Calame», Filter 1: Suchmeldungen, Filter 2: Malerei [14. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2022-10-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (36 Ergebnisse) für Volltextsuche «Calame» [18. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 36,
+            "datum": "2022-10-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War: «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (96 Ergebnisse) für Volltextsuche «Calame» UND «Castell» [18. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 96,
+            "datum": "2022-10-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Kastell», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [18. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-18"
+          },
+          {
+            "text": "0 Treffer (9 Ergebnisse) für freie Suche «Castell», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [18. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-10-18"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für freie Suche «Kleine Landschaft», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [18. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2022-10-18"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für freie Suche «Landschaftsstudie», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [18. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-10-18"
+          },
+          {
+            "text": "0 Treffer (9 Ergebnisse) für freie Suche «Etude», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [18. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-10-18"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/4605/4605_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              461.5,
+              507.6,
+              667.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "8 unspezifische Einträge zu Werken aus dem 19. Jahrhundert ohne Angaben zu Merkmalen der Werke",
+            "bildunterschrift": "0 eindeutige Treffer (8 Ergebnisse) für freie Suche «Paysage», Filter 1: Artist «Calame» (alle Varianten der Namensschreibweise) [18. Oktober 2022]"
+          },
+          {
+            "datei": "images/4605/4605_004_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              192.7,
+              164.9,
+              527.3,
+              372.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "8 unspezifische Einträge zu Werken aus dem 19. Jahrhundert ohne Angaben zu Merkmalen der Werke"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4605/4605_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          319.4,
+          447.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. m. Zierrahmen: Messingschild, graviert «Al. Calame»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Messingschild, graviert «Al. Calame»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4605/4605_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              484.3,
+              320.6,
+              524.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «2101 A»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «2101 A»",
+        "kommentar": "Lotnummer Auktion Galerie Fischer 1977",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4605/4605_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              536.6,
+              226.1,
+              587.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: roter Punkt",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "roter Punkt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4605/4605_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              625.2,
+              172.8,
+              661.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Auf dem Zierrahmen befinden sich Spuren eines früheren Rückseitenschutzes. Ob sich darauf weitere Provenienzmerkmale befunden haben, ist nicht bekannt."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: quadratisches weissblaues Klebeetikett, unten gezahnt, handschriftlich mit schwarzem Filzstift «13»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "quadratisches weissblaues Klebeetikett, unten gezahnt, handschriftlich mit schwarzem Filzstift «13»",
+        "kommentar": "angebracht von Ursula Netzer, Schlossverwalterin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4605/4605_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              199.9,
+              207.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Luzern 1977, wo das Werk als «Landschaftsstudie mit dichten Laubbaumgruppen, im Mittelgrund auf Anhöhe ein Kastell» beschrieben ist."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Luzern 1977. Möglicherweise stammt das Werk aus dem Schloss Binz; gemäss Einführungstext des Auktionskatalogs gab es jedoch auch andere Einlieferinnen und Einlieferer."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Luzern 1977."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Objektdatenbank SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Der Auktionskatalog umfasst zwei Teilauktionen; die erste lief vom 15. bis zum 19. und die zweite am 21. und 22. November 1977."
+    },
+    {
+      "nr": 6,
+      "text": "Auf dem Zierrahmen befinden sich Spuren eines früheren Rückseitenschutzes. Ob sich darauf weitere Provenienzmerkmale befunden haben, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 9
+}

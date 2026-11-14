@@ -1,0 +1,460 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4575_221101.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4575",
+      "Alexandre Calame (1810–1864)",
+      "Holzhütte",
+      "1834",
+      "Öl auf Leinwand",
+      "34 × 50 cm (Bildmass)",
+      "49 × 64,5 × 7 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4575",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Holzhütte",
+    "masse": [
+      "34 × 50 cm (Bildmass)",
+      "49 × 64,5 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1834",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4575/4575_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          300.2,
+          434.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Rechnungsbeleg Galerie Römer im Archiv SKKG beziehungsweise Auktionskatalog Wien 1910."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Objektdatenbank der SKKG ist das Werk nicht signiert, wenn auch unten links bezeichnet und datiert. Auf den Digitalisaten ist der entsprechende Wortlaut nicht eindeutig erkennbar. Im Auktionskatalog Wien 1910 ist das Werk als signiert verzeichnet, wobei das Wort «Signiert» auf dem im Wortlaut identischen Auktionsetikett auf der Gemälderückseite weggekratzt ist (siehe Provenienzmerkmale)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1834–1864",
+      "besitzer": "Alexandre Calame (1810–1864)"
+    },
+    {
+      "zeitraum": "1865",
+      "besitzer": "Auktion Hôtel Drouot (Vente Calame), Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Provenienzmerkmale, Siegel der «Vente Calame»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Wien",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Wien 1910."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5./6. Dezember 1910",
+      "besitzer": "Auktion Kunsthandlung Anton Stöckl (Ölgemälde, Aquarelle und Handzeichnungen Alt-Wiener und moderner Meister aus Wiener Privatbesitz, Lot 14, Holzhütte), Wien, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 13. November 1981",
+      "besitzer": "Carl H. Duttweiler",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Rechnungsbeleg Galerie Römer im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 13. November 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von der Galerie Römer, Zürich, eingeliefert vom Schweizerischen Bankverein aus dem Nachlass von Carl H. Duttweiler, Ankaufspreis: 6500 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Ölgemälde, Aquarelle und Handzeichnungen Alt-Wiener und moderner Meister aus Wiener Privatbesitz, Auktionskatalog Anton Stöckl, Wien, 5./6. Dezember 1910, Wien 1910, Lot 14, https://doi.org/10.11588/diglit.35000#0010 [1. November 2022]."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht verzeichnet].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Calame», Filter 1: Suchmeldungen, Filter 2: Malerei [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (47 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 47,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (63 Ergebnisse) für Volltextsuche «Calame» und «Holzhütte» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 63,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 Treffer (4 Ergebnisse) für Volltextsuche «Holzhütte», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]:",
+            "treffer": 1,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "Auktion Anton Stöckl, Wien, 1910 (siehe oben)"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Chalet», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Alm», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-11-01"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/4575/4575_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              360.0,
+              480.2,
+              393.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "0 Treffer (10 Ergebnisse) für Volltextsuche «Hütte», Filter 1: Künstler «Calame» (inklusive aller Variationen der Namensschreibweise) [1. November 2022]"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.1005, NF_0093",
+      "bilder": [
+        {
+          "datei": "images/4575/4575_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            209.0,
+            533.3,
+            442.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnungsbeleg Freihandverkauf Galerie Römer, 13. November 1981"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4575/4575_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.4,
+          319.3,
+          361.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metalplakette, eingraviert «Alex. Calame | 1810–1864»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metalplakette, eingraviert «Alex. Calame | 1810–1864»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4575/4575_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              398.4,
+              320.6,
+              438.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rahmen: ovales rotes Siegel der Vente Calame",
+        "position_traeger": "o. m. Rahmen",
+        "merkmal": "ovales rotes Siegel der Vente Calame",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4575/4575_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              450.0,
+              232.8,
+              508.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rahmen: schwarz gestempelt «P», möglicherweise für «photographed»/«photographié»/«photographiert»",
+        "position_traeger": "o. r. Rahmen",
+        "merkmal": "schwarz gestempelt «P», möglicherweise für «photographed»/«photographié»/«photographiert»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4575/4575_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              520.8,
+              232.8,
+              606.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Rahmen: Fragmente eines alten Etiketts",
+        "position_traeger": "u. r. Rahmen",
+        "merkmal": "Fragmente eines alten Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4575/4575_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              618.2,
+              229.2,
+              685.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Rahmen: langrechteckiges beiges Etikett, schwarz bedruckt, «[…] 14. Alex. CALAME †. Holzhütte. | […] Mit Nachlaßstempel. Leinwand. | H. 34, B. 49 cm»",
+        "position_traeger": "u. l. Rahmen",
+        "merkmal": "langrechteckiges beiges Etikett, schwarz bedruckt, «[…] 14. Alex. CALAME †. Holzhütte. | […] Mit Nachlaßstempel. Leinwand. | H. 34, B. 49 cm»",
+        "kommentar": "Das Etikett entspricht den Angaben im Auktionskatalog Wien 1910.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4575/4575_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              322.3,
+              194.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Rechnungsbeleg Galerie Römer im Archiv SKKG beziehungsweise Auktionskatalog Wien 1910."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Objektdatenbank der SKKG ist das Werk nicht signiert, wenn auch unten links bezeichnet und datiert. Auf den Digitalisaten ist der entsprechende Wortlaut nicht eindeutig erkennbar. Im Auktionskatalog Wien 1910 ist das Werk als signiert verzeichnet, wobei das Wort «Signiert» auf dem im Wortlaut identischen Auktionsetikett auf der Gemälderückseite weggekratzt ist (siehe Provenienzmerkmale)."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Provenienzmerkmale, Siegel der «Vente Calame»."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Wien 1910."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Rechnungsbeleg Galerie Römer im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    }
+  ],
+  "bilder_anzahl": 9
+}

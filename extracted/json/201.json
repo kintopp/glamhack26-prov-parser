@@ -1,0 +1,885 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_201_231026.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2023",
+  "stand_iso": "2023-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 201",
+      "Ferdinand Hodler (1853–1918)",
+      "Gefallener Ritter",
+      "1897/98",
+      "Öl auf Leinwand",
+      "61 × 105 cm (Bildmass)",
+      "78 × 121,5 × 6,5 cm (Rahmenmass)",
+      "unsigniert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "201",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Gefallener Ritter",
+    "masse": [
+      "61 × 105 cm (Bildmass)",
+      "78 × 121,5 × 6,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1897/98",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "unsigniert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/201/201_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          310.4,
+          422.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller 2017."
+      },
+      {
+        "nr": 2,
+        "text": "Auf der Rückseite des Werks findet sich jedoch eine Echtheitsbestätigung von Berthe Hodler-Jacques, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "um 1920",
+      "besitzer": "Berthe Hodler-Jacques (1868–1957), Genf",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Müller 2017. Siehe auch Echtheitsbestätigung von Berthe Hodler-Jacques auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15.–19. November 1977",
+      "besitzer": "Auktion Galerie Fischer (Bedeutende Jubiläums-Auktionen in Luzern, Lot 2140, Liegender Krieger in Rüstung. Studie zu dem Gemälde «Marignano IV»), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Müller 2017, Auktionskatalog Luzern 1977. Das Lot 2140 wurde am 19. November 1977 ausgerufen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. November 1981",
+      "besitzer": "Auktion Sotheby Parke Bernet (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 56, Verwundeter Krieger), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Müller 2017, Auktionskatalog Zürich 1981."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1981–1986",
+      "besitzer": "Privatbesitz, wahrscheinlich angekauft auf Auktion Sotheby Parke Bernet",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Müller 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 16. Januar 1986 bis 13. März 1987",
+      "besitzer": "Galerie Klopfer, Zürich",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Schreiben von Schweizerisches Institut für Kunstwissenschaft (SIK) an Galerie Klopfer vom 16. Januar 1986 in der Objektdatenbank SKKG sowie Erwerbsnachweis auf der Werkrückseite und im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. Oktober 1986",
+      "besitzer": "Galerie Koller, Zürich",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Müller 2017. Worauf die Angabe zur Galerie Koller im Werkkatalog beruht, ist nicht bekannt. Im Oktober 1986 veranstaltete diese keine Auktionen. Das Werk dürfte in dieser Zeit im Besitz der Galerie Klopfer gewesen sein, siehe Fn. 7."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 13. März 1987",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Galerie Klopfer, Ankaufspreis: 24 500 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite und im Archiv SKKG. Müller 2017 mit abweichender Angabe zum Ankaufsjahr."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller, Gefallener Ritter, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Die Figurenbilder. Teilband 1, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2017, Nr. 1299, https://re-cherche.sik-isea.ch/sik:work-6007661 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/201/201_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              372.7,
+              533.2,
+              532.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/201/201_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              539.2,
+              533.2,
+              676.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Bedeutende Jubiläums-Auktionen in Luzern. Nachlass Schloss Binz auf Rügen und aus weiterem Besitz, Auktionskatalog Galerie Fischer, Luzern, 15.–19. November 1977, Luzern 1977, Lot 2140.",
+        "bilder": [
+          {
+            "datei": "images/201/201_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              183.9,
+              478.4,
+              238.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 30. November 1981, Zürich 1981, Lot 56."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» und «Ritter» [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-14"
+          },
+          {
+            "text": "0 Treffer (362 Ergebnisse) für Volltextsuche «Hodler Ritter» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 362,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (49 Ergebnisse) für Volltextsuche «Hodler Marignano» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 49,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Hodler Gefallener» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2023-10-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-14"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» und «Ritter» [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-14"
+          },
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Volltextsuche «Ferdinand Hodler» und «Krieger» [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2023-02-14"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» und «gefallener Krieger» [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-14"
+          },
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-24"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "24. Oktober 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/201/201_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            425.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich, an Galerie Klopfer, Zürich, vom 16. Januar 1986: SIK-Archivauszug mit Hinweis auf Inventarisierung (Nr. 9414), annotiert von Bruno Stefanini und Ursula Netzer (Berechnung des effektiven Ankaufspreises)"
+        }
+      ]
+    },
+    {
+      "datum": "7. Januar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/201/201_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            369.2,
+            558.5,
+            533.0,
+            591.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1977, annotiert (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "7. Januar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/201/201_007_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            139.8,
+            533.3,
+            357.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1981, annotiert (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "24. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1650.1.2 (PDF, S. 286) /A.2152.2.1396.4.2 (PDF, S. 121)",
+      "bilder": [
+        {
+          "datei": "images/201/201_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            433.0,
+            533.0,
+            497.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis zum Freihandkauf bei der Galerie Klopfer 1987"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/201/201_009_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          326.6,
+          336.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: blau gestempelt «105» mit Sternsymbol «R»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "blau gestempelt «105» mit Sternsymbol «R»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              398.9,
+              236.5,
+              439.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit weisser Kreide «13/4/20»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «13/4/20»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.6,
+              474.2,
+              329.1,
+              511.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: schwarz gestempelt vermutlich «61» (vergleiche Provenienzmerkmal auf gegenüberliegender Seite)",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt vermutlich «61» (vergleiche Provenienzmerkmal auf gegenüberliegender Seite)",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              555.4,
+              209.0,
+              618.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Leinwand: schwarz gestempelt «Je soussignée, Berthe Hodler née Jacques | certifie que la peinture cicontre est de la main | de mon mari, Ferdinand Hodler, de son vivant | domicilié à Genève.» und handschriftlich mit schwarzer Tinte «Berthe Hodler»",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "schwarz gestempelt «Je soussignée, Berthe Hodler née Jacques | certifie que la peinture cicontre est de la main | de mon mari, Ferdinand Hodler, de son vivant | domicilié à Genève.» und handschriftlich mit schwarzer Tinte «Berthe Hodler»",
+        "kommentar": "Echtheitsbestätigung von Berthe Hodler",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.5,
+              643.2,
+              327.8,
+              718.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: «[…] | […] | […]» (unleserlich), ausgekratzt mit dunkelblauem Kugelschreiber",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "«[…] | […] | […]» (unleserlich), ausgekratzt mit dunkelblauem Kugelschreiber",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              323.7,
+              214.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «18v»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «18v»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.0,
+              227.3,
+              238.8,
+              280.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: Packpapierstück, handschriftlich mit schwarzem Kugelschreiber «93»",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "Packpapierstück, handschriftlich mit schwarzem Kugelschreiber «93»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              292.8,
+              238.8,
+              406.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «105» mit Sternsymbol",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «105» mit Sternsymbol",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              135.7,
+              419.5,
+              327.7,
+              491.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Leinwand: schwarz gestempelt «Je soussignée, Berthe Hodler née Jacques | certifie que la peinture cicontre est de la main | de mon mari, Ferdinand Hodler, de son vivant | domicilié à Genève.» und handschriftlich mit schwarzer Tinte «Berthe Hodler»",
+        "position_traeger": "l. m. Leinwand",
+        "merkmal": "schwarz gestempelt «Je soussignée, Berthe Hodler née Jacques | certifie que la peinture cicontre est de la main | de mon mari, Ferdinand Hodler, de son vivant | domicilié à Genève.» und handschriftlich mit schwarzer Tinte «Berthe Hodler»",
+        "kommentar": "Echtheitsbestätigung von Berthe Hodler",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              503.9,
+              327.2,
+              583.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: schwarz gestempelt «[…]» (unleserlich)",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "schwarz gestempelt «[…]» (unleserlich)",
+        "kommentar": "Schweizer Zollstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              630.2,
+              198.0,
+              695.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit Bleistift «[…]», mehrfach durchgestrichen",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…]», mehrfach durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.6,
+              708.6,
+              328.9,
+              751.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: schwarz gestempelt «61»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «61»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              140.1,
+              244.6,
+              218.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «18v»",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «18v»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              137.0,
+              230.3,
+              244.5,
+              285.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Klebeetikett, schwarz gedruckt «3777», unterstrichen mit schwarzem Kugelschreiber",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Klebeetikett, schwarz gedruckt «3777», unterstrichen mit schwarzem Kugelschreiber",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              297.7,
+              245.4,
+              332.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, schwarz maschinenbeschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, schwarz maschinenbeschrieben",
+        "kommentar": "Erwerbsnachweis zum Freihandkauf bei der Galerie Klopfer 1987",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_024_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              386.1,
+              327.5,
+              445.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: angeheftete Dokumententasche (für Inhalt siehe Archiv intern)",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "angeheftete Dokumententasche (für Inhalt siehe Archiv intern)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/201/201_025_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              474.5,
+              327.5,
+              617.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller 2017."
+    },
+    {
+      "nr": 2,
+      "text": "Auf der Rückseite des Werks findet sich jedoch eine Echtheitsbestätigung von Berthe Hodler-Jacques, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 3,
+      "text": "Müller 2017. Siehe auch Echtheitsbestätigung von Berthe Hodler-Jacques auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "Müller 2017, Auktionskatalog Luzern 1977. Das Lot 2140 wurde am 19. November 1977 ausgerufen."
+    },
+    {
+      "nr": 5,
+      "text": "Müller 2017, Auktionskatalog Zürich 1981."
+    },
+    {
+      "nr": 6,
+      "text": "Müller 2017."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Schreiben von Schweizerisches Institut für Kunstwissenschaft (SIK) an Galerie Klopfer vom 16. Januar 1986 in der Objektdatenbank SKKG sowie Erwerbsnachweis auf der Werkrückseite und im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Müller 2017. Worauf die Angabe zur Galerie Koller im Werkkatalog beruht, ist nicht bekannt. Im Oktober 1986 veranstaltete diese keine Auktionen. Das Werk dürfte in dieser Zeit im Besitz der Galerie Klopfer gewesen sein, siehe Fn. 7."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite und im Archiv SKKG. Müller 2017 mit abweichender Angabe zum Ankaufsjahr."
+    }
+  ],
+  "bilder_anzahl": 25
+}

@@ -1,0 +1,406 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1669_221101.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1669",
+      "François Diday (1802–1877)",
+      "Bauernszene mit Berglandschaft",
+      "1841",
+      "Öl auf Leinwand",
+      "66 × 100 cm (Bildmass)",
+      "80 × 115 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1669",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Bauernszene mit Berglandschaft",
+    "masse": [
+      "66 × 100 cm (Bildmass)",
+      "80 × 115 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1841",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1669/1669_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          313.4,
+          431.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG. Im Auktionskatalog Zürich 1979 ist das Werk als Bergszene mit Personen verzeichnet."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts monogrammiert, worauf auch das Notat auf dem Keilrahmen auf der Rückseite verweist. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "9.–12. Juli 1979",
+      "besitzer": "Auktion Klopfer (Auktion Villa Buchenhof, Lot 106, Bergszene mit Personen), Villa Buchenhof, Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "10. Juli 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Klopfer",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Versteigerungstag der Gemälde war der 10. Juli 1979, siehe Auktionskatalog Zürich 1979. Allenfalls erwarb Stefanini das Werk im Nachgang, siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG. Zu welchem Preis, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion Villa Buchenhof, Auktionskatalog Klopfer, Zürich, 9.–12. Juli 1979, Zürich 1979, Lot 106."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (28 Ergebnisse) für Suche Filter 1: Volltext/Meta-daten «‹Diday Francois›» [28. Juli 2022]:",
+            "treffer": 1,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "Tableaux, aquarelles, dessins […], Auktionskatalog Galérie Moos, Genf, 24./25. April 1936, Genf 1936, Lot 243 (François Diday, La Plaine du Rhône, Öl auf Leinwand, 90 × 116 cm), https://doi.org/10.11588/diglit.13231#0032 [28. Juli 2022].",
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "Möglich, aber nicht sehr wahrscheinlich. Zwar wäre denkbar, dass das Werk mit der Inventarnummer 1669 das Rhonetal darstellt; seltsam wäre jedoch, dass die Hirten und Kühe im Vordergrund dann nicht erwähnt würden. Zudem passen nur die Rahmenmasse, wobei eine Abweichung von 10 cm vorläge, was nur möglich wäre, wenn das Bild einmal grösser gewesen und beschnitten worden wäre."
+          },
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «Diday», Filter 2: Volltext/Metadaten «1841» [3. August 2022].",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (75 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), ohne Filter [3. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 75,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (64 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 64,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Kühe»/«Kü-hen»/«Kuh» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Berglandschaft» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Keywords «Gebirgslandschaft» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [26. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1669/1669_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            310.1,
+            190.3,
+            531.4,
+            505.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1669/1669_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            310.3,
+            511.4,
+            532.6,
+            692.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini, unter anderem mit der Notiz «Nachverkauf»"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Willy E. Klopfer / Galerie Klopfer, Zürich",
+      "information": "Als Galerist war Willy E. Klopfer spätestens von 1957 bis mindestens 1987 an wechselnden Adressen in Zürich tätig.\n\nWilly E. Klopfer taucht ab 1947 (Galerie des Eaux Vives, Seefeldstrasse 48, Zürich) und bis 1987 in den Zürcher Zeitungen auf (siehe Volltextsuche «Willy Klopfer» und «Galerie Klopfer» im Portal enewspapersarchives.ch, Beschränkung auf Zeitungen aus dem Kanton Zürich [28. Juli 2022]).\n\nAb 1957 gibt es Artikel, die auf seine Tätigkeit als Galerist beziehungsweise Kunsthändler hinweisen (Neue Zürcher Zeitung, Nr. 3138, 1. November 1957, Ausgabe 3, S. 6, www.e-newspaperar-chives.ch/?a=d&d=NZZ19571101-03.2.45.2 [28. Juli 2022]). Erstmals erscheint Klopfer bei der oben beschriebenen Suche bereits im Jahr 1947, als er offenbar als Rahmenhändler beziehungsweise Fachmann für Einrahmungen im Zürcher Seefeld-Quartier tätig war (siehe Webeannonce in: Die Tat, 8. November 1947, S. 16, www.e-newspa-perarchives.ch/?a=d&d=DTT19471108-01.2.99.1 [28. Juli 2022]).\n\n1980 erfolgte der Zusammenschluss der Galerien Kurt Huber (Galerie bzw. Auktionen Villa Ulmberg, Zürich) und Willy E. Klopfer (Galerie Klopfer, Zürich) (Neue Zürcher Zeitung, Nr. 200, 29. August 1980, www.e-newspaperarchives.ch/?a=d&d=NZZ19800829-01.2.61.15 [28. Juli 2022]).\n\nWie lange Willy E. Klopfer lebte oder ob er allenfalls noch heute lebt, ist unklar. Der letzte Artikel (nach oben beschriebener Suche auf enewspaperarchives.ch), der eindeutig seiner Tätigkeit als Galerist in Zürich zugewiesen werden kann, erschien 1987 (Neue Zürcher Zeitung, Nr. 253, 1. November 1987, www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19871101-01.2.22.1 [28. Juli 2022]).\n\nDie auf monetas.ch als aktiv eingetragene Firma «Willy E. Klopfer» soll ihren Standort an der Oberen Heslibachstrasse 89, Küsnacht/ZH, haben. Dazu liessen sich jedoch keine weiteren Informationen finden (https://www.monetas.ch/de/647/Firmendaten-Willy-E-Klop-fer.htm?subj=803154 [28. Juli 2022])."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1669/1669_004_provenienzmerkmale.png",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.4,
+          303.7,
+          334.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "l. u. Zierrahmen: rundes oranges Etikett, handschriftlich mit schwarzem Schreibmittel «106»",
+        "position_traeger": "l. u. Zierrahmen",
+        "merkmal": "rundes oranges Etikett, handschriftlich mit schwarzem Schreibmittel «106»",
+        "kommentar": "Lotnummer Auktion Klopfer, Zürich, Juli 1979",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1669/1669_005_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              372.0,
+              247.7,
+              433.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Leinwand: schwarz gestempelt «VENTE ET LOCATION | DURAND-RUEL […] PARIS | TABLEAUX ET […]»",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "schwarz gestempelt «VENTE ET LOCATION | DURAND-RUEL […] PARIS | TABLEAUX ET […]»",
+        "kommentar": "Unklar, ob durch Durand-Ruel der Verkauf des Gemäldes oder aber der Leinwand (Malereibedarf) erfolgt ist. Adresse unleserlich, dadurch vorerst auch keine Datierung möglich.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1669/1669_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              460.6,
+              311.5,
+              617.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis Auktion Klopfer, Juli 1979, Lot 106, verfasst von Bruno Stefanini",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis Auktion Klopfer, Juli 1979, Lot 106, verfasst von Bruno Stefanini",
+        "kommentar": "Zettel unten abgerissen, Preisangabe fehlt",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1669/1669_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              630.5,
+              311.5,
+              731.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «Diday François 1802 - 1877 | Monogr à gauche F. D. 1841»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Diday François 1802 - 1877 | Monogr à gauche F. D. 1841»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1669/1669_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              139.4,
+              307.2,
+              193.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG. Im Auktionskatalog Zürich 1979 ist das Werk als Bergszene mit Personen verzeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts monogrammiert, worauf auch das Notat auf dem Keilrahmen auf der Rückseite verweist. Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite. Der Versteigerungstag der Gemälde war der 10. Juli 1979, siehe Auktionskatalog Zürich 1979. Allenfalls erwarb Stefanini das Werk im Nachgang, siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG. Zu welchem Preis, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 8
+}

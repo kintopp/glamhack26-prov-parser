@@ -1,0 +1,421 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1896_230706.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "6. Juli 2023",
+  "stand_iso": "2023-07-06",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1896",
+      "Albert Anker (1831–1910)",
+      "Cécile und Marie Anker am Klavier",
+      "o. J.",
+      "Aquarell auf Papier",
+      "18 × 14 cm (Lichtmass)",
+      "50,7 × 44 × 4,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1896",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Cécile und Marie Anker am Klavier",
+    "masse": [
+      "18 × 14 cm (Lichtmass)",
+      "50,7 × 44 × 4,5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Aquarell auf Papier",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1896/1896_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          246.2,
+          263.3,
+          525.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1984, wo das Motiv als «Cécile und Marie Anker beim vierhändigen Klavierspiel» beziehungsweise als «Mädchen beim Klavierspiel» (Bildunterschrift) beschrieben wird."
+      },
+      {
+        "nr": 2,
+        "text": "Im Auktionskatalog Bern 1984 wird eine «Echtheitsbestätigung von Frau Elisabeth Oser» (Enkelin des Künstlers) erwähnt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "15.–30. November 1984",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen. Schweizer Sammlungen und Nachlässe, Lot 1994, Mädchen beim Klavierspiel), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1984."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. November 1984",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 17 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Bern 1984 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Auktionen. Schweizer Sammlungen und Nachlässe, Auktionskatalog Galerie Jürg Stuker, Bern, 15.–30. November 1984, Nr. 259–267 [262], Bern 1984, Lot 1994."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Freitextsuche «Albert Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Freitextsuche «Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Freitextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Freitextsuche «Albert Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (265 Ergebnisse) für Freitextsuche «Anker» und «Klavier» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 265,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Freitextsuche «Cécile Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Freitextsuche «Marie Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (77 Ergebnisse) für Freitextsuche «Albert Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 77,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Freitextsuche «Klavier», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Freitextsuche «Cécile», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Freitextsuche «Marie», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (605 Ergebnisse) für Künstlersuche «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 605,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1896/1896_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            369.0,
+            597.8,
+            532.9,
+            642.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1896/1896_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            133.8,
+            533.5,
+            357.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1984, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1896/1896_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          164.2,
+          289.7,
+          428.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: mit Bleistift aufgebrachtes Symbol oder Buchstabe; nicht eindeutig erkennbar, möglicherweise «E»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "mit Bleistift aufgebrachtes Symbol oder Buchstabe; nicht eindeutig erkennbar, möglicherweise «E»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1896/1896_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              490.8,
+              252.8,
+              578.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Das Werk ist mit einem Rückseitenschutz versehen. Ob sich darunter weitere Provenienzmerkmale befinden, ist zum gegenwärtigen Zeitpunkt nicht bekannt."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: Fragment eines angehefteten Stücks Papier",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "Fragment eines angehefteten Stücks Papier",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1896/1896_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.7,
+              590.9,
+              208.8,
+              651.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit blauem Schreibmittel möglicherweise «14[…]», teilweise durch Rückseitenschutz verdeckt",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel möglicherweise «14[…]», teilweise durch Rückseitenschutz verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1896/1896_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              212.5,
+              217.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit schwarzem Filzstift «5», umkreist",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Filzstift «5», umkreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1896/1896_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              230.3,
+              211.8,
+              295.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1984, wo das Motiv als «Cécile und Marie Anker beim vierhändigen Klavierspiel» beziehungsweise als «Mädchen beim Klavierspiel» (Bildunterschrift) beschrieben wird."
+    },
+    {
+      "nr": 2,
+      "text": "Im Auktionskatalog Bern 1984 wird eine «Echtheitsbestätigung von Frau Elisabeth Oser» (Enkelin des Künstlers) erwähnt."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1984."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Bern 1984 im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Das Werk ist mit einem Rückseitenschutz versehen. Ob sich darunter weitere Provenienzmerkmale befinden, ist zum gegenwärtigen Zeitpunkt nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 8
+}

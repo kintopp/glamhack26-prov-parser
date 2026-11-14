@@ -1,0 +1,500 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5269_220923.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "23. September 2022",
+  "stand_iso": "2022-09-23",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5269",
+      "Caspar Wolf (1735–1783)",
+      "Winterlandschaft mit einem Wanderer im",
+      "Kampf gegen Wölfe",
+      "1770/71",
+      "Öl auf Leinwand",
+      "54 × 67 cm (Bildmass)",
+      "60 × 73 × 4 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5269",
+    "status": "Klar",
+    "kuenstler": "Caspar Wolf (1735–1783)",
+    "titel": "Winterlandschaft mit einem Wanderer im Kampf gegen Wölfe",
+    "masse": [
+      "54 × 67 cm (Bildmass)",
+      "60 × 73 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1770/71",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5269/5269_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.7,
+          318.5,
+          464.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Ausstellungskatalog Basel 2014. Im Ausstellungskatalog Basel 1980 ist das Werk als Winterlandschaft mit Wanderer verzeichnet, im Auktionskatalog Bern 1983 als Winterlandschaft."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich 1770/71 bis 1810",
+      "besitzer": "Joseph Anton Felix Balthasar (1737–1810), Hitzlisberg, Luzern, angekauft beim Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Raeber 1979. Die Familie Balthasar war eine Luzerner Patrizierfamilie. Joseph Anton Felix Balthasar (1737–1810) gehörte zu den frühen Bewunderern Wolfs und besass eine Sammlung von Werken des Künstlers. Sie befand sich im Landgut der Familie, dem 1730–1740 von Franz Urs Balthasar erbauten Hitzlisberg in Luzern, heute Dreilindenareal."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1810 bis vermutlich 1887",
+      "besitzer": "Familie Balthasar, Hitzlisberg/Dreilindenareal, Luzern, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Raeber 1979, S. 54, Fn. 125, und S. 99; siehe auch Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1887 bis 1906",
+      "besitzer": "Dreilindengesellschaft, Liegenschaft Dreilindenareal, Luzern, angekauft von der Familie Balthasar mitsamt der Liegenschaft Dreilindenareal",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ausstellungskatalog Basel 1980. Die Erbinnen und Erben der Familie Balthasar haben die Liegenschaft am 9. Mai 1887 an die Dreilindengesellschaft verkauft. Vermutlich erfolgte danach eine Aufteilung des Grundstücks. 1890 wurde ein Teil von Eleonora Cenci (1851–1915) gekauft, die 1890–1893 auf dem Grundstück Dreilindenpark die Villa Vicovaro (heutige Dreilindenstrasse 93) erbauen liess, siehe Bischof 2018. Ein anderer Teil verblieb bis 1906 im Eigentum der Dreilindengesellschaft (vermutlich heutige Dreilindenstrasse 50), siehe Reinle 1954. Darin dürfte sich die Sammlung der Wolfs befunden haben, die 1906 samt diesem Teil des Grundstücks von Jakob Zimmerli erworben wurde, siehe Trüeb 2012 und Laube 2014."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1906 bis vermutlich 1940",
+      "besitzer": "Dr. Jakob Zimmerli-Glaser (1863–1940), Stadtammann, Luzern, angekauft von der Dreilindengesellschaft",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Raeber 1979, S. 54, Fn. 125."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1940 bis mindestens 14. September 1980",
+      "besitzer": "Dr. med. E. Zimmerli-Boerlin, Riehen, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Raeber 1979 nennt Zimmerli-Boerlin als Eigentümer. Das im Zusammenhang mit der Ausstellung im Kunstmuseum Basel 1980 angebrachte Etikett auf der Werkrückseite vermerkt als Leihgeber «Dr. Zimmerli, Riehen». Das Werk befand sich folglich mindestens bis zum Ausstellungsende am 14. September 1980 in dessen Eigentum."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13.–27. Mai 1983",
+      "besitzer": "Auktion Galerie Jürg Stuker (Auflösung bedeutender Schweizer Sammlungen […], Lot 2080, Winterlandschaft), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1983. Aufgrund der zeitlichen Nähe zur Basler Ausstellung 1980 darf vermutet werden, dass Zimmerli-Boerlin der Einlieferer war."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Mai 1983",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 6500 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Rechnung der Galerie Jürg Stuker im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Willi Raeber, Caspar Wolf, 1735–1783. Sein Leben und sein Werk. Ein Beitrag zur Geschichte der Schweizer Malerei des 18. Jahrhunderts, hrsg. vom Schweizerischen Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 7), Aarau/München 1979, S. 181, Nr. 103."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auflösung bedeutender Schweizer Sammlungen […], Auktionskatalog Galerie Jürg Stuker, Bern, Nr. 228–236, 13.–20. und 24.–27. Mai 1983, Bern 1983, Lot 2080."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Caspar Wolf (1735–1783). Landschaft im Vorfeld der Romantik, Ausstellungskatalog Kunstmuseum Basel, bearbeitet von Yvonne Boerlin-Brodbeck, Basel 1980, S. 32, Nr. 41 (Winterlandschaft mit Wanderer).\n\nCaspar Wolf und die ästhetische Eroberung der Natur, Ausstellungskatalog Kunstmuseum Basel, Basel 2014 (Winterlandschaft mit einem Wanderer im Kampf gegen Wölfe) [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hugo Bischof, Dreilinden: Filmreife Geschichte der Eleonora Cenci, in: Luzerner Zeitung, 14. Januar 2018, https://www.luzernerzei-tung.ch/zentralschweiz/luzern/dreilinden-filmreife-geschichte-der-ele-onora-cenci-ld.94170 [23. September 2022].\n\nBruno Laube, Balthasar, Joseph Anton Felix von, in: Historisches Lexikon der Schweiz (HLS), Version vom 24. Juni 2014, https://hls-dhs-dss.ch/de/articles/011547/2014-06-24 [23. September 2022].\n\nAdolf Reinle, Die Kunstdenkmäler der Schweiz (KdS). Band III. Die Stadt Luzern. II. Teil, Basel 1954, S. 262.\n\nMarkus Trüeb, Zimmerli, Jakob, in: Historisches Lexikon der Schweiz (HLS), Version vom 19. Oktober 2012, https://hls-dhs-dss.ch/de/artic-les/004219/2012-10-19 [23. September 2022]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstmuseum Basel, Caspar Wolf. Landschaft im Vorfeld der Romantik, 15. Juni bis 14. September 1980, Nr. 41.\n\nKunstmuseum Basel, Caspar Wolf und die ästhetische Eroberung der Natur, 19. Oktober 2014 bis 1. Februar 2015."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (50 Ergebnisse) für erweiterte Suche mit Filter: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 50,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (73 Ergebnisse) für erweiterte Suche mit Filter: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (78 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 78,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Caspar Wolf / Caspar Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolf» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolff» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (310 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolff C.» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 310,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (501 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolf C.» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 501,
+            "datum": "2022-09-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (203 Ergebnisse) für erweiterte Suche mit Filter: Künstler enthält «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 203,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (27 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Caspar Wolf›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 27,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Caspar Wolff›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (269 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹C. Wolf›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 269,
+            "datum": "2022-09-14"
+          },
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹C. Wolff›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-09-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche «Caspar Wolf» (inklusive Varianten der Namensschreibweise) [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-09"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5269/5269_002_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            331.5,
+            348.0,
+            533.4,
+            426.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5269/5269_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            332.1,
+            434.9,
+            534.1,
+            620.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5269/5269_004_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            331.5,
+            134.2,
+            531.3,
+            409.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1983, annotiert von Bruno Stefanini, samt beigelegten Notizen"
+        },
+        {
+          "datei": "images/5269/5269_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            331.5,
+            460.8,
+            531.3,
+            602.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung Auktion Galerie Jürg Stuker, Bern, 24. Mai 1983 (Beilage zum Auktionskatalog)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5269/5269_006_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          341.8,
+          319.9,
+          554.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: langrechteckiges weisses Etikett, schwarz maschinenbeschrieben",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "langrechteckiges weisses Etikett, schwarz maschinenbeschrieben",
+        "kommentar": "Informationen zum Kunstwerk",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5269/5269_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              617.3,
+              320.0,
+              670.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gestempelt «2080»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gestempelt «2080»",
+        "kommentar": "Lotnummer Auktion Galerie Jürg Stuker 1983",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5269/5269_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              140.2,
+              214.9,
+              201.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier-/Spannrahmen: rechteckiges beiges Etikett, schwarz bedruckt und maschinenbeschrieben, Ausstellung im Kunstmuseum Basel 1980, Leihgeber: «Dr.Zimmerli, Riehen»",
+        "position_traeger": "o. l. Zier-/Spannrahmen",
+        "merkmal": "rechteckiges beiges Etikett, schwarz bedruckt und maschinenbeschrieben, Ausstellung im Kunstmuseum Basel 1980, Leihgeber: «Dr.Zimmerli, Riehen»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5269/5269_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              228.6,
+              320.0,
+              311.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Ausstellungskatalog Basel 2014. Im Ausstellungskatalog Basel 1980 ist das Werk als Winterlandschaft mit Wanderer verzeichnet, im Auktionskatalog Bern 1983 als Winterlandschaft."
+    },
+    {
+      "nr": 2,
+      "text": "Raeber 1979. Die Familie Balthasar war eine Luzerner Patrizierfamilie. Joseph Anton Felix Balthasar (1737–1810) gehörte zu den frühen Bewunderern Wolfs und besass eine Sammlung von Werken des Künstlers. Sie befand sich im Landgut der Familie, dem 1730–1740 von Franz Urs Balthasar erbauten Hitzlisberg in Luzern, heute Dreilindenareal."
+    },
+    {
+      "nr": 3,
+      "text": "Raeber 1979, S. 54, Fn. 125, und S. 99; siehe auch Fn. 4."
+    },
+    {
+      "nr": 4,
+      "text": "Ausstellungskatalog Basel 1980. Die Erbinnen und Erben der Familie Balthasar haben die Liegenschaft am 9. Mai 1887 an die Dreilindengesellschaft verkauft. Vermutlich erfolgte danach eine Aufteilung des Grundstücks. 1890 wurde ein Teil von Eleonora Cenci (1851–1915) gekauft, die 1890–1893 auf dem Grundstück Dreilindenpark die Villa Vicovaro (heutige Dreilindenstrasse 93) erbauen liess, siehe Bischof 2018. Ein anderer Teil verblieb bis 1906 im Eigentum der Dreilindengesellschaft (vermutlich heutige Dreilindenstrasse 50), siehe Reinle 1954. Darin dürfte sich die Sammlung der Wolfs befunden haben, die 1906 samt diesem Teil des Grundstücks von Jakob Zimmerli erworben wurde, siehe Trüeb 2012 und Laube 2014."
+    },
+    {
+      "nr": 5,
+      "text": "Raeber 1979, S. 54, Fn. 125."
+    },
+    {
+      "nr": 6,
+      "text": "Raeber 1979 nennt Zimmerli-Boerlin als Eigentümer. Das im Zusammenhang mit der Ausstellung im Kunstmuseum Basel 1980 angebrachte Etikett auf der Werkrückseite vermerkt als Leihgeber «Dr. Zimmerli, Riehen». Das Werk befand sich folglich mindestens bis zum Ausstellungsende am 14. September 1980 in dessen Eigentum."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1983. Aufgrund der zeitlichen Nähe zur Basler Ausstellung 1980 darf vermutet werden, dass Zimmerli-Boerlin der Einlieferer war."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Rechnung der Galerie Jürg Stuker im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 9
+}

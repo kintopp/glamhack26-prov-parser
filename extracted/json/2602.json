@@ -1,0 +1,367 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2602_221101.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2602",
+      "François Diday (1802–1877)",
+      "Junges Mädchen in Biedermeiertracht",
+      "o. J.",
+      "Öl auf Leinwand",
+      "47 × 38 cm (Bildmass)",
+      "63 × 53,5 × 7,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2602",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Junges Mädchen in Biedermeiertracht",
+    "masse": [
+      "47 × 38 cm (Bildmass)",
+      "63 × 53,5 × 7,5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2602/2602_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          300.2,
+          466.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Dino Comuzzi, Galerie San Marco. In der Kaufvereinbarung im Archiv SKKG wird das Werk Junges Mädchen in Biedermeiertracht mit Landschaft und See genannt, ergänzt um die in Klammern gesetzte Vermutung «Genfersee mit Schloss Chillon?»."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Objektdatenbank SKKG ist das Werk unten links signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 6. Juni 1986",
+      "besitzer": "Dino Comuzzi, Galerie San Marco, Winterthur",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Dino Comuzzi hatte eine Kunsthandlung in Winterthur. Stefanini stand in den Jahren 1977–1995 in geschäftlicher Verbindung mit ihm, siehe Archivalien im Archiv SKKG."
+        },
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Kaufvereinbarung im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 6. Juni 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Dino Comuzzi, Ankaufspreis: 13 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Diday Francois›» [28. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Mädchen in Biedermeiertracht›» [30. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-08-30"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Frau in Biedermeiertracht›» [30. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2022-08-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          },
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Suche Filter 1: Object Type «painting», Filter 2: Keywords (match all words) «Biedermeier Mädchen» [3. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Suche Filter 1: Object Type «painting», Filter 2: Keywords (match all words) «Biedermeier Frau» [3. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-08-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Diday» [26. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.412, NF_0023\n\nDino Comuzzi hatte eine Kunsthandlung in Winterthur. Stefanini stand zwischen 1977 und 1995 mit ihm in geschäftlicher Verbindung.\n\nEine Suche im Handelsregister des Kantons Zürich nach der Galerie San Marco in Winterthur ergab keine Treffer; eine in Ancestry nach Dino Comuzzi, Europa, ebenfalls nicht. Auch eine Volltextsuche des Staatsarchivs Zürich nach «Comuzzi» ergab weder Ergebnisse noch Treffer [30. August 2022].",
+      "bilder": [
+        {
+          "datei": "images/2602/2602_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            331.2,
+            384.5,
+            530.9,
+            661.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/2602/2602_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            331.2,
+            133.7,
+            529.7,
+            402.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kaufvereinbarung zwischen Dino Comuzzi, Galerie San Marco, Wülflingerstrasse 25, Winterthur, und Bruno Stefanini, 6. Juni 1986, verfasst von Bruno Stefanini und Dino Comuzzi"
+        },
+        {
+          "datei": "images/2602/2602_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            331.2,
+            133.7,
+            529.7,
+            413.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Preisvorschlag/Rechenbeleg (?) für Herrn Comuzzi, verfasst von Dora Bösiger, 6. Juni 1986"
+        },
+        {
+          "datei": "images/2602/2602_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            331.2,
+            475.9,
+            529.7,
+            595.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Visitenkarte Dino Comuzzi, Galerie San Marco, Ecke Neuwiesenstrasse /Wartstrasse 29, 8400 Winterthur, datiert 1. Dezember 1981"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2602/2602_006_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.4,
+          290.2,
+          434.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis, verfasst von Ursula Netzer, Schlossverwalterin Brestenberg, Freihandkauf Comuzzi von «Mai 86»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis, verfasst von Ursula Netzer, Schlossverwalterin Brestenberg, Freihandkauf Comuzzi von «Mai 86»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2602/2602_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              496.3,
+              290.6,
+              620.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Eigentlich 6. Juni 1986, siehe Kaufvereinbarung im Archiv SKKG."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 6,
+        "text": "Zur Signatur siehe Fn. 2."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Dino Comuzzi, Galerie San Marco. In der Kaufvereinbarung im Archiv SKKG wird das Werk Junges Mädchen in Biedermeiertracht mit Landschaft und See genannt, ergänzt um die in Klammern gesetzte Vermutung «Genfersee mit Schloss Chillon?»."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Objektdatenbank SKKG ist das Werk unten links signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Dino Comuzzi hatte eine Kunsthandlung in Winterthur. Stefanini stand in den Jahren 1977–1995 in geschäftlicher Verbindung mit ihm, siehe Archivalien im Archiv SKKG."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Kaufvereinbarung im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 6,
+      "text": "Zur Signatur siehe Fn. 2."
+    },
+    {
+      "nr": 7,
+      "text": "Eigentlich 6. Juni 1986, siehe Kaufvereinbarung im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 7
+}

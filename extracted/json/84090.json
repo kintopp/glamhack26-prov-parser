@@ -1,0 +1,705 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_84090_231026.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2023",
+  "stand_iso": "2023-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 84090",
+      "Ferdinand Hodler (1853–1918)",
+      "Mäher",
+      "1895",
+      "Öl auf Leinwand",
+      "285 × 107,5 cm (Bildmass)",
+      "301,5 × 124,5 × 5,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "84090",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Mäher",
+    "masse": [
+      "285 × 107,5 cm (Bildmass)",
+      "301,5 × 124,5 × 5,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1895",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/84090/84090_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          181.2,
+          514.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Bolleter 2017."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1916",
+      "besitzer": "Dr. Reimann, Pully",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1916/1917",
+      "besitzer": "Albert Merguin, Pully",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1918",
+      "besitzer": "Louis F. Pando, Lausanne",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1921",
+      "besitzer": "Samuel Jean Alfred und Alice Hermine Jeanne Fontannaz-Hoehn, Lausanne",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "April 1923",
+      "besitzer": "Jean Samuel Frédéric Fontannaz, Lausanne, vermutlich erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "August 1923",
+      "besitzer": "Rodolphe Dunki (1897–1950), Genf",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. Oktober 1937",
+      "besitzer": "Auktion Galerie Moos (Tableaux Anciens […], Tableaux Modernes […], Lot 123, Le faucheur), Genf, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auktionskatalog Genf 1937, Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 12. Juni 1995",
+      "besitzer": "Privatbesitz, wahrscheinlich M. Fröhlich",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Etikett auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12. Juni 1995",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Lot 56, Der Mäher), Zürich, eingeliefert von unbekannt, wahrscheinlich M. Fröhlich",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Auktionskatalog Zürich 1995, Bolleter 2017."
+        },
+        {
+          "nr": 11,
+          "text": "Siehe Etikett auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 12. Juni 1995",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 80 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Regula Bolleter, Mäher, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Die Figurenbilder. Teilband 1, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 1270, https://www.ferdinand-hodler.ch/werke.aspx?id=9899392 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/84090/84090_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              523.9,
+              334.3,
+              560.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/84090/84090_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              573.1,
+              334.7,
+              665.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/84090/84090_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              139.8,
+              334.7,
+              355.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/84090/84090_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              361.8,
+              334.7,
+              544.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/84090/84090_006_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              550.8,
+              334.7,
+              731.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/84090/84090_007_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              133.8,
+              334.7,
+              256.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Tableaux Anciens […], Tableaux Modernes […], Auktionskatalog Galerie Moos, Genf, 30. Oktober 1937, Genf 1937, Lot 123, https://doi.org/10.11588/diglit.13229#0031 [25. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/84090/84090_008_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              313.5,
+              334.7,
+              506.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          },
+          {
+            "datei": "images/84090/84090_009_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              513.0,
+              419.4,
+              573.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 12. Juni 1995, Zürich 1995, Lot 56 [fehlt im Archiv SKKG]."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Der vollständige Titel des Auktionskatalogs ist der folgenden Abbildung zu entnehmen. Die Lotgruppe, zu der das vorliegende Werk gehört, wurde auf dem Titelblatt wie folgt beschrieben: «20 TABLEAUX IMPORTANTS DE FERDINAND HODLER | provenant des collections de | Feu M. le Dr JOHANNES WIDMER | GENÈVE | et de | M. le Prof. A. STRAUSS | VIENNE | ainsi que d’autre provenance». Somit ist unklar, ob das Gemälde aus der Sammlung Widmer, Genf, aus der Sammlung Strauss, Wien, oder anderswoher kam."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Exposition Nationale Suisse, Genf, Art Moderne, Groupe XXIV, 1. Mai bis 15. Oktober 1896.\n\nKunstmuseum Bern, Hodler-Gedächtnis-Ausstellung, 20. August bis 23. Oktober 1921, Nr. 286 (Der Mäher)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche mit Filter: Künstler «Ferdinand Hodler» [21. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (63 Ergebnisse) für Volltextsuche «‹Hodler› und ‹Mäher›» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 63,
+            "datum": "2023-10-26"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche ‹Hodler› und ‹tosaerba›» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-26"
+          },
+          {
+            "text": "1 Treffer (10 Ergebnisse) für Volltextsuche «‹Hodler› und ‹Faucheur›» [26. Oktober 2023]: siehe Auktionskatalog Genf 1937 (oben).",
+            "treffer": 1,
+            "ergebnisse": 10,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Volltextsuche «Mäher» und «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [21. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2023-02-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-24"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "26. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (3 Ergebnisse) für Suche «Mäher»\n\n0 Treffer (8 Ergebnisse) für Suche «Sense»"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/84090/84090_010_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          198.9,
+          491.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit brauner Farbe «F. H.»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit brauner Farbe «F. H.»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              528.5,
+              192.9,
+              571.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: nicht erkennbar",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "nicht erkennbar",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              591.6,
+              193.1,
+              638.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: verbräunter Stempel, vermutlich schabloniert, teilweise verdeckt",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "verbräunter Stempel, vermutlich schabloniert, teilweise verdeckt",
+        "kommentar": "Geschäft für Künstlerbedarf Ch. Corfu, Genf",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              650.9,
+              277.0,
+              747.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Leinwand: verbräunter Stempel mit Anker-Emblem, darunter gestempelt «Marque Déposée»",
+        "position_traeger": "u. m. Leinwand",
+        "merkmal": "verbräunter Stempel mit Anker-Emblem, darunter gestempelt «Marque Déposée»",
+        "kommentar": "Stempel des Leinwandproduzenten, wohl Corfu, Genf (siehe vorausgehendes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              216.7,
+              230.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «PROP. M. FRÖHLICH», handschriftlich mit blauem Kugelschreiber «[E/C]S 26 870»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «PROP. M. FRÖHLICH», handschriftlich mit blauem Kugelschreiber «[E/C]S 26 870»",
+        "kommentar": "aufgebracht für Auktion Sotheby’s 1995, wohl Angabe des Einlieferers M. Fröhlich",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              242.6,
+              277.1,
+              334.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: schwarz gestempelte Buchstaben, vermutlich Initialen, darunter möglicherweise runder Stempel",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "schwarz gestempelte Buchstaben, vermutlich Initialen, darunter möglicherweise runder Stempel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              347.1,
+              277.5,
+              397.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Fotokopie, maschinenschriftlich beschrieben, handschriftlich mit schwarzem Schreibmittel «Z 80’000.– | 256’800.–»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Fotokopie, maschinenschriftlich beschrieben, handschriftlich mit schwarzem Schreibmittel «Z 80’000.– | 256’800.–»",
+        "kommentar": "Erwerbsnachweis Auktion Sotheby’s vom 12. Juni 1995, Lot 56, mit Angabe des Zuschlagspreises",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              410.6,
+              277.1,
+              480.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Wofür der höhere Betrag steht, ist unklar; möglicherweise handelt es sich um die Summe mehrerer Ankäufe."
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: quadratisches weiss-blaues Etikett, unten perforiert, handschriftlich mit schwarzem Filzstift «80»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "quadratisches weiss-blaues Etikett, unten perforiert, handschriftlich mit schwarzem Filzstift «80»",
+        "kommentar": "wohl aufgebracht von Ursula Netzer, Schlossverwalterin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/84090/84090_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              500.2,
+              194.9,
+              556.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Bolleter 2017."
+    },
+    {
+      "nr": 2,
+      "text": "Bolleter 2017."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Genf 1937, Bolleter 2017."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 10,
+      "text": "Auktionskatalog Zürich 1995, Bolleter 2017."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 13,
+      "text": "Der vollständige Titel des Auktionskatalogs ist der folgenden Abbildung zu entnehmen. Die Lotgruppe, zu der das vorliegende Werk gehört, wurde auf dem Titelblatt wie folgt beschrieben: «20 TABLEAUX IMPORTANTS DE FERDINAND HODLER | provenant des collections de | Feu M. le Dr JOHANNES WIDMER | GENÈVE | et de | M. le Prof. A. STRAUSS | VIENNE | ainsi que d’autre provenance». Somit ist unklar, ob das Gemälde aus der Sammlung Widmer, Genf, aus der Sammlung Strauss, Wien, oder anderswoher kam."
+    },
+    {
+      "nr": 14,
+      "text": "Wofür der höhere Betrag steht, ist unklar; möglicherweise handelt es sich um die Summe mehrerer Ankäufe."
+    }
+  ],
+  "bilder_anzahl": 18
+}

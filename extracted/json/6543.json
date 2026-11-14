@@ -1,0 +1,469 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6543_220921.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "21. September 2022",
+  "stand_iso": "2022-09-21",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6543",
+      "Caspar Wolf (1735–1783)",
+      "Das Urnerloch bei Ursenen",
+      "o. J.",
+      "Öl auf Leinwand",
+      "55 × 82 cm (Bildmass)",
+      "65 × 92 × 4 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6543",
+    "status": "Ungeklärt",
+    "kuenstler": "Caspar Wolf (1735–1783)",
+    "titel": "Das Urnerloch bei Ursenen",
+    "masse": [
+      "55 × 82 cm (Bildmass)",
+      "65 × 92 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6543/6543_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          298.5,
+          404.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Im Auktionskatalog Bern 1978 wurde das Werk Johann Heinrich Wüest (1741–1821) zugeschrieben. Wann die Zuschreibung sich änderte, ist unklar. Weder der Erwerbsnachweis in der Objektdatenbank SKKG noch die im Auktionskatalog ebenfalls erwähnte «Originalbeschriftung» – das Etikett auf der Werkrückseite – enthalten einen Hinweis auf die Autorschaft. Es wurde jedoch von derselben Hand verfasst wie jenes auf der Rückseite des Werks mit der Inventarnummer 5387, das vom Auktionshaus Christie’s Caspar Wolf zugeordnet wurde."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Etikett auf der Werkrückseite. Dort ist der Titel mit dem Zusatz «Canton Uri» versehen. Im Auktionskatalog Bern 1978 ist das Werk als Ansicht des Urnerloches von Süden verzeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "16. November bis 6. Dezember 1978",
+      "besitzer": "Auktion Galerie Jürg Stuker (Hochbedeutende Jubiläums-Auktionen, Lot 2035, Ansicht des Urnerloches von Süden), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1978."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21. November 1978 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Jürg Stuker",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Der genaue Ankaufspreis ist nicht bekannt. Der Schätzpreis betrug 12 000 Franken. Im annotierten Auktionskatalog Bern 1978 im Archiv SKKG notierte Stefanini, vermutlich im Vorfeld der Auktion, den Wert von 7000 Franken sowie eingekreist, vermutlich der Zuschlagspreis, jenen von 32 000 Franken für die beiden auf der Auktion angebotenen Werke des Künstlers (Lot 2035 und 2036) zusammen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Willi Raeber, Caspar Wolf, 1735–1783. Sein Leben und sein Werk. Ein Beitrag zur Geschichte der Schweizer Malerei des 18. Jahrhunderts, hrsg. vom Schweizerischen Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 7), Aarau/München 1979 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Hochbedeutende Jubiläums-Auktionen, Auktionskatalog Galerie Jürg Stuker, Bern, Nr. 167–178 [170], 16. November bis 6. Dezember und 9.–14. Dezember 1978, Bern 1978, Lot 2035."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (50 Ergebnisse) für erweiterte Suche mit Filter: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 50,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (73 Ergebnisse) für erweiterte Suche mit Filter: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (78 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 78,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Caspar Wolf / Caspar Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolf» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolff» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (310 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolff C.» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 310,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (501 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolf C.» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 501,
+            "datum": "2022-09-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (203 Ergebnisse) für erweiterte Suche mit Filter: Künstler enthält «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 203,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (27 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Caspar Wolf›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 27,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Caspar Wolff›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (269 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹C. Wolf›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 269,
+            "datum": "2022-09-14"
+          },
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹C. Wolff›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-09-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche «Caspar Wolf» (inklusive Varianten der Namensschreibweise) [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-09"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/6543/6543_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            531.9,
+            419.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/6543/6543_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            432.9,
+            533.7,
+            531.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1978, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/6543/6543_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            574.9,
+            533.4,
+            693.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Galerie Jürg Stuker, Herbst (eigentlich Winter) 1978, verfasst von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6543/6543_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          306.8,
+          514.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Spannrahmen: handschriftlich mit Bleistift «3»",
+        "position_traeger": "o. m. Spannrahmen",
+        "merkmal": "handschriftlich mit Bleistift «3»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6543/6543_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              577.9,
+              193.4,
+              638.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: zwei langrechteckige beige Etiketten, handschriftlich mit Bleistift «Beidseitig | je – 2» und «Tafel 93 | 270 | 16 × 11»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "zwei langrechteckige beige Etiketten, handschriftlich mit Bleistift «Beidseitig | je – 2» und «Tafel 93 | 270 | 16 × 11»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6543/6543_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              650.5,
+              306.2,
+              698.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich mit blauem Schreibmittel «223»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «223»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6543/6543_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              229.4,
+              201.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: beige-braunes rechteckiges Etikett, handschriftlich mit verbräunter Tinte in Kurrentschrift «daß urner loch – | bey Ursenen | Canton Uri»",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "beige-braunes rechteckiges Etikett, handschriftlich mit verbräunter Tinte in Kurrentschrift «daß urner loch – | bey Ursenen | Canton Uri»",
+        "kommentar": "offenbar Beschreibung des Motivs",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6543/6543_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              214.2,
+              306.3,
+              338.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Der Auktionskatalog Bern 1978 bezeichnet die Aufschrift als «Originalbeschriftung»."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Im Auktionskatalog Bern 1978 wurde das Werk Johann Heinrich Wüest (1741–1821) zugeschrieben. Wann die Zuschreibung sich änderte, ist unklar. Weder der Erwerbsnachweis in der Objektdatenbank SKKG noch die im Auktionskatalog ebenfalls erwähnte «Originalbeschriftung» – das Etikett auf der Werkrückseite – enthalten einen Hinweis auf die Autorschaft. Es wurde jedoch von derselben Hand verfasst wie jenes auf der Rückseite des Werks mit der Inventarnummer 5387, das vom Auktionshaus Christie’s Caspar Wolf zugeordnet wurde."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Etikett auf der Werkrückseite. Dort ist der Titel mit dem Zusatz «Canton Uri» versehen. Im Auktionskatalog Bern 1978 ist das Werk als Ansicht des Urnerloches von Süden verzeichnet."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1978."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Der genaue Ankaufspreis ist nicht bekannt. Der Schätzpreis betrug 12 000 Franken. Im annotierten Auktionskatalog Bern 1978 im Archiv SKKG notierte Stefanini, vermutlich im Vorfeld der Auktion, den Wert von 7000 Franken sowie eingekreist, vermutlich der Zuschlagspreis, jenen von 32 000 Franken für die beiden auf der Auktion angebotenen Werke des Künstlers (Lot 2035 und 2036) zusammen."
+    },
+    {
+      "nr": 5,
+      "text": "Der Auktionskatalog Bern 1978 bezeichnet die Aufschrift als «Originalbeschriftung»."
+    }
+  ],
+  "bilder_anzahl": 9
+}

@@ -1,0 +1,423 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_24731_230703.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Juli 2023",
+  "stand_iso": "2023-07-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 24731",
+      "Albert Anker (1831–1910)",
+      "Jeune Bernoise / Mädchen in Tracht",
+      "o. J.",
+      "Grafitstift auf Papier",
+      "41 × 30 cm (Lichtmass)",
+      "47 × 32 cm (Blattmass)",
+      "60,5 × 47,5 × 3,3 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "24731",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Jeune Bernoise / Mädchen in Tracht",
+    "masse": [
+      "41 × 30 cm (Lichtmass)",
+      "47 × 32 cm (Blattmass)",
+      "60,5 × 47,5 × 3,3 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Grafitstift auf Papier",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/24731/24731_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          297.1,
+          446.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel nach Plakette auf dem Zierrahmen, siehe Provenienzmerkmale."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel nach Auktionskatalog Zürich 1979."
+      },
+      {
+        "nr": 3,
+        "text": "Der Auktionskatalog Zürich 1979 gibt «Kohlezeichnung» an."
+      },
+      {
+        "nr": 4,
+        "text": "Für den dazugehörigen Rahmen siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "19. Mai 1979",
+      "besitzer": "Auktion Sotheby Parke Bernet (Eine bedeutende Sammlung Schweizer Gemälde des 19. und 20. Jahrhunderts, Lot 11, Mädchen in der Tracht), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. Mai 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby Parke Bernet, Zuschlagspreis: 22 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen ins Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Eine bedeutende Sammlung Schweizer Gemälde des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 19. Mai 1979, Zürich 1979, Lot 11."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker», Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [5. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker»: Die Ergebnisse wurden angesichts der hohen Anzahl mit weiteren Begriffen eingegrenzt:",
+            "ergebnisse": 6938
+          },
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Volltextsuche «Anker» und «jeune bernoise» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-07-05"
+          },
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Anker» und «Mädchen in Tracht» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (303 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Object Type «drawing» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 303,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "5. Juli 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/24731/24731_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            291.3,
+            503.6,
+            447.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/24731/24731_003_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            491.5,
+            449.6,
+            529.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "vermutlich alte SKKG-Inventarnummer"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe auch Provenienzmerkmale."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/24731/24731_004_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          165.3,
+          293.0,
+          470.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      },
+      {
+        "datei": "images/24731/24731_005_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          494.8,
+          227.5,
+          675.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Separater Rahmen"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallplakette, graviert «A. ANKER | Jeune Bernoise»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallplakette, graviert «A. ANKER | Jeune Bernoise»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/24731/24731_006_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              713.7,
+              292.0,
+              748.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "m. l. Blatt: handschriftlich mit schwarzem Schreibmittel «Anker»",
+        "position_traeger": "m. l. Blatt",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Anker»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/24731/24731_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              139.8,
+              249.6,
+              204.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Passepartout: handschriftlich mit Bleistift «Inv. 2400»",
+        "position_traeger": "u. r. Passepartout",
+        "merkmal": "handschriftlich mit Bleistift «Inv. 2400»",
+        "kommentar": "vermutlich alte SKKG-Inventarnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/24731/24731_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              217.4,
+              249.6,
+              265.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Siehe auch Etikett in der Objektdatenbank SKKG unter «Archiv intern»."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel nach Plakette auf dem Zierrahmen, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel nach Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 3,
+      "text": "Der Auktionskatalog Zürich 1979 gibt «Kohlezeichnung» an."
+    },
+    {
+      "nr": 4,
+      "text": "Für den dazugehörigen Rahmen siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe auch Provenienzmerkmale."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe auch Etikett in der Objektdatenbank SKKG unter «Archiv intern»."
+    }
+  ],
+  "bilder_anzahl": 8
+}

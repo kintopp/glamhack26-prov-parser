@@ -1,0 +1,595 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1496_250605.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "5. Juni 2025",
+  "stand_iso": "2025-06-05",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1496",
+      "Frank Buchser (1828–1890)",
+      "Fischermädchen mit Korb",
+      "Öl auf Holz",
+      "1875",
+      "21,5 × 17,8 cm (Bildmass)",
+      "38,7 × 35 × 4,4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1496",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Fischermädchen mit Korb",
+    "masse": [
+      "21,5 × 17,8 cm (Bildmass)",
+      "38,7 × 35 × 4,4 cm (Rahmenmass)"
+    ],
+    "datierung": "1875",
+    "technik": "Öl auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1496/1496_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          496.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1985."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "15. April bis 9. Mai 1915",
+      "besitzer": "möglicherweise Verkaufsausstellung Kunsthaus Zürich (Nr. 213, Fischermädchen mit Korb, auf einem Felsen am Meere sitzend. England), Katalogpreis: 3000 Franken",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ausstellungskatalog Zürich 1915. Obschon der Titel passen würde, bleibt unklar, ob es sich um das vorliegende Bild handelt. Fischermädchen waren ein beliebtes Motiv von Buchser. An jener Ausstellung wurden vier weitere Werke des Künstlers mit ähnlichem Motiv gezeigt (Nr. 212–215, siehe unten)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17. Mai bis 1. Juni 1985",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen. Schweizer Sammlungen und Nachlässe, Lot 1727, Fischermädchen mit Korb), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1985."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. Mai 1985",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 16 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Bern 1985 sowie Erwerbsliste vom Mai 1985 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Auktionen. Schweizer Sammlungen und Nachlässe, Auktionskatalog Galerie Jürg Stuker, Bern, 17. Mai bis 1. Juni 1985, Bern 1985, Lot 1727."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "",
+        "bilder": [
+          {
+            "datei": "images/1496/1496_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              360.1,
+              419.2,
+              386.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog",
+            "bildtitel": "Kunsthaus Zürich. Ausstellung. 15. April bis 9. Mai 1915, Ausstellungskatalog Kunsthaus Zürich, Zürich 1915, möglicherweise Nr. 213, https://digital.kunsthaus.ch/viewer/image/47772/11 [23. Juli 2025]"
+          },
+          {
+            "datei": "images/1496/1496_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              417.5,
+              419.4,
+              519.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog",
+            "bildtitel": "Weitere Buchser-Werke dieser Ausstellung mit ähnlichem Motiv"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Siehe Fn. 2."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Frank Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (105 Ergebnisse) für Suche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 105,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Suche «Fischermädchen» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche nach Objekt/Titel «Fischermädchen» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank» mit Filter: Publication Name «EU, Ardelia Hall Collection: Wiesbaden Administrative Records, 1945–1952» und «EU, Ardelia Hall Collection: OMGUS Records, 1938–1951» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Suche «Buchser», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Fischermädchen» ohne Filter (3. Juni 2025)",
+            "treffer": 0,
+            "ergebnisse": 0
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche nach «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Frank Buchser» [4. Juni 2025]",
+            "treffer": 0,
+            "datum": "2025-06-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Frank Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "2 mögliche Treffer (352 Ergebnisse) für Volltextsuche «Fischermädchen» [3. Juni 2025]:",
+            "treffer": 2,
+            "ergebnisse": 352,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "2. Frank Buchser (1828–1890), Ausstellungskatalog Salon Bollag, Zürich, Zürich 1915, Nr. 23, https://doi.org/10.11588/diglit.73099#0026 [3. Juni 2025]:",
+            "datum": "2025-06-03"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/1496/1496_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              657.0,
+              459.8,
+              692.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "German Sales",
+            "bildtitel": "1. Katalog der Gemälde und Zeichnungen […], Auktionskatalog Salon Bollag, Zürich, 26./27. März 1920, Zürich 1920, Lot 9, https://doi.org/10.11588/diglit.22316#0004 [3. Juni 2025]",
+            "bildunterschrift": "Die Masse stimmen allerdings nicht ganz."
+          },
+          {
+            "datei": "images/1496/1496_005_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              139.8,
+              457.2,
+              165.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "German Sales",
+            "bildunterschrift": "Die Masse stimmen allerdings nicht ganz."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Volltextsuche «Buchser» (inklusive Varianten der Namensschreibweise) [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Stichwort «Fischermädchen» und Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Fischermädchen» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Fischermädchen» (3. Juni 2025)",
+            "treffer": 0,
+            "ergebnisse": 0
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Fischermädchen» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Suche in Auktionskatalogen, Filter: Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche in Auktionskatalogen, Filter: Keyword «Fischermädchen» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2025-06-03"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "Auktionskatalog Bern 1985, annotiert von Bruno Stefanini",
+      "bilder": [
+        {
+          "datei": "images/1496/1496_006_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            713.3,
+            534.7,
+            739.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    },
+    {
+      "datum": "3. Juni 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1651 (PDF, S. 195)",
+      "bilder": [
+        {
+          "datei": "images/1496/1496_007_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.2,
+            533.0,
+            211.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsliste mit Ankäufen von Auktionen der Galerie Jürg Stuker, Bern, vom Mai 1985, bestehend aus lotspezifischen Ausschnitten des Auktionskatalogs, annotiert mit Ankaufspreis (Zuschlagspreis plus Aufgeld)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1496/1496_008_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          322.0,
+          450.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich in die Malschicht eingebracht «FBuchser»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich in die Malschicht eingebracht «FBuchser»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1496/1496_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              487.7,
+              320.3,
+              556.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubte Metallplakette, schwarz eingraviert «F. BUCH-SER»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubte Metallplakette, schwarz eingraviert «F. BUCH-SER»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1496/1496_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              569.2,
+              320.5,
+              608.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «1726»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «1726»",
+        "kommentar": "Auktion Galerie Jürg Stuker 1985, Lot 1726 (1727)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1496/1496_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              620.7,
+              210.7,
+              677.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Die richtige Lotnummer wäre 1727, siehe Auktionskatalog Bern 1985."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. Holzplatte (Bildträger): handschriftlich mit schwarzem Schreibmittel «F. Buchser | 1875/1876 | peintre suisse»",
+        "position_traeger": "m. Holzplatte (Bildträger)",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «F. Buchser | 1875/1876 | peintre suisse»",
+        "kommentar": "Bezeichnung des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1496/1496_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              320.2,
+              255.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Transkription der letzten Zeile nach Auktionskatalog Bern 1985."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1985."
+    },
+    {
+      "nr": 2,
+      "text": "Ausstellungskatalog Zürich 1915. Obschon der Titel passen würde, bleibt unklar, ob es sich um das vorliegende Bild handelt. Fischermädchen waren ein beliebtes Motiv von Buchser. An jener Ausstellung wurden vier weitere Werke des Künstlers mit ähnlichem Motiv gezeigt (Nr. 212–215, siehe unten)."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1985."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Bern 1985 sowie Erwerbsliste vom Mai 1985 im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 2."
+    },
+    {
+      "nr": 6,
+      "text": "Die richtige Lotnummer wäre 1727, siehe Auktionskatalog Bern 1985."
+    },
+    {
+      "nr": 7,
+      "text": "Transkription der letzten Zeile nach Auktionskatalog Bern 1985."
+    }
+  ],
+  "bilder_anzahl": 12
+}

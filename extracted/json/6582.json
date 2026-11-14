@@ -1,0 +1,938 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6582_250211.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "11. Februar 2025",
+  "stand_iso": "2025-02-11",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6582",
+      "Frank Buchser (1828–1890)",
+      "Bildnis Mrs. S.",
+      "1854",
+      "Öl auf Leinwand",
+      "114 × 92 cm (Bildmass)",
+      "147 × 122 × 12 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6582",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Bildnis Mrs. S.",
+    "masse": [
+      "114 × 92 cm (Bildmass)",
+      "147 × 122 × 12 cm (Rahmenmass)"
+    ],
+    "datierung": "1854",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6582/6582_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          261.2,
+          511.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 2009."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1914",
+      "besitzer": "Ausstellung Salon Bollag (Frank Buchser), Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Coulin 1914."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15. April bis 9. Mai 1915",
+      "besitzer": "Ausstellung Kunsthaus Zürich (Nr. 189, Bildnis von Mrs. S.), Katalogpreis: 25 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ausstellungskatalog Zürich 1915."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1928",
+      "besitzer": "Heinrich Blattmann-Ziegler (1869–1939), Wädenswil",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ausstellungskatalog Bern 1928 und Ausstellungskatalog Zürich 1928."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Depositum Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2009."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 21. September 2009",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 2009. Ob es sich bei der Angabe zum Depositum und zum Privatbesitz um zwei verschiedene Provenienzstationen oder um ein und dieselbe handelt, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21. September 2009",
+      "besitzer": "Auktion Christie’s (Swiss Art, Lot 53, Bildnis Mrs. S.), Zürich, eingeliefert aus Schweizer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 2009."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 21. September 2009",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagpreis: 240 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Swiss Art, Auktionskatalog Christie’s, Zürich, 21. September 2009, Zürich 2009, Lot 53.",
+        "bilder": [
+          {
+            "datei": "images/6582/6582_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              397.7,
+              529.9,
+              581.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Kunsthaus Zürich. Ausstellung. 15. April bis 9. Mai 1915, Ausstellungskatalog Kunsthaus Zürich, Zürich 1915, S. 10, Nr. 189, https://di-gital.kunsthaus.ch/viewer/image/47772/10 [11. Februar 2025].",
+        "bilder": [
+          {
+            "datei": "images/6582/6582_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              139.8,
+              421.6,
+              198.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Gedächtnis-Ausstellung Frank Buchser, Ausstellungskatalog Kunsthalle Bern, 7. Juli bis 5. August 1928, Bern 1928, S. 22, Nr. 103."
+          },
+          {
+            "datei": "images/6582/6582_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              242.2,
+              421.6,
+              281.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Frank Buchser 1828–1890, Ausstellungskatalog Kunsthaus Zürich, 6.–30. September 1928, Zürich 1928, S. 14, Nr. 8, https://digi-tal.kunsthaus.ch/viewer/image/45270/16 [7. Juni 2023]."
+          },
+          {
+            "datei": "images/6582/6582_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              338.2,
+              421.3,
+              358.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Zum Entwurf (Nr. 190) siehe Kontextinformationen."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Jules Coulin, Frank Buchser, in: Der Cicerone. Halbmonatsschrift für die Interessen des Kunstforschers und Sammlers, Jg. 6, 1914, H. 18/19, Berlin 1914. S. 592–596, https://doi.org/10.11588/diglit.26375#0624 [23. Juli 2025].",
+        "bilder": [
+          {
+            "datei": "images/6582/6582_006_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              428.3,
+              533.2,
+              453.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Weitere Literatur"
+          },
+          {
+            "datei": "images/6582/6582_007_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              453.8,
+              533.2,
+              587.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Weitere Literatur"
+          },
+          {
+            "datei": "images/6582/6582_008_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              133.8,
+              320.8,
+              313.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Weitere Literatur",
+            "bildunterschrift": "Coulin erwähnt «das große Porträt der Mrs. S.» (siehe Abbildung) im Zusammenhang der Ausstellung im Salon Bollag. Der Entwurf (siehe Kontextinformationen) wurde dort ebenfalls dargestellt."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "‒ Kunsthaus Zürich, Ausstellung, 15. April bis 9. Mai 1915, Nr. 189 (Bildnis von Mrs. S)\n\n‒ Kunsthalle Bern, Gedächtnis-Ausstellung Frank Buchser, 7. Juli bis 5. August 1928, Nr. 103 (Porträt von Mrs. S)\n\n‒ Kunsthaus Zürich, Frank Buchser 1828–1890, 6.–30. September 1928, Nr. 8 (Bildnis Mrs. S)"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Hersteller/Künst-ler/Autor:in «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Buchser», Filter 2: Titel einschränken «automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          },
+          {
+            "text": "Unter den Ergebnissen befindet sich der Entwurf zum vorliegenden Gemälde, der am 3. April 1925 bei Bollag angeboten wurde, siehe Kontextinformationen."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise) ohne Filter [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          },
+          {
+            "text": "Unter den Ergebnissen befindet sich der Entwurf zum vorliegenden Gemälde, der am 3. April 1925 bei Bollag angeboten wurde, siehe Kontextinformationen."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "4. März 2025",
+      "institution": "Kunstmuseum Solothurn",
+      "betreff": "Leihgeber:in der Ausstellung Solothurn 1990",
+      "antwort": "4. März 2025: Verweis auf Unterlagen zur Ausstellung im Stadtarchiv Solothurn [nicht konsultiert]"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1672.1.2 (PDF, S. 23)",
+      "bilder": [
+        {
+          "datei": "images/6582/6582_009_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            523.8,
+            532.4,
+            652.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Zürich 2009 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Vergleichswerk im Kunstmuseum Winterthur",
+      "information": "Zum vorliegenden Gemälde existiert ein Entwurf, der sich im Kunstmuseum Winterthur befindet. Die Porträtierte hält das Taschentuch in dieser Version in ihrer Rechten. Diese erste Fassung wird auch im Auktionskatalog Zürich 2009 erwähnt.\n\nDiese Version wurde 1925 bei Bollag angeboten, siehe: Auktion der Bestände des Salon Bollag, Auktionskatalog G. & L. Bollag, Zürich, 3. April 1925, Zürich 1925, Lot 23, Ausrufpreis: 8000 Franken, https://doi.org/10.11588/diglit.23260#0019 [11. Februar 2025].",
+      "bilder": [
+        {
+          "datei": "images/6582/6582_010_kontextinformationen.jpeg",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            322.8,
+            334.6,
+            510.7
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        },
+        {
+          "datei": "images/6582/6582_011_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            510.7,
+            453.1,
+            623.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Siehe: https://recherche.sik-isea.ch/de/sik:work-6012994/in/siki-sea/work/tiles [11. Februar 2025]."
+        },
+        {
+          "datei": "images/6582/6582_012_kontextinformationen.jpeg",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            133.8,
+            447.7,
+            221.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6582/6582_013_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          283.7,
+          319.9,
+          600.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit roter Farbe «[…]» (unleserlich)",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit roter Farbe «[…]» (unleserlich)",
+        "kommentar": "wohl Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              638.1,
+              320.1,
+              698.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «91»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «91»",
+        "kommentar": "Bildmass (Breite)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              139.8,
+              208.8,
+              209.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: schwarz gestempelt «91»",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "schwarz gestempelt «91»",
+        "kommentar": "Bildmass (Breite)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              222.0,
+              208.8,
+              294.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit blauem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              308.0,
+              207.7,
+              380.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: verbräuntes rechteckiges Klebeetikett, unten gezahnt, schwarz gedruckt sowie handschriftlich mit Bleistift «Serie A Gegenstand: [… Mrs. S?] | Ktr.-No. 252 […] | Kat.-No. 103 Eigentümer: Blattmann-Ziegler | Wädenswil»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Klebeetikett, unten gezahnt, schwarz gedruckt sowie handschriftlich mit Bleistift «Serie A Gegenstand: [… Mrs. S?] | Ktr.-No. 252 […] | Kat.-No. 103 Eigentümer: Blattmann-Ziegler | Wädenswil»",
+        "kommentar": "Ausstellung Kunsthalle Bern 1928, Nr. 103",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              394.0,
+              320.3,
+              461.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Klebeetikett, schwarz bedruckt und mit blauem Kugelschreiber beschrieben",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett, schwarz bedruckt und mit blauem Kugelschreiber beschrieben",
+        "kommentar": "Ausstellung Kunstmuseum Olten",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              520.3,
+              322.1,
+              573.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Von welcher Ausstellung das Etikett stammt, ist derzeit nicht bekannt, jedenfalls wohl aus den 2000er- oder 2010er-Jahren. Im Kunstmuseum Olten wurden 2005, 2010 und 2014 Werke von Buchser gezeigt, siehe https://recherche.sik-isea.ch/de/everything/in/sikart/exhibition/list?0.0.type=actor&0.0.@id=sik:person-4022827 [23. Juli 2025]."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. Zierrahmen: quadratisches weisses Klebeetikett, handschriftlich mit schwarzem Filzstift «53»",
+        "position_traeger": "r. Zierrahmen",
+        "merkmal": "quadratisches weisses Klebeetikett, handschriftlich mit schwarzem Filzstift «53»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              600.1,
+              219.6,
+              681.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: schwarz gestempelt «113»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «113»",
+        "kommentar": "Bildmass (Höhe)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              137.0,
+              139.8,
+              232.3,
+              200.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: Reste eines rechteckigen beigen Klebeetiketts, gezahnt",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "Reste eines rechteckigen beigen Klebeetiketts, gezahnt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              212.8,
+              320.4,
+              286.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit blauem Schreibmittel «1»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «1»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              298.8,
+              177.3,
+              340.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierahmen: handschriftlich mit blauem Schreibmittel «4»",
+        "position_traeger": "u. l. Zierahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_024_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.5,
+              353.7,
+              176.6,
+              429.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit blauem Schreibmittel «4 [?]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «4 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_025_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              442.8,
+              219.1,
+              524.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit pinkem Schreibmittel «103»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit pinkem Schreibmittel «103»",
+        "kommentar": "Ausstellung Kunsthalle Bern 1928, Nr. 103",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_026_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              537.3,
+              218.6,
+              592.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Klebeetikett mit blauer Bordüre, handschriftlich mit schwarzer Tinte «Mistress [S.?] | Buchser»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Klebeetikett mit blauer Bordüre, handschriftlich mit schwarzer Tinte «Mistress [S.?] | Buchser»",
+        "kommentar": "Wohl früherer Werktitel, siehe auch analoges Etikett weiter unten.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_027_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              613.1,
+              289.2,
+              704.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit pinkem Schreibmittel «6», durchgestrichen mit blauem Schreibmittel",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit pinkem Schreibmittel «6», durchgestrichen mit blauem Schreibmittel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_028_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              139.8,
+              230.3,
+              216.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: viereckiges verbräuntes Klebeetikett, schwarz gedruckt «4803»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "viereckiges verbräuntes Klebeetikett, schwarz gedruckt «4803»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_029_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              228.8,
+              228.3,
+              277.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Klebeetikett mit blauer Bordüre, handschriftlich mit schwarzer Tinte «Mistress S. | Buchser»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Klebeetikett mit blauer Bordüre, handschriftlich mit schwarzer Tinte «Mistress S. | Buchser»",
+        "kommentar": "wohl früherer Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_030_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              291.9,
+              320.4,
+              405.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit blauem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_031_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              418.4,
+              320.4,
+              520.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Reste eines verbräunten rechteckigen Klebeetiketts mit schwarzem Rahmen, schwarz gedruckt «G. […] | 8, […]»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Reste eines verbräunten rechteckigen Klebeetiketts mit schwarzem Rahmen, schwarz gedruckt «G. […] | 8, […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6582/6582_032_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              532.9,
+              259.7,
+              622.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 2009."
+    },
+    {
+      "nr": 2,
+      "text": "Coulin 1914."
+    },
+    {
+      "nr": 3,
+      "text": "Ausstellungskatalog Zürich 1915."
+    },
+    {
+      "nr": 4,
+      "text": "Ausstellungskatalog Bern 1928 und Ausstellungskatalog Zürich 1928."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2009."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 2009. Ob es sich bei der Angabe zum Depositum und zum Privatbesitz um zwei verschiedene Provenienzstationen oder um ein und dieselbe handelt, ist unklar."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 2009."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Zum Entwurf (Nr. 190) siehe Kontextinformationen."
+    },
+    {
+      "nr": 10,
+      "text": "Von welcher Ausstellung das Etikett stammt, ist derzeit nicht bekannt, jedenfalls wohl aus den 2000er- oder 2010er-Jahren. Im Kunstmuseum Olten wurden 2005, 2010 und 2014 Werke von Buchser gezeigt, siehe https://recherche.sik-isea.ch/de/everything/in/sikart/exhibition/list?0.0.type=actor&0.0.@id=sik:person-4022827 [23. Juli 2025]."
+    }
+  ],
+  "bilder_anzahl": 32
+}

@@ -1,0 +1,476 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4177_250528.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Mai 2025",
+  "stand_iso": "2025-05-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4177",
+      "Ernest Biéler (1863–1948)",
+      "Portrait d’un vigneron valaisan",
+      "o. J.",
+      "Öl auf Leinwand",
+      "54 × 34 cm (Bildmass)",
+      "89,5 × 52 × 3 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4177",
+    "status": "Ungeklärt",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "Portrait d’un vigneron valaisan",
+    "masse": [
+      "54 × 34 cm (Bildmass)",
+      "89,5 × 52 × 3 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4177/4177_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          242.5,
+          519.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Ethel Mathier, die Verfasserin des sich in Bearbeitung befindlichen Werkkatalogs (siehe Fn. 7), hat sich gegen eine Zuschreibung zu Biéler ausgesprochen (Auskunft vom November 2022 beziehungsweise vom 28. Mai 2025)."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Genf 1991."
+      },
+      {
+        "nr": 3,
+        "text": "Im Auktionskatalog Genf 1991 steht dagegen «Tempera à l’œuf»."
+      },
+      {
+        "nr": 4,
+        "text": "Die Leinwand ist auf Karton aufgezogen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "29. November bis 8. Dezember 1991",
+      "besitzer": "Auktion Galerie Pierre-Yves Gabus (Tableaux importants anciens et modernes, Lot 2580, Portrait d’un vigneron valaisan), Bevaix, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Genf 1991. Dem Katalog liegt eine Expertise von Maurice Jean-Petit-Matile bei, die allerdings keine Hinweise zur Provenienz enthält, siehe Archiv intern."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. Dezember 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Pierre-Yves Gabus, Zuschlagspreis: 15 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Genf 1991 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Tableaux importants anciens et modernes, Auktionskatalog Galerie Gabus, Bevaix, 29. November bis 8. Dezember 1991, Genf 1991, Lot 2580."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "17. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (8 Ergebnisse) für Volltextsuche «Bieler»"
+    },
+    {
+      "datum": "17. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4177/4177_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            468.1,
+            533.3,
+            630.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Genf 1991, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "17. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4177/4177_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            367.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Expertise von Maurice Jean-Petit-Matile (Biéler-Experte), Prilly, 23. Oktober 1989 (Beilage zum Auktionskatalog Genf 1991)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4177/4177_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          291.3,
+          552.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubtes Metallschild, graviert «BIELER E. |1863 - 1948»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubtes Metallschild, graviert «BIELER E. |1863 - 1948»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4177/4177_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              590.2,
+              262.7,
+              624.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: weisses rechteckiges Etikett mit abgerundeten Ecken, schwarz bedruckt und mit rundem schwarzem Punkt versehen",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "weisses rechteckiges Etikett mit abgerundeten Ecken, schwarz bedruckt und mit rundem schwarzem Punkt versehen",
+        "kommentar": "Galerie Gabus, Vermerk für fotografische Aufnahme",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4177/4177_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              637.4,
+              205.5,
+              700.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: angeheftetes weisses Etikett, schwarz bedruckt und mit kleinem rotem Etikett versehen",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "angeheftetes weisses Etikett, schwarz bedruckt und mit kleinem rotem Etikett versehen",
+        "kommentar": "Angaben der Galerie Gabus mit Verweis auf Expertise von Jean-Petit-Matile",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4177/4177_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              292.2,
+              234.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Dieses dürfte auf den Status «verkauft» hinweisen."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. Karton: Klebereste eines entfernten rechteckigen Zettels",
+        "position_traeger": "m. Karton",
+        "merkmal": "Klebereste eines entfernten rechteckigen Zettels",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4177/4177_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              246.8,
+              292.1,
+              374.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «1»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «1»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4177/4177_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              386.8,
+              179.9,
+              433.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «2»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «2»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4177/4177_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              445.8,
+              180.8,
+              489.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisser Zettel, bedruckt, maschinenschriftlich ergänzt und handschriftlich annotiert mit «15’000.-» (Zuschlagspreis) und «fehlt | 29.2.92»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisser Zettel, bedruckt, maschinenschriftlich ergänzt und handschriftlich annotiert mit «15’000.-» (Zuschlagspreis) und «fehlt | 29.2.92»",
+        "kommentar": "Erwerbsnachweis Galerie Pierre-Yves Gabus",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4177/4177_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              502.2,
+              292.2,
+              548.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die im Februar 1992 als fehlend vermerkte Expertise liegt im Archiv SKKG vor, siehe Archiv intern."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Ethel Mathier, die Verfasserin des sich in Bearbeitung befindlichen Werkkatalogs (siehe Fn. 7), hat sich gegen eine Zuschreibung zu Biéler ausgesprochen (Auskunft vom November 2022 beziehungsweise vom 28. Mai 2025)."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Genf 1991."
+    },
+    {
+      "nr": 3,
+      "text": "Im Auktionskatalog Genf 1991 steht dagegen «Tempera à l’œuf»."
+    },
+    {
+      "nr": 4,
+      "text": "Die Leinwand ist auf Karton aufgezogen."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Genf 1991. Dem Katalog liegt eine Expertise von Maurice Jean-Petit-Matile bei, die allerdings keine Hinweise zur Provenienz enthält, siehe Archiv intern."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Genf 1991 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 7,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 8,
+      "text": "Dieses dürfte auf den Status «verkauft» hinweisen."
+    },
+    {
+      "nr": 9,
+      "text": "Die im Februar 1992 als fehlend vermerkte Expertise liegt im Archiv SKKG vor, siehe Archiv intern."
+    }
+  ],
+  "bilder_anzahl": 11
+}

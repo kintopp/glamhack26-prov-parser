@@ -1,0 +1,400 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_346_220915.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "15. September 2022",
+  "stand_iso": "2022-09-15",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 346",
+      "Caspar Wolf (1735–1783)",
+      "Höhle am Wasserberg",
+      "o. J.",
+      "Öl auf Leinwand",
+      "28 × 40 cm (Bildmass)",
+      "37 × 47 × 5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "346",
+    "status": "Ungeklärt",
+    "kuenstler": "Caspar Wolf (1735–1783)",
+    "titel": "Höhle am Wasserberg",
+    "masse": [
+      "28 × 40 cm (Bildmass)",
+      "37 × 47 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/346/346_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.4,
+          247.4,
+          305.0,
+          468.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1986, wo das Werk als Höhle am Wasserberg im Kanton Schwyz verzeichnet ist."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "13.–26. November 1986",
+      "besitzer": "Auktion Galerie Jürg Stuker (Schweizer Sammlungen und Nachlässe, Lot 740, Höhle am Wasserberg im Kanton Schwyz), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Bern 1986."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 18. November 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018) auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 44 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 1986 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Willi Raeber, Caspar Wolf, 1735–1783. Sein Leben und sein Werk. Ein Beitrag zur Geschichte der Schweizer Malerei des 18. Jahrhunderts, hrsg. vom Schweizerischen Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 7), Aarau/München 1979 [Werk nicht verzeichnet].",
+        "fussnoten": [
+          {
+            "nr": 4,
+            "text": "Im Auktionskatalog Bern 1986 wird auf das Werk mit der Nummer 144 bei Raeber (1979) verwiesen. Es handelt sich dabei um eine im Motiv ähnliche Bleistiftzeichnung."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Sammlungen und Nachlässe, Auktionskatalog Galerie Jürg Stuker, Bern, Nr. 296–303 [297], 13.–26. November 1986, Bern 1986, Lot 740."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (50 Ergebnisse) für erweiterte Suche Filter 1: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 50,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (73 Ergebnisse) für erweiterte Suche Filter 1: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (78 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 78,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Caspar Wolf / Caspar Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (310 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolff C.» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 310,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (501 Ergebnisse) für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolf C.» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 501,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (203 Ergebnisse) für erweiterte Suche Filter 1: Künstler enthält «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 203,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (27 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Caspar Wolf›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 27,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹Caspar Wolff›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (269 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹C. Wolf›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 269,
+            "datum": "2022-09-14"
+          },
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche Filter 1: Volltext/Metadaten «‹C. Wolff›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-09-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche «Caspar Wolf» (inklusive Varianten der Namensschreibweise) ohne Filter [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-09"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 (6 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "ergebnisse": 6,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. September 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "Sehr viele Annotationen; diverse Verweise auf Personen, die Bruno Stefanini offenbar beim Kauf beraten haben; Dr. Lüthi (D. L.) und ein gewisser D. C.",
+      "bilder": [
+        {
+          "datei": "images/346/346_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            190.6,
+            535.0,
+            381.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1986, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/346/346_003_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.2,
+          339.9,
+          365.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Klebeband (?) auf Keilrahmen: mit Bleistift handschriftlich «Titel St. Kat. AG»",
+        "position_traeger": "o. m. Klebeband (?) auf Keilrahmen",
+        "merkmal": "mit Bleistift handschriftlich «Titel St. Kat. AG»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/346/346_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              428.2,
+              337.9,
+              467.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Klebeband (?) auf Keilrahmen: Erwerbsnachweis Auktion Galerie Jürg Stuker, November 1986, Lot 740, verfasst von Ursula Netzer",
+        "position_traeger": "u. l. Klebeband (?) auf Keilrahmen",
+        "merkmal": "Erwerbsnachweis Auktion Galerie Jürg Stuker, November 1986, Lot 740, verfasst von Ursula Netzer",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/346/346_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              479.8,
+              337.9,
+              637.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Klebeband (?) auf Keilrahmen: Bleistiftnotiz, unleserlich",
+        "position_traeger": "o. l. Klebeband (?) auf Keilrahmen",
+        "merkmal": "Bleistiftnotiz, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/346/346_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              649.4,
+              338.2,
+              720.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1986, wo das Werk als Höhle am Wasserberg im Kanton Schwyz verzeichnet ist."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Bern 1986."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Bern 1986 im Archiv SKKG."
+    },
+    {
+      "nr": 4,
+      "text": "Im Auktionskatalog Bern 1986 wird auf das Werk mit der Nummer 144 bei Raeber (1979) verwiesen. Es handelt sich dabei um eine im Motiv ähnliche Bleistiftzeichnung."
+    }
+  ],
+  "bilder_anzahl": 6
+}

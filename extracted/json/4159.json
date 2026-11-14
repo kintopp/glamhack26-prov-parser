@@ -1,0 +1,599 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4159_221102.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "2. November 2022",
+  "stand_iso": "2022-11-02",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4159",
+      "Alexandre Calame (1810–1864)",
+      "Intérieur de forêt",
+      "1834",
+      "Öl auf Leinwand",
+      "89 × 116 cm (Bildmass)",
+      "113 × 141 × 11 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4159",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Intérieur de forêt",
+    "masse": [
+      "89 × 116 cm (Bildmass)",
+      "113 × 141 × 11 cm (Rahmenmass)"
+    ],
+    "datierung": "1834",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4159/4159_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          300.2,
+          442.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Anker 1987. Auf dem Etikett des Kunsthauses Zürich von 1964 auf der Rückseite ist das Werk als Landschaft mit Bäumen verzeichnet, im Auktionskatalog Bern 1986 wird es als Sommerliche Eichenlandschaft mit rastender Spaziergängergruppe unter einem Baum beschrieben und auf dem Zettel der Galerie Kornfeld als Sommerlandschaft m[it] Spaziergänger unter Baum."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1834 bis spätestens 1863",
+      "besitzer": "Jean-Gabriel Eynard (1775–1863), Genf, erworben vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Loche 1979, Anker 1987."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 8. April 1964 bis o. D.",
+      "besitzer": "Dr. Speich, möglicherweise Hans Rudolf Speich (1929–2000), Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Etikett des Kunsthauses Zürich auf der Werkrückseite sowie Fn. 5."
+        },
+        {
+          "nr": 4,
+          "text": "Zu Hans Rudolf Speich siehe Todesanzeige in: https://www.e-newspaperarchives.ch/?a=d&d=NZZ20000121-01.2.69.4 [27. Januar 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18.–20. Juni 1986",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 1003, Sommerliche Eichenlandschaft mit rastender Spaziergängergruppe unter einem Baum), Bern, eingeliefert von Rechtsanwalt Dr. U. (vermutlich Ullin) Streiff, Wetzikon, im Auftrag von Hans Rudolf Speich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1986 sowie Auskunft der Galerie Kornfeld vom 2. November 2022, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 20. Juni 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 90 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987, S. 328–329, Nr. 41.",
+        "bilder": [
+          {
+            "datei": "images/4159/4159_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              192.7,
+              385.2,
+              335.0,
+              452.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4159/4159_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              192.7,
+              458.9,
+              328.3,
+              639.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, Nr. 192, 18.–20. Juni 1986, Bern 1986, Lot 1003.",
+        "bilder": [
+          {
+            "datei": "images/4159/4159_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              139.8,
+              393.4,
+              240.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht eindeutig identifizierbar].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet].\n\nRenée Loche, Un cabinet de peinture à Genève au XIXe siècle. La collection Eynard. Essai de reconstitution, in: Genava, Bd. 27, hrsg. vom Musée d’art et d’histoire Genève, Genf 1979, S. 177–221, hier: S. 195, Nr. 25, https://doi.org/10.5169/seals-728593 [27. Januar 2025]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Calame», Filter 1: «Suchmeldungen», Filter 2: «Malerei» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (39 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 39,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (47 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 47,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (1593 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 1593,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «foret» unter Künstlersuche «Calame» (inklusive aller Namensschreibweisen) [19. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-10-19"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «wald» unter Künstlersuche «Calame» (inklusive aller Namensschreibweisen) [19. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-10-19"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «waldinneres» unter Künstlersuche «Calame» (inklusive aller Namensschreibweisen) [19. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-10-19"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Sommer» unter Künstlersuche «Calame» (inklusive aller Namensschreibweisen) [19. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-19"
+          },
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Bäume» unter Künstlersuche «Calame» (inklusive aller Namensschreibweisen) [19. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-10-19"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Galerie Kornfeld, Bern",
+      "betreff": "Anfrage zu Einlieferer/Einlieferin",
+      "antwort": "2. November 2022"
+    }
+  ],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4159/4159_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.6,
+          341.3,
+          466.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallplakette, eingraviert «A. Calame | 1810–1864»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallplakette, eingraviert «A. Calame | 1810–1864»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              503.0,
+              278.6,
+              543.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: mit dunklem Schreibmittel handschriftlich «A. C[ala]me | 183[4?]»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "mit dunklem Schreibmittel handschriftlich «A. C[ala]me | 183[4?]»",
+        "kommentar": "Signatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              555.6,
+              342.0,
+              637.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit schwarzem Schreibmittel vermutlich «№ 3 A. Calame | Genève [?]»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel vermutlich «№ 3 A. Calame | Genève [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              649.2,
+              341.0,
+              697.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «25»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «25»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              213.1,
+              200.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: langrechteckiges weisses Etikett mit abgerundeten Ecken, mit schwarzem Schreibmittel handschriftlich «Kornfeld»",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett mit abgerundeten Ecken, mit schwarzem Schreibmittel handschriftlich «Kornfeld»",
+        "kommentar": "entspricht Erwerbsort 1986",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              212.4,
+              257.5,
+              273.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: aufgeklebter roter Punkt",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "aufgeklebter roter Punkt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              313.4,
+              197.8,
+              366.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «P. V.»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «P. V.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              378.5,
+              275.8,
+              467.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis Galerie Kornfeld, Auktion Juni 1986, handbeschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis Galerie Kornfeld, Auktion Juni 1986, handbeschrieben",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              479.5,
+              339.8,
+              638.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «21525»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «21525»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              650.4,
+              228.7,
+              693.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Etikett des Kunsthauses Zürich vom 8. April 1964 mit Angaben zum damaligen Eigentümer",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Etikett des Kunsthauses Zürich vom 8. April 1964 mit Angaben zum damaligen Eigentümer",
+        "kommentar": "Bei «H. Boissonas» handelt sich wohl um den Restaurator Henri Boissonnas.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              139.4,
+              339.8,
+              234.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Zum seit 1935 in Zürich bestehenden Atelier de Conservation Boissonnas siehe https://www.boissonnas.ch/de/uber-uns [23. August 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Reste eines Etiketts",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Reste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4159/4159_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              253.2,
+              240.2,
+              314.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Anker 1987. Auf dem Etikett des Kunsthauses Zürich von 1964 auf der Rückseite ist das Werk als Landschaft mit Bäumen verzeichnet, im Auktionskatalog Bern 1986 wird es als Sommerliche Eichenlandschaft mit rastender Spaziergängergruppe unter einem Baum beschrieben und auf dem Zettel der Galerie Kornfeld als Sommerlandschaft m[it] Spaziergänger unter Baum."
+    },
+    {
+      "nr": 2,
+      "text": "Loche 1979, Anker 1987."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Etikett des Kunsthauses Zürich auf der Werkrückseite sowie Fn. 5."
+    },
+    {
+      "nr": 4,
+      "text": "Zu Hans Rudolf Speich siehe Todesanzeige in: https://www.e-newspaperarchives.ch/?a=d&d=NZZ20000121-01.2.69.4 [27. Januar 2025]."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1986 sowie Auskunft der Galerie Kornfeld vom 2. November 2022, siehe Anfragen."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 7,
+      "text": "Zum seit 1935 in Zürich bestehenden Atelier de Conservation Boissonnas siehe https://www.boissonnas.ch/de/uber-uns [23. August 2022]."
+    }
+  ],
+  "bilder_anzahl": 16
+}

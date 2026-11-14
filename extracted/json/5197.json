@@ -1,0 +1,566 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5197_221116.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "16. November 2022",
+  "stand_iso": "2022-11-16",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5197",
+      "Augusto Giacometti (1877–1947)",
+      "Stillleben",
+      "1932",
+      "Öl auf Leinwand",
+      "46 × 55 cm (Bildmass)",
+      "57 × 65,8 × 3,6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5197",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Stillleben",
+    "masse": [
+      "46 × 55 cm (Bildmass)",
+      "57 × 65,8 × 3,6 cm (Rahmenmass)"
+    ],
+    "datierung": "1932",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5197/5197_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          314.7,
+          461.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Egli 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1936",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Egli 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1999."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. März 1999",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 102, Stilleben), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 23. März 1999",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 130 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1999 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Michael Egli, Stillleben, in: Augusto Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 306, https://recherche.sik-isea.ch/sik:work-12494601 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/5197/5197_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              247.5,
+              533.2,
+              527.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5197/5197_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              534.0,
+              533.2,
+              650.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 23. März 1999, Zürich 1999, Lot 102."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hans Hartmann, Augusto Giacometti. Pionier der abstrakten Malerei. Ein Leben für die Farbe, Chur 1981, S. 244, Nr. 1568 (ohne weitere Angaben)."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (6 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]: Vier identische Einträge, Verkauf «Giacometti» ohne weitere Angaben, «Angeboten von Nollstadt, Prien, 22.9.1937», http://heinemann.gnm.de/de/kunstwerk-40985.htm [4. November 2022].",
+            "treffer": 1,
+            "ergebnisse": 6,
+            "datum": "2022-11-04"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/5197/5197_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              498.8,
+              391.4,
+              617.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Freitextsuche «Giacometti» und «Papagei» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (59 Ergebnisse) für Freitextsuche «Giacometti» und «Stilleben» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 59,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Freitextsuche «Giacometti» und «4026» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Freitextsuche «Papagei» mit Filter: Artist «Giacometti» (inklusive aller Schreibweisen des Namens) [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Freitextsuche «Vogel» mit Filter: Artist «Giacometti» (inklusive aller Schreibweisen des Namens) [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Freitextsuche «Stilleben» mit Filter: Artist «Giacometti» (inklusive aller Schreibweisen des Namens) [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Freitextsuche «Blumen» mit Filter: Artist «Giacometti» (inklusive aller Schreibweisen des Namens). [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Freitextsuche «blau» mit Filter: Artist «Giacometti» (inklusive aller Schreibweisen des Namens) [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Freitextsuche «4026» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5197/5197_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            279.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1999, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5197/5197_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          342.9,
+          407.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit gelber Farbe «a. g.»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit gelber Farbe «a. g.»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              444.5,
+              224.9,
+              496.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «55»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «55»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              509.5,
+              224.9,
+              576.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: schwarz gestempelt «46»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «46»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.9,
+              588.7,
+              224.9,
+              656.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: schwarz gestempelt «[…]» (unleserlich)",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "schwarz gestempelt «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              338.7,
+              236.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «55»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «55»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              249.8,
+              222.8,
+              316.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit Bleistift «4026»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «4026»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              328.5,
+              222.8,
+              372.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: schwarz gestempelt «46»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «46»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              385.8,
+              222.3,
+              452.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: handschriftlich mit blauer Farbe «AUGUSTO GIACO-METTI | 1932. | «„Stilleben“», wohl von Künstlerhand",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "handschriftlich mit blauer Farbe «AUGUSTO GIACO-METTI | 1932. | «„Stilleben“», wohl von Künstlerhand",
+        "kommentar": "Signatur, Datierung und Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5197/5197_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              465.2,
+              339.3,
+              553.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Egli 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Egli 2023."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1999."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1999 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 14
+}

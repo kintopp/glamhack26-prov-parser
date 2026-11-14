@@ -1,0 +1,526 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3285_221122.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "22. November 2022",
+  "stand_iso": "2022-11-22",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3285",
+      "Le Corbusier (1887–1965)",
+      "Die schlafende Joséphine Baker",
+      "1929",
+      "Tusche auf Velinpapier",
+      "41 × 25,4 cm (Blattmass)",
+      "37,8 × 23,9 cm (Lichtmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3285",
+    "status": "Ungeklärt",
+    "kuenstler": "Le Corbusier (1887–1965)",
+    "titel": "Die schlafende Joséphine Baker",
+    "masse": [
+      "41 × 25,4 cm (Blattmass)",
+      "37,8 × 23,9 cm (Lichtmass)"
+    ],
+    "datierung": "1929",
+    "technik": "Tusche auf Velinpapier",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3285/3285_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.7,
+          247.4,
+          263.3,
+          523.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 2003."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich 18. November 1979",
+      "besitzer": "Galerie des Granges, Place du Bourg-de-Four, Genf, Referenz: 267",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Etikett auf der Werkrückseite. Zur Galerie siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19./20. Juni 2003",
+      "besitzer": "Auktion Galerie Kornfeld (Kunstwerke des 19. und 20. Jahrhunderts, Lot 606, Die schlafende Joséphine Baker), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 2003. Im Untertitel des Auktionskatalogs steht als allgemeine Herkunftsangabe «u. a. Sammlung Hans Bolliger», also Dr. h. c. Hans Bolliger (1915–2002). Ob das vorliegende Werk aus dieser Sammlung stammt, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. Juni 2003",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 9500 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Bern 2003 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunstwerke des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, 19./20. Juni 2003, Nr. 230, Bern 2003, Lot 606."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Charles-Édouard Jeanneret-Gris» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker», Filter 1: Conflict/War: «World War II», Filter 2: Title Collection «Holocaust» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker», Filter: Conflict/War «World War II» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für freie Suche «Le Corbusier» und «Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (25 Ergebnisse) für freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Charles-Édouard Jeanneret-Gris» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Charles-Édouard Jeanneret-Gris» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Charles-Édouard Jeanneret-Gris» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für freie Suche «Joséphine Baker» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse), freie Suche «Le Corbusier» [22. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-22"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3285/3285_002_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            191.4,
+            532.6,
+            228.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/3285/3285_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            234.2,
+            531.9,
+            486.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 2003, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Recherche zur Galerie des Granges, Genf",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/3285/3285_004_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            192.9,
+            165.6,
+            463.1,
+            566.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "http://institutions.ville-geneve.ch/fr/bm/interroge/questions-recentes/questi-ons/detail/je-recherche-des-informations-sur-la-galerie-des-granges-qui-se-trouvait-a-la-place-du-bourg-de-fou [22. November 2022]"
+        }
+      ]
+    },
+    {
+      "thema": "Le Corbusier und Josephine Baker",
+      "information": "Christine Ajudua, Did Le Corbusier Fall in Love With Josephine Baker on a Cruise Ship? A New Film by Artists Gerard & Kelly Imagines Their Relationship, veröffentlicht am 31. August 2022 auf Artnet, https://news.artnet.com/art-world/gerard-and-kelly-bright-hours-2165694 [22. November 2022]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3285/3285_005_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          289.5,
+          451.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Bildträger (Papier): handschriftlich mit schwarzem Schreibmittel «L-C | 29»",
+        "position_traeger": "u. r. Bildträger (Papier)",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «L-C | 29»",
+        "kommentar": "Signatur (Monogramm) mit Datierung (1929)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3285/3285_006_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              488.4,
+              201.4,
+              532.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rückseitenschutz: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «506»",
+        "position_traeger": "o. r. Rückseitenschutz",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «506»",
+        "kommentar": "Möglicherweise Etikett der Galerie Kornfeld; die richtige Lotnummer wäre allerdings 606.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3285/3285_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              552.6,
+              201.2,
+              601.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Im Rahmen des Erstchecks konnte das Werk nicht ohne Rückseitenschutz begutachtet werden. Ob sich unter diesem weitere Provenienzmerkmale finden, ist zum gegenwärtigen Zeitpunkt nicht bekannt."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Rückseitenschutz: Etikett der Galerie des Granges, Genf, 1979, gestempelt «18 NOV [1979?]»; darauf kleineres Etikett mit der Nummer «0267»",
+        "position_traeger": "u. r. Rückseitenschutz",
+        "merkmal": "Etikett der Galerie des Granges, Genf, 1979, gestempelt «18 NOV [1979?]»; darauf kleineres Etikett mit der Nummer «0267»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3285/3285_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              139.8,
+              293.3,
+              221.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: Rückstände eines entfernten Etiketts",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "Rückstände eines entfernten Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3285/3285_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              234.8,
+              188.8,
+              282.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter Zettel der Auktion Galerie Kornfeld 2003 mit handschriftlich annotiertem Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter Zettel der Auktion Galerie Kornfeld 2003 mit handschriftlich annotiertem Zuschlagspreis",
+        "kommentar": "Erwerbsnachweis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3285/3285_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              295.3,
+              293.2,
+              344.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 2003."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Etikett auf der Werkrückseite. Zur Galerie siehe Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 2003. Im Untertitel des Auktionskatalogs steht als allgemeine Herkunftsangabe «u. a. Sammlung Hans Bolliger», also Dr. h. c. Hans Bolliger (1915–2002). Ob das vorliegende Werk aus dieser Sammlung stammt, ist unklar."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Bern 2003 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 5,
+      "text": "Im Rahmen des Erstchecks konnte das Werk nicht ohne Rückseitenschutz begutachtet werden. Ob sich unter diesem weitere Provenienzmerkmale finden, ist zum gegenwärtigen Zeitpunkt nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 10
+}

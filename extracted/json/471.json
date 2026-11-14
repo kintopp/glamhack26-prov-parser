@@ -1,0 +1,872 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_471_250203.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Februar 2025",
+  "stand_iso": "2025-02-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 471",
+      "Cuno Amiet (1868–1961)",
+      "Bettelknabe",
+      "1896",
+      "Öl auf Leinwand",
+      "169 × 69 cm (Bildmass)",
+      "172 × 73 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "471",
+    "status": "Klar",
+    "kuenstler": "Cuno Amiet (1868–1961)",
+    "titel": "Bettelknabe",
+    "masse": [
+      "169 × 69 cm (Bildmass)",
+      "172 × 73 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1896",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/471/471_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          205.9,
+          585.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ullmann 2014. Auf der Werkrückseite befindet sich ein unvollendetes, teilweise abgekratztes Figurenbild mit dem Titel Weibliche Figur in Berner Tracht, siehe ebd. sowie Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "Juli 1917 bis mindestens 1948",
+      "besitzer": "Margrit (1884–1958) und Walther Kottmann-Müller (1873–1936), Solothurn, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ullmann 2014, siehe auch Etikett auf der Werkrückseite. 1938 wurde das Gemälde als Leihgabe von Margrit Kottmann im Kunstmuseum Solothurn und im Kunsthaus Zürich gezeigt, siehe Archive extern, und 1948 im Kunstmuseum Bern, siehe Ausstellungskatalog Bern 1948 und Auskunft vom Kunstmuseum Bern vom 18. Februar 2025. Möglicherweise blieb es bis 1980 in der Familie, wie der Auktionskatalog Zürich 1980 mit der Provenienzangabe «Sammlung Kottmann-Müller, Solothurn» nahelegt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1960",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ullmann 2014, siehe auch Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1980",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ullmann 2014, siehe auch Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November 1980",
+      "besitzer": "Auktion Sotheby, Parke, Bernet (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 163, Der Bettelknabe), Zürich, möglicherweise eingeliefert aus dem Nachlass Kottmann-Müller, Solothurn",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1980, Ullmann 2014."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby, Parke, Bernet, Zuschlagspreis: 100 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1980 sowie Rechnung von Sotheby Park Bernet, Zürich, an Bruno Stefanini, Winterthur, zur Auktion vom 26. November 1980 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Larissa Ullmann, Bettelknabe, in: Cuno Amiet. Die Gemälde 1883–1919, hrsg. von Franz Müller und Viola Radlach (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 28), Zürich 2014, Nr. 1896.11, https://recherche.sik-isea.ch/sik:work-6010263/in/ca-talogues.amiet [16. August 2023].",
+        "bilder": [
+          {
+            "datei": "images/471/471_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              448.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/471/471_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              454.8,
+              529.8,
+              642.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby, Parke, Bernet, Zürich, 26. November 1980, Zürich 1980, Lot 163."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Cuno Amiet. 22. Februar bis 4. April 1948, Ausstellungskatalog Kunstmuseum Bern, Bern 1948, Nr. 21.",
+        "bilder": [
+          {
+            "datei": "images/471/471_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.1,
+              736.8,
+              405.5,
+              753.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Siehe Werkkatalog."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Amiet» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (461 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Amiet», Filter 2: Titel einschränken «Alle Treffer» [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 461,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (107 Ergebnisse) für Suche «Cuno Amiet» (inklusive Varianten der Namensschreibweise) ohne Filter [16. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 107,
+            "datum": "2023-08-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "INHA – Gazette Drouot",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Amiet» in den Jahrgängen 1900–1950 [17. August 2023]",
+            "treffer": 0,
+            "datum": "2023-08-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Amiet» [26. November 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-11-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Amiet» [12. Dezember 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-12-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche in den Auktionskatalogen mit Filter: Keywords «Amiet» [17. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2023-08-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "5. Februar 2025",
+      "institution": "Kunstmuseum Bern",
+      "betreff": "Anfrage Leihgeber:in Ausstellung 1948",
+      "antwort": "18. Februar 2025: Die Leihgeberin war Margrit Kottmann."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/471/471_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            316.6,
+            530.5,
+            527.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "12. Dezember 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "1 Treffer (2 Ergebnisse) für Volltextsuche «Bettelknabe» [12. Dezember 2023]: A.2152.4.1424.3.2 (PDF, S. 10 ff.):\n\n0 Treffer (12 Ergebnisse im Archivverzeichnis, 34 in den Primärdaten) für Volltextsuche «Amiet» [20. Januar 2025]",
+      "bilder": [
+        {
+          "datei": "images/471/471_006_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            133.8,
+            534.9,
+            360.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/471/471_007_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            366.3,
+            531.1,
+            592.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Sotheby Park Bernet, Zürich, an Bruno Stefanini, Winterthur, zur Auktion vom 26. November 1980, annotiert von Stefanini mit mehrwertsteuerlichen Korrekturen; zuunterst Lot 163, «Der Bettelknabe»"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "6. Januar 2025",
+      "institution": "Kunsthaus Zürich, Archiv",
+      "bestand": "Briefsammlung Kunsthaus Zürich, Ausgehende Korrespondenz, Ausstellungen, Bd. 66, fol. 276, 421: Schreiben von Kunsthaus Zürich an Frau Dr. Kottmann, Solothurn, vom 29. April 1938 und vom 9. Juni 1938 mit Verweis auf vorliegendes Gemälde (Ausstellung Kunstmuseum Solothurn 1938, Nr. 15 bzw. Ausstellung Kunsthaus Zürich 1938, Nr. 114), siehe https://digital.kunsthaus.ch/vie-wer/image/58689_066/280 und https://digital.kunsthaus.ch/vie-wer/image/58689_066/425 [3. Februar 2025]."
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/471/471_008_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          290.1,
+          677.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit dunkelblauer Farbe «C A 1896»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit dunkelblauer Farbe «C A 1896»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_009_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              139.8,
+              266.5,
+              189.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit blauem Schreibmittel «[…]68[…]»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…]68[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_010_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              202.9,
+              315.0,
+              276.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «10»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «10»",
+        "kommentar": "Ausstellung Pont-Aven 1982",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              289.4,
+              264.5,
+              356.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit Bleistift «CA» (teilweise verdeckt)",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «CA» (teilweise verdeckt)",
+        "kommentar": "Initialen des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              369.4,
+              257.8,
+              444.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Reste eines verbräunten Klebeetiketts, handschriftlich mit schwarzer Tinte «Bettelknabe | von Cuno Amiet | Dr. W. Ko[ttm]ann Solothurn»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Reste eines verbräunten Klebeetiketts, handschriftlich mit schwarzer Tinte «Bettelknabe | von Cuno Amiet | Dr. W. Ko[ttm]ann Solothurn»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              457.2,
+              315.0,
+              576.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «8», unterstrichen",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «8», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              588.9,
+              188.0,
+              660.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «114», unterstrichen",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «114», unterstrichen",
+        "kommentar": "Ausstellung Kunsthaus Zürich 1938, Nr. 114",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              673.4,
+              187.7,
+              720.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. Mittelstrebe: rechteckiges weisses Klebeetikett, handschriftlich mit schwarzer Tinte «Bettelk[na]be | Dr. W. Kottmann | Solothurn»",
+        "position_traeger": "r. Mittelstrebe",
+        "merkmal": "rechteckiges weisses Klebeetikett, handschriftlich mit schwarzer Tinte «Bettelk[na]be | Dr. W. Kottmann | Solothurn»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              139.8,
+              312.1,
+              232.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Leinwand: schwarz gestempelt «DOUANE CENTRALE [?]»",
+        "position_traeger": "r. u. Leinwand",
+        "merkmal": "schwarz gestempelt «DOUANE CENTRALE [?]»",
+        "kommentar": "Zollstempel, wohl im Zusammenhang mit dem Grenzübertritt für die Ausstellung Paris 1932",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              245.3,
+              217.7,
+              326.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: siehe vorausgehendes Provenienzmerkmal",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "siehe vorausgehendes Provenienzmerkmal",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              352.3,
+              217.4,
+              458.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit blauem Schreibmittel «cm 172 + 72 ½»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «cm 172 + 72 ½»",
+        "kommentar": "Rahmenmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_019_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              471.3,
+              315.0,
+              503.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. Mittelstrebe: handschriftlich mit blauer Farbe «C. Amiet | BETTELKNABE.»",
+        "position_traeger": "l. Mittelstrebe",
+        "merkmal": "handschriftlich mit blauer Farbe «C. Amiet | BETTELKNABE.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_020_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              534.4,
+              315.1,
+              568.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «125», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «125», unterstrichen",
+        "kommentar": "Ausstellung Kunsthalle Basel 1938",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_021_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              581.4,
+              200.0,
+              619.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «Z» oder «7»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «Z» oder «7»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_022_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              644.5,
+              200.1,
+              711.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikette, schwarz gedruckt «16129», mit schwarzem Schreibmittel unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikette, schwarz gedruckt «16129», mit schwarzem Schreibmittel unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_023_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              139.8,
+              224.1,
+              177.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «16129», mit schwarzem Schreibmittel unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «16129», mit schwarzem Schreibmittel unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_024_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              215.5,
+              224.6,
+              252.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines verbräunten rechteckigen Klebeetiketts mit blauer Bordüre",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines verbräunten rechteckigen Klebeetiketts mit blauer Bordüre",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_025_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              291.3,
+              268.3,
+              390.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_026_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              403.3,
+              311.4,
+              447.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 19,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines vergilbten Klebeetiketts mit schwarzem Rand, handschriftlich mit schwarzem Schreibmittel «Nr. 15 | Bett[elknabe] | […]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines vergilbten Klebeetiketts mit schwarzem Rand, handschriftlich mit schwarzem Schreibmittel «Nr. 15 | Bett[elknabe] | […]»",
+        "kommentar": "Ausstellung Kunstmuseum Solothurn 1938",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/471/471_027_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              459.6,
+              311.5,
+              555.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ullmann 2014. Auf der Werkrückseite befindet sich ein unvollendetes, teilweise abgekratztes Figurenbild mit dem Titel Weibliche Figur in Berner Tracht, siehe ebd. sowie Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Ullmann 2014, siehe auch Etikett auf der Werkrückseite. 1938 wurde das Gemälde als Leihgabe von Margrit Kottmann im Kunstmuseum Solothurn und im Kunsthaus Zürich gezeigt, siehe Archive extern, und 1948 im Kunstmuseum Bern, siehe Ausstellungskatalog Bern 1948 und Auskunft vom Kunstmuseum Bern vom 18. Februar 2025. Möglicherweise blieb es bis 1980 in der Familie, wie der Auktionskatalog Zürich 1980 mit der Provenienzangabe «Sammlung Kottmann-Müller, Solothurn» nahelegt."
+    },
+    {
+      "nr": 3,
+      "text": "Ullmann 2014, siehe auch Fn. 2."
+    },
+    {
+      "nr": 4,
+      "text": "Ullmann 2014, siehe auch Fn. 2."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1980, Ullmann 2014."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1980 sowie Rechnung von Sotheby Park Bernet, Zürich, an Bruno Stefanini, Winterthur, zur Auktion vom 26. November 1980 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 27
+}

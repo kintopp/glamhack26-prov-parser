@@ -1,0 +1,627 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5458_221013.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. Oktober 2022",
+  "stand_iso": "2022-10-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5458",
+      "Alexandre Calame (1810–1864)",
+      "Lac de Genève / Uferlandschaft mit",
+      "Gewitterstimmung",
+      "um 1852",
+      "Öl auf Leinwand",
+      "47 × 66 cm (Bildmass)",
+      "79 × 89 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5458",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Lac de Genève / Uferlandschaft mit Gewitterstimmung",
+    "masse": [
+      "47 × 66 cm (Bildmass)",
+      "79 × 89 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1852",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5458/5458_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          329.1,
+          440.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Anker 1987, wo dieser Titel für ein vergleichbares Werk – gleiches Motiv, leicht abweichende Perspektive – vergeben wurde."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1980. In der Objektdatenbank SKKG ist zudem der wohl von Isabelle Messerli vergebene Titel Seelandschaft mit Ruderboot verzeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1852 bis o. D.",
+      "besitzer": "vermutlich Nicolaas Pienemann (1809–1860), Amsterdam, angekauft beim Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Anker 1987, «N. Pienemann fils à Roken à Amsterdam un tabl. nat. suisse clair et chaud au prix de f. 1600 29 pces sur 22 envoyé et payé en fin de 1852»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Jan Pieter Bohlmeijer (geb. 1834), Herengracht 191, Amsterdam – möglicherweise nur der Hersteller des Rahmens",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Etikett auf der Werkrückseite sowie Kontextinformationen. An dieser Adresse war Bohlmeijer um 1851 gemeldet."
+        }
+      ]
+    },
+    {
+      "zeitraum": "März 1865 bis 12. Juni 1869",
+      "besitzer": "möglicherweise Auktionshaus Goupil & Cie, Paris",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Goupil Stock Book 3, S. 33, Reihe 9, Nr. 1599, siehe Datenbankrecherche zum Getty Provenance Index."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12. Juni 1869 bis o. D.",
+      "besitzer": "möglicherweise Herdtle & Peters, Stuttgart, erworben bei Goupil & Cie",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Goupil Stock Book 4, S. 8, Reihe 3, Nr. 1599, siehe Datenbankrecherche zum Getty Provenance Index."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. April bis 3. Mai 1980",
+      "besitzer": "Auktion Dobiaschofsky (Auktion 51 […], Lot 134, Uferlandschaft mit Gewitterstimmung), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1980."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. April 1980 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Dobiaschofsky, Zuschlagspreis: 17 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Bern 1980 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987, S. 408, Nr. 518: vergleichbare Darstellung mit grösseren Massen (Lac de Genève, 1852, Öl auf Leinwand, 59,6 × 78,5 cm).\n\nDie Perspektive der dargestellten Lithografie unterscheidet sich, doch die Landschaft ist eindeutig identifizierbar. Daraus ergeben sich der Bildtitel «Lac de Genève» beziehungsweise «Genfersee» und die Datierung um 1852.",
+        "bilder": [
+          {
+            "datei": "images/5458/5458_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              442.5,
+              338.0,
+              694.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion 51. Im Monbijou […]. Gemälde, Aquarelle, Zeichnungen, Druckgraphik und Helvetica des 16. bis 20. Jahrhunderts. Skulpturen und Antiquitäten, Auktionskatalog Dobiaschofsky, Bern, 30. April bis 3. Mai 1980, Bern 1980, Lot 134."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht eindeutig identifizierbar].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «Calame», Filter 1: «Suchmeldungen», Filter 2: «Malerei» [13. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2022-10-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (39 Ergebnisse) für Volltextsuche «Calame» [12. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 39,
+            "datum": "2022-10-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (672 Ergebnisse) für freie Suche «Calame» UND «See» UND «Ufer» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 672,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (56 Ergebnisse) für freie Suche «See», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [12. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für freie Suche «Boot», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [12. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für freie Suche «Ufer», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [12. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "0 Treffer (16 Ergebnisse) für freie Suche «Lac», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [12. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für freie Suche «Marine», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [12. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für freie Suche «Genfersee», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [12. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "3 mögliche Treffer (6 Ergebnisse) für freie Suche «Lac de Genève», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [12. Oktober 2022]:",
+            "treffer": 3,
+            "ergebnisse": 6,
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "Goupil Stock Book 3, S. 33, Reihe 9, Nr. 1599, Eingangsdatum: März 1865, Verkaufsdatum: 12. Juni 1869, https://roset-taapp.getty.edu/delivery/DeliveryManagerSer-vlet?dps_pid=FL1658063 [12. Oktober 2022].",
+            "datum": "2022-10-12"
+          },
+          {
+            "text": "Goupil Stock Book 2, S. 167, Reihe 4, Nr. 1599, Eingangsdatum: März 1865."
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/5458/5458_003_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              494.0,
+              474.9,
+              623.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          },
+          {
+            "datei": "images/5458/5458_004_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              623.2,
+              531.9,
+              657.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "Das Werk mit der Nummer 1599 im Goupil Stock Book ist in der ersten Spalte der tabellarischen Liste mit einem «P» verzeichnet und mit «75» nach dem Werktitel. Beim unserem Werk mit der Inventarnummer 5458 wurde in roter Farbe «P 75» auf den Keilrahmen geschrieben (siehe Provenienzmerkmale)."
+          },
+          {
+            "datei": "images/5458/5458_005_recherche.png",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              165.1,
+              480.1,
+              300.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          },
+          {
+            "datei": "images/5458/5458_006_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              301.6,
+              531.9,
+              330.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "Goupil Stock Book 4, S. 8, Reihe 3, Nr. 1599, Eingangsdatum: März 1865, verkauft am 12. Juni 1869 an Herdtle & Peters, Stuttgart, https://rosettaapp.getty.edu/delivery/DeliveryManagerServ-let?dps_pid=IE1654374 [12. Oktober 2022]."
+          },
+          {
+            "datei": "images/5458/5458_007_recherche.png",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              399.4,
+              480.1,
+              562.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index"
+          },
+          {
+            "datei": "images/5458/5458_008_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              562.9,
+              533.2,
+              586.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildunterschrift": "0 Treffer (20 Ergebnisse) für freie Suche «Gewitter», Filter: Artist «Calame» (alle Varianten der Namensschreibweise) [13. Oktober 2022]"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "13. Oktober 2022",
+      "institution": "Dobiaschofsky Auktionen, Bern",
+      "betreff": "Angaben zum Einlieferer",
+      "antwort": "–"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5458/5458_009_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            367.3,
+            304.0,
+            534.0,
+            363.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1980, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Jan Pieter Bohlmeijer",
+      "information": "Stadtarchiv Amsterdam, Bevölkerungsregister 1851–1853, Archivnummer 5000, Inventarnummer 792, S. 894, https://www.o-penarch.nl/saa:5191ef5f-fd22-44a0-9898-3905a612c23c.\n\nAdresse: Herengracht 191, Amsterdam.",
+      "bilder": [
+        {
+          "datei": "images/5458/5458_010_kontextinformationen.png",
+          "seite": 6,
+          "bbox": [
+            193.0,
+            558.1,
+            468.1,
+            747.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5458/5458_011_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          272.2,
+          334.4,
+          481.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. m. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «134»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «134»",
+        "kommentar": "Lotnummer Auktion Dobiaschofsky 1980",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5458/5458_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              519.6,
+              208.9,
+              587.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzem Schreibmittel «A. Calame»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «A. Calame»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5458/5458_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              599.9,
+              259.8,
+              662.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: verbräuntes rechteckiges Etikett, teilweise mit Defekten, schwarz gedruckt «J. P. Bohlmeijer, | […] sorten van antique en modern | vergulde lijsten | en | spiegelt[…] | Heerengracht, bij de Gasth[…]steeg[?] N[…] 19[…] | Te Amsterdam.»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, teilweise mit Defekten, schwarz gedruckt «J. P. Bohlmeijer, | […] sorten van antique en modern | vergulde lijsten | en | spiegelt[…] | Heerengracht, bij de Gasth[…]steeg[?] N[…] 19[…] | Te Amsterdam.»",
+        "kommentar": "Möglicherweise handelt es sich um den Hersteller des Rahmens.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5458/5458_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              334.5,
+              244.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Alle vier Ecken der Rückseite des Zierrahmens wurden mit Holz verstärkt; darunter könnten sich weitere Provenienzmerkmale verbergen."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines früheren Rückseitenschutzes, bestehend aus einem Zeitungsblatt in niederländischer Sprache",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines früheren Rückseitenschutzes, bestehend aus einem Zeitungsblatt in niederländischer Sprache",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5458/5458_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              291.4,
+              191.4,
+              461.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit rosa Kreide «P 75» und mit schwarzem Schreibmittel «UZ 2»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit rosa Kreide «P 75» und mit schwarzem Schreibmittel «UZ 2»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5458/5458_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              474.2,
+              297.5,
+              555.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. Keilrahmen: Siegel oder Stempelabdruck, möglicherweise «DO[…]TER» oder «DU[…]TER» (allenfalls «DUIJTER»), gefolgt von «A», darunter unleserlicher Text",
+        "position_traeger": "m. Keilrahmen",
+        "merkmal": "Siegel oder Stempelabdruck, möglicherweise «DO[…]TER» oder «DU[…]TER» (allenfalls «DUIJTER»), gefolgt von «A», darunter unleserlicher Text",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5458/5458_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              567.7,
+              229.6,
+              656.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Anker 1987, wo dieser Titel für ein vergleichbares Werk – gleiches Motiv, leicht abweichende Perspektive – vergeben wurde."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1980. In der Objektdatenbank SKKG ist zudem der wohl von Isabelle Messerli vergebene Titel Seelandschaft mit Ruderboot verzeichnet."
+    },
+    {
+      "nr": 3,
+      "text": "Anker 1987, «N. Pienemann fils à Roken à Amsterdam un tabl. nat. suisse clair et chaud au prix de f. 1600 29 pces sur 22 envoyé et payé en fin de 1852»."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Etikett auf der Werkrückseite sowie Kontextinformationen. An dieser Adresse war Bohlmeijer um 1851 gemeldet."
+    },
+    {
+      "nr": 5,
+      "text": "Goupil Stock Book 3, S. 33, Reihe 9, Nr. 1599, siehe Datenbankrecherche zum Getty Provenance Index."
+    },
+    {
+      "nr": 6,
+      "text": "Goupil Stock Book 4, S. 8, Reihe 3, Nr. 1599, siehe Datenbankrecherche zum Getty Provenance Index."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1980."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Bern 1980 im Archiv SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Alle vier Ecken der Rückseite des Zierrahmens wurden mit Holz verstärkt; darunter könnten sich weitere Provenienzmerkmale verbergen."
+    }
+  ],
+  "bilder_anzahl": 17
+}

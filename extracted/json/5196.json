@@ -1,0 +1,702 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5196_241113.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5196",
+      "Albert Anker (1831–1910)",
+      "Im Wald bei Asnières-sur-Seine",
+      "um 1870",
+      "Öl auf Malkarton",
+      "38 × 54 cm (Bildmass)",
+      "54 × 70 × 9 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5196",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Im Wald bei Asnières-sur-Seine",
+    "masse": [
+      "38 × 54 cm (Bildmass)",
+      "54 × 70 × 9 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1870",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5196/5196_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          309.0,
+          462.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Dans la forêt d’Asnières-sur-Seine."
+      },
+      {
+        "nr": 2,
+        "text": "Kuthy/Bhattacharya-Stettler 1995 geben «Öl auf Leinwand auf Karton» an."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1910 bis spätestens 1931",
+      "besitzer": "Nachlass Albert Anker (1831–1910)",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1931 bis spätestens 1957",
+      "besitzer": "Cécile Du Bois-Anker (Dubois) (1877–1957), Genf, erworben im Erbgang aus dem Nachlass des Vaters/Künstlers",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ausstellungskatalog Bern 1931, Kuthy/Bhattacharya-Stettler 1995; siehe auch Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Genf",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Möglicherweise befand sich das Werk im Nachlass von Cécile Du Bois-Anker, deren Familie in Genf wohnte. Siehe auch Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11.–25. November, 12./13. Dezember 1969",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen […], Lot 4629, Im Wald bei Asnières), Bern, eingeliefert aus Genfer Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Bern 1969, Kuthy/Bhattacharya-Stettler 1995. Das Lot 4629 erscheint im Auktionskatalog unter der Überschrift «Grosse Privat-Kollektion von Schweizer Meistergemälden aus Genfer Privatbesitz»; ein durchgehender Besitz der Provenienzstation «Privatbesitz, Genf» ist daher denkbar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5.–19. April, 6.–9. Mai 1972",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen […], Lot 2018, Im Wald bei Asnières), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1972, Kuthy/Bhattacharya-Stettler 1995. Das Lot 2018 erscheint im Auktionskatalog unter der Überschrift «Aus der Kollektion Baron C. de Reuter, aus einer Genfer Privatsammlung und aus mehreren Nachlässen»; ein durchgehender Besitz der Provenienzstation «Privatbesitz, Genf» ist daher möglich, siehe auch Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20. November bis 2. Dezember und 14.– 17. Dezember 1974",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen […], Lot 2908, Im Wald bei Asnières), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auktionskatalog Bern 1974, Kuthy/Bhattacharya-Stettler 1995. Siehe auch Fn. 6/7."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26.–31. Oktober 1989",
+      "besitzer": "Auktion Galerie Jürg Stuker (Bedeutende Auktionen. Privatsammlung Jürg Stuker. Altes Schloss Gerzensee, Lot 5005, Im Wald bei Asnières), Bern, eingeliefert aus dem Nachlass von Jürg Stuker",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Bern 1989, Kuthy/Bhattacharya-Stettler 1995. Es ist denkbar, dass sich das Werk seit den 1960er-Jahren durchgehend bei Jürg Stuker (gest. 1988 in Gerzensee) befand und bei den Auktionen 1969, 1972 und 1974 unverkauft blieb. Jedenfalls befand es sich zuletzt offenbar in seinem Privatbesitz, wie der Titel des Auktionskatalogs nahelegt (Nachlassauktion von Jürg Stukers Privatsammlung)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "9. Juni 1993",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Lot 48, Im Wald von Asnières), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Auktionskatalog Zürich 1993."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 9. Juni 1993",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 109, Nr. 146.",
+        "bilder": [
+          {
+            "datei": "images/5196/5196_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              511.4,
+              319.0,
+              593.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5196/5196_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              319.0,
+              207.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "– Grosse Auktionen. Kostbarste Juwelen […]. Sammlung Dr. Maurice Fuchs †. Nachlass Prof. Dr. W. Schweizer […], Auktionskatalog Galerie Jürg Stuker, Bern, 11.–25. November, 12./13. Dezember 1969, Bern 1969, Lot 4629.\n\n– Grosse Auktionen. Pretiosen und Silber aus königlichem Besitz. Sammlung Baron C. de Reuter […], Auktionskatalog Galerie Jürg Stuker, Bern, 5.–19. April, 6.–9. Mai 1972, Bern 1972, Lot 2018.\n\n– Grosse Auktionen. Sammlung Conan Doyle, Juwelen und Silberschatz aus königlichen Häusern […], Auktionskatalog Galerie Jürg Stuker, Bern, 20. November bis 2. Dezember, 14.–17. Dezember 1974, Bern 1974, Lot 2906.\n\n– Bedeutende Auktionen. Privatsammlung Jürg Stuker. Altes Schloss Gerzensee, Auktionskatalog Galerie Jürg Stuker, Bern, 26.–31. Oktober 1989, Bern 1989, Lot 5005.\n\n– Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 9. Juni 1993, Zürich 1993, Lot 48."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker 1831–1930. Jahrhundert-Ausstellung. 20. Juni bis 23. August 1931, Ausstellungskatalog Kunstmuseum Bern, Bern 1931, S. 4, Nr. 33.",
+        "bilder": [
+          {
+            "datei": "images/5196/5196_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              503.1,
+              339.8,
+              529.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstmuseum Bern, 20. Juni bis 23. August 1931, Albert Anker Jahrhundertausstellung, Nr. 33"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Anker» und «Asnieres» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Volltextsuche «Anker» und «dans la foret» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Volltextsuche «Albert Anker» und «im Wald» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "4. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5196/5196_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            191.2,
+            532.1,
+            209.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1969, annotiert von Kurt Meissner"
+        }
+      ]
+    },
+    {
+      "datum": "4. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5196/5196_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            254.6,
+            531.3,
+            274.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1972, annotiert von Kurt Meissner"
+        }
+      ]
+    },
+    {
+      "datum": "4. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5196/5196_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            318.8,
+            533.0,
+            341.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1974"
+        }
+      ]
+    },
+    {
+      "datum": "4. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5196/5196_008_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            372.5,
+            533.0,
+            401.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1989"
+        }
+      ]
+    },
+    {
+      "datum": "4. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5196/5196_009_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            432.7,
+            533.0,
+            599.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1993"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1400",
+      "bilder": [
+        {
+          "datei": "images/5196/5196_010_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            158.4,
+            531.8,
+            265.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis, handschriftlich annotiert mit Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5196/5196_011_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          535.3,
+          315.0,
+          737.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallschild, graviert, «A. ANKER»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallschild, graviert, «A. ANKER»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5196/5196_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              247.4,
+              175.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit weisser Kreide «Lot 48»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «Lot 48»",
+        "kommentar": "Lotnummer Auktion Sotheby’s 1993",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5196/5196_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              188.3,
+              300.4,
+              221.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Karton: handschriftlich mit Bleistift «35»",
+        "position_traeger": "u. r. Karton",
+        "merkmal": "handschriftlich mit Bleistift «35»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5196/5196_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              252.4,
+              168.1,
+              279.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Karton: handschriftlich mit weisser Kreide «9.6.93»",
+        "position_traeger": "u. m. Karton",
+        "merkmal": "handschriftlich mit weisser Kreide «9.6.93»",
+        "kommentar": "Datum Auktion Sotheby’s 1993",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5196/5196_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              292.2,
+              235.7,
+              334.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: rechteckiges weisses Etikett, schwarz gedruckt «25451», unterstrichen",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «25451», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5196/5196_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              355.3,
+              201.5,
+              385.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: verbräuntes rechteckiges Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz bedruckt",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1993, Nr. 33",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5196/5196_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              418.4,
+              253.5,
+              478.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: handschriftlich mit Bleistift «№ 50 | Cécile Du Bois-Ank[er]»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "handschriftlich mit Bleistift «№ 50 | Cécile Du Bois-Ank[er]»",
+        "kommentar": "Cécile Du Bois-Anker war die Tochter des Künstlers.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5196/5196_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              490.9,
+              286.5,
+              547.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Dans la forêt d’Asnières-sur-Seine."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 geben «Öl auf Leinwand auf Karton» an."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 4,
+      "text": "Ausstellungskatalog Bern 1931, Kuthy/Bhattacharya-Stettler 1995; siehe auch Provenienzmerkmale."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Möglicherweise befand sich das Werk im Nachlass von Cécile Du Bois-Anker, deren Familie in Genf wohnte. Siehe auch Fn. 6."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Bern 1969, Kuthy/Bhattacharya-Stettler 1995. Das Lot 4629 erscheint im Auktionskatalog unter der Überschrift «Grosse Privat-Kollektion von Schweizer Meistergemälden aus Genfer Privatbesitz»; ein durchgehender Besitz der Provenienzstation «Privatbesitz, Genf» ist daher denkbar."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1972, Kuthy/Bhattacharya-Stettler 1995. Das Lot 2018 erscheint im Auktionskatalog unter der Überschrift «Aus der Kollektion Baron C. de Reuter, aus einer Genfer Privatsammlung und aus mehreren Nachlässen»; ein durchgehender Besitz der Provenienzstation «Privatbesitz, Genf» ist daher möglich, siehe auch Fn. 6."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Bern 1974, Kuthy/Bhattacharya-Stettler 1995. Siehe auch Fn. 6/7."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Bern 1989, Kuthy/Bhattacharya-Stettler 1995. Es ist denkbar, dass sich das Werk seit den 1960er-Jahren durchgehend bei Jürg Stuker (gest. 1988 in Gerzensee) befand und bei den Auktionen 1969, 1972 und 1974 unverkauft blieb. Jedenfalls befand es sich zuletzt offenbar in seinem Privatbesitz, wie der Titel des Auktionskatalogs nahelegt (Nachlassauktion von Jürg Stukers Privatsammlung)."
+    },
+    {
+      "nr": 10,
+      "text": "Auktionskatalog Zürich 1993."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 18
+}

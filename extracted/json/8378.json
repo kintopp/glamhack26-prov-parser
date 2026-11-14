@@ -1,0 +1,545 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_8378_250305.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "5. März 2025",
+  "stand_iso": "2025-03-05",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 8378",
+      "Frank Buchser (1828–1890)",
+      "Italienischer Junge auf Balkon",
+      "o. J.",
+      "Öl auf Leinwand",
+      "38 × 47 × 4,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "8378",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Italienischer Junge auf Balkon",
+    "masse": [
+      "38 × 47 × 4,5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/8378/8378_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.3,
+          425.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1981, wo das Motiv als «Sitzender italienischer Junge, in zerlumpten Kleidern, auf einem Balkon» beschrieben wird."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Solothurn, wohl Dr. Kottmann, Solothurn",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Bern 1981 mit der Angabe «Alte Solothurner Privatsammlung» sowie Bleistiftaufschrift auf der Werkrückseite. Siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 26. Juni 1981",
+      "besitzer": "Powell-Kottmann, Solothurn/London, wahrscheinlich erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Angabe der Galerie Kornfeld vom 2. Februar 2023, wobei es sich um eine Erbin oder einen Erben handeln dürfte. Siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. Juni 1981",
+      "besitzer": "Auktion Galerie Kornfeld (Auktion 175, Lot 60, Sitzender italienischer Junge, in zerlumpten Kleidern, auf einem Balkon), Bern, eingeliefert von Powell-Kottmann",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Bern 1981 und Angabe der Galerie Kornfeld vom 2. Februar 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 26. Juni 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 28 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Bern 1981 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion 175, Auktionskatalog Galerie Kornfeld, Bern, 26. Juni 1981, Bern 1981, Lot 60."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Hersteller/Künst-ler/Autor:in «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Buchser», Filter 2: Titel einschränken «automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise) ohne Filter [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Galerie Kornfeld, Bern",
+      "betreff": "Wer war der Einlieferer / die Einlieferin an der Auktion 1981?",
+      "antwort": "2. Februar 2023: Powell-Kottmann, Solothurn/London"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (4 Ergebnisse im Archivverzeichnis, 33 in den Primärdaten) für Volltextsuche «Buchser» [7. Juni 2023]"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/8378/8378_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            253.8,
+            533.0,
+            391.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1981, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Kottmann, Solothurn",
+      "information": "Recherche zu «Powell-Kottmann, Solothurn/London» (Angabe Galerie Kornfeld zum/zur Eigentümer:in 1981) und «Dr. Kottmann, Solothurn» (Bleistiftaufschrift auf Werkrückseite):\n\nMöglicherweise handelt es sich bei dem/der Eigentümer:in von 1981 um Margrit Powell-Kottmann, von der im Jahr 2010 eine Schenkung von Kunstwerken an das Kunstmuseum Solothurn belegt ist.\n\nMargrit Powell-Kottmann ist die Tochter des Konservators und Sammlers Ubald Kottmann, Solothurn, eines Enkels der Sammler Dr. Walther Kottmann (um 1873 bis 1936, Chefarzt am Bürgerspital Solothurn) und Margrit Kottmann-Müller (1884–1958), Solothurn. Letztere war die Schwester der Sammler Josef Müller und Gertrud Dübi-Müller.",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe https://www.stadt-solothurn.ch/_docn/1942546/2010_Rechnung-Verwaltungsbericht.pdf, S. 177 [23. Juli 2025]."
+        },
+        {
+          "nr": 7,
+          "text": "Ebd."
+        },
+        {
+          "nr": 8,
+          "text": "Todesanzeige Walther Kottmann, in: Neue Zürcher Zeitung, Jg. 157, Nr. 1427, 20. August 1936, S. 8, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19360820-03.2.28.1 [28. Juli 2025]; Todesanzeige Margrit Kottmann-Müller, in: Neue Zürcher Zeitung, Jg. 179, Nr. 1916, 30. Juni 1958, S. 23, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19580630-01.2.61.4 [28. Juli 2025]."
+        },
+        {
+          "nr": 9,
+          "text": "Siehe https://de.wikipedia.org/wiki/Gertrud_D%C3%BCbi-M%C3%BCller#Erste_K%C3%BCnstlerkontakte,_Be-ginn_der_Sammlert%C3%A4tigkeit [28. Juli 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/8378/8378_003_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          274.2,
+          306.5,
+          470.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. m. Leinwand: handschriftlich mit gelber Farbe «F Buchser»",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "handschriftlich mit gelber Farbe «F Buchser»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_004_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              507.6,
+              306.1,
+              559.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Zierrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, rot bedruckt «60»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, rot bedruckt «60»",
+        "kommentar": "Lotnummer Auktion Galerie Kornfeld 1981",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              571.8,
+              209.3,
+              625.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «F. B.»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «F. B.»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              139.8,
+              209.1,
+              188.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «6»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «6»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              202.9,
+              228.6,
+              263.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: verbräuntes viereckiges Klebeetikett, schwarz bedruckt und handschriftlich mit Bleistift «96» (l. u.) sowie mit rotem Schreibmittel vermutlich ebenfalls «96» (r.), unterstrichen",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "verbräuntes viereckiges Klebeetikett, schwarz bedruckt und handschriftlich mit Bleistift «96» (l. u.) sowie mit rotem Schreibmittel vermutlich ebenfalls «96» (r.), unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.7,
+              275.7,
+              306.9,
+              338.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: wohl Klebereste eines Etiketts",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "wohl Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              351.6,
+              199.0,
+              417.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit Bleistift «10»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit Bleistift «10»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              430.1,
+              199.0,
+              476.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «Dr Kottman[n] | Solothurn 2,500 [oder 2,550]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Dr Kottman[n] | Solothurn 2,500 [oder 2,550]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              489.1,
+              306.3,
+              542.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Kornfeld 1981, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/8378/8378_012_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              555.6,
+              306.3,
+              665.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1981, wo das Motiv als «Sitzender italienischer Junge, in zerlumpten Kleidern, auf einem Balkon» beschrieben wird."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Bern 1981 mit der Angabe «Alte Solothurner Privatsammlung» sowie Bleistiftaufschrift auf der Werkrückseite. Siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Angabe der Galerie Kornfeld vom 2. Februar 2023, wobei es sich um eine Erbin oder einen Erben handeln dürfte. Siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Bern 1981 und Angabe der Galerie Kornfeld vom 2. Februar 2023."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Bern 1981 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe https://www.stadt-solothurn.ch/_docn/1942546/2010_Rechnung-Verwaltungsbericht.pdf, S. 177 [23. Juli 2025]."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Todesanzeige Walther Kottmann, in: Neue Zürcher Zeitung, Jg. 157, Nr. 1427, 20. August 1936, S. 8, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19360820-03.2.28.1 [28. Juli 2025]; Todesanzeige Margrit Kottmann-Müller, in: Neue Zürcher Zeitung, Jg. 179, Nr. 1916, 30. Juni 1958, S. 23, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19580630-01.2.61.4 [28. Juli 2025]."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe https://de.wikipedia.org/wiki/Gertrud_D%C3%BCbi-M%C3%BCller#Erste_K%C3%BCnstlerkontakte,_Be-ginn_der_Sammlert%C3%A4tigkeit [28. Juli 2025]."
+    }
+  ],
+  "bilder_anzahl": 12
+}

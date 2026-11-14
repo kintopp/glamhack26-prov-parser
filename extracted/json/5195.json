@@ -1,0 +1,684 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5195_241113.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5195",
+      "Albert Anker (1831–1910)",
+      "Bildnis Fritz Lüthy",
+      "1900",
+      "Öl auf Leinwand",
+      "56 × 48 cm (Bildmass)",
+      "74 × 64,7 × 7,4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5195",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Bildnis Fritz Lüthy",
+    "masse": [
+      "56 × 48 cm (Bildmass)",
+      "74 × 64,7 × 7,4 cm (Rahmenmass)"
+    ],
+    "datierung": "1900",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5195/5195_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          502.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Portrait de Fritz Lüthy."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "18. Juni 1900 bis 1909",
+      "besitzer": "Friedrich Adolf Lüthy-Arbenz (1851–1909), Feldbrunnen bei Solothurn, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 18. Juni 1900 in Albert Ankers Livre de vente: «M. Luthi pour le portrait de ses deux enfants 1500». Friedrich Adolf Lüthy war Geschäftsmann und Plantagenbesitzer auf Sumatra. Die Auftragsarbeit stellt den Sohn Fritz Lüthy dar. Das Pendant mit dem Porträt seiner Schwester (Bildnis Dora Lüthy) ist nicht im Besitz der SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1909 bis spätestens 1944",
+      "besitzer": "möglicherweise Dora Lüthy-Arbenz (1871–1944), Feldbrunnen bei Solothurn, erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 geben als nächste Station «Privatbesitz Feldbrunnen bei Solothurn» an. Damit dürfte weiterhin die Familie Lüthy-Arbenz in Feldbrunnen gemeint sein. Möglicherweise ging das Gemälde von Friedrich Adolf Lüthy-Arbenz an seine Frau Dora über. Bruno Stefanini notierte in seinem Exemplar des Auktionskatalogs Zürich 2001: «Vater v. Hans Lüthy (war bei Gratwohl)», siehe Archiv SKKG. Hans Lüthy, Direktor des Schweizerischen Instituts für Kunstwissenschaft, war der Enkel von Friedrich Adolf Lüthy und der Sohn des porträtierten Fritz Lüthy. Mit Gratwohl dürfte der Sammler Kurt Gratwohl gemeint sein, wobei unklar ist, in welchem Zusammenhang diese Aussage steht."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Fischer, Luzern",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Ob es sich um eine Auktion handelt, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15.–22. November und 14./15. Dezember 1956",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen […], Lot 1835), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1956 und Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Grossenbacher, Bern",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Jules Bossart, Pratteln",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "M. Hauber, München",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Zofingen",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1974",
+      "besitzer": "Privatbesitz, Basel",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1979",
+      "besitzer": "Privatbesitz, Deutschland",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1980",
+      "besitzer": "Galerie Klopfer, Zürich",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "4. Dezember 2001",
+      "besitzer": "Auktion Galerie Koller (Moderne Kunst. Schweizer Kunst. Gemälde, Grafik, Skulpturen, Lot 120, Bildnis Fritz Lüthy), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Auktionskatalog Zürich 2001."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 4. Dezember 2001",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 137 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 14,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2001 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 247, Nr. 581.",
+        "bilder": [
+          {
+            "datei": "images/5195/5195_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              209.5,
+              303.0,
+              441.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Grosse Auktionen. Porzellan-Sammlung Herbert Pick, Amsterdam. Bedeutende Privat-Kollektionen. Genfer Gemäldesammlung N. N., Auktionskatalog Galerie Jürg Stuker, Bern, 15.–22. November und 14./15. Dezember 1956, Lot 1835 [nicht konsultiert, fehlt im Archiv SKKG].\n\nModerne Kunst. Schweizer Kunst. Gemälde, Grafik, Skulpturen, Auktionskatalog Galerie Koller, Zürich, 4. Dezember 2001, Lot 120."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (52 Ergebnisse) für Volltextsuche «Anker» und «Lüthy» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 52,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Anker» und «Luthi» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Fritz Lüthy» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5195/5195_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            431.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2001, annotiert von Bruno Stefanini. Annotation oben rechts: «Vater v. Hans | Lüthy | (war bei Gratwohl)»."
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 15,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Familie Lüthy, Feldbrunnen",
+      "information": "Eintrag zu Friedrich Adolf Lüthy (1851–1909) auf MyHeritage, https://www.myheritage.ch/research/collection-1/myheritage-stamm-baume?itemId=902627161-1-500039&action=showRecord [18. Januar 2023]"
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5195/5195_004_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          321.0,
+          462.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «Anker 190[0]»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Anker 190[0]»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_005_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              499.7,
+              238.8,
+              544.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallplakette, graviert «A. Anker | Ec. Suisse. 1831-1910»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallplakette, graviert «A. Anker | Ec. Suisse. 1831-1910»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              562.8,
+              238.5,
+              605.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 16,
+            "text": "«Ec. Suisse» steht für «École Suisse» (Schweizer Schule)."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit weisser Kreide «Dubs»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «Dubs»",
+        "kommentar": "Wer mit Dubs gemeint ist, ist unklar.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              617.6,
+              320.6,
+              678.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «Dubs Wie […?]»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Dubs Wie […?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              691.6,
+              320.5,
+              726.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: Klebereste eines weissen Etiketts",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "Klebereste eines weissen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              254.3,
+              188.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: möglicherweise schwarzer Stempel, unleserlich",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "möglicherweise schwarzer Stempel, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              200.5,
+              254.5,
+              257.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt und handschriftlich mit schwarzem Schreibmittel «EIB 59945/1 | C. Koller»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt und handschriftlich mit schwarzem Schreibmittel «EIB 59945/1 | C. Koller»",
+        "kommentar": "Auktion Galerie Koller 2001, vermutlich aufgebracht von Cyril Koller, seit 1998 Geschäftsleiter des Auktionshauses",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              270.0,
+              236.0,
+              326.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier-/Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «15277», unterstrichen",
+        "position_traeger": "o. l. Zier-/Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «15277», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5195/5195_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              396.4,
+              207.3,
+              425.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5195/5195_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              432.4,
+              207.4,
+              467.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Portrait de Fritz Lüthy."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 18. Juni 1900 in Albert Ankers Livre de vente: «M. Luthi pour le portrait de ses deux enfants 1500». Friedrich Adolf Lüthy war Geschäftsmann und Plantagenbesitzer auf Sumatra. Die Auftragsarbeit stellt den Sohn Fritz Lüthy dar. Das Pendant mit dem Porträt seiner Schwester (Bildnis Dora Lüthy) ist nicht im Besitz der SKKG."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 geben als nächste Station «Privatbesitz Feldbrunnen bei Solothurn» an. Damit dürfte weiterhin die Familie Lüthy-Arbenz in Feldbrunnen gemeint sein. Möglicherweise ging das Gemälde von Friedrich Adolf Lüthy-Arbenz an seine Frau Dora über. Bruno Stefanini notierte in seinem Exemplar des Auktionskatalogs Zürich 2001: «Vater v. Hans Lüthy (war bei Gratwohl)», siehe Archiv SKKG. Hans Lüthy, Direktor des Schweizerischen Instituts für Kunstwissenschaft, war der Enkel von Friedrich Adolf Lüthy und der Sohn des porträtierten Fritz Lüthy. Mit Gratwohl dürfte der Sammler Kurt Gratwohl gemeint sein, wobei unklar ist, in welchem Zusammenhang diese Aussage steht."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Ob es sich um eine Auktion handelt, ist nicht bekannt."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1956 und Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Ebd."
+    },
+    {
+      "nr": 9,
+      "text": "Ebd."
+    },
+    {
+      "nr": 10,
+      "text": "Ebd."
+    },
+    {
+      "nr": 11,
+      "text": "Ebd."
+    },
+    {
+      "nr": 12,
+      "text": "Ebd."
+    },
+    {
+      "nr": 13,
+      "text": "Auktionskatalog Zürich 2001."
+    },
+    {
+      "nr": 14,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2001 im Archiv SKKG."
+    },
+    {
+      "nr": 15,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 16,
+      "text": "«Ec. Suisse» steht für «École Suisse» (Schweizer Schule)."
+    }
+  ],
+  "bilder_anzahl": 13
+}

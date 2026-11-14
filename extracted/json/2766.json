@@ -1,0 +1,524 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2766_250605.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "5. Juni 2025",
+  "stand_iso": "2025-06-05",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2766",
+      "Frank Buchser (1828–1890)",
+      "Brustbildnis eines nach rechts gewandten Schwarzen Mannes mit Fez und Ohrring",
+      "o. J.",
+      "Öl auf Leinwand",
+      "53 × 44 cm (Bildmass)",
+      "73,5 × 63 × 7,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2766",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Brustbildnis eines nach rechts gewandten Schwarzen Mannes mit Fez und Ohrring",
+    "masse": [
+      "53 × 44 cm (Bildmass)",
+      "73,5 × 63 × 7,5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2766/2766_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          470.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1978, rassismuskritisch angepasst."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "16. November bis 14. Dezember 1978",
+      "besitzer": "Auktion Galerie Jürg Stuker (Hochbedeutende Jubiläums-Auktionen, 40 Jahre Galerie Jürg Stuker, Lot 1868, Brustbild eines nach rechts gewandten N* mit Fez und Ohrring, in dunkelblauer Gewandung), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 1978."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21. November bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 1100 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1978 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite. Das Lot 1868 ging am 21. November."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Hochbedeutende Jubiläums-Auktionen. 40 Jahre Galerie Jürg Stuker, Auktionskatalog Galerie Jürg Stuker, Bern, 16. November bis 6. Dezember und 9.–14. Dezember 1978, Bern 1978, Lot 1868."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Frank Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (105 Ergebnisse) für Suche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 105,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Suche «Fez» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank» mit Filter: Publication Name «EU, Ardelia Hall Collection: Wiesbaden Administrative Records, 1945–1952» und «EU, Ardelia Hall Collection: OMGUS Records, 1938–1951» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Suche «Buchser», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche nach «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Frank Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (111 Ergebnisse) für Volltextsuche «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 111,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Volltextsuche «Buchser» (inklusive Varianten der Namensschreibweise) [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche nach «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-06-03"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Suche in Auktionskatalogen, Filter: Künstler «Buchser» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2025-06-03"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2766/2766_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            542.6,
+            533.6,
+            559.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1978, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2766/2766_003_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          240.8,
+          327.4,
+          549.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: vermutlich Aufschrift, unleserlich",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "vermutlich Aufschrift, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_004_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.3,
+              612.3,
+              327.5,
+              695.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Fragment eines Klebeetiketts mit gezahntem Rand",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Fragment eines Klebeetiketts mit gezahntem Rand",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              139.8,
+              201.5,
+              205.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, blau gedruckt «[1]868»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, blau gedruckt «[1]868»",
+        "kommentar": "Auktion Galerie Jürg Stuker 1978, Lot 1868",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              218.3,
+              213.0,
+              298.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «Frank Buchser»",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Frank Buchser»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              310.3,
+              330.1,
+              352.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: angeheftetes rechteckiges weisses Etikett, blau gedruckt «1868»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "angeheftetes rechteckiges weisses Etikett, blau gedruckt «1868»",
+        "kommentar": "Auktion Galerie Jürg Stuker 1978, Lot 1868",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              365.4,
+              216.4,
+              435.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              453.8,
+              327.2,
+              503.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Klebetikett, schwarz gedruckt «12892», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Klebetikett, schwarz gedruckt «12892», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              515.8,
+              214.2,
+              581.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit Bleistift «Stuker Herbst 78 | 1868»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit Bleistift «Stuker Herbst 78 | 1868»",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Jürg Stuker 1978, Lot 1868, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2766/2766_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              594.3,
+              327.5,
+              739.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1978, rassismuskritisch angepasst."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 1978."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1978 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite. Das Lot 1868 ging am 21. November."
+    }
+  ],
+  "bilder_anzahl": 11
+}

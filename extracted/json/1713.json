@@ -1,0 +1,768 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1713_221025.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Ylva Meyer",
+  "stand": "25. Oktober 2022",
+  "stand_iso": "2022-10-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1713",
+      "Arnold Böcklin (1827–1901)",
+      "Frau in schwarzer Mantille",
+      "1874",
+      "Öl auf Leinwand",
+      "77 × 58 cm (Bildmass)",
+      "105 × 85 × 6 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1713",
+    "status": "Ungeklärt",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Frau in schwarzer Mantille",
+    "masse": [
+      "77 × 58 cm (Bildmass)",
+      "105 × 85 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1874",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1713/1713_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.4,
+          551.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 1979."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1874–1890",
+      "besitzer": "Mathilde von Guaita (1815–1890), Frankfurt am Main, gekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Andree 1977. Mathilde von Guaita war eine begüterte Kunstmäzenin. Sie besass weitere Werke von Arnold Böcklin, etwa die Hochzeitsreise, heute Staatliche Museen zu Berlin, Nationalgalerie, Inventarnummer A 1099, Provenienz: https://id.smb.museum/object/958594 [27. September 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1890 bis vermutlich 1903",
+      "besitzer": "Max von Guaita (1842–1903), Frankfurt am Main, erworben im Erbgang von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "vermutlich Erbengemeinschaft Max von Guaita",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Andree 1977 macht keine Angaben zum Verbleib zwischen 1903 (Tod Max von Guaita) und 1914. Max von Guaita hatte drei Kinder, die ihn überlebten und eine Erbengemeinschaft gebildet haben dürften, siehe https://de.wikipe-dia.org/wiki/Max_von_Guaita [27. September 2022]. Wahrscheinlich war das Werk in deren Eigentum."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1914 bis o. D.",
+      "besitzer": "Leon von Guaita (1878–1932), Storkau, vermutlich erworben im Erbgang von der Erbengemeinschaft",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Andree 1977, mit der Angabe, das Werk sei 1914 bei Leon von Guaita, siehe https://de.wikipe-dia.org/wiki/Leon_von_Guaita [27. September 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1930",
+      "besitzer": "Kunsthandlung Ludwigsgalerie, München, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Andree 1977, ohne Quellenangabe zur Kunsthandlung Ludwigsgalerie. Schreibvarianten für die Galerie: Ludwigs-Galerie; Kunsthandlung Otto H. Nathan (1923/24); Ludwigs Galerie Otto H. Nathan, Inh. Fritz Nathan; Galerie Otto H. Nathan; keine Treffer auf German Sales (siehe Datenbankrecherche)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1930",
+      "besitzer": "Wilhelm Goebel, München",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Andree 1977. Im Amtlichen Fernsprechbuch für das Ortsnetz München ist zwischen 1930 und 1943 ein Dr. med. Wilhelm Goebel, Menterschwaigstrasse 11, eingetragen. An der gleichen Adresse wohnte 1954 Charlotte Goebel (siehe Kontextinformationen), wobei der familiäre Bezug unklar ist («Fräulein» bei Andree deutet auf eine unverheiratete Tochter hin). Vorname und Nachname, Ort sowie die nachgewiesenen Jahre im Fernsprechbuch sprechen dafür, dass die Angaben mit den bei Andree aufgeführten Personen korrespondieren könnten. Allerdings finden sich mehrere Personen mit dem Namen Wilhelm Goebel. Ein Wilhelm Goebel, der 1954 verstarb, hatte eine Tochter namens Charlotte und wohnte in Bielefeld, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1954",
+      "besitzer": "Fräulein Charlotte Goebel, München",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Andree 1977. Vermutlich handelt es sich um Charlotte Goebel, wohnhaft an der Menterschwaigstrasse 11 in München, siehe Fn. 7."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1969",
+      "besitzer": "Privatbesitz, München",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1972",
+      "besitzer": "Kurt Gratwohl (1919–1979), Erlenbach ZH",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Holenweg 2021. Kurt Gratwohl, wohnhaft in Erlenbach ZH, war Bankier und führte die Anlagebank Zürich. Er hatte in den 1970er-Jahren eine Kunstsammlung, die über Sotheby’s in der Villa Rosau in Zürich verkauft wurde, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. Mai 1979",
+      "besitzer": "Auktion Sotheby Parke Bernet (Eine bedeutende Sammlung Schweizer Gemälde des 19. und 20. Jahrhunderts, Lot 27, Frau in schwarzer Mantille), Zürich, eingeliefert von Kurt Gratwohl",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Auktionskatalog Zürich 1979. Der Einlieferer Kurt Gratwohl hatte seit 1978 grosse juristische Probleme und finanzielle Engpässe, was zum Verkauf seiner Kunstsammlung geführt haben dürfte, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. Mai 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby Parke Bernet, Zuschlagspreis: 62 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Offene Punkte",
+        "text": "– Personenrecherche zu Wilhelm und Charlotte Goebel vertiefen\n\n– Anfrage Johannes Nathan zur Ludwigsgalerie 1930, ob Katalog beziehungsweise Informationen zu Einlieferer/Käufer vorhanden\n\n– Allenfalls Anfrage an das SIK, weil die Nummer 14221 (siehe Provenienzmerkmale) belegt, dass sich das Bild dort für eine Expertise oder Restaurierung (Zusammenhang Ausleihe nach Japan 1983?) befand."
+      },
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 378, Nr. 292.",
+        "bilder": [
+          {
+            "datei": "images/1713/1713_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              384.9,
+              368.9,
+              571.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1713/1713_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              578.4,
+              368.8,
+              629.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Hans Holenweg, Arnold Böcklin. Ergänzungen, Nachträge und Korrekturen zum Katalog der Gemälde, Stand: 1. November 2021, S. 11, Nr. 292, https://www.sikart.ch/pdf/holenweg_gemaelde.pdf [25. Oktober 2022]."
+          },
+          {
+            "datei": "images/1713/1713_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              698.6,
+              519.8,
+              738.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Eine bedeutende Sammlung Schweizer Gemälde des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby Parke Bernet, Zürich, 19. Mai 1979, Zürich 1979, Lot 27."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "The Rediscovery of Nature. An Anthology of the 19th Century Landscape Painting in the West, Ausstellungskatalog Museum of Modern Art, Kobe, o. O. 1983.\n\nMatthias Frehner (Hrsg.), Sesam öffne Dich! Anker, Hodler, Segantini. Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, Bern 2014, Nr. 75.",
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Die Ausstellung reiste nach Iwate (Iwate Prefectural Museum), Saitama (Museum of Modern Art), Hiroshima (Hiroshima Prefectural Art Museum) sowie Kitakyushu (Kitakyushu Municipal Museum of Art), siehe Ausstellungsetikett auf der Werkrückseite."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Museum of Modern Art, Kobe, The Rediscovery of Nature. An Anthology of 19th Century Landscape Painting in the West, 3. November 1983 bis 25. März 1984.\n\n– Kunstmuseum Winterthur, Reinhart am Stadtgraben, Von Anker bis Holder. Meisterwerke der Stiftung Kunst, Kultur und Geschichte, 22. Juni 2007 bis 25. Mai 2008.\n\n– Kunstmuseum Bern / Fondation Gianadda, Martigny, Sesam öffne Dich! Anker, Hodler, Segantini. Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, 7. März bis 24. August 2014 /5. Dezember 2014 bis 14. Juni 2015, Nr. 75."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1713/1713_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            190.7,
+            531.9,
+            448.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Richard Wurm",
+      "information": "Christine Berberich, Die Firma Richard Wurm und die «Wurm’sche Tempera». Eine kommentierte Archivaliensammlung, Seminararbeit Technische Universität München, München 2012, https://media-tum.ub.tum.de/doc/1599422 [22. Oktober 2022].",
+      "fussnoten": [
+        {
+          "nr": 14,
+          "text": "Siehe Provenienzmerkmale, Stempel auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "thema": "Kurt Gratwohl",
+      "information": "Ehemaliger Bankdirektor Kurt Gratwohl tödlich verunfallt. Strafverfahren kurz vor Abschluss eingestellt, in: Neue Zürcher Nachrichten, Jg. 74. (1980), Nr. 7, 10. Januar 1980, S. 5, https://www.e-newspa-perarchives.ch/?a=d&d=NZN19800110-01.2.15.3 [22. Oktober 2022]."
+    },
+    {
+      "thema": "Auktion 1979, Villa Rosau",
+      "information": "Allerlei Schweizer Malerei. Ausstellung einer Privatsammlung in der Villa «Rosau», in: Neue Zürcher Zeitung, Jg. 200 (1979), Nr. 95, 25. April 1979, S. 37, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19790425-01.2.51.2 [22. Oktober 2022]."
+    },
+    {
+      "thema": "Wilhelm Goebel, Fernsprechbuch",
+      "information": "Amtliches Fernsprechbuch 1930/1940/1943, München, Eintrag zu Goebel, Wilhelm, https://www.ancestry.de/discoveryui-con-tent/view/35659435:60654 [22. Oktober 2022]."
+    },
+    {
+      "thema": "Wihelm Goebel, MyHeritage",
+      "information": "MyHeritage, Eintrag Wilhelm Goebel (1869–1954), Bielefeld, https://www.myheritage.ch/research?formId=master&ac-tion=query&qname=Name+fn.wilhelm+fnmo.1+ln.goe-bel+lnmsrs.false&qevents-event1=Event+et.any+ep.biele-feld+epmo.similar&qevents-any/1event_1=Event+et.death+ey.1954 [22. Oktober 2022].\n\nEs ist eher unwahrscheinlich, dass dieser Wilhelm Goebel gemeint ist, doch die Namen von Vater und Tochter und das Sterbejahr könnten passen."
+    },
+    {
+      "thema": "Charlotte Goebel, Fernsprechbuch",
+      "information": "Amtliches Fernsprechbuch 1954, München, Eintrag zu Goebel, Charlotte, https://www.ancestry.de/discoveryui-con-tent/view/35659435:60654 [22. Oktober 2022]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1713/1713_006_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          291.7,
+          448.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: braun gestempelt «MALERLEIN-WAND [?] | FARBEN-FABRIK | VON | RICHARD WURM | MÜNCHEN»",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "braun gestempelt «MALERLEIN-WAND [?] | FARBEN-FABRIK | VON | RICHARD WURM | MÜNCHEN»",
+        "kommentar": "Die Farben- und Malerleinwandfabrik Richard Wurm existiert seit 1864 in München.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_007_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              511.4,
+              291.5,
+              624.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 15,
+            "text": "Siehe Kontextinformationen."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett, schwarz bedruckt, Wanderausstellung Japan, November 1983 bis März 1984",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt, Wanderausstellung Japan, November 1983 bis März 1984",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_008_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              291.5,
+              239.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt, handschriftlich mit blauem Schreibmittel «Böcklin | Woman Mant. | Sotheby»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt, handschriftlich mit blauem Schreibmittel «Böcklin | Woman Mant. | Sotheby»",
+        "kommentar": "Sotheby’s wird als Leihgeber angegeben. Bei der MAT Securitas Express AG handelt es sich um ein Logistikunternehmen. Das Etikett wurde vermutlich für die über Sotheby’s organisierte Spedition nach Japan 1983/84 aufgebracht.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_009_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              251.9,
+              291.5,
+              347.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 16,
+            "text": "Siehe Archiv intern."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiger weisser Zettel, angeheftet, maschinenschriftlich «Auktion Sotheby, 19. Mai 1979», handschriftlich mit grauem Schreibmittel «27»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiger weisser Zettel, angeheftet, maschinenschriftlich «Auktion Sotheby, 19. Mai 1979», handschriftlich mit grauem Schreibmittel «27»",
+        "kommentar": "entspricht der Lotnummer der Auktion",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_010_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              403.6,
+              253.7,
+              483.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett, handschriftlich mit schwarzem und rotem Schreibmittel «19 [?]» (eingekreist) und «T-8»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, handschriftlich mit schwarzem und rotem Schreibmittel «19 [?]» (eingekreist) und «T-8»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              496.2,
+              231.2,
+              556.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Zierrahmen: handschriftlich mit dunklem Schreibmittel «4711»",
+        "position_traeger": "m. r. Zierrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «4711»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              569.0,
+              291.4,
+              661.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit grauem Schreibmittel «466 [?]»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «466 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_013_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              292.5,
+              220.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen sowie o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «14221», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen sowie o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «14221», unterstrichen",
+        "kommentar": "alte SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_014_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              233.3,
+              230.7,
+              286.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1713/1713_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              293.3,
+              230.7,
+              343.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: blauer Klebepunkt, schwarz gedruckt «53»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "blauer Klebepunkt, schwarz gedruckt «53»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              355.8,
+              208.9,
+              420.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisses Etikett mit abgerundeten Ecken, teils abgelöst",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisses Etikett mit abgerundeten Ecken, teils abgelöst",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1713/1713_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              433.2,
+              232.0,
+              493.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 2,
+      "text": "Andree 1977. Mathilde von Guaita war eine begüterte Kunstmäzenin. Sie besass weitere Werke von Arnold Böcklin, etwa die Hochzeitsreise, heute Staatliche Museen zu Berlin, Nationalgalerie, Inventarnummer A 1099, Provenienz: https://id.smb.museum/object/958594 [27. September 2022]."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 4,
+      "text": "Andree 1977 macht keine Angaben zum Verbleib zwischen 1903 (Tod Max von Guaita) und 1914. Max von Guaita hatte drei Kinder, die ihn überlebten und eine Erbengemeinschaft gebildet haben dürften, siehe https://de.wikipe-dia.org/wiki/Max_von_Guaita [27. September 2022]. Wahrscheinlich war das Werk in deren Eigentum."
+    },
+    {
+      "nr": 5,
+      "text": "Andree 1977, mit der Angabe, das Werk sei 1914 bei Leon von Guaita, siehe https://de.wikipe-dia.org/wiki/Leon_von_Guaita [27. September 2022]."
+    },
+    {
+      "nr": 6,
+      "text": "Andree 1977, ohne Quellenangabe zur Kunsthandlung Ludwigsgalerie. Schreibvarianten für die Galerie: Ludwigs-Galerie; Kunsthandlung Otto H. Nathan (1923/24); Ludwigs Galerie Otto H. Nathan, Inh. Fritz Nathan; Galerie Otto H. Nathan; keine Treffer auf German Sales (siehe Datenbankrecherche)."
+    },
+    {
+      "nr": 7,
+      "text": "Andree 1977. Im Amtlichen Fernsprechbuch für das Ortsnetz München ist zwischen 1930 und 1943 ein Dr. med. Wilhelm Goebel, Menterschwaigstrasse 11, eingetragen. An der gleichen Adresse wohnte 1954 Charlotte Goebel (siehe Kontextinformationen), wobei der familiäre Bezug unklar ist («Fräulein» bei Andree deutet auf eine unverheiratete Tochter hin). Vorname und Nachname, Ort sowie die nachgewiesenen Jahre im Fernsprechbuch sprechen dafür, dass die Angaben mit den bei Andree aufgeführten Personen korrespondieren könnten. Allerdings finden sich mehrere Personen mit dem Namen Wilhelm Goebel. Ein Wilhelm Goebel, der 1954 verstarb, hatte eine Tochter namens Charlotte und wohnte in Bielefeld, siehe Kontextinformationen."
+    },
+    {
+      "nr": 8,
+      "text": "Andree 1977. Vermutlich handelt es sich um Charlotte Goebel, wohnhaft an der Menterschwaigstrasse 11 in München, siehe Fn. 7."
+    },
+    {
+      "nr": 9,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 10,
+      "text": "Holenweg 2021. Kurt Gratwohl, wohnhaft in Erlenbach ZH, war Bankier und führte die Anlagebank Zürich. Er hatte in den 1970er-Jahren eine Kunstsammlung, die über Sotheby’s in der Villa Rosau in Zürich verkauft wurde, siehe Kontextinformationen."
+    },
+    {
+      "nr": 11,
+      "text": "Auktionskatalog Zürich 1979. Der Einlieferer Kurt Gratwohl hatte seit 1978 grosse juristische Probleme und finanzielle Engpässe, was zum Verkauf seiner Kunstsammlung geführt haben dürfte, siehe Kontextinformationen."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 13,
+      "text": "Die Ausstellung reiste nach Iwate (Iwate Prefectural Museum), Saitama (Museum of Modern Art), Hiroshima (Hiroshima Prefectural Art Museum) sowie Kitakyushu (Kitakyushu Municipal Museum of Art), siehe Ausstellungsetikett auf der Werkrückseite."
+    },
+    {
+      "nr": 14,
+      "text": "Siehe Provenienzmerkmale, Stempel auf der Werkrückseite."
+    },
+    {
+      "nr": 15,
+      "text": "Siehe Kontextinformationen."
+    },
+    {
+      "nr": 16,
+      "text": "Siehe Archiv intern."
+    }
+  ],
+  "bilder_anzahl": 17
+}

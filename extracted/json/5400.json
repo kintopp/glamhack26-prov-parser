@@ -1,0 +1,673 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5400_230608.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5400",
+      "Albert Anker (1831–1910)",
+      "Einsamkeit",
+      "1865",
+      "Öl auf Leinwand",
+      "63 × 50 cm (Bildmass)",
+      "83,5 × 70 × 5,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5400",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Einsamkeit",
+    "masse": [
+      "63 × 50 cm (Bildmass)",
+      "83,5 × 70 × 5,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1865",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5400/5400_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          261.8,
+          519.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Isolement. Laut Ankers Verkaufsbuch handelt es sich beim Dargestellten um «Hans Joggi» (wohl Hans-Jakob), siehe Fn. 3."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1.–31. Mai 1866",
+      "besitzer": "Verkaufsausstellung Neuchâtel (Douzième Exposition de la Société des Amis des Arts, Nr. 4, Isolement), eingereicht vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ausstellungskatalog Neuchâtel 1866, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "Juni 1866 bis o. D.",
+      "besitzer": "Loterie de Neuchâtel, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom Juni 1866 in Ankers Livre de vente: «Le Hans Joggi, isolement, de la loterie de Neuchâtel 300»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1903",
+      "besitzer": "Charles-Alfred Petitpierre-Steiger (1831–1903), Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Zu Charles-Alfred Petitpierre-Steiger siehe https://hls-dhs-dss.ch/de/artic-les/004652/2011-11-02 [20. März 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1903 bis spätestens 1937",
+      "besitzer": "Herr und Frau Savoie-Petitpierre, Neuchâtel, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ausstellungskatalog Bern 1931, Kuthy/Bhattacharya-Stettler 1995. Die genauen verwandtschaftlichen Verhältnisse zwischen Petitpierre-Steiger und Savoie-Petitpierre wurden nicht ermittelt, siehe jedoch Todesanzeige für Charles-Alfred Petitpierre-Steiger, in der die Savoie-Petitpierres genannt werden: Feuille d’Avis de Neuchâtel, Jg. 145, Nr. 20, 26. Januar 1903, S. 3, https://www.e-newspaperarchives.ch/?a=d&d=EXR19030126-01.2.29.2 [20. März 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1937 bis spätestens 1939",
+      "besitzer": "Heinrich Blattmann-Ziegler (1869–1939), Wädenswil",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995, ohne Jahresangabe. Heinrich Blattmann-Ziegler ist spätestens 1937 als Leihgeber zu fassen, siehe Ausstellungskatalog Basel 1937."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1939 bis spätestens 1960",
+      "besitzer": "Heinrich Robert Blattmann (1898–1960), Wädenswil, erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 1994, Kuthy/Bhattacharya-Stettler 1995. Siehe auch Etiketten auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Wädenswil, vermutlich Nachlass von Heinrich Robert Blattmann",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 mit der Angabe «Privatbesitz Wädenswil», womit vermutlich die Nachkommen von Heinrich Robert Blattmann gemeint sind."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. Dezember 1994",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Lot 69, Einsamkeit), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Zürich 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. Dezember 1994",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 250 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 92, Nr. 97.",
+        "bilder": [
+          {
+            "datei": "images/5400/5400_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              511.3,
+              307.3,
+              581.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5400/5400_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.2,
+              139.8,
+              306.9,
+              215.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5400/5400_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              221.1,
+              307.2,
+              251.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 8. Dezember 1994, Zürich 1994, Lot 69.",
+        "bilder": [
+          {
+            "datei": "images/5400/5400_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              295.0,
+              322.4,
+              456.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Catalogue des ouvrages d’art exposé à Neuchâtel en 1866. Douzième Exposition de la Société des Amis des Arts, Ausstellungskatalog Neuchâtel, Neuchâtel 1866, Nr. 4.\n\nAlbert Anker. 1831–1910. Jahrhundert-Ausstellung. 20. Juni bis 23. August 1931, Ausstellungskatalog Kunstmuseum Bern, Bern 1931, Nr. 25.",
+        "bilder": [
+          {
+            "datei": "images/5400/5400_006_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              564.0,
+              379.2,
+              600.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Albert Anker. 3. April bis 17. Mai 1937, Ausstellungskatalog Kunsthalle Basel, Basel 1937, Nr. 200."
+          },
+          {
+            "datei": "images/5400/5400_007_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              644.1,
+              401.0,
+              669.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (165 Ergebnisse) für Volltextsuche «Einsamkeit» und «Anker» [21. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 165,
+            "datum": "2023-03-21"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «isolement» und «Anker» [21. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-03-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "2. März 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1400",
+      "bilder": [
+        {
+          "datei": "images/5400/5400_008_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            410.2,
+            533.3,
+            523.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte Kopie des lotspezifischen Ausschnitts aus Auktionskatalog Zürich 1994 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5400/5400_009_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          290.5,
+          434.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit dunkler Farbe «Anker 1865.»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit dunkler Farbe «Anker 1865.»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              472.7,
+              292.8,
+              517.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: verbräuntes rechteckiges Etikett mit schwarzer Rahmenlinie, rot gestempelt «H. R. Blattmann | 20 Nordstrasse 20 | Wädenswil»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett mit schwarzer Rahmenlinie, rot gestempelt «H. R. Blattmann | 20 Nordstrasse 20 | Wädenswil»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              535.8,
+              292.8,
+              657.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. Mittelstrebe: siehe vorausgehendes Provenienzmerkmal",
+        "position_traeger": "r. Mittelstrebe",
+        "merkmal": "siehe vorausgehendes Provenienzmerkmal",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              290.7,
+              241.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit weisser Kreide «8.12.94»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «8.12.94»",
+        "kommentar": "Datum der Auktion Sotheby’s 1994",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              254.4,
+              290.8,
+              303.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen (unter Kreidenaufschrift): handschriftlich mit Bleistift «I cadre 7 [?]»",
+        "position_traeger": "u. m. Zierrahmen (unter Kreidenaufschrift)",
+        "merkmal": "handschriftlich mit Bleistift «I cadre 7 [?]»",
+        "kommentar": "Notat des Rahmenbauers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              317.5,
+              225.3,
+              396.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: weisser Zettel, Kopie, maschinenbeschrieben, handschriftlich mit schwarzem und braunem Schreibmittel annotiert: «01.100», «3», «3 kleine | Löcher | R beschädigt», «auf Blatt 12 notiert | 16.6.2000 Uwe», «250.000»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "weisser Zettel, Kopie, maschinenbeschrieben, handschriftlich mit schwarzem und braunem Schreibmittel annotiert: «01.100», «3», «3 kleine | Löcher | R beschädigt», «auf Blatt 12 notiert | 16.6.2000 Uwe», «250.000»",
+        "kommentar": "Erwerbsnachweis mit Angabe des Zuschlagspreises und Angaben zum Zustand. «R» steht für Rahmen (siehe Plastiksäckchen mit Rahmenfragmenten o. m.), «Uwe» für Ursula Netzer (SKKG).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              409.5,
+              290.7,
+              520.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Etikett, schwarz bedruckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz bedruckt",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1931, Nr. 25",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              573.8,
+              292.6,
+              665.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: quadratisches weisses Etikett mit blau gerandeter Abrissstelle, handschriftlich mit schwarzem Filzstift «12»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "quadratisches weisses Etikett mit blau gerandeter Abrissstelle, handschriftlich mit schwarzem Filzstift «12»",
+        "kommentar": "aufgebracht von Ursula Netzer, Schlossverwalterin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              218.7,
+              233.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit weisser Kreide «69»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «69»",
+        "kommentar": "Lotnummer Auktion Sotheby’s 1994",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5400/5400_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              245.5,
+              218.7,
+              321.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Isolement. Laut Ankers Verkaufsbuch handelt es sich beim Dargestellten um «Hans Joggi» (wohl Hans-Jakob), siehe Fn. 3."
+    },
+    {
+      "nr": 2,
+      "text": "Ausstellungskatalog Neuchâtel 1866, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom Juni 1866 in Ankers Livre de vente: «Le Hans Joggi, isolement, de la loterie de Neuchâtel 300»."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Zu Charles-Alfred Petitpierre-Steiger siehe https://hls-dhs-dss.ch/de/artic-les/004652/2011-11-02 [20. März 2023]."
+    },
+    {
+      "nr": 5,
+      "text": "Ausstellungskatalog Bern 1931, Kuthy/Bhattacharya-Stettler 1995. Die genauen verwandtschaftlichen Verhältnisse zwischen Petitpierre-Steiger und Savoie-Petitpierre wurden nicht ermittelt, siehe jedoch Todesanzeige für Charles-Alfred Petitpierre-Steiger, in der die Savoie-Petitpierres genannt werden: Feuille d’Avis de Neuchâtel, Jg. 145, Nr. 20, 26. Januar 1903, S. 3, https://www.e-newspaperarchives.ch/?a=d&d=EXR19030126-01.2.29.2 [20. März 2023]."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995, ohne Jahresangabe. Heinrich Blattmann-Ziegler ist spätestens 1937 als Leihgeber zu fassen, siehe Ausstellungskatalog Basel 1937."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 1994, Kuthy/Bhattacharya-Stettler 1995. Siehe auch Etiketten auf der Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 mit der Angabe «Privatbesitz Wädenswil», womit vermutlich die Nachkommen von Heinrich Robert Blattmann gemeint sind."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Zürich 1994."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 18
+}

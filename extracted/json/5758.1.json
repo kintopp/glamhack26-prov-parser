@@ -1,0 +1,830 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5758.1_221209.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "9. Dezember 2022",
+  "stand_iso": "2022-12-09",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5758.1",
+      "Arnold Böcklin (1827–1901)",
+      "Bildnis Julie-Burckhardt-Iselin / Bildnis einer jungen",
+      "Baslerin",
+      "1867",
+      "Öl auf Leinwand",
+      "56 × 47 cm (Bildmass)",
+      "75 × 65 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5758.1",
+    "status": "Klar",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Bildnis Julie-Burckhardt-Iselin / Bildnis einer jungen Baslerin",
+    "masse": [
+      "56 × 47 cm (Bildmass)",
+      "75 × 65 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1867",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5758.1/5758.1_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.0,
+          463.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977. Das Gemälde bildet zusammen mit dem Werk mit der Inventarnummer 5758.2 ein Diptychon."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1990."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1867–1893",
+      "besitzer": "Karl Burckhardt-Iselin (1830–1893), Basel, gekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1893–1912",
+      "besitzer": "Julie Burckhardt-Iselin (1839–1912), Basel, erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Andree 1977. Bei der Ausstellung 1897/98 in Berlin wurde «Frau Dr. Burckhardt-Iselin in Basel» als Besitzerin angegeben, siehe Ausstellungskatalog Berlin 1897."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1912–1920",
+      "besitzer": "Louis La Roche-Burckhardt (1852–1920), Basel, erworben im Erbgang von der Schwiegermutter",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1921 bis spätestens 1977",
+      "besitzer": "Emilie Speiser-La Roche (1891–1980), Basel, erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Andree 1977 gibt für 1921 Emilie Speiser-La Roche, die Tochter von Louis La Roche-Burckhardt, als Eigentümerin an. 1926 wurde das Werk an der Esposizione Internazionale in Venedig gezeigt, siehe Ausstellungskatalog Venedig 1926. Zwei in diesem Zusammenhang vergebene Etiketten weisen Louis La Roche-Burckhardt, obwohl dieser 1920 verstorben war, als Leihgeber und Eigentümer aus, siehe Provenienzmerkmale. Ein weiteres Etikett, aufgebracht im gleichen Zusammenhang, verweist auf «Dr. Speiser», den Ehemann von Emilie Speiser-La Roche, Dr. Andreas Speiser (1885–1970), siehe Kontextinformationen. Sogar im Ausstellungskatalog Basel 1927 ist immer noch «Louis La Roche, Basel» als Leihgeber genannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1977 bis 1982",
+      "besitzer": "Thomas Speiser (1919–1982), erworben im Erbgang von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Gemäss Andree 1977 im Jahr 1975 als Privatbesitz ohne nähere Angabe ausgewiesen. Thomas Speiser, Sohn von Emilie Speiser-La Roche, ist 1977 auf dem Rückseitenetikett als Leihgeber angegeben (Ausstellung im Kunstmuseum Basel)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1982 bis 20. Juni 1990",
+      "besitzer": "Alix Marie Speiser-Hoffmann (1923–2019), erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auskunft von Galerie Kornfeld vom 2. November 2022, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20.–22. Juni 1990",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 10a, Bildnis einer jungen Baslerin), Bern, eingeliefert von Alix Marie Speiser-Hoffmann",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Bern 1990 sowie Fn. 8. Das Werk wurde an der Teilauktion «150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts» versteigert."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22. Juni 1990",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 46 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe annotierten Auktionskatalog Bern 1990 im Archiv SKKG, wo auch der Zuschlagspreis von 92 000 Franken für beide Werke zusammen (siehe Fn. 1) notiert ist, sowie Ankaufsbeleg auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 305, Nr. 199.",
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              448.3,
+              368.0,
+              583.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, 20.–22. Juni 1990, Bern 1990, Lot 10a (mit Abb.)."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, Ausstellungskatalog Akademie der Künste, Berlin, Berlin 1897, S. 38, Nr. 98b, https://doi.org/10.11588/diglit.48226#0042 [25. Oktober 2022].\n\nXVa Esposizione Internazionale d’Arte della Città di Venezia, Ausstellungskatalog Venedig, Venedig 1926, S. 52, Nr. 3.",
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              234.2,
+              417.9,
+              349.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Böcklin-Ausstellung 1917, Ausstellungskatalog Kunsthalle Basel, Basel 1917, Nr. 88."
+          },
+          {
+            "datei": "images/5758.1/5758.1_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              431.6,
+              390.9,
+              460.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Arnold Böcklin 1827/1927. Ausstellung zur Feier des 100. Geburtsjahres, Ausstellungskatalog Kunsthalle Basel, Basel 1927, S. 19, Nr. 66 (mit Abb.)."
+          },
+          {
+            "datei": "images/5758.1/5758.1_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              516.9,
+              391.2,
+              547.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Arnold Böcklin. 1827–1902. Gemälde, Zeichnungen, Plastiken, Ausstellung zum 150. Geburtstag, Ausstellungskatalog Kunstmuseum Basel, Basel 1977, S. 178, Nr. 81."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hans Dollinger (Hrsg.), Arnold Böcklin, München 1975, S. 10, mit Abbildung der Hängung im Böcklin-Saal an der Ausstellung in Venedig 1926."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Akademie der Künste, Berlin, Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, 2. Dezember 1897 bis 16. Januar 1898, Nr. 98b.\n\n– Kunsthalle Basel, Böcklin-Ausstellung 1917, 20. Mai bis 1. Juli 1917, Nr. 88.\n\n– XVa Esposizione Internazionale d’Arte della Città di Venezia, 1. April bis 31. Oktober 1926, Nr. 3.\n\n– Kunsthalle Basel, Arnold Böcklin 1827/1927, 10. April bis 6. Juni 1927, Nr. 66.\n\n– Kunstmuseum Basel, Arnold Böcklin. 1827–1902. Gemälde, Zeichnungen, Plastiken, Ausstellung zum 150. Geburtstag, 11. Juni bis 11. September 1977, Nr. 81."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "28. Oktober 2022",
+      "institution": "Galerie Kornfeld, Bern",
+      "betreff": "Anfrage Einlieferer/Einlieferin an der Auktion im Juni 1990",
+      "antwort": "2. November 2022\n\nAngabe der Einlieferin Alix Marie Speiser-Hoffmann"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5758.1/5758.1_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            410.9,
+            530.0,
+            665.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1990, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Stammbaum Familie Speiser-La Roche (MyHeritage)",
+      "information": "Stammbaum der Familie Speiser-La Roche auf MyHeritage, https://www.myheritage.ch/research/collection-1/myheritage-stamm-baume?itemId=547909821-1-539857&action=showRecord [6. Oktober 2022]"
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5758.1/5758.1_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          379.3,
+          312.4,
+          659.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. l. Leinwand: handschriftlich «A Böcklin pinxit | 1867»",
+        "position_traeger": "o. l. Leinwand",
+        "merkmal": "handschriftlich «A Böcklin pinxit | 1867»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              312.3,
+              201.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Auf dem Digitalisat unleserlich; Transkription gemäss Andree 1977."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: weisses quadratisches Etikett mit blauem Rand und gezahnter Abrisskante, handschriftlich mit schwarzem Schreibmittel «87»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "weisses quadratisches Etikett mit blauem Rand und gezahnter Abrisskante, handschriftlich mit schwarzem Schreibmittel «87»",
+        "kommentar": "vermutlich angebracht von Ursula Netzer, Schlossverwalterin Brestenberg",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              214.2,
+              231.7,
+              310.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Klebereste eines orangen Etiketts, möglicherweise vom Kunstmuseum Basel",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Klebereste eines orangen Etiketts, möglicherweise vom Kunstmuseum Basel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              322.7,
+              311.3,
+              402.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Vgl. erhaltenes Etikett in gleicher Farbe beim Werk mit der Inventarnummer 5758.2."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: verbräuntes Etikett, maschinenbeschrieben; bezeichnet Louis La Roche als Auftrag-/Leihgeber für eine Ausstellung in Venedig",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "verbräuntes Etikett, maschinenbeschrieben; bezeichnet Louis La Roche als Auftrag-/Leihgeber für eine Ausstellung in Venedig",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              415.1,
+              311.3,
+              485.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Ob es sich um die Venedig-Ausstellung von 1926 handelt, ist nicht ganz klar. Dann war Louis La Roche (1852–1920) bereits verstorben und das Werk eigentlich im Eigentum der Tochter."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: beiges rechteckiges Etikett, bedruckt und maschinenbeschrieben; Ausstellung Basel 1977, bezeichnet Dr. Thomas Speiser, Basel, als Leihgeber",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "beiges rechteckiges Etikett, bedruckt und maschinenbeschrieben; Ausstellung Basel 1977, bezeichnet Dr. Thomas Speiser, Basel, als Leihgeber",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              498.4,
+              311.8,
+              581.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: mit schwarzem Farbmittel, vermutlich mit Schablone, «10»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "mit schwarzem Farbmittel, vermutlich mit Schablone, «10»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              593.8,
+              221.4,
+              657.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel, «3136»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel, «3136»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              275.6,
+              198.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen sowie o. l. Keilrahmen: verbräuntes Etikett mit gezahntem Rand, bedruckt; handschriftlich mit schwarzem Schreibmittel «Dr. Speiser»",
+        "position_traeger": "u. l. Zierrahmen sowie o. l. Keilrahmen",
+        "merkmal": "verbräuntes Etikett mit gezahntem Rand, bedruckt; handschriftlich mit schwarzem Schreibmittel «Dr. Speiser»",
+        "kommentar": "«1467» könnte eine durch die Ausstellungsverwaltung vergebene Kontrollnummer sein. Die Annotation bezeichnet den Eigentümer für die Ausstellung Venedig 1926. Dr. Speiser ist der Ehemann von Emilie Speiser.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.9,
+              211.4,
+              276.9,
+              301.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5758.1/5758.1_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              308.0,
+              268.7,
+              395.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "https://www.myheritage.ch/research/collection-1/myheritage-stammbaume?itemId=547909821-1-533431&ac-tion=showRecord [25. Oktober 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: Zettel, bedruckt, maschinenschriftlich ergänzt und handschriftlich annotiert mit rotem Schreibmittel «10 A + | 10 B = Karl Burckhardt-Iselin 92’»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "Zettel, bedruckt, maschinenschriftlich ergänzt und handschriftlich annotiert mit rotem Schreibmittel «10 A + | 10 B = Karl Burckhardt-Iselin 92’»",
+        "kommentar": "Ankaufsbeleg der Auktion Bern 1990 mit Lotnummern, Bildtitel des zweiten Werks und Zuschlagspreis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              407.5,
+              310.2,
+              682.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen (unter Ankaufsbeleg): handschriftlich mit schwarzem Schreibmittel «Burckhardt-Iselin»",
+        "position_traeger": "l. m. Zierrahmen (unter Ankaufsbeleg)",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Burckhardt-Iselin»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              139.8,
+              310.1,
+              170.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: verbräuntes Klebetikett, bedruckt, maschinenbeschrieben, handschriftlich mit schwarzem Schreibmittel «66»; «Louis La Roche in Basel» als Eigentümer (Propriétaire) bezeichnet",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "verbräuntes Klebetikett, bedruckt, maschinenbeschrieben, handschriftlich mit schwarzem Schreibmittel «66»; «Louis La Roche in Basel» als Eigentümer (Propriétaire) bezeichnet",
+        "kommentar": "ausgestellt für die Leihgabe an die Ausstellung 1926 in Venedig",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              190.2,
+              310.1,
+              315.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Klebereste Etikett, maschinenbeschrieben.",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Klebereste Etikett, maschinenbeschrieben.",
+        "kommentar": "Offenbar wurde das untere Etikett mit dem abgelösten überklebt. Auf dem Rest ist lesbar: «Böc[…] | Musa[…]». Dabei handelt es sich um ein anderes in Venedig gezeigtes Böcklin-Bild.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              327.5,
+              310.2,
+              452.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 15,
+            "text": "Ausstellungskatalog Venedig 1926, S. 52, Nr. 1."
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Zolletikett mit gezahntem Rand, mit grünem Schreibmittel abgestrichen, gedruckt «I X 3302»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Zolletikett mit gezahntem Rand, mit grünem Schreibmittel abgestrichen, gedruckt «I X 3302»",
+        "kommentar": "italienisches Zolletikett, aufgebracht 1926 bei der Einfuhr für die Ausstellung Venedig 1926",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              464.9,
+              207.2,
+              548.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «165»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «165»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5758.1/5758.1_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              566.0,
+              222.0,
+              631.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977. Das Gemälde bildet zusammen mit dem Werk mit der Inventarnummer 5758.2 ein Diptychon."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1990."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 4,
+      "text": "Andree 1977. Bei der Ausstellung 1897/98 in Berlin wurde «Frau Dr. Burckhardt-Iselin in Basel» als Besitzerin angegeben, siehe Ausstellungskatalog Berlin 1897."
+    },
+    {
+      "nr": 5,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 6,
+      "text": "Andree 1977 gibt für 1921 Emilie Speiser-La Roche, die Tochter von Louis La Roche-Burckhardt, als Eigentümerin an. 1926 wurde das Werk an der Esposizione Internazionale in Venedig gezeigt, siehe Ausstellungskatalog Venedig 1926. Zwei in diesem Zusammenhang vergebene Etiketten weisen Louis La Roche-Burckhardt, obwohl dieser 1920 verstorben war, als Leihgeber und Eigentümer aus, siehe Provenienzmerkmale. Ein weiteres Etikett, aufgebracht im gleichen Zusammenhang, verweist auf «Dr. Speiser», den Ehemann von Emilie Speiser-La Roche, Dr. Andreas Speiser (1885–1970), siehe Kontextinformationen. Sogar im Ausstellungskatalog Basel 1927 ist immer noch «Louis La Roche, Basel» als Leihgeber genannt."
+    },
+    {
+      "nr": 7,
+      "text": "Gemäss Andree 1977 im Jahr 1975 als Privatbesitz ohne nähere Angabe ausgewiesen. Thomas Speiser, Sohn von Emilie Speiser-La Roche, ist 1977 auf dem Rückseitenetikett als Leihgeber angegeben (Ausstellung im Kunstmuseum Basel)."
+    },
+    {
+      "nr": 8,
+      "text": "Auskunft von Galerie Kornfeld vom 2. November 2022, siehe Anfragen."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Bern 1990 sowie Fn. 8. Das Werk wurde an der Teilauktion «150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts» versteigert."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe annotierten Auktionskatalog Bern 1990 im Archiv SKKG, wo auch der Zuschlagspreis von 92 000 Franken für beide Werke zusammen (siehe Fn. 1) notiert ist, sowie Ankaufsbeleg auf der Werkrückseite."
+    },
+    {
+      "nr": 11,
+      "text": "Auf dem Digitalisat unleserlich; Transkription gemäss Andree 1977."
+    },
+    {
+      "nr": 12,
+      "text": "Vgl. erhaltenes Etikett in gleicher Farbe beim Werk mit der Inventarnummer 5758.2."
+    },
+    {
+      "nr": 13,
+      "text": "Ob es sich um die Venedig-Ausstellung von 1926 handelt, ist nicht ganz klar. Dann war Louis La Roche (1852–1920) bereits verstorben und das Werk eigentlich im Eigentum der Tochter."
+    },
+    {
+      "nr": 14,
+      "text": "https://www.myheritage.ch/research/collection-1/myheritage-stammbaume?itemId=547909821-1-533431&ac-tion=showRecord [25. Oktober 2022]."
+    },
+    {
+      "nr": 15,
+      "text": "Ausstellungskatalog Venedig 1926, S. 52, Nr. 1."
+    }
+  ],
+  "bilder_anzahl": 22
+}

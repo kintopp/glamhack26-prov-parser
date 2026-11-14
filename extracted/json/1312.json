@@ -1,0 +1,424 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1312_230927.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. September 2023",
+  "stand_iso": "2023-09-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1312",
+      "Augusto Giacometti (1877–1947)",
+      "Die Nachtschwester",
+      "1944",
+      "Öl auf Leinwand",
+      "67 × 69 cm (Bildmass)",
+      "83 × 85 × 6,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1312",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Die Nachtschwester",
+    "masse": [
+      "67 × 69 cm (Bildmass)",
+      "83 × 85 × 6,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1944",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1312/1312_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          318.7,
+          476.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Frey 2023 sowie Bezeichnung auf der Werkrückseite."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 28. Oktober 1981",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 1981."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28. Oktober 1981",
+      "besitzer": "Auktion Germann (Kunst des 19./20. Jahrhunderts, Lot 35, Die Nachtschwester), Zürich, eingeliefert aus Zürcher Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 28. Oktober 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Germann, Zuschlagspreis: 40 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1981 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Denise Frey, Die Nachtschwester, in: Augusto Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 472, https://recher-che.sik-isea.ch/de/sik:work-14715718 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/1312/1312_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              247.5,
+              533.2,
+              583.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1312/1312_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              589.9,
+              533.1,
+              682.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunst des 19./20. Jahrhunderts, Auktionskatalog Germann, Zürich, 28. Oktober 1981, Zürich 1981, Lot 35."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hans Hartmann, Augusto Giacometti. Pionier der abstrakten Malerei. Ein Leben für die Farbe, Chur 1981, Nr. 2068 (ohne weitere Angaben)."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Nachtschwester» und «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Nachtschwester» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (155 Ergebnisse) für Freitextsuche «Giacometti» [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 155,
+            "datum": "2023-08-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Künstlersuche «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2023-08-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Nachtschwester» mit Filter: Künstler «Augusto Giacometti» (inklusive aller Namensschreibweisen) [15. August 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-08-15"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1312/1312_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            346.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1981, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1312/1312_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          320.9,
+          417.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit grüner Farbe «a.g.»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit grüner Farbe «a.g.»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1312/1312_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              455.0,
+              248.6,
+              526.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit weisser Kreide «35», doppelt unterstrichen",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «35», doppelt unterstrichen",
+        "kommentar": "Lotnummer Auktion Germann 1981",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1312/1312_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              539.5,
+              248.5,
+              614.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Kugelschreiber «101239»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Kugelschreiber «101239»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1312/1312_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              627.0,
+              248.6,
+              676.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber beschrieben",
+        "kommentar": "Erwerbsnachweis Auktion Germann 1981, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1312/1312_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              318.4,
+              276.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Schreibmittel «FF»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Schreibmittel «FF»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1312/1312_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              289.0,
+              238.9,
+              337.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: «AUGUSTO GIACO-METTI | 1944 | „ Die Nachtschwester “», wohl von Künstlerhand",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "«AUGUSTO GIACO-METTI | 1944 | „ Die Nachtschwester “», wohl von Künstlerhand",
+        "kommentar": "Signatur, Datierung und Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1312/1312_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              352.1,
+              318.4,
+              452.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Frey 2023 sowie Bezeichnung auf der Werkrückseite."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 1981."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1981 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    }
+  ],
+  "bilder_anzahl": 11
+}

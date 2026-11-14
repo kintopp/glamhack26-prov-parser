@@ -1,0 +1,517 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_692_241203.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Dezember 2024",
+  "stand_iso": "2024-12-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 692",
+      "Adolf Dietrich (1877–1957)",
+      "Drei Katzen auf der Ofenbank",
+      "1941",
+      "Öl auf Karton",
+      "22 × 29 cm (Bildmass)",
+      "35 × 42 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "692",
+    "status": "Ungeklärt",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Drei Katzen auf der Ofenbank",
+    "masse": [
+      "22 × 29 cm (Bildmass)",
+      "35 × 42 cm (Rahmenmass)"
+    ],
+    "datierung": "1941",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/692/692_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.0,
+          438.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Frau Dr. M. Aemmer, Winterthur",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Bildhinweise 1931–1957, 1941, Nr. 32, siehe «Archive extern»."
+        },
+        {
+          "nr": 3,
+          "text": "Möglicherweise handelt es sich um Dr. med. Martha Aemmer, Winterthur. Diese ist für das Jahr 1966 belegt, siehe: Die Tat, Jg. 31, Nr. 271, 17. November 1966, S. 10, https://www.e-newspaperarchives.ch/?a=d&d=DTT19661116-01.2.50 [4. August 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "vermutlich Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ammann/Vögele 1994 mit der Angabe «Privatbesitz». Damit ist vermutlich noch nicht Bruno Stefanini gemeint, da der Werkkatalog 1994 erschien und jener das Werk erst im November 1994 für die SKKG erwarb."
+        }
+      ]
+    },
+    {
+      "zeitraum": "wahrscheinlich 17. November 1994",
+      "besitzer": "Auktion Galerie Koller (Gemälde, Aquarelle, Zeichnungen und Skulpturen des 19. und 20. Jh. […], Lot 3084a), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Im Auktionskatalog Zürich 1994 ist das Gemälde nicht verzeichnet; die Lotnummer 3084 gehört zu einem Werk von Cuno Amiet. «3084A» steht jedoch als Lotnummer auf dem Erwerbsnachweis auf der Werkrückseite und auch auf der Rechnung vom 21. November 1994 im Archiv SKKG. Wahrscheinlich handelt es sich um ein nach Redaktionsschluss des Auktionskatalogs eingeliefertes Werk. Das Exemplar im Archiv SKKG enthält kein entsprechendes Beiblatt oder einen Nachtrag."
+        }
+      ]
+    },
+    {
+      "zeitraum": "wahrscheinlich seit 17. November 1994",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Koller, Zuschlagspreis: 25 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Rechnung der Galerie Koller, Zürich, an Bruno Stefanini, Winterthur vom 21. November 1994 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 41.32.",
+        "bilder": [
+          {
+            "datei": "images/692/692_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              284.5,
+              356.8,
+              329.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde, Aquarelle, Zeichnungen und Skulpturen des 19. und 20. Jh., Schweizer Kunst, Moderne Graphik, Auktionskatalog Galerie Koller, Zürich, 17. November 1994, Nr. 93/2, Zürich 1994 [Werk nicht verzeichnet].",
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Siehe Fn. 5."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Adolf Dietrich» [8. März 2022]",
+            "treffer": 0,
+            "datum": "2022-03-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Adolf Dietrich» [8. März 2022]",
+            "treffer": 0,
+            "datum": "2022-03-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Drei Katzen auf der Ofenbank» [8. März 2022]",
+            "treffer": 0,
+            "datum": "2022-03-08"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Three cats on the oven bench» [8. März 2022]",
+            "treffer": 0,
+            "datum": "2022-03-08"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche mit Filter 1: Name «Adolf Dietrich», Filter 2: Conflict/War «World War II», Filter 3: Publication Type «Holocaust Collection» [8. März 2022]",
+            "treffer": 0,
+            "datum": "2022-03-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (266 Ergebnisse) für Volltextsuche «Ofenbank» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 266,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (42 Ergebnisse) für Volltextsuche «Dietrich» und «drei Katzen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 42,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (1376 Ergebnisse) für Suche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 1376,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Drei Katzen auf der Ofenbank» [8. März 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-03-08"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Three cats on the oven bench» [8. März 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-03-08"
+          },
+          {
+            "text": "0 Treffer (132 Ergebnisse) für Suche «Ofenbank» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 132,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche mit Filter: Künstler «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1566.2.2",
+      "bilder": [
+        {
+          "datei": "images/692/692_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            209.4,
+            533.0,
+            330.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung der Galerie Koller, Zürich, an Bruno Stefanini, Winterthur, vom 21. November 1994, Lot 3084a"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "–",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Bildhinweise 1931–1957",
+      "bilder": [
+        {
+          "datei": "images/692/692_004_archive_extern.png",
+          "seite": 4,
+          "bbox": [
+            368.6,
+            524.5,
+            533.0,
+            532.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "1941, Nr. 32, Katzen an der Ofenbank, 20 × 29 cm, «Frau Dr. M. [?] Aemmer, Winter[thur]»"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/692/692_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          335.5,
+          390.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit weisser Farbe «Ad.Dietrich1941»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit weisser Farbe «Ad.Dietrich1941»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/692/692_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              428.2,
+              255.6,
+              469.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: quadratisches weisses Etikett, unten mit blauer Abrissstelle, handschriftlich mit schwarzem Filzstift «89.»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "quadratisches weisses Etikett, unten mit blauer Abrissstelle, handschriftlich mit schwarzem Filzstift «89.»",
+        "kommentar": "wohl aufgebracht von Ursula Netzer, Schlossverwalterin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/692/692_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              491.3,
+              216.2,
+              581.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit Bleistift «21/29»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «21/29»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/692/692_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              611.7,
+              216.5,
+              654.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Karton: handschriftlich mit schwarzer Tinte «9. Katzen […]»",
+        "position_traeger": "u. m. Karton",
+        "merkmal": "handschriftlich mit schwarzer Tinte «9. Katzen […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/692/692_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              667.5,
+              334.7,
+              701.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, schwarz bedruckt und handschriftlich mit schwarzem Schreibmittel beschrieben",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, schwarz bedruckt und handschriftlich mit schwarzem Schreibmittel beschrieben",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Koller 1994, Lot 3084a",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/692/692_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              334.4,
+              195.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Bildhinweise 1931–1957, 1941, Nr. 32, siehe «Archive extern»."
+    },
+    {
+      "nr": 3,
+      "text": "Möglicherweise handelt es sich um Dr. med. Martha Aemmer, Winterthur. Diese ist für das Jahr 1966 belegt, siehe: Die Tat, Jg. 31, Nr. 271, 17. November 1966, S. 10, https://www.e-newspaperarchives.ch/?a=d&d=DTT19661116-01.2.50 [4. August 2025]."
+    },
+    {
+      "nr": 4,
+      "text": "Ammann/Vögele 1994 mit der Angabe «Privatbesitz». Damit ist vermutlich noch nicht Bruno Stefanini gemeint, da der Werkkatalog 1994 erschien und jener das Werk erst im November 1994 für die SKKG erwarb."
+    },
+    {
+      "nr": 5,
+      "text": "Im Auktionskatalog Zürich 1994 ist das Gemälde nicht verzeichnet; die Lotnummer 3084 gehört zu einem Werk von Cuno Amiet. «3084A» steht jedoch als Lotnummer auf dem Erwerbsnachweis auf der Werkrückseite und auch auf der Rechnung vom 21. November 1994 im Archiv SKKG. Wahrscheinlich handelt es sich um ein nach Redaktionsschluss des Auktionskatalogs eingeliefertes Werk. Das Exemplar im Archiv SKKG enthält kein entsprechendes Beiblatt oder einen Nachtrag."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie Rechnung der Galerie Koller, Zürich, an Bruno Stefanini, Winterthur vom 21. November 1994 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Fn. 5."
+    }
+  ],
+  "bilder_anzahl": 10
+}

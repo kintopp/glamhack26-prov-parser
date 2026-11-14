@@ -1,0 +1,383 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2944_230510.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "10. Mai 2023",
+  "stand_iso": "2023-05-10",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2944",
+      "Alexandre Calame (1810–1864)",
+      "Groupe de chênes à l’orée d’un bois",
+      "1847",
+      "Öl auf Malkarton",
+      "33,1 × 46,4 cm (Bildmass)",
+      "42 × 55,4 cm × 3,6 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2944",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Groupe de chênes à l’orée d’un bois",
+    "masse": [
+      "33,1 × 46,4 cm (Bildmass)",
+      "42 × 55,4 cm × 3,6 cm (Rahmenmass)"
+    ],
+    "datierung": "1847",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2944/2944_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          329.8,
+          425.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Anker 1987. Im Auktionskatalog Luzern 1980 ist das Werk als Landschaft mit Eiche verzeichnet, während der frühere SKKG-Werktitel – offenbar die Übersetzung des Originaltitels – Eichengruppe am Waldrand lautete."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 21. Mai 1980",
+      "besitzer": "Duri Capaul (1923–2009), Lumbrein",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Angabe der Galerie Fischer, 10. Mai 2023, siehe Anfragen. Zu Duri Capaul siehe https://www.portraitarchiv.ch/por-trait/show/239139 [10. Mai 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20.–23. Mai 1980",
+      "besitzer": "Auktion Galerie Fischer (Grosse Kunstauktionen in Luzern. Bedeutende Gemälde alter und neuer Meister aus in- und ausländischen Privatsammlungen und Nachlässen, Lot 384, Landschaft mit Eiche), Luzern, eingeliefert von Duri Capaul",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Luzern 1980 sowie Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21. Mai 1980 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Galerie Fischer, Zuschlagspreis: 7000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie annotierten Auktionskatalog Luzern 1980 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987, Nr. 326.",
+        "bilder": [
+          {
+            "datei": "images/2944/2944_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              192.7,
+              296.9,
+              375.6,
+              550.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Kunstauktionen in Luzern. Bedeutende Gemälde alter und neuer Meister aus in- und ausländischen Privatsammlungen und Nachlässen, Auktionskatalog Galerie Fischer, Nr. 261, 20.–23. Mai 1980, Luzern 1980, Lot 384."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935, möglicherweise Nr. 37 (Eichenwald bei Jussy [Genf], 36 × 45 cm, Privatbesitz Genf).\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Calame», Filter 1: «Suchmeldungen», Filter 2: «Malerei» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (39 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 39,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (571 Ergebnisse) für Volltextsuche «Calame» und «Sonne» [19. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 571,
+            "datum": "2022-10-19"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Eiche», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-07-20"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «Waldrand», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-07-20"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «Wald», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-07-20"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «chênes», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-07-20"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «foret», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Galerie Fischer",
+      "betreff": "Anfrage zu Einlieferer/Einlieferin",
+      "antwort": "10. Mai 2023\n\nHinweis auf Sammlung Capaul"
+    },
+    {
+      "datum": "10. Mai 2023",
+      "institution": "Fundaziun Capauliana, Chur",
+      "betreff": "Anfrage zu Archivquellen oder Nachlass",
+      "antwort": "–"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2944/2944_003_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.6,
+            379.7,
+            528.9,
+            400.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1980, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2944/2944_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            444.2,
+            517.2,
+            563.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Etikett Auktion Galerie Fischer, Mai 1980, Lot 384"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2944/2944_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.6,
+          321.1,
+          434.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: hellblaues Etikett mit abgerundeten Ecken, schwarz gedruckt «384»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "hellblaues Etikett mit abgerundeten Ecken, schwarz gedruckt «384»",
+        "kommentar": "Lotnummer Auktion Galerie Fischer, Luzern, Mai 1980",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2944/2944_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              497.0,
+              229.4,
+              560.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Die Rückseite ist weitgehend durch einen Rückseitenschutz verdeckt. Ob sich darunter Provenienzmerkmale befinden, ist nicht bekannt."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Anker 1987. Im Auktionskatalog Luzern 1980 ist das Werk als Landschaft mit Eiche verzeichnet, während der frühere SKKG-Werktitel – offenbar die Übersetzung des Originaltitels – Eichengruppe am Waldrand lautete."
+    },
+    {
+      "nr": 2,
+      "text": "Angabe der Galerie Fischer, 10. Mai 2023, siehe Anfragen. Zu Duri Capaul siehe https://www.portraitarchiv.ch/por-trait/show/239139 [10. Mai 2023]."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Luzern 1980 sowie Fn. 2."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG sowie annotierten Auktionskatalog Luzern 1980 im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Die Rückseite ist weitgehend durch einen Rückseitenschutz verdeckt. Ob sich darunter Provenienzmerkmale befinden, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 6
+}

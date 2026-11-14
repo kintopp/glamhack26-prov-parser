@@ -1,0 +1,447 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2876_221028.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Oktober 2022",
+  "stand_iso": "2022-10-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2876",
+      "Alexandre Calame (1810–1864)",
+      "Berglandschaft mit See",
+      "o. J.",
+      "Öl auf Leinwand",
+      "38 × 49 cm (Bildmass)",
+      "64,5 × 77,5 × 10 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2876",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Berglandschaft mit See",
+    "masse": [
+      "38 × 49 cm (Bildmass)",
+      "64,5 × 77,5 × 10 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2876/2876_001_objekt.png",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.4,
+          317.1,
+          477.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1979. Die dort ergänzte französische Übersetzung lautet Paysage de Montagne avec Lac. In der Objektdatenbank SKKG ist zudem der deskriptive Titel Bergsee verzeichnet."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts signiert. Auf den Digitalisaten ist dies nicht eindeutig zu erkennen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "14. November 1979",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 29, Berglandschaft mit See / Paysage de Montagne avec Lac), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby’s, Zuschlagspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby’s, Zürich, 14. November 1979, Zürich 1979, Lot 29."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht eindeutig identifizierbar].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [11. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [11. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-11"
+          },
+          {
+            "text": "0 Treffer für Volltextsuche «Bergsee» [11. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer für Volltextsuche «Calame» [11. August 2022]:",
+            "treffer": 2,
+            "datum": "2022-08-11"
+          },
+          {
+            "text": "Alexandre Calame, Am Alpensee, o. J., Heinemann-Nr. 6811, 38 × 49 cm, Einlieferungsdatum: 28. November 1903, Ausgangsdatum: 30. Januar 1905, Käufer: Wilhelm Schultz/Schulz, London, Ankaufspreis: 1395,70 Reichsmark, Verkaufspreis: 6000 Reichsmark, Bemerkungen: ½ Anteil Beyer, Amsterdam, http://heine-mann.gnm.de/de/kunstwerk-1805.htm [11. August 2022].",
+            "datum": "2022-08-11"
+          },
+          {
+            "text": "Alexandre Calame, Alpensee, o. J., Leinwand, Heinemann-Nr. 10404, 38 × 49 cm, Einlieferungsdatum: 30. März 1910, Ausgangsdatum: 15. Oktober 1913, Käufer: Wilhelm Schultz, London, Ankaufspreis: 6000 Reichsmark, Verkaufspreis: 6000 Reichsmark, http://heine-mann.gnm.de/de/kunstwerk-46554.htm [11. August 2022].",
+            "datum": "2022-08-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Bergsee», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Volltextsuche «See», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (16 Ergebnisse) für Volltextsuche «lac», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 16,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (117 Ergebnisse) für Volltextsuche «paysage», Filter 1: Künstler «Calame» (inklusive aller Namensschreibweisen) [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 117,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2876/2876_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            190.6,
+            533.3,
+            298.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2876/2876_003_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.4,
+          319.9,
+          384.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: schwarz gestempelt «560 DN»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "schwarz gestempelt «560 DN»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2876/2876_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              446.6,
+              319.7,
+              511.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: schwarzer Stempel, unleserlich; ein Teil könnte «Louvre […] | Paris» heissen.",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "schwarzer Stempel, unleserlich; ein Teil könnte «Louvre […] | Paris» heissen.",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2876/2876_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              523.9,
+              319.7,
+              637.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: mit dunklem Schreibmittel handschriftlich möglicherweise «Millie»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "mit dunklem Schreibmittel handschriftlich möglicherweise «Millie»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2876/2876_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              319.7,
+              265.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: mit blaugrünem Schreibmittel handschriftlich «4673»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "mit blaugrünem Schreibmittel handschriftlich «4673»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2876/2876_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              277.2,
+              251.5,
+              351.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit Bleistift «№ […]»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «№ […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2876/2876_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              363.8,
+              319.7,
+              450.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis der Auktion Sotheby’s, 14. November 1979, Lot 29",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis der Auktion Sotheby’s, 14. November 1979, Lot 29",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2876/2876_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              463.2,
+              319.7,
+              600.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 5,
+        "text": "Zur Signatur siehe Fn. 3."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1979. Die dort ergänzte französische Übersetzung lautet Paysage de Montagne avec Lac. In der Objektdatenbank SKKG ist zudem der deskriptive Titel Bergsee verzeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts signiert. Auf den Digitalisaten ist dies nicht eindeutig zu erkennen."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Zur Signatur siehe Fn. 3."
+    }
+  ],
+  "bilder_anzahl": 9
+}

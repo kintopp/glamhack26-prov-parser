@@ -1,0 +1,723 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5616_250806.pdf",
+  "seiten": 12,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "6. August 2025",
+  "stand_iso": "2025-08-06",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5616",
+      "Adolf Dietrich (1877–1957)",
+      "Bübchen mit Kätzchen",
+      "1927",
+      "Öl auf Karton",
+      "34 × 20 cm (Bildmass)",
+      "46 × 32 × 3 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5616",
+    "status": "Klar",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Bübchen mit Kätzchen",
+    "masse": [
+      "34 × 20 cm (Bildmass)",
+      "46 × 32 × 3 cm (Rahmenmass)"
+    ],
+    "datierung": "1927",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5616/5616_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          253.9,
+          538.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "18. September bis 20. Oktober 1927",
+      "besitzer": "Ausstellung Galerie «Das Kunsthaus», Dr. Tannenbaum, Mannheim",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ammann/Vögele 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "möglicherweise Dr. Herbert Tannenbaum (1892–1958), Mannheim, Amsterdam, Rye / New York",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 2000. Seit Anfang der 1920er-Jahre wurde Adolf Dietrich von Herbert Tannenbaum vertreten, siehe Ammann/Vögele 1994, S. 13–14. 1936 musste Tannenbaum seine Galerie verkaufen; er floh im Folgejahr nach Amsterdam und emigrierte 1947 in die USA, siehe Kontextinformationen. Da das Gemälde später seiner Tochter gehörte (siehe Fn. 5) und laut Auktionskatalog Zürich 2000 aus der «Sammlung Dr. Herbert Tannenbaum, Rye (New York)» stammt, ist es möglich, dass es davor im privaten Eigentum des Galeristen war – es sei denn, es wurde tatsächlich direkt von ihrer Grosscousine Lilli Straus erworben (siehe Fn. 4)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1927 bis spätestens 1981",
+      "besitzer": "vermutlich Lilli Straus (1892–1981), Stuttgart / Rye, New York, vermutlich erworben von der Galerie «Das Kunsthaus», Dr. Tannenbaum",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G», Werkdatenblatt Nr. 27.22. Dort wird «Miss Lilli Straus, New York» als frühere Besitzerin angegeben mit dem handschriftlichen Zusatz «(1927 v. Dr. T. erworben)». Straus floh 1939 in die USA. Dieser Vorbesitz lässt sich nicht ohne Weiteres damit vereinbaren, dass das Werk laut Auktionskatalog Zürich 2000 aus der «Sammlung Dr. Herbert Tannenbaum, Rye (New York)» stammt und auch von der Familie Tannenbaum/Newman – wohl Beatrice Newman – eingeliefert wurde, siehe Fn. 7. Sofern die Angabe zu einem Vorbesitz von Lilli Straus zutrifft, muss das Gemälde von dieser zurück an die Familie Tannenbaum gegangen sein, entweder an Herbert Tannenbaum (ihren Cousin) oder direkt an dessen Tochter Beatrice Neuman(n) (ihre Grosscousine). Wie die Anrede «Miss» nahelegt, blieb Straus, die bei der Flucht in die USA 1939 bereits 47 Jahre alt war, offenbar kinderlos. Ihre Mutter und ihre Schwester kamen 1943 im Holocaust um. Wie Herbert Tannenbaum und wie Beatrice Neuman(n) lebte auch Straus in Rye, New York. Dies legt eine über das verwandtschaftliche Verhältnis hinausgehende, engere Beziehung nahe. Ob sie in der Ortschaft Rye, die in den 1950er-Jahren rund 10 000 Einwohner:innen zählte, an der selben Adresse wohnten, ist nicht bekannt. Zu Tannenbaum, Neuman(n) und Straus siehe Kontextinformationen. Siehe auch «Archive extern» zu einer erhaltenen Fotografie, deren Rückseite weitere Hinweise auf die Provenienz enthält."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich spätestens 1981 bis vermutlich 29. Mai 2000",
+      "besitzer": "Beatrice Neuman(n)/Newman (1923–2012), geb. Beate Tannenbaum, Rye, New York, vermutlich erworben von der Grosscousine (Lilli Straus), möglicherweise im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G», Werkdatenblatt Nr. 27.22. Siehe auch die Bezeichnung «Beatrice Neuman» auf der Werkrückseite. Beatrice Newman, geb. Beate Tannenbaum, emigrierte mit ihren Eltern nach Nordamerika. Wann das Werk in ihr Eigentum überging, ist nicht bekannt. Mindestens die Aufschrift wurde nach der Heirat aufgebracht, da der Ehe- und nicht der Ledigname verzeichnet ist. Vermutlich hat sie den Vornamen Beatrice erst in den USA angenommen. Siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "29. Mai 2000",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 175, Bübchen mit Kätzchen), Zürich, eingeliefert von der Familie Newman/Tannenbaum",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 2000."
+        },
+        {
+          "nr": 7,
+          "text": "Das Auktionshaus Sotheby’s, Auskunft vom 8. Mai 2025, konnte bestätigen, dass das Werk von der Familie Tannenbaum/Newman eingeliefert wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 29. Mai 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 170 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 27.22.",
+        "bilder": [
+          {
+            "datei": "images/5616/5616_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              209.5,
+              353.2,
+              266.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 29. Mai 2000, Zürich 2000, Lot 175."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Ausstellung Galerie «Das Kunsthaus» Dr. Tannenbaum, Mannheim, 18. September bis 20. Oktober 1927.\n\n– Reiss-Museum, Mannheim, Für die Kunst! Herbert Tannenbaum und sein Kunsthaus, 11. September 1994 bis 8. Januar 1995, Nr. 141."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [8. Januar 2025]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2025-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bübchen», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Kätzchen», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Bübchen» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2024-01-08"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Adolf Dietrich» (inklusive aller Namensschreibweisen) [8. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche «Dietrich» mit Filter: Künstler [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "19. März 2024",
+      "institution": "Sotheby’s",
+      "betreff": "Einlieferer Auktion Sotheby’s, Zürich, 2000",
+      "antwort": "8. Mai 2025: Einlieferin an die Auktion im Jahr 2000 war die Familie Tannenbaum/Newman."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5616/5616_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            375.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5616/5616_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            419.7,
+            531.0,
+            650.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "lotspezifische Kopie aus Auktionskatalog Zürich 2000, annotiert mit Zuschlagspreis (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "5. August 2025",
+      "institution": "Kunstmuseum Thurgau, Warth",
+      "bestand": "Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G»\n\nMannheim. […]», vermutlich von Lilli Straus",
+      "bilder": [
+        {
+          "datei": "images/5616/5616_005_archive_extern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            234.7,
+            533.0,
+            490.1
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5616/5616_006_archive_extern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            496.1,
+            535.4,
+            710.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Werkdatenblatt Nr. 27.22"
+        },
+        {
+          "datei": "images/5616/5616_007_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            139.8,
+            529.2,
+            378.2
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/5616/5616_008_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            384.3,
+            529.2,
+            628.3
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Fotografie des Gemäldes, rückseitig mit schwarzem und blauem Kugelschreiber beschrieben: «[…] erworben Kunsthaus Mannheim | Dr. Herbert Tannenbaum | in meinem Besitz seit der 1. Ausstellung von Dietrich’s | Bildern in"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Im Werkdatenblatt wird «Miss Lilli Straus, New York», als frühere Besitzerin und «Fr. Beatrice Newman», New York, als aktuelle Eigentümerin ausgewiesen, siehe «Archive extern». Die Aufschrift auf der Rückseite der erhaltenen Fotografie, die einen durchgehenden Besitz seit 1927 angibt («[…] in meinem Besitz seit […]»), müsste demnach von Lilli Straus stammen. Die Handschrift, die eine leichte Sütterlin-Tendenz aufweist, würde zu einer in den 1920er-Jahren geborenen Person passen. Siehe auch Fn. 4 sowie Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "datum": "Januar 2023",
+      "institution": "Landesarchiv Berlin",
+      "bestand": "B Rep. 025-07, Nr. 2379/57, Nr. 2380/57, Nr. 2381/57, Verfahren Dr. Herbert Tannenbaum (*07.03.1892), 19 East 57th Street, New York 22, USA, gegen das Deutsche Reich: Keine Treffer für vorliegendes Werk."
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Dr. Herbert Tannenbaum",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5616/5616_009_kontextinformationen.jpeg",
+          "seite": 9,
+          "bbox": [
+            178.4,
+            196.9,
+            464.9,
+            541.5
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Zu Tannenbaum und seiner Beziehung zu Adolf Dietrich siehe Erläuterungen im Auktionskatalog Zürich 2000"
+        }
+      ]
+    },
+    {
+      "thema": "Beate/Beatrice Neuman(n)/Newman, geb. Tannenbaum",
+      "information": "«Aufgrund nationalsozialistischer Repressalien verkauft [Herbert] Tannenbaum Ende 1936 seine Galerie an den befreundeten Dresdner Kunsthändler Rudolf Probst und emigriert 1937 nach Amsterdam. Mit der Hilfe seines Freundes Hermann Esch gelingt es ihm, den größten Teil seiner Lagerbestände nach Amsterdam zu transportieren; er betreibt dort wieder eine Galerie. Ab 1941 wird Tannenbaum erneut mit Berufsverbot belegt und seine Sammlung bleibt versiegelt. 1947 wandert Herbert Tannenbaum mit seiner Frau Juliana Maria Elisabeth Nosbisch († 1990) in die USA aus, im selben Jahr folgen auch seine Tochter Beate († 2012), die den Namen Beatrice Newman annimmt, mit ihrem Mann Thomas Gerhard Neumann. Seine Lagerbestände kann er vermutlich in die USA mitnehmen […]. Tannenbaum gründet wieder eine Galerie ab 1949 in New York (19 East 57th Street), die seine Frau\n\nJuliana Maria noch nach seinem Tod bis 1964 fortführt. Er reist ab 1953 regelmäßig nach Deutschland und verstirbt 1958 in Frankfurt a. M.»",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=115001254&anummer=496 [8. Mai 2025]."
+        }
+      ]
+    },
+    {
+      "thema": "Lilli Straus",
+      "information": "Lilli Straus (1892–1981), Stuttgart und Rye, New York, war die Tochter von Leon Straus (gest. 1925) und Clara Straus, geb. Levi (1870–1943), und die Schwester der bekannten Gold- und Silberschmiedin Paula Straus (1894–1943). Sie war eine Cousine von Herbert Tannenbaum (s. o.). Ihre Schwester Paula konnte 1925, «wahrscheinlich auch auf Vermittlung ihres Vetters Herbert Tannenbaum», eine Einzelausstellung in der Kunsthalle Mannheim ausrichten. Nach ihrer Flucht in die USA lebte Lilli Straus wie Herbert Tannenbaum und dessen Tochter Beatrice in Rye, New York.\n\nZu Lilli Straus und ihrer Familie ist ferner Folgendes bekannt: «Lilli […] arbeitete viele Jahre als kaufmännische Angestellte in der Kakao- und Schokoladenfabrik Buck in der Ostendstraße, wo sie es bis März 1934 zur Prokuristin brachte. Weil sie Jüdin war, verlor sie ihre Arbeit. […] Mit den drei Straus-Frauen [Lilli, Paula, Clara] lebte Elise Erlanger, geb. Kahn, geb. am 02. Dezember 1872, in dem Haus im oberen Teil der Gablenberger Hauptstraße. Am 10. November 1938, einen Tag nach der Reichspogromnacht, erwarb die Kakao- und Schokoladenfabrik Buck das Haus. Nur Lilli Straus gelang 1939 die Ausreise in die USA. Die anderen drei jüdischen Bewohnerinnen wurden aus Stuttgart in sogenannte ‹Judenorte› umgesiedelt, die als Zwischenstationen vor der Vernichtung geplant waren. Clara und Paula Straus kamen nach Haigerloch, Elise Erlanger nach Buchau. Am 22. August 1942 wurden die drei Frauen im gleichen Transport von Stuttgart nach Theresienstadt deportiert. Elise Erlanger wurde am 23. September 1942 weiter ‹nach dem Osten› gebracht und ist dort verschollen. Paula Straus wurde am 29. Januar 1943 nach Auschwitz verfrachtet und dort am 10. Februar 1943 ermordet. Clara Straus starb am 10. November 1943 in Theresienstadt.»",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "https://nz.forceswarrecords.com/record/41088379/lilli-straus-us-social-security-death-index [6. August 2025]."
+        },
+        {
+          "nr": 12,
+          "text": "https://de.wikipedia.org/wiki/Paula_Straus [6. August 2025]."
+        },
+        {
+          "nr": 13,
+          "text": "Ebd."
+        },
+        {
+          "nr": 14,
+          "text": "https://stolpersteine-guide.de/map/biografie/3962/paula-straus-clara-straus-lilli-straus-und-elise-erlanger [6. August 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5616/5616_010_provenienzmerkmale.jpeg",
+        "seite": 11,
+        "bbox": [
+          62.5,
+          165.3,
+          305.5,
+          507.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «Ad. Dietrich 1927»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Ad. Dietrich 1927»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5616/5616_011_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              544.7,
+              305.3,
+              608.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "o. m. Bildträger: handschriftlich mit blauem Farbstift «Bübchen mit | Kätzchen» und «49», eingekreist",
+        "position_traeger": "o. m. Bildträger",
+        "merkmal": "handschriftlich mit blauem Farbstift «Bübchen mit | Kätzchen» und «49», eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5616/5616_012_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.3,
+              139.8,
+              306.2,
+              287.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Vorderseite",
+        "beschreibung": "o. m. Bildträger: handschriftlich mit Bleistift «EIGENTUM BEATRICE NEUMAN»",
+        "position_traeger": "o. m. Bildträger",
+        "merkmal": "handschriftlich mit Bleistift «EIGENTUM BEATRICE NEUMAN»",
+        "kommentar": "Beatrice Neuman(n), Tochter von Herbert Tannenbaum",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5616/5616_013_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.3,
+              299.7,
+              306.2,
+              351.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 15,
+            "text": "https://beckmann-gemaelde.org/neumann-newman-beatrice [17. Mai 2023]."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Vorderseite",
+        "beschreibung": "m. Bildträger: handschriftlich mit hellrotem Schreibmittel «6»",
+        "position_traeger": "m. Bildträger",
+        "merkmal": "handschriftlich mit hellrotem Schreibmittel «6»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5616/5616_014_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.3,
+              375.4,
+              179.6,
+              428.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Vorderseite",
+        "beschreibung": "u. Bildträger: handschriftlich mit blauem Schreibmittel «20 x 33[,]5»",
+        "position_traeger": "u. Bildträger",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «20 x 33[,]5»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5616/5616_015_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.3,
+              441.0,
+              306.3,
+              500.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Vorderseite",
+        "beschreibung": "u. Bildträger (um vorausgehendes Provenienzmerkmal herum): handschriftlich mit Bleistift «sign. l. unt. Ad. Dietrich 1927 | Oil on cart. 8 ¼ x 13 ¾ ″» sowie «cmtr.» als erläuternder Zusatz zu vorausgehendem Provenienzmerkmal (Bildmass)",
+        "position_traeger": "u. Bildträger (um vorausgehendes Provenienzmerkmal herum)",
+        "merkmal": "handschriftlich mit Bleistift «sign. l. unt. Ad. Dietrich 1927 | Oil on cart. 8 ¼ x 13 ¾ ″» sowie «cmtr.» als erläuternder Zusatz zu vorausgehendem Provenienzmerkmal (Bildmass)",
+        "kommentar": "Umrechnung des Bildmasses in das angloamerikanische Masssystem (Zoll/Inches)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5616/5616_016_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.3,
+              513.5,
+              305.2,
+              603.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Vorderseite",
+        "beschreibung": "r. u. Zierrahmen: handschriftlich mit Bleistift «946»",
+        "position_traeger": "r. u. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «946»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5616/5616_017_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.3,
+              639.8,
+              180.1,
+              711.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Ammann/Vögele 1994."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 2000. Seit Anfang der 1920er-Jahre wurde Adolf Dietrich von Herbert Tannenbaum vertreten, siehe Ammann/Vögele 1994, S. 13–14. 1936 musste Tannenbaum seine Galerie verkaufen; er floh im Folgejahr nach Amsterdam und emigrierte 1947 in die USA, siehe Kontextinformationen. Da das Gemälde später seiner Tochter gehörte (siehe Fn. 5) und laut Auktionskatalog Zürich 2000 aus der «Sammlung Dr. Herbert Tannenbaum, Rye (New York)» stammt, ist es möglich, dass es davor im privaten Eigentum des Galeristen war – es sei denn, es wurde tatsächlich direkt von ihrer Grosscousine Lilli Straus erworben (siehe Fn. 4)."
+    },
+    {
+      "nr": 4,
+      "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G», Werkdatenblatt Nr. 27.22. Dort wird «Miss Lilli Straus, New York» als frühere Besitzerin angegeben mit dem handschriftlichen Zusatz «(1927 v. Dr. T. erworben)». Straus floh 1939 in die USA. Dieser Vorbesitz lässt sich nicht ohne Weiteres damit vereinbaren, dass das Werk laut Auktionskatalog Zürich 2000 aus der «Sammlung Dr. Herbert Tannenbaum, Rye (New York)» stammt und auch von der Familie Tannenbaum/Newman – wohl Beatrice Newman – eingeliefert wurde, siehe Fn. 7. Sofern die Angabe zu einem Vorbesitz von Lilli Straus zutrifft, muss das Gemälde von dieser zurück an die Familie Tannenbaum gegangen sein, entweder an Herbert Tannenbaum (ihren Cousin) oder direkt an dessen Tochter Beatrice Neuman(n) (ihre Grosscousine). Wie die Anrede «Miss» nahelegt, blieb Straus, die bei der Flucht in die USA 1939 bereits 47 Jahre alt war, offenbar kinderlos. Ihre Mutter und ihre Schwester kamen 1943 im Holocaust um. Wie Herbert Tannenbaum und wie Beatrice Neuman(n) lebte auch Straus in Rye, New York. Dies legt eine über das verwandtschaftliche Verhältnis hinausgehende, engere Beziehung nahe. Ob sie in der Ortschaft Rye, die in den 1950er-Jahren rund 10 000 Einwohner:innen zählte, an der selben Adresse wohnten, ist nicht bekannt. Zu Tannenbaum, Neuman(n) und Straus siehe Kontextinformationen. Siehe auch «Archive extern» zu einer erhaltenen Fotografie, deren Rückseite weitere Hinweise auf die Provenienz enthält."
+    },
+    {
+      "nr": 5,
+      "text": "Kunstmuseum Thurgau, Warth, Nachlass Adolf Dietrich, Unterlagen Heinrich Ammann, Ordner «AD 27–28 G», Werkdatenblatt Nr. 27.22. Siehe auch die Bezeichnung «Beatrice Neuman» auf der Werkrückseite. Beatrice Newman, geb. Beate Tannenbaum, emigrierte mit ihren Eltern nach Nordamerika. Wann das Werk in ihr Eigentum überging, ist nicht bekannt. Mindestens die Aufschrift wurde nach der Heirat aufgebracht, da der Ehe- und nicht der Ledigname verzeichnet ist. Vermutlich hat sie den Vornamen Beatrice erst in den USA angenommen. Siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 2000."
+    },
+    {
+      "nr": 7,
+      "text": "Das Auktionshaus Sotheby’s, Auskunft vom 8. Mai 2025, konnte bestätigen, dass das Werk von der Familie Tannenbaum/Newman eingeliefert wurde."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 9,
+      "text": "Im Werkdatenblatt wird «Miss Lilli Straus, New York», als frühere Besitzerin und «Fr. Beatrice Newman», New York, als aktuelle Eigentümerin ausgewiesen, siehe «Archive extern». Die Aufschrift auf der Rückseite der erhaltenen Fotografie, die einen durchgehenden Besitz seit 1927 angibt («[…] in meinem Besitz seit […]»), müsste demnach von Lilli Straus stammen. Die Handschrift, die eine leichte Sütterlin-Tendenz aufweist, würde zu einer in den 1920er-Jahren geborenen Person passen. Siehe auch Fn. 4 sowie Kontextinformationen."
+    },
+    {
+      "nr": 10,
+      "text": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=115001254&anummer=496 [8. Mai 2025]."
+    },
+    {
+      "nr": 11,
+      "text": "https://nz.forceswarrecords.com/record/41088379/lilli-straus-us-social-security-death-index [6. August 2025]."
+    },
+    {
+      "nr": 12,
+      "text": "https://de.wikipedia.org/wiki/Paula_Straus [6. August 2025]."
+    },
+    {
+      "nr": 13,
+      "text": "Ebd."
+    },
+    {
+      "nr": 14,
+      "text": "https://stolpersteine-guide.de/map/biografie/3962/paula-straus-clara-straus-lilli-straus-und-elise-erlanger [6. August 2025]."
+    },
+    {
+      "nr": 15,
+      "text": "https://beckmann-gemaelde.org/neumann-newman-beatrice [17. Mai 2023]."
+    }
+  ],
+  "bilder_anzahl": 17
+}

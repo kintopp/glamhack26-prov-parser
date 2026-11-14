@@ -1,0 +1,417 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_6453_220916.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "16. September 2022",
+  "stand_iso": "2022-09-16",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 6453",
+      "Caspar Wolf (1735–1783)",
+      "Grindelwald mit Blick aufs Wetterhorn",
+      "o. J.",
+      "Öl auf Leinwand",
+      "76 × 184 cm (Bildmass)",
+      "92 × 198 × 5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und",
+      "Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "6453",
+    "status": "Ungeklärt",
+    "kuenstler": "Caspar Wolf (1735–1783)",
+    "titel": "Grindelwald mit Blick aufs Wetterhorn",
+    "masse": [
+      "76 × 184 cm (Bildmass)",
+      "92 × 198 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/6453/6453_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          361.0,
+          394.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1986, wo das Werk als «Panorama des Grindelwaldtales mit Blick auf Wetterhorn, Mettenberg und Eiger sowie den oberen und unteren Grindelwaldgletscher» beschrieben ist."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 13. November 1986",
+      "besitzer": "vermutlich Dr. Richard Stettler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13.–26. November 1986",
+      "besitzer": "Auktion Galerie Jürg Stuker (Schweizer Sammlungen und Nachlässe […], Lot 739, Panorama des Grindelwaldtales mit Blick auf Wetterhorn, Mettenberg und Eiger sowie den oberen und unteren Grindelwaldgletscher), Bern, eingeliefert aus Berner Nachlass, vermutlich Dr. Richard Stettler",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1986 mit der Provenienzangabe «aus altem Berner Nachlass». Im annotierten Exemplar im Archiv SKKG hat Bruno Stefanini handschriftlich vermerkt: «gehörte Dr. Richard Stettler». Ob es sich bei jenem alten Berner Nachlass um denjenigen von Dr. Stettler handelte, ist nicht eindeutig."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 14. November 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 60 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Willi Raeber, Caspar Wolf, 1735–1783. Sein Leben und sein Werk. Ein Beitrag zur Geschichte der Schweizer Malerei des 18. Jahrhunderts, hrsg. vom Schweizerischen Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 7), Aarau/München 1979 [Werk nicht verzeichnet].",
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Im Auktionskatalog Bern 1986 wird auf das Werk mit der Nummer 194 bei Raeber (1979, S. 215) verwiesen. Dabei handelt es sich jedoch um eine grössere Version des Werks."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Sammlungen und Nachlässe […], Auktionskatalog Galerie Jürg Stuker, Bern, Nr. 296–303 [297], 13.–26. November 1986, Bern 1986, Lot 739."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (50 Ergebnisse) für erweiterte Suche mit Filter: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 50,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (73 Ergebnisse) für erweiterte Suche mit Filter: Hersteller/Künstler/Autor:in «Wolf» (nur Suchmeldungen) [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (78 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 78,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Caspar Wolf / Caspar Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolf» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Caspar Wolff» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (310 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolff C.» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 310,
+            "datum": "2022-09-15"
+          },
+          {
+            "text": "0 Treffer (501 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: «Wolf C.» [15. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 501,
+            "datum": "2022-09-15"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (203 Ergebnisse) für erweiterte Suche, Filter: Künstler enthält «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 203,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (27 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Caspar Wolf›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 27,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹Caspar Wolff›» [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-09-09"
+          },
+          {
+            "text": "0 Treffer (269 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹C. Wolf›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 269,
+            "datum": "2022-09-14"
+          },
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «‹C. Wolff›» [14. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-09-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche «Caspar Wolf» (inklusive Varianten der Namensschreibweise) [9. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-09-09"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «Wolf» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2022-09-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Wolff» [6. September 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-09-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/6453/6453_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            345.7,
+            291.3,
+            531.9,
+            474.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/6453/6453_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            345.6,
+            480.7,
+            530.1,
+            510.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/6453/6453_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            345.6,
+            516.7,
+            530.3,
+            547.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/6453/6453_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            345.6,
+            553.2,
+            530.1,
+            660.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1986, annotiert von Bruno Stefanini. Verweise auf Personen, die ihn offenbar beraten haben: Dr. Lüthi (D. L.) und ein(e) gewisse(r) D. C. Zudem Notiz zu Lot 739: «Gehörte Dr. Richard Stettler»."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/6453/6453_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          322.4,
+          462.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Erwerbsnachweis Auktion Galerie Jürg Stuker, November 1986, verfasst von Ursula Netzer",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Erwerbsnachweis Auktion Galerie Jürg Stuker, November 1986, verfasst von Ursula Netzer",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/6453/6453_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              525.4,
+              320.7,
+              655.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Die Leinwand wurde zu unbekanntem Zeitpunkt auf eine Holzfaserplatte aufgezogen. Ob sich auf der Rückseite der Leinwand Provenienzmerkmale befinden, ist nicht bekannt."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Bern 1986, wo das Werk als «Panorama des Grindelwaldtales mit Blick auf Wetterhorn, Mettenberg und Eiger sowie den oberen und unteren Grindelwaldgletscher» beschrieben ist."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1986 mit der Provenienzangabe «aus altem Berner Nachlass». Im annotierten Exemplar im Archiv SKKG hat Bruno Stefanini handschriftlich vermerkt: «gehörte Dr. Richard Stettler». Ob es sich bei jenem alten Berner Nachlass um denjenigen von Dr. Stettler handelte, ist nicht eindeutig."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 5,
+      "text": "Im Auktionskatalog Bern 1986 wird auf das Werk mit der Nummer 194 bei Raeber (1979, S. 215) verwiesen. Dabei handelt es sich jedoch um eine grössere Version des Werks."
+    },
+    {
+      "nr": 6,
+      "text": "Die Leinwand wurde zu unbekanntem Zeitpunkt auf eine Holzfaserplatte aufgezogen. Ob sich auf der Rückseite der Leinwand Provenienzmerkmale befinden, ist nicht bekannt."
+    }
+  ],
+  "bilder_anzahl": 7
+}

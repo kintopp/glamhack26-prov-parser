@@ -1,0 +1,802 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4763_231026.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2023",
+  "stand_iso": "2023-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4763",
+      "Ferdinand Hodler (1853–1918)",
+      "Bildnis Pierre Taddéoli",
+      "1885",
+      "Öl auf Leinwand",
+      "50 × 42 cm (Bildmass)",
+      "57,5 × 49 × 3,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4763",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bildnis Pierre Taddéoli",
+    "masse": [
+      "50 × 42 cm (Bildmass)",
+      "57,5 × 49 × 3,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1885",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4763/4763_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.9,
+          525.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Brunner 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1885 bis spätestens 1904",
+      "besitzer": "vermutlich Pierre Taddéoli (ca. 1835–1904)",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Vermutlich handelt es sich um eine Auftragsarbeit für den Porträtierten. Laut Brunner 2012 hat Hodler hat für den Dekorationsmaler Taddéoli aus Genf weitere Aufträge ausgeführt. Siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auf der Auktion 1918 wurden laut Titel und Vorwort des Auktionskatalogs ausschliesslich Werke aus Schweizer Privatbesitz angeboten, siehe Auktionskatalog Zürich 1918."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11.–14. März 1918",
+      "besitzer": "Auktion Le Salon Romand (Gemälde, Skulpturen, Antiquitäten aus schweizerischem Privatbesitz, Lot 54, Portrait de P. T.), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1918, Auktionskatalog Zürich 2005, Brunner 2012. Die Datierung (1889) und die Massangaben (60 × 50 cm) im Auktionskatalog Zürich 1918 weichen von den Angaben in der Objektdatenbank SKKG ab, jedoch passt die Abbildung zum vorliegenden Werk. Die Ausstellung fand im Zunfthaus zur Meisen statt und die Versteigerung im Salon Romand am Paradeplatz."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1932",
+      "besitzer": "L. v. M., Zürich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Brunner 2012. Der Werkkatalog bietet zu dieser Angabe keine weiteren Informationen; worauf sie beruht, ist unklar. Möglicherweise war «L. v. M.» Leihgeber:in des Werks für die Ausstellung des Kunstvereins Winterthur 1932, siehe Ausstellungen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "31. Juli 1934",
+      "besitzer": "Maison Dreyfus",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd. Ob es sich beim 31. Juli 1934 um ein Verkaufsdatum handelt oder ob das Werk zu diesem Zeitpunkt im Maison Dreyfus festgestellt wurde, ist unklar. In Zürich gab es das «Maison Dreyfus Antiquités» und in Genf ein Auktionshaus «Paul Dreyfus fils», gegründet von Émile Dreyfus, Genf, siehe Kontextinformationen. Welche Filiale von Maison Dreyfus mit jener Angabe gemeint ist, ist bislang nicht geklärt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 29. November 1968",
+      "besitzer": "Privatbesitz, Badenweiler, Deutschland",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Schreiben der Galerie Fischer vom 15. November 2022, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. November bis 2. Dezember 1968",
+      "besitzer": "Auktion Galerie Fischer (Grosse Kunstauktion in Luzern, Lot 3839, Brustbild eines alten Mannes), Luzern, eingeliefert von Privatperson aus Badenweiler",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ebd. sowie Auktionskatalog Zürich 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 29. November 1968 bis o. D.",
+      "besitzer": "Privatbesitz, Schweiz, vermutlich angekauft auf Auktion Galerie Fischer",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Brunner 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Dezember 2005",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 32, Bildnis des Malermeisters P. Taddéoli), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Auktionskatalog Zürich 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Dezember 2005",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 70 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Monika Brunner, Bildnis Pierre Taddéoli, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und\n\nKünstlerinnen, Bd. 23), Zürich 2012, Nr. 730, https://www.ferdinand-hodler.ch/werke.aspx?id=10379413 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/4763/4763_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              165.1,
+              518.1,
+              308.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4763/4763_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              315.1,
+              360.0,
+              421.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde, Skulpturen, Antiquitäten aus schweizerischem Privatbesitz, Auktionskatalog Le Salon Romand, Zürich, 11.–14. März 1918, Zürich 1918, Lot 54.\n\nSchweizer Kunst, Auktionskatalog Christie’s, Zürich, 5. Dezember 2005, Zürich 2005, Lot 32.",
+        "bilder": [
+          {
+            "datei": "images/4763/4763_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              478.0,
+              382.8,
+              506.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Grosse Kunstauktion in Luzern, Auktionskatalog Galerie Fischer, Luzern, 26. November bis 2. Dezember 1968, Luzern 1968, Lot 3839 [nicht konsultiert]."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Der frühe Hodler, Ausstellungskatalog Kunstmuseum Winterthur, Winterthur 1932, Nr. 64."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Jura Brüschweiler, Hodlers Schweizer Historienbilder – heute?, in: Der kleine Bund, Jg. 142, Nr. 179, 3. August 1991, S. 168.\n\nKaroline Beltinger, Die «Formatfrage». Malleinen, ihre Formate und deren Veränderungen im Zuge der Kompositionsfindung, in: Kunsttechnologische Forschungen zur Malerei von Ferdinand Hodler (Kunstmaterial 1), hrsg. von ders., Zürich 2007, S. 11–60, https://www.e-periodica.ch/digbib/view?pid=ktm-001:2007:1::177#15 [26. Juli 2022]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstmuseum Winterthur, Der frühe Hodler, 4. September bis 16. Oktober 1932, Nr. 64 (Bildnis Malermeister Taddéoli)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-10-26"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Ferdinand Hodler› und ‹Taddeoli›» [16. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Ferdinand Hodler› und ‹Taddeoli›» [16. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-16"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler Taddeoli» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler Bildnis P. T.» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "1 Treffer (1 Ergebnis) für Volltextsuche «Hodler Herr P. T.» [24. Oktober 2023]: Auktion Le Salon Romand, Zürich, 1918 (siehe oben).",
+            "treffer": 1,
+            "ergebnisse": 1,
+            "datum": "2023-10-24"
+          },
+          {
+            "text": "0 Treffer (64 Ergebnisse) für Volltextsuche «Hodler P. T.» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 64,
+            "datum": "2023-10-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [16. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-16"
+          },
+          {
+            "text": "1 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) ohne Filter [23. Februar 2023]: Auktionskatalog Zürich 1918 (siehe oben).",
+            "treffer": 1,
+            "ergebnisse": 563,
+            "datum": "2023-02-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-24"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "9. August 2022",
+      "institution": "Galerie Fischer",
+      "betreff": "Anfrage zur Einlieferung",
+      "antwort": "15. November 2022: Das Werk wurde von einer Privatperson aus Badenweiler, Deutschland, eingeliefert."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "21. Dezember 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4763/4763_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            190.7,
+            534.3,
+            288.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2005, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "24. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (0 Ergebnisse) für Suche «Taddeoli»\n\n1 Treffer (1 Ergebnis) für Suche «Taddéoli»: A.2151.1672.1.2, lotspezifischer Ausschnitt (Kopie) aus Auktionskatalog Zürich 2005 mit annotiertem Zuschlagspreis"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Paul Dreyfus fils / Émile Dreyfus, Genf",
+      "information": "Um 1923 gab es ein Auktionshaus mit dem Namen «Paul Dreyfus fils» an der Grande Rue 2 in Genf.\n\nIn einem Inserat in einem Ausstellungskatalog von 1927 steht nach dem Firmennamen in Klammern: «ancienne Maison Émile Dreyfus». Paul Dreyfus war der Sohn von Émile und Anne Dreyfus, geb. Süskind. Für 1925 ist auch eine Niederlassung von Émile Dreyfus in Zürich bekannt.\n\nWann die Galerie gegründet wurde, ist nicht ganz klar. Émile war vermutlich mindestens ab 1911 an der Firma «Old England» von Dreyfus Frères in La Chaux-de-Fonds und Le Locle beteiligt, einem Bekleidungsgeschäft. 1914 wird berichtet, dass die Niederlassung in Le Locle geschlossen und jene in La Chaux-de-Fonds von Armand Dreyfus übernommen wurde, da Émile ausgestiegen war. Möglicherweise eröffnete er danach ein Antiquitätengeschäft in Genf.\n\nDass es sich bei diesem Émile Dreyfus um denjenigen handelte, der das Antiquitätengeschäft in Genf hatte, bestärkt eine Todesanzeige einer Person aus La Chaux-de-Fonds, worunter Émile und sein Sohn Paul aufgeführt sind. 1929 wird ein Émile Dreyfus als Teil des Initiativkomitees der Zollunion erwähnt, der zu diesem Zeitpunkt bereits 89 Jahre alt gewesen sein und in Zürich gewohnt haben soll.\n\nVater und Sohn haben 1915 in Genf und 1917 im Kunstgewerbemuseum Zürich eine Ausstellung über die Geschichte der Leuchtmittel konzipiert. Die Sammlung war laut Zeitungsberichten zu verkaufen. Émile war Mitglied der Numismatischen Gesellschaft in Genf.\n\nIm Jahrbuch für Kunst und Kunstpflege in der Schweiz 1925/26 findet sich folgendes Inserat: «Ancienne Maison Emile Dreyfus Antiquités Paul Dreyfus fils. Succ. 2, Grand Rues […] Tableaux, Objets d’Art […], Expertises, Ventes, Achat-Direction de Ventes publiques».\n\nSpätestens dann muss Paul es von Émile übernommen haben. Im Handelsamtsblatt 1920 findet sich das Übergabedatum an den Sohn: 1. April 1920.\n\nDas Geschäft wurde am 4. November 1935 geschlossen, nachdem Paul Dreyfus verstorben war.",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "http://doc.rero.ch/record/277270/files/BAA_EX_103_1927_5355.pdf [25. Juli 2022]."
+        },
+        {
+          "nr": 13,
+          "text": "Neue Zürcher Zeitung, Jg. 137, Nr. 614, 7. April 1906, S. 4, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19160417-06.2.16.1&srpos=22&e=------191-de-20--21--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]. La tribune de Genève, Bd. 37, Nr. 207, 2. September 1915, https://www.e-newspaperarchives.ch/?a=d&d=TDG19150902-05.2.16&srpos=10&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+        },
+        {
+          "nr": 14,
+          "text": "Der Bund, Jg. 76, Nr. 98, 6. März 1925, S. 6, https://www.e-newspaperarchives.ch/?a=d&d=DBB19250306-01.2.48.1&srpos=4&e=------192-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+        },
+        {
+          "nr": 15,
+          "text": "Feuille d’Avis de Neuchâtel (FAN), Jg. 173, Nr. 92, 22. April 1911, S. 8, https://www.e-newspaperar-chives.ch/?a=d&d=EXR19110422-01.2.96&srpos=14&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+        },
+        {
+          "nr": 16,
+          "text": "Neue Zürcher Zeitung, Jg. 150, Nr. 2116, 3. November 1929, S. 17, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19291103-01.2.41&srpos=2&e=------192-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+        },
+        {
+          "nr": 17,
+          "text": "La tribune de Genève, Jg. 37, Nr. 207, 2. September 1915, S. 3, https://www.e-newspaperar-chives.ch/?a=d&d=TDG19150902-05.2.16&srpos=10&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]. La tribune de Genève, Jg. 37, Nr. 223, 21. September 1915, S. 3, https://www.e-newspaperar-chives.ch/?a=d&d=TDG19150921-05.2.8.1&srpos=11&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]. Neue Zürcher Zeitung, Jg. 138, Nr. 59, 12. Januar 1917, S. 3, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19170112-01.2.16&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+        },
+        {
+          "nr": 18,
+          "text": "La tribune de Genève, Jg. 39, Nr. 17, 21. Januar 1917, S. 5, https://www.e-newspaperar-chives.ch/?a=d&d=TDG19170121-05.2.28&srpos=21&e=------191-de-20--21--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+        },
+        {
+          "nr": 19,
+          "text": "Verzeichnis der Antiquare, Kunsthändler und Buchantiquariate in der Schweiz, in: Jahrbuch für Kunst und Kunstpflege in der Schweiz, hrsg. von Paul Ganz, Bd. 4, 1925–27, Basel 1928, S. 351–362, hier S. 355, https://www.e-perio-dica.ch/digbib/view?pid=kun-001%3A1925%3A4%3A%3A435&referrer=search#435 [22. Dezember 2022]."
+        },
+        {
+          "nr": 20,
+          "text": "Schweizerisches Handelsamtsblatt, Jg. 38, Nr. 100, 19. April 1920, S. 731, https://www.e-periodica.ch/dig-bib/view?pid=sha-001%3A1920%3A38%3A%3A834 [22. Dezember 2022]."
+        },
+        {
+          "nr": 21,
+          "text": "Schweizerisches Handelsamtsblatt, Jg. 53, Nr. 262, 8. November 1935, S. 2752, https://www.e-periodica.ch/dig-bib/view?pid=sha-001%3A1935%3A53%3A%3A3017 [22. Dezember 2022]."
+        }
+      ]
+    },
+    {
+      "thema": "Maison Dreyfus, Zürich",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/4763/4763_006_kontextinformationen.png",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            222.2,
+            406.0,
+            266.7
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Inserat für R. Dreyfus, Grossmünsterplatz 2, Zürich, 1928/29. Bis mindestens 1945 ist das Maison Dreyfus am Grossmünsterplatz ansässig."
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 22,
+          "text": "Verzeichnis der Antiquare, Kunsthändler und Buchantiquariate in der Schweiz, in: Jahrbuch für Kunst und Kunstpflege in der Schweiz, hrsg. von Paul Ganz, Bd. 5, 1928/29, Basel 1928, S. 519–529, hier S. 526–527, https://www.e-perio-dica.ch/cntmng?pid=kun-001%3A1928%3A5%3A%3A684 [22. Dezember 2022]."
+        }
+      ]
+    },
+    {
+      "thema": "Pierre Taddeoli",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/4763/4763_007_kontextinformationen.png",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            323.6,
+            304.5,
+            574.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige von Pierre Taddeoli, Genf, verstorben im Februar 1904 im 68. Lebensjahr"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 23,
+          "text": "La tribune de Genève, Jg. 26, Nr. 45, 25. Februar 1904, S. 4, https://www.e-newspaperarchives.ch/?a=d&d=TDG19040225-04.2.23.2&srpos=4&e=-------de-20--1--txt-txIN-%22Pierre+Tadd%C3%A9oli%22 [27. November 2024]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4763/4763_008_provenienzmerkmale.jpeg",
+        "seite": 9,
+        "bbox": [
+          62.5,
+          165.3,
+          291.8,
+          436.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit rotem Schreibmittel «F. Hodler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «F. Hodler»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4763/4763_009_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              473.2,
+              234.4,
+              507.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Zettel, bedruckt und handschriftlich ergänzt, «+ Archivauszug SIK | bei Bö. „Expertisen“ | + Photo bei Bö» und Zuschlagspreis",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Zettel, bedruckt und handschriftlich ergänzt, «+ Archivauszug SIK | bei Bö. „Expertisen“ | + Photo bei Bö» und Zuschlagspreis",
+        "kommentar": "Erwerbsnachweis Auktion Christie’s 2005, annotiert von Dora Bösiger («Bö.»)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4763/4763_010_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              536.3,
+              292.0,
+              636.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Leinwand: schwarz gestempelt «8»",
+        "position_traeger": "o. m. Leinwand",
+        "merkmal": "schwarz gestempelt «8»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4763/4763_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              649.3,
+              173.4,
+              689.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: verwischte handschriftliche Aufschrift",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "verwischte handschriftliche Aufschrift",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4763/4763_012_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              292.8,
+              195.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: vergilbtes viereckiges Klebeetikett, schwarz bedruckt, handschriftlich mit schwarzer Tinte «64»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "vergilbtes viereckiges Klebeetikett, schwarz bedruckt, handschriftlich mit schwarzer Tinte «64»",
+        "kommentar": "Ausstellung Kunstmuseum Winterthur 1932, Nr. 64",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4763/4763_013_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              207.8,
+              293.3,
+              275.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: Stempel für Seriennummer (vermutlich des Rahmens), handschriftlich mit Bleistift «3640»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "Stempel für Seriennummer (vermutlich des Rahmens), handschriftlich mit Bleistift «3640»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4763/4763_014_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              296.2,
+              244.8,
+              337.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier-/Keilrahmen: zweimal viereckiges weisses Klebeetikett, schwarz gedruckt «30192», unterstrichen",
+        "position_traeger": "o. l. Zier-/Keilrahmen",
+        "merkmal": "zweimal viereckiges weisses Klebeetikett, schwarz gedruckt «30192», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4763/4763_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              350.7,
+              207.2,
+              374.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4763/4763_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              380.7,
+              207.3,
+              405.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Brunner 2012."
+    },
+    {
+      "nr": 2,
+      "text": "Vermutlich handelt es sich um eine Auftragsarbeit für den Porträtierten. Laut Brunner 2012 hat Hodler hat für den Dekorationsmaler Taddéoli aus Genf weitere Aufträge ausgeführt. Siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Auf der Auktion 1918 wurden laut Titel und Vorwort des Auktionskatalogs ausschliesslich Werke aus Schweizer Privatbesitz angeboten, siehe Auktionskatalog Zürich 1918."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1918, Auktionskatalog Zürich 2005, Brunner 2012. Die Datierung (1889) und die Massangaben (60 × 50 cm) im Auktionskatalog Zürich 1918 weichen von den Angaben in der Objektdatenbank SKKG ab, jedoch passt die Abbildung zum vorliegenden Werk. Die Ausstellung fand im Zunfthaus zur Meisen statt und die Versteigerung im Salon Romand am Paradeplatz."
+    },
+    {
+      "nr": 5,
+      "text": "Brunner 2012. Der Werkkatalog bietet zu dieser Angabe keine weiteren Informationen; worauf sie beruht, ist unklar. Möglicherweise war «L. v. M.» Leihgeber:in des Werks für die Ausstellung des Kunstvereins Winterthur 1932, siehe Ausstellungen."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd. Ob es sich beim 31. Juli 1934 um ein Verkaufsdatum handelt oder ob das Werk zu diesem Zeitpunkt im Maison Dreyfus festgestellt wurde, ist unklar. In Zürich gab es das «Maison Dreyfus Antiquités» und in Genf ein Auktionshaus «Paul Dreyfus fils», gegründet von Émile Dreyfus, Genf, siehe Kontextinformationen. Welche Filiale von Maison Dreyfus mit jener Angabe gemeint ist, ist bislang nicht geklärt."
+    },
+    {
+      "nr": 7,
+      "text": "Schreiben der Galerie Fischer vom 15. November 2022, siehe Anfragen."
+    },
+    {
+      "nr": 8,
+      "text": "Ebd. sowie Auktionskatalog Zürich 2005."
+    },
+    {
+      "nr": 9,
+      "text": "Brunner 2012."
+    },
+    {
+      "nr": 10,
+      "text": "Auktionskatalog Zürich 2005."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 12,
+      "text": "http://doc.rero.ch/record/277270/files/BAA_EX_103_1927_5355.pdf [25. Juli 2022]."
+    },
+    {
+      "nr": 13,
+      "text": "Neue Zürcher Zeitung, Jg. 137, Nr. 614, 7. April 1906, S. 4, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19160417-06.2.16.1&srpos=22&e=------191-de-20--21--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]. La tribune de Genève, Bd. 37, Nr. 207, 2. September 1915, https://www.e-newspaperarchives.ch/?a=d&d=TDG19150902-05.2.16&srpos=10&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+    },
+    {
+      "nr": 14,
+      "text": "Der Bund, Jg. 76, Nr. 98, 6. März 1925, S. 6, https://www.e-newspaperarchives.ch/?a=d&d=DBB19250306-01.2.48.1&srpos=4&e=------192-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+    },
+    {
+      "nr": 15,
+      "text": "Feuille d’Avis de Neuchâtel (FAN), Jg. 173, Nr. 92, 22. April 1911, S. 8, https://www.e-newspaperar-chives.ch/?a=d&d=EXR19110422-01.2.96&srpos=14&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+    },
+    {
+      "nr": 16,
+      "text": "Neue Zürcher Zeitung, Jg. 150, Nr. 2116, 3. November 1929, S. 17, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19291103-01.2.41&srpos=2&e=------192-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+    },
+    {
+      "nr": 17,
+      "text": "La tribune de Genève, Jg. 37, Nr. 207, 2. September 1915, S. 3, https://www.e-newspaperar-chives.ch/?a=d&d=TDG19150902-05.2.16&srpos=10&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]. La tribune de Genève, Jg. 37, Nr. 223, 21. September 1915, S. 3, https://www.e-newspaperar-chives.ch/?a=d&d=TDG19150921-05.2.8.1&srpos=11&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]. Neue Zürcher Zeitung, Jg. 138, Nr. 59, 12. Januar 1917, S. 3, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19170112-01.2.16&e=------191-de-20--1--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+    },
+    {
+      "nr": 18,
+      "text": "La tribune de Genève, Jg. 39, Nr. 17, 21. Januar 1917, S. 5, https://www.e-newspaperar-chives.ch/?a=d&d=TDG19170121-05.2.28&srpos=21&e=------191-de-20--21--txt-txIN-%22%c3%a9mile+dreyfus%22 [25. Juli 2022]."
+    },
+    {
+      "nr": 19,
+      "text": "Verzeichnis der Antiquare, Kunsthändler und Buchantiquariate in der Schweiz, in: Jahrbuch für Kunst und Kunstpflege in der Schweiz, hrsg. von Paul Ganz, Bd. 4, 1925–27, Basel 1928, S. 351–362, hier S. 355, https://www.e-perio-dica.ch/digbib/view?pid=kun-001%3A1925%3A4%3A%3A435&referrer=search#435 [22. Dezember 2022]."
+    },
+    {
+      "nr": 20,
+      "text": "Schweizerisches Handelsamtsblatt, Jg. 38, Nr. 100, 19. April 1920, S. 731, https://www.e-periodica.ch/dig-bib/view?pid=sha-001%3A1920%3A38%3A%3A834 [22. Dezember 2022]."
+    },
+    {
+      "nr": 21,
+      "text": "Schweizerisches Handelsamtsblatt, Jg. 53, Nr. 262, 8. November 1935, S. 2752, https://www.e-periodica.ch/dig-bib/view?pid=sha-001%3A1935%3A53%3A%3A3017 [22. Dezember 2022]."
+    },
+    {
+      "nr": 22,
+      "text": "Verzeichnis der Antiquare, Kunsthändler und Buchantiquariate in der Schweiz, in: Jahrbuch für Kunst und Kunstpflege in der Schweiz, hrsg. von Paul Ganz, Bd. 5, 1928/29, Basel 1928, S. 519–529, hier S. 526–527, https://www.e-perio-dica.ch/cntmng?pid=kun-001%3A1928%3A5%3A%3A684 [22. Dezember 2022]."
+    },
+    {
+      "nr": 23,
+      "text": "La tribune de Genève, Jg. 26, Nr. 45, 25. Februar 1904, S. 4, https://www.e-newspaperarchives.ch/?a=d&d=TDG19040225-04.2.23.2&srpos=4&e=-------de-20--1--txt-txIN-%22Pierre+Tadd%C3%A9oli%22 [27. November 2024]."
+    }
+  ],
+  "bilder_anzahl": 16
+}

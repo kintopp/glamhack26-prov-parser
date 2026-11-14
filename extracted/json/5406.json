@@ -1,0 +1,557 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5406_241114.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5406",
+      "Augusto Giacometti (1877–1947)",
+      "Blumen. Gelber und violetter Krokus",
+      "1932",
+      "Öl auf Leinwand",
+      "35 × 27 cm (Bildmass)",
+      "47 × 39 × 7,2 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5406",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Blumen. Gelber und violetter Krokus",
+    "masse": [
+      "35 × 27 cm (Bildmass)",
+      "47 × 39 × 7,2 cm (Rahmenmass)"
+    ],
+    "datierung": "1932",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5406/5406_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          261.0,
+          544.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Stutzer 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1936",
+      "besitzer": "Galerie Aktuaryus, Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Stutzer 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 21. November 1986",
+      "besitzer": "Pierre Schleiniger, Corseaux",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Auktionsabrechnung von Galerie Koller, Zürich, an Pierre Schleiniger, Corseaux, vom 17. Dezember 1986 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "7. August 1986",
+      "besitzer": "Galerie Koller, Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Stutzer 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17.–22. November 1986",
+      "besitzer": "Auktion Galerie Koller (Gemälde. Moderne Graphik und Plastiken. Helvetica. Bücher. Alte Graphik, Lot 5274, Krokusse in Blumentöpfen), Zürich, eingeliefert von Pierre Schleiniger, Corseaux",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1986, Stutzer 2023."
+        },
+        {
+          "nr": 6,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 21. November 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 50 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Beat Stutzer, Blumen. Gelber und violetter Krokus, in: Augusto Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 282, https://recherche.sik-isea.ch/de/sik:work-9703143 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/5406/5406_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.5,
+              436.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde. Moderne Graphik und Plastiken. Helvetica. Bücher. Alte Graphik, Auktionskatalog Galerie Koller, Zürich, 17., 21. und 22. November 1986, Nr. 61/2, Zürich 1986, Lot 5274.",
+        "bilder": [
+          {
+            "datei": "images/5406/5406_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              493.2,
+              434.3,
+              543.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Siehe Werkkatalog."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (6 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]: Vier identische Einträge, Verkauf «Giacometti» ohne weitere Angaben, «Angeboten von Nollstadt, Prien, 22.9.1937», http://heinemann.gnm.de/de/kunstwerk-40985.htm [4. November 2022].",
+            "treffer": 1,
+            "ergebnisse": 6,
+            "datum": "2022-11-04"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/5406/5406_004_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              284.6,
+              391.4,
+              403.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Volltextsuche «Augusto Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-11-04"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «A. Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2022-11-04"
+          },
+          {
+            "text": "0 Treffer (144 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 144,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche «Augusto Giacometti» (inklusive Varianten der Namensschreibweise) [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "31. Juli 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "(Signatur unbekannt)",
+      "bilder": [
+        {
+          "datei": "images/5406/5406_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            209.4,
+            535.8,
+            227.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "lotspezifischer Ausschnitt aus Auktionskatalog Zürich 1986, annotiert, unter anderem: «Schleiniger | SL 30’000.–», «508 Stefanini 50’000.–» (Erwerbsnachweis)"
+        }
+      ]
+    },
+    {
+      "datum": "31. Juli 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "(Signatur unbekannt)",
+      "bilder": [
+        {
+          "datei": "images/5406/5406_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            340.4,
+            533.0,
+            574.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionsabrechnung von Galerie Koller, Zürich, an Pierre Schleiniger («Schleininger»), Corseaux, vom 17. Dezember 1986"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5406/5406_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          240.8,
+          319.6,
+          553.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit gelber Farbe «a. g»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit gelber Farbe «a. g»",
+        "kommentar": "Monogramm des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5406/5406_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              590.5,
+              237.5,
+              649.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: dunkel gestempelt «[…]» (unleserlich)",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "dunkel gestempelt «[…]» (unleserlich)",
+        "kommentar": "möglicherweise Galerie Aktuaryus",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5406/5406_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              319.5,
+              239.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: dunkel gestempelt «35»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "dunkel gestempelt «35»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5406/5406_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              252.1,
+              219.6,
+              322.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: rechteckiges grünes Etikett mit abgeschrägten Ecken, weiss gedruckt «KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "rechteckiges grünes Etikett mit abgeschrägten Ecken, weiss gedruckt «KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70»",
+        "kommentar": "Kunstgeschäft und Künstlerbedarf. Vermutlich stammt das Etikett vom Kauf des Rahmens.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5406/5406_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              335.1,
+              219.8,
+              378.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: dunkel gestempelt «27»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "dunkel gestempelt «27»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5406/5406_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.5,
+              448.5,
+              219.8,
+              515.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: dunkel gestempelt «35»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "dunkel gestempelt «35»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5406/5406_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              528.7,
+              219.8,
+              591.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, maschinenbeschrieben und handschriftlich beschrieben (Kopie)",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, maschinenbeschrieben und handschriftlich beschrieben (Kopie)",
+        "kommentar": "Erwerbsnachweis Auktion Koller 1986",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5406/5406_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              604.3,
+              318.7,
+              736.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Stutzer 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Stutzer 2023."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Auktionsabrechnung von Galerie Koller, Zürich, an Pierre Schleiniger, Corseaux, vom 17. Dezember 1986 im Archiv SKKG."
+    },
+    {
+      "nr": 4,
+      "text": "Stutzer 2023."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1986, Stutzer 2023."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite sowie im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 14
+}

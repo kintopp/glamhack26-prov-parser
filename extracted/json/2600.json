@@ -1,0 +1,538 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2600_230214.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. Februar 2023",
+  "stand_iso": "2023-02-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2600",
+      "Ferdinand Hodler (1853–1918)",
+      "Bildnis Albertine Bernhard",
+      "1916",
+      "Öl auf Leinwand",
+      "57 × 46 × 2 cm (Bildmass)",
+      "64 × 53 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "2600",
+    "status": "Klar",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bildnis Albertine Bernhard",
+    "masse": [
+      "57 × 46 × 2 cm (Bildmass)",
+      "64 × 53 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1916",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2600/2600_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          255.5,
+          503.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Walter 2012. Albertine Bernhard ist eine Nichte des Künstlers; für ausführlichere Angaben zur Person siehe Auktionskatalog Zürich 1991 und Walter 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1916–1958",
+      "besitzer": "Albertine Bernhard (1882–1958), Bern/Basel, erhalten als Geschenk vom Künstler (ihrem Onkel)",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Walter 2012, Loosli 1924 und Auktionskatalog Zürich 1991 mit der Angabe: «Vom Künstler seiner Cousine [sic] Albertine Bernhard vermacht». Siehe auch Leihgeberetikett auf der Werkrückseite, wahrscheinlich von der Ausstellung Bern 1921."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1958 bis o. D.",
+      "besitzer": "Privatbesitz, erworben im Erbgang von Albertine Bernhard",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1991 mit der Angabe: «Nach ihrem Tode hinterliess Albertine das Porträt der Tochter ihrer Mentorin, der Mutter des heutigen Besitzers.» Dessen Grossmutter war «eine treue Beraterin» von Albertine Bernhard, als diese in Basel lebte und als Schneiderin arbeitete, siehe ebd. Während im Werkkatalog für 1958 bis 1991 ein durchgehender Privatbesitz angegeben ist, verdeutlicht die Formulierung «Mutter des heutigen Besitzers», dass es sich um zwei Provenienzstationen innerhalb derselben Familie handelte."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1991",
+      "besitzer": "Privatbesitz, wahrscheinlich erworben im Erbgang von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17. Juni 1991",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 445, Portrait von Fräulein Albertine Bernhard), Zürich, wahrscheinlich eingeliefert aus Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Walter 2012, Auktionskatalog Zürich 1991."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 17. Juni 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 75 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1991 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Bernadette Walter, Bildnis Albertine Bernhard, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 1031, https://re-cherche.sik-isea.ch/sik:work-6006284 [30. August 2022].",
+        "bilder": [
+          {
+            "datei": "images/2600/2600_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.4,
+              533.2,
+              501.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/2600/2600_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              367.5,
+              376.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/2600/2600_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              382.8,
+              367.5,
+              639.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Carl Albert Loosli, Ferdinand Hodler. Leben, Werk und Nachlass, Bd. 4, Bern 1924, S. 59, Nr. 145."
+          },
+          {
+            "datei": "images/2600/2600_005_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              683.2,
+              533.2,
+              702.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 17. Juni 1991, Zürich 1991, Lot 445."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Hodler-Gedächtnis-Ausstellung, Ausstellungskatalog Kunstmuseum Bern, 20. August bis 23. Oktober 1921, Bern 1921, Nr. 575 [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunstmuseum Bern, 20. August bis 23. Oktober 1921, Hodler-Gedächtnis-Ausstellung, Nr. 575 (Bildnis Fräulein Albertine Bernhard)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» mit Filter: Künstler [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Ferdinand Hodler» und «Bernhard» [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-02-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Ferdinand Hodler» und «Bernhard» [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-02-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [14. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2600/2600_006_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            532.9,
+            421.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1991, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2600/2600_007_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            465.5,
+            533.0,
+            605.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: annotierte lotspezifische Kopie aus Auktionskatalog Zürich 1991"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2600/2600_008_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          240.8,
+          306.4,
+          542.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «1916 F. Hodler»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «1916 F. Hodler»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              580.2,
+              306.0,
+              612.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «[…] B 498 | HANSEN»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «[…] B 498 | HANSEN»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              643.3,
+              221.3,
+              714.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: verbräuntes rechteckiges Klebeetikett mit blauer Bordüre, ein- oder zweiseitig gezahnt, handschriftlich mit Bleistift und schwarzer Tinte «[…] | 433» (teilweise verdeckt)",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Klebeetikett mit blauer Bordüre, ein- oder zweiseitig gezahnt, handschriftlich mit Bleistift und schwarzer Tinte «[…] | 433» (teilweise verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              306.2,
+              231.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «[…]» (unleserlich), möglicherweise «433»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…]» (unleserlich), möglicherweise «433»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              244.0,
+              232.0,
+              306.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «Albertine Bernhard Nichte des Künstlers», teilweise unterstrichen",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Albertine Bernhard Nichte des Künstlers», teilweise unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              319.5,
+              305.5,
+              356.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2600/2600_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              363.1,
+              305.5,
+              403.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit Bleistift «A. Bernhard | Nichte des Künstlers», teilweise unterstrichen",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit Bleistift «A. Bernhard | Nichte des Künstlers», teilweise unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              416.0,
+              305.4,
+              476.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «25487», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «25487», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              488.8,
+              232.4,
+              522.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Etikett, schwarz gedruckt und handschriftlich mit schwarzer Tinte «[…] Titel Bildnis Frl. Albertine Bernhard, | Besitzer Frl. Bernhard, Basel» (teilweise verdeckt)",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz gedruckt und handschriftlich mit schwarzer Tinte «[…] Titel Bildnis Frl. Albertine Bernhard, | Besitzer Frl. Bernhard, Basel» (teilweise verdeckt)",
+        "kommentar": "wahrscheinlich Ausstellung Bern 1921",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              564.6,
+              305.4,
+              622.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA Ktr.- Nr. 25487», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA Ktr.- Nr. 25487», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2600/2600_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              665.6,
+              231.9,
+              687.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Walter 2012. Albertine Bernhard ist eine Nichte des Künstlers; für ausführlichere Angaben zur Person siehe Auktionskatalog Zürich 1991 und Walter 2012."
+    },
+    {
+      "nr": 2,
+      "text": "Walter 2012, Loosli 1924 und Auktionskatalog Zürich 1991 mit der Angabe: «Vom Künstler seiner Cousine [sic] Albertine Bernhard vermacht». Siehe auch Leihgeberetikett auf der Werkrückseite, wahrscheinlich von der Ausstellung Bern 1921."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1991 mit der Angabe: «Nach ihrem Tode hinterliess Albertine das Porträt der Tochter ihrer Mentorin, der Mutter des heutigen Besitzers.» Dessen Grossmutter war «eine treue Beraterin» von Albertine Bernhard, als diese in Basel lebte und als Schneiderin arbeitete, siehe ebd. Während im Werkkatalog für 1958 bis 1991 ein durchgehender Privatbesitz angegeben ist, verdeutlicht die Formulierung «Mutter des heutigen Besitzers», dass es sich um zwei Provenienzstationen innerhalb derselben Familie handelte."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 5,
+      "text": "Walter 2012, Auktionskatalog Zürich 1991."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1991 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 18
+}

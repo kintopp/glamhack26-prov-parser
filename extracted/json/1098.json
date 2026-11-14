@@ -1,0 +1,922 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1098_250616.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "16. Juni 2025",
+  "stand_iso": "2025-06-16",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1098",
+      "Adolf Dietrich (1877–1957)",
+      "Stadtpark in Ludwigshafen",
+      "1925",
+      "Öl auf Karton",
+      "37 × 58 cm (Bildmass)",
+      "50,5 × 70,5 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1098",
+    "status": "Ungeklärt",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Stadtpark in Ludwigshafen",
+    "masse": [
+      "37 × 58 cm (Bildmass)",
+      "50,5 × 70,5 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1925",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1098/1098_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          294.9,
+          429.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ammann/Vögele 1994."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "18. September bis 20. Oktober 1927",
+      "besitzer": "Ausstellung Galerie «Das Kunsthaus», Dr. Herbert Tannenbaum, Mannheim",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ammann/Vögele 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "27. November 1947 bis 3. Januar 1948",
+      "besitzer": "Ausstellung Kunstsalon Wolfsberg (Ad. Dietrich, Nr. 8, Park in Ludwigshafen), Zürich, Katalogpreis: 850 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ausstellungskatalog Zürich 1947, Ammann/Vögele 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 2. Juli 1961 bis 16. September 1979",
+      "besitzer": "Manuel Gasser (1909–1979), Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Leihgeberetikett der Ausstellung Baden-Baden 1961 auf der Werkrückseite, Auktionskatalog Bern 1980 und Auktionskatalog Luzern 1986. Es ist denkbar, dass Manuel Gasser das Werk an der Ausstellung im Kunstsalon Wolfsberg 1947/48 erworben hat. Zur Person siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16. September 1979 bis mindestens 18. Juni 1980",
+      "besitzer": "vermutlich Nachlass Manuel Gasser, Zürich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Gemäss Auktionskatalog Bern 1980 war der Nachlass des 1979 verstorbenen Manuel Gasser der Haupteinlieferer, sodass anzunehmen ist, dass an dieser Auktion sein Nachlass aufgelöst wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18.–21. Juni 1980",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts […], Lot 259, Stadtpark in Ludwigshafen), Bern, eingeliefert aus Nachlass Manuel Gasser",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Bern 1980, Ammann/Vögele 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "nach 1980",
+      "besitzer": "Galerie Bruno Meissner (Nr. 1485), Zürich",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Etikett der Galerie Bruno Meissner auf der Werkrückseite; zur Datierung siehe Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13./14. Mai 1982",
+      "besitzer": "Auktion Galerie Koller (Gemälde 15.–20. Jahrhundert. Graphiken und Plastiken 19. und 20. Jahrhundert, Lot 5243, Stadtpark in Ludwigshafen), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auktionskatalog Zürich 1982, Ammann/Vögele 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis mindestens 13. Mai 1986",
+      "besitzer": "Galerie Fischer, Luzern, wahrscheinlich erworben auf Auktion Galerie Koller",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Luzern 1986 sowie Auskunft der Galerie Fischer vom 24. Mai 2023, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "13.–15. Mai 1986",
+      "besitzer": "Auktion Galerie Fischer (Kunstauktionen […], Lot 1178, Stadtpark in Ludwigshafen), Luzern, eingeliefert von der Galerie Fischer",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Ammann/Vögele 1994 sowie Auskunft der Galerie Fischer vom 24. Mai 2023, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit spätestens 15. Mai 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Fischer, Zuschlagspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite und Ankaufsliste im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Heinrich Ammann und Christoph Vögele, Adolf Dietrich, 1877–1957. Œuvrekatalog der Ölbilder und Aquarelle, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 1994, Nr. 25.01.",
+        "bilder": [
+          {
+            "datei": "images/1098/1098_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              318.6,
+              273.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts […], Auktionskatalog Galerie Kornfeld, Bern, 18.–21. Juni 1980, Nr. 173, Bern 1980, Lot 259.\n\nGemälde 15.–20. Jahrhundert. Graphiken und Plastiken 19. und 20. Jahrhundert, Auktionskatalog Galerie Koller, Zürich, 13./14. Mai 1982, Nr. 48/2, Zürich 1982, Lot 5243.\n\nKunstauktionen. Möbel, Teppiche, Uhren, Miniaturen, Silber, Glas, Skulpturen, Zinn, aussereuropäische Kunst, Antiken, Schmiedekunst, Gemälde alter und moderner Meister aus in- und ausländischem Besitz, Ikonen, Auktionskatalog Galerie Fischer, Luzern, 13.–15. Mai 1986, Nr. 294, Luzern 1986, Lot 1178."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Ad. Dietrich. Berlingen 1877–1947, Ausstellungskatalog Kunstsalon Wolfsberg, Zürich, 27. November 1947 bis 3. Januar 1948, Zürich 1947, Nr. 8.",
+        "bilder": [
+          {
+            "datei": "images/1098/1098_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              507.2,
+              404.5,
+              519.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Galerie «Das Kunsthaus», Dr. Herbert Tannenbaum, Mannheim, 18. September bis 20. Oktober 1927\n\n– Kunstsalon Wolfsberg, Zürich, 27. November 1947 bis 3. Januar 1948, Nr. 8 (Park in Ludwigshafen)\n\n– Staatliche Kunsthalle Baden-Baden / Historisches Museum Frankfurt, Frankfurt am Main / Kunstmuseum Hannover, Das naive Bild der Welt, 2. Juli bis 10. Dezember 1961, Nr. 47 (Stadtpark in Ludwigshafen)\n\n– Kirchgemeindehaus Frauenfeld, Ausstellung Adolf Dietrich, 22. September bis 12. Oktober 1962, Nr. 52 (Stadtpark in Ludwigsburg [sic])\n\n– Kunstmuseum Winterthur, Gedächtnisausstellung Adolf Dietrich, 22. Januar bis 26. Februar 1967, Nr. 42",
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Die Angaben zu den Ausstellungen stammen aus Ammann/Vögele 1994."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Dietrich, Adolf» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (306 Ergebnisse) für Volltextsuche «Adolf Dietrich», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 306,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Stadtpark» und «Ludwigshafen», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (62 Ergebnisse) für Volltextsuche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 62,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Dietrich» und «Ludwigshafen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (72 Ergebnisse) für Suche «Adolf Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 72,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (1376 Ergebnisse) für Suche «A. Dietrich» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 1376,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche «Ludwigshafen» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2023-04-05"
+          },
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Suche «Stadtpark» [5. April 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-04-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-05-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (17 Ergebnisse) für Suche mit Filter: Künstler «Dietrich» [16. Mai 2023]",
+            "treffer": 0,
+            "ergebnisse": 17,
+            "datum": "2023-05-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Januar 2023",
+      "institution": "Galerie Fischer, Luzern",
+      "betreff": "Anfrage zur Einlieferung an die Auktion 1986 und zu weiteren Vorbesitzenden",
+      "antwort": "24. Mai 2023: Das Werk wurde von der Galerie Fischer eingeliefert. Die Auktion fand vom 13. bis 15. Mai statt. Es liegen keine weiteren Hinweise vor."
+    },
+    {
+      "datum": "8. Mai 2024",
+      "institution": "Historisches Museum Frankfurt, Frankfurt am Main",
+      "betreff": "Anfrage zur Einlieferung 1961",
+      "antwort": "10. Mai 2024: Die Quellen zur Ausstellung liegen im Institut für Stadtgeschichte, Frankfurt am Main.",
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "https://arcinsys.hessen.de/arcinsys/showArchivalDescriptionDetails?archivalDescriptionId=9604945 und https://arcinsys.hessen.de/arcinsys/showArchivalDescriptionDetails?archivalDescriptionId=8802697. Die Archivalien wurden nicht konsultiert."
+        }
+      ]
+    },
+    {
+      "datum": "10. Juni 2024",
+      "institution": "Kunstmuseum Winterthur",
+      "betreff": "Anfrage zur Einlieferung 1967",
+      "antwort": "11. Juni 2024: Einlieferer war Manuel Gasser, Zürich."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "24. Juni 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1098/1098_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            506.1,
+            533.0,
+            629.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1098/1098_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            635.3,
+            533.0,
+            663.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1980, annotiert von Bruno Stefanini (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "24. Juni 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1098/1098_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            194.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1982, annotiert von Bruno Stefanini (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "24. Juni 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1098/1098_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            250.5,
+            533.0,
+            286.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1986, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "8. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1651.2.2 (PDF, S. 33)",
+      "bilder": [
+        {
+          "datei": "images/1098/1098_008_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            349.0,
+            533.0,
+            374.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Liste mit Ankäufen der Auktion Luzern 1986, Kopie des lotspezifischen Ausschnitts mit annotiertem Ankaufspreis (Zuschlagspreis plus Aufschlag)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "Januar 2023",
+      "institution": "Landesarchiv Berlin",
+      "bestand": "B Rep. 025-07, Nr. 2379/57, Nr. 2380/57, Nr. 2381/57, Verfahren Dr. Herbert Tannenbaum (*07.03.1892), 19 East 57th Street, New York 22, USA, gegen das Deutsche Reich: Keine Treffer für vorliegendes Werk."
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Manuel Gasser",
+      "information": "Manuel Gasser (1909–1979) war Mitbegründer der Weltwoche, siehe https://de.wikipedia.org/wiki/Manuel_Gasser [16. Juni 2025]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1098/1098_009_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          313.4,
+          343.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «A. Dietrich 1925»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «A. Dietrich 1925»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              381.2,
+              313.5,
+              426.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «Heff. [?]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «Heff. [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              444.3,
+              207.2,
+              494.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges beiges Etikett mit abgerundeten Ecken, schwarz gedruckt «1178»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett mit abgerundeten Ecken, schwarz gedruckt «1178»",
+        "kommentar": "Auktion Galerie Fischer 1986, Lot 1178",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              507.8,
+              211.2,
+              546.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rückseitenschutz: rechteckiges weisses Etikett der Galerie Bruno Meissner, schwarz bedruckt",
+        "position_traeger": "o. m. Rückseitenschutz",
+        "merkmal": "rechteckiges weisses Etikett der Galerie Bruno Meissner, schwarz bedruckt",
+        "kommentar": "Galerie Bruno Meissner, Nr. 1485. Das Etikett wurde frühestens 1980 aufgebracht, denn die Galerie zog in diesem Jahr von Zollikon an die Bahnhofstrasse 14 in Zürich.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              583.6,
+              313.7,
+              710.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Galerie Bruno Meissner. Eröffnungsausstellung, in: Neue Zürcher Zeitung, Jg. 201, Nr. 291, 13./14. Dezember 1980, S. 51, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19801213-01.2.63 [17. Juni 2025]."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rückseitenschutz: verbräuntes langrechteckiges Etikett der Staatlichen Kunsthalle Baden-Baden, schwarz bedruckt und handschriftlich mit blauem Schreibmittel beschrieben, Leihgeber: «Manuel Gasser, Zürich, Scheideggstr. 60»",
+        "position_traeger": "o. r. Rückseitenschutz",
+        "merkmal": "verbräuntes langrechteckiges Etikett der Staatlichen Kunsthalle Baden-Baden, schwarz bedruckt und handschriftlich mit blauem Schreibmittel beschrieben, Leihgeber: «Manuel Gasser, Zürich, Scheideggstr. 60»",
+        "kommentar": "Ausstellung Kunsthalle Baden-Baden 1961, Nr. 47",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              139.8,
+              313.7,
+              210.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rückseitenschutz: handschriftlich mit Bleistift «10», umkreist und durchgestrichen",
+        "position_traeger": "o. m. Rückseitenschutz",
+        "merkmal": "handschriftlich mit Bleistift «10», umkreist und durchgestrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              266.1,
+              228.0,
+              359.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Rückseitenschutz: Klebereste, möglicherweise von einem entfernten Etikett",
+        "position_traeger": "r. m. Rückseitenschutz",
+        "merkmal": "Klebereste, möglicherweise von einem entfernten Etikett",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              373.1,
+              312.7,
+              410.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Rückseitenschutz: handschriftlich mit Bleistift «4»",
+        "position_traeger": "r. m. Rückseitenschutz",
+        "merkmal": "handschriftlich mit Bleistift «4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              423.4,
+              186.7,
+              499.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit blauer Wachsfarbe «5817»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit blauer Wachsfarbe «5817»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              512.4,
+              312.7,
+              593.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "m. Rückseitenschutz: handschriftlich mit Bleistift «12», umkreist",
+        "position_traeger": "m. Rückseitenschutz",
+        "merkmal": "handschriftlich mit Bleistift «12», umkreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              606.4,
+              228.0,
+              695.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Rückseitenschutz: handschriftlich mit Bleistift «Ludwigshafen»",
+        "position_traeger": "m. l. Rückseitenschutz",
+        "merkmal": "handschriftlich mit Bleistift «Ludwigshafen»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              708.9,
+              312.6,
+              757.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rückseitenschutz: handschriftlich mit dunklem Kugelschreiber «reserviert für Manuel Gasser | DIE WELTWOCHE | Zürich»",
+        "position_traeger": "o. l. Rückseitenschutz",
+        "merkmal": "handschriftlich mit dunklem Kugelschreiber «reserviert für Manuel Gasser | DIE WELTWOCHE | Zürich»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              139.8,
+              312.7,
+              186.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 15,
+            "text": "Gasser war Mitbegründer der Weltwoche, siehe Kontextinformationen."
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rückseitenschutz: handschriftlich mit Bleistift «1500.-»",
+        "position_traeger": "o. l. Rückseitenschutz",
+        "merkmal": "handschriftlich mit Bleistift «1500.-»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              215.3,
+              240.0,
+              254.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: angehefteter rechteckiger weisser Zettel, schwarz beschrieben mit Angaben zur Auktion Galerie Fischer 1986",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, schwarz beschrieben mit Angaben zur Auktion Galerie Fischer 1986",
+        "kommentar": "Erwerbsnachweis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1098/1098_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              266.8,
+              312.7,
+              397.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 16,
+            "text": "Die Datierung «Juni 1986» stimmt nicht ganz, die Auktion fand am 13. bis 15. Mai 1986 statt."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ammann/Vögele 1994."
+    },
+    {
+      "nr": 2,
+      "text": "Ammann/Vögele 1994."
+    },
+    {
+      "nr": 3,
+      "text": "Ausstellungskatalog Zürich 1947, Ammann/Vögele 1994."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Leihgeberetikett der Ausstellung Baden-Baden 1961 auf der Werkrückseite, Auktionskatalog Bern 1980 und Auktionskatalog Luzern 1986. Es ist denkbar, dass Manuel Gasser das Werk an der Ausstellung im Kunstsalon Wolfsberg 1947/48 erworben hat. Zur Person siehe Kontextinformationen."
+    },
+    {
+      "nr": 5,
+      "text": "Gemäss Auktionskatalog Bern 1980 war der Nachlass des 1979 verstorbenen Manuel Gasser der Haupteinlieferer, sodass anzunehmen ist, dass an dieser Auktion sein Nachlass aufgelöst wurde."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Bern 1980, Ammann/Vögele 1994."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Etikett der Galerie Bruno Meissner auf der Werkrückseite; zur Datierung siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Zürich 1982, Ammann/Vögele 1994."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Luzern 1986 sowie Auskunft der Galerie Fischer vom 24. Mai 2023, siehe Anfragen."
+    },
+    {
+      "nr": 10,
+      "text": "Ammann/Vögele 1994 sowie Auskunft der Galerie Fischer vom 24. Mai 2023, siehe Anfragen."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite und Ankaufsliste im Archiv SKKG."
+    },
+    {
+      "nr": 12,
+      "text": "Die Angaben zu den Ausstellungen stammen aus Ammann/Vögele 1994."
+    },
+    {
+      "nr": 13,
+      "text": "https://arcinsys.hessen.de/arcinsys/showArchivalDescriptionDetails?archivalDescriptionId=9604945 und https://arcinsys.hessen.de/arcinsys/showArchivalDescriptionDetails?archivalDescriptionId=8802697. Die Archivalien wurden nicht konsultiert."
+    },
+    {
+      "nr": 14,
+      "text": "Galerie Bruno Meissner. Eröffnungsausstellung, in: Neue Zürcher Zeitung, Jg. 201, Nr. 291, 13./14. Dezember 1980, S. 51, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19801213-01.2.63 [17. Juni 2025]."
+    },
+    {
+      "nr": 15,
+      "text": "Gasser war Mitbegründer der Weltwoche, siehe Kontextinformationen."
+    },
+    {
+      "nr": 16,
+      "text": "Die Datierung «Juni 1986» stimmt nicht ganz, die Auktion fand am 13. bis 15. Mai 1986 statt."
+    }
+  ],
+  "bilder_anzahl": 23
+}

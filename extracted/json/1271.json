@@ -1,0 +1,428 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1271_230202.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "2. Februar 2023",
+  "stand_iso": "2023-02-02",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1271",
+      "Charles Henry van Muyden (1860–1936)",
+      "La petite innocente",
+      "1896",
+      "Öl auf Leinwand",
+      "60 × 77 cm (Bildmass)",
+      "74,7 × 92,3 × 9,6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1271",
+    "status": "Ungeklärt",
+    "kuenstler": "Charles Henry van Muyden (1860–1936)",
+    "titel": "La petite innocente",
+    "masse": [
+      "60 × 77 cm (Bildmass)",
+      "74,7 × 92,3 × 9,6 cm (Rahmenmass)"
+    ],
+    "datierung": "1896",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1271/1271_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          302.5,
+          439.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Genf 1991."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "7./8. Dezember 1991",
+      "besitzer": "Auktion Pierre-Yves Gabus (Peintures importantes, anciennes et modernes, Lot 2180, La petite innocente), Genf, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Genf 1991."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 7. Dezember 1991",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Pierre-Yves Gabus, Zuschlagspreis: 8500 Franken",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Peintures importantes, anciennes et modernes, Auktionskatalog Pierre-Yves Gabus, Genf, 29. November bis 8. Dezember 1991, Genf 1991, Lot 2180."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Henri van Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-02-02"
+          },
+          {
+            "text": "0 Treffer (261 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 261,
+            "datum": "2023-02-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «La petite innocente» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Henri van Muyden» (inklusive Varianten der Namensschreibweise) [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Muyden» [2. Februar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-02-02"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Henri van Muyden",
+      "information": "Philippe Kaenel, Henri van Muyden, in: Historisches Lexikon der Schweiz (HLS), Version vom 23. Juni 2009, übersetzt aus dem Französischen von Elmar Meier, https://hls-dhs-dss.ch/de/artic-les/027519/2009-06-23 [1. Februar 2023]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1271/1271_002_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          165.3,
+          313.5,
+          367.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Plakette mit Aufschrift «H.[y?] van Muyden»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Plakette mit Aufschrift «H.[y?] van Muyden»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1271/1271_003_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.2,
+              404.4,
+              313.5,
+              447.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit Pinsel in dunkelbrauner Farbe «H. van MUYDEN | 96»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit Pinsel in dunkelbrauner Farbe «H. van MUYDEN | 96»",
+        "kommentar": "Signatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1271/1271_004_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.2,
+              460.4,
+              313.3,
+              508.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich mit dunkelblauem Wachsstift «1082»; darüber rechteckiges weisses Klebeetikett mit abgerundeten Ecken, darauf handschriftlich mit blauem Kugelschreiber «2180»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich mit dunkelblauem Wachsstift «1082»; darüber rechteckiges weisses Klebeetikett mit abgerundeten Ecken, darauf handschriftlich mit blauem Kugelschreiber «2180»",
+        "kommentar": "Die letztere Angabe entspricht der Lotnummer der Auktion Galerie Pierre-Yves Gabus 1991.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1271/1271_005_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              138.3,
+              536.2,
+              275.3,
+              602.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: Reste eines Klebeetiketts",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "Reste eines Klebeetiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1271/1271_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              139.8,
+              211.9,
+              235.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, Galerie Pierre-Yves Gabus, schwarz gedruckt «à p[hotogra]phier noir-blanc», überklebt mit schwarzem Punkt",
+        "position_traeger": "u. r. Zierahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, Galerie Pierre-Yves Gabus, schwarz gedruckt «à p[hotogra]phier noir-blanc», überklebt mit schwarzem Punkt",
+        "kommentar": "Fotografierhinweis der Erwerbsauktion 1991",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1271/1271_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              248.0,
+              244.0,
+              323.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 4,
+            "text": "Passend dazu steht im Auktionskatalog Genf 1991: «Voir reproduction en noir et blanc»."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges rotes Klebeetikett von A. Wacker in Genf, 15 Cours de Rive",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges rotes Klebeetikett von A. Wacker in Genf, 15 Cours de Rive",
+        "kommentar": "Genfer Vergolder und Rahmenbauer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1271/1271_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              362.0,
+              244.2,
+              414.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Auszug aus dem Auktionskatalog Genf 1991, handschriftlich annotiert mit Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Auszug aus dem Auktionskatalog Genf 1991, handschriftlich annotiert mit Zuschlagspreis",
+        "kommentar": "Erwerbsnachweis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1271/1271_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              437.7,
+              314.5,
+              482.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Genf 1991."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Genf 1991."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "Passend dazu steht im Auktionskatalog Genf 1991: «Voir reproduction en noir et blanc»."
+    }
+  ],
+  "bilder_anzahl": 9
+}

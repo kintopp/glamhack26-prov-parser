@@ -1,0 +1,546 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4965_240601.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. Juni 2024",
+  "stand_iso": "2024-06-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4965",
+      "Anonym (vormals Ferdinand Hodler zugeschrieben)",
+      "Walter Fürst auf dem Rütli",
+      "o. J.",
+      "Öl auf Leinwand",
+      "174 × 61 cm (Bildmass)",
+      "186 × 74 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4965",
+    "status": "Ungeklärt",
+    "kuenstler": "Anonym (vormals Ferdinand Hodler zugeschrieben)",
+    "titel": "Walter Fürst auf dem Rütli",
+    "masse": [
+      "174 × 61 cm (Bildmass)",
+      "186 × 74 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4965/4965_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          209.1,
+          608.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Bolleter 2017. Laut Werkkatalog ist eine Autorschaft Hodlers aus stilistischen Gründen auszuschliessen. Jura Brüschweiler zufolge soll das Werk zu einer Dekorationsmalerei für eine Festhütte in Langenthal (1882) gehört haben, siehe ebd. beziehungsweise Ausstellungskatalog Martigny 1991."
+      },
+      {
+        "nr": 2,
+        "text": "Originaltitel nach Bolleter 2017."
+      },
+      {
+        "nr": 3,
+        "text": "Möglicherweise 1882, siehe Fn. 1."
+      },
+      {
+        "nr": 4,
+        "text": "Die Hodler-Signatur dürfte eine Nachahmung sein, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "möglicherweise Privatbesitz, Langenthal",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Gemäss Schreiben von Paul Müller, Schweizerisches Institut für Kunstwissenschaft, an die SKKG vom 14. März 2016 (siehe Objektdatenbank SKKG) gab Jura Brüschweiler an, das Gemälde sei «in einem Estrich in Langenthal gefunden worden», siehe auch Ausstellungskatalog Martigny 1991."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vor 1983",
+      "besitzer": "vermutlich Flohmarkt, Genf",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Bolleter 2017, Fn. 6: «Erworben auf dem Genfer Flohmarkt, gemäss Mitteilung des ehemaligen Eigentümers vom Februar 2012, der das Bild 1983 SIK-ISEA vorgelegt hatte.»"
+        }
+      ]
+    },
+    {
+      "zeitraum": "1983",
+      "besitzer": "Privatbesitz, Lausanne, vermutlich erworben auf Genfer Flohmarkt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. Juli 1984",
+      "besitzer": "Galerie Arts anciens, Pierre-Yves Gabus, Bevaix",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 23. Juli 1984",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Galerie Arts anciens, Ankaufspreis: 55 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Rechnung der Galerie Arts anciens vom 23. Juli 1984 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Regula Bolleter, Walter Fürst auf dem Rütli, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 3. Die Figurenbilder. Teilband 2, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2017, Nr. R112, https://www.ferdinand-hodler.ch/werke.aspx?id=6005713 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/4965/4965_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              491.0,
+              376.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4965/4965_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              382.8,
+              361.5,
+              431.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Jura Brüschweiler, Hodler, Ausstellungskatalog Fondation Pierre Gianadda, Martigny, Martigny 1991, S. 72–73."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II» Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [24. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2024-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Fürst›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Hodler», Filter 2: Volltext/Metadaten: «Rütli», Filter 3: Titel einschränken «automatisch» [24. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2024-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) ohne Filter [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2024-01-23"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise), Keywords: «Rütli» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "10. Juni 2024",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich",
+      "betreff": "Wer war der frühere Eigentümer?",
+      "antwort": "27. Juni 2024: Es kann keine Auskunft gegeben werden."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "6. Juni 2024",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4965/4965_004_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            532.9,
+            403.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Paul Müller, Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich, an die SKKG vom 14. März 2016, wonach das Werk nicht echt sei, mit Angaben zur Provenienz «Genfer Flohmarkt»"
+        }
+      ]
+    },
+    {
+      "datum": "11. Juni 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (19 Ergebnisse) für Suche nach «Hodler» und «Rütli»"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A 2152.2.1369.2.2",
+      "bilder": [
+        {
+          "datei": "images/4965/4965_005_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            567.2,
+            533.0,
+            747.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/4965/4965_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            133.8,
+            532.0,
+            274.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung der Galerie Arts anciens, Bevaix, an Bruno Stefanini, Winterthur, zum Freihandkauf vom 23. Juli 1984"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4965/4965_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          178.4,
+          184.2,
+          290.8,
+          467.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Ältere (l.) und neuere (r.) Aufnahme"
+      },
+      {
+        "datei": "images/4965/4965_008_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          184.3,
+          178.4,
+          467.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzem Schreibmittel vermutlich «188[2?] F. Hodler», übermalt oder weggekratzt",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel vermutlich «188[2?] F. Hodler», übermalt oder weggekratzt",
+        "kommentar": "Datierung und nachgeahmte Signatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4965/4965_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              505.1,
+              290.5,
+              555.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit Bleistift «S [8?]» und vermutlich «538 S F»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «S [8?]» und vermutlich «538 S F»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4965/4965_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.8,
+              580.8,
+              209.7,
+              642.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4965/4965_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              649.5,
+              261.5,
+              695.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Zierrahmen: handschriftlich mit Bleistift «310 | [1 0?] | 51,4 [?]»",
+        "position_traeger": "r. u. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «310 | [1 0?] | 51,4 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4965/4965_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              212.7,
+              238.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiger weisser Zettel, handschriftlich mit schwarzem Schreibmittel «Gabus Aug. 84 | […] Hodler F. | […] | Rahmen 55’»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiger weisser Zettel, handschriftlich mit schwarzem Schreibmittel «Gabus Aug. 84 | […] Hodler F. | […] | Rahmen 55’»",
+        "kommentar": "Ankaufsbeleg mit Zuschlagspreis, annotiert von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4965/4965_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              250.5,
+              292.0,
+              353.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Dieses Provenienzmerkmal befindet sich auf der älteren Rückseitenaufnahme (siehe oben) und wurde offenbar zwischenzeitlich entfernt."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Bolleter 2017. Laut Werkkatalog ist eine Autorschaft Hodlers aus stilistischen Gründen auszuschliessen. Jura Brüschweiler zufolge soll das Werk zu einer Dekorationsmalerei für eine Festhütte in Langenthal (1882) gehört haben, siehe ebd. beziehungsweise Ausstellungskatalog Martigny 1991."
+    },
+    {
+      "nr": 2,
+      "text": "Originaltitel nach Bolleter 2017."
+    },
+    {
+      "nr": 3,
+      "text": "Möglicherweise 1882, siehe Fn. 1."
+    },
+    {
+      "nr": 4,
+      "text": "Die Hodler-Signatur dürfte eine Nachahmung sein, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 5,
+      "text": "Gemäss Schreiben von Paul Müller, Schweizerisches Institut für Kunstwissenschaft, an die SKKG vom 14. März 2016 (siehe Objektdatenbank SKKG) gab Jura Brüschweiler an, das Gemälde sei «in einem Estrich in Langenthal gefunden worden», siehe auch Ausstellungskatalog Martigny 1991."
+    },
+    {
+      "nr": 6,
+      "text": "Bolleter 2017, Fn. 6: «Erworben auf dem Genfer Flohmarkt, gemäss Mitteilung des ehemaligen Eigentümers vom Februar 2012, der das Bild 1983 SIK-ISEA vorgelegt hatte.»"
+    },
+    {
+      "nr": 7,
+      "text": "Bolleter 2017."
+    },
+    {
+      "nr": 8,
+      "text": "Ebd."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Rechnung der Galerie Arts anciens vom 23. Juli 1984 im Archiv SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Dieses Provenienzmerkmal befindet sich auf der älteren Rückseitenaufnahme (siehe oben) und wurde offenbar zwischenzeitlich entfernt."
+    }
+  ],
+  "bilder_anzahl": 13
+}

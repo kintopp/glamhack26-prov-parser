@@ -1,0 +1,410 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4166_220905.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "5. September 2022",
+  "stand_iso": "2022-09-05",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4166",
+      "Alexandre Calame (1810–1864)",
+      "Die Tempel in Paestum",
+      "o. J., um 1844–1850",
+      "Öl auf Leinwand",
+      "112 × 171 cm (Bildmass)",
+      "129 × 187 × 8 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4166",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Die Tempel in Paestum",
+    "masse": [
+      "112 × 171 cm (Bildmass)",
+      "129 × 187 × 8 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J., um 1844–1850",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4166/4166_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          355.2,
+          428.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1986."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Auktionskatalog Zürich 1986 ist das Werk unten links signiert. Auf den Digitalisaten ist dies nicht klar erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "mindestens 1935 bis o. D.",
+      "besitzer": "Lady Hamilton, 23 Cheyne Walk, Chelsea, London, übermittelt von School Prints Ltd., 13 Motcomb Street, Belgrave Square, London",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Das Unternehmen wurde 1935 von Derek Rawnsley gegründet, siehe https://www.goldmarkart.com/blogs/art/school-prints [5. September 2022]. Die Eigentumsverhältnisse sind unklar."
+        },
+        {
+          "nr": 4,
+          "text": "Siehe Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. Juni 1986",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica. 18. bis 20. Jahrhundert, Lot 40, Die Tempel in Paestum), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1986."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. Juni 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 48 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet].\n\nDas Vergleichsbild Ruines des temples de Paestum, 1847, Werkkatalognummer 318, hängt in Leipzig (deutlich grössere Masse). Das Vergleichsbild Temple de Paestum, 1850, Werkkatalognummer 418, ist verschollen (deutlich kleinere Masse)."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst und Helvetica. 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 19. Juni 1986, Zürich 1986, Lot 40.",
+        "bilder": [
+          {
+            "datei": "images/4166/4166_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              192.7,
+              342.2,
+              423.6,
+              563.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht verzeichnet].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» (9 Ergebnisse) [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Künstlersuche «Calame» (inklusive aller Namensschreibweisen) [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          },
+          {
+            "text": "0 Treffer für Künstlersuche «Calame» (inklusive aller Namensschreibweisen), Filter 1: «Tempel» [1. September 2022]",
+            "treffer": 0,
+            "datum": "2022-09-01"
+          },
+          {
+            "text": "0 Treffer für Künstlersuche «Calame» (inklusive aller Namensschreibweisen), Filter 1: «Ruine» [1. September 2022]",
+            "treffer": 0,
+            "datum": "2022-09-01"
+          },
+          {
+            "text": "0 Treffer für Künstlersuche «Calame» (inklusive aller Namensschreibweisen), Filter 1: «Paestum» [1. September 2022]",
+            "treffer": 0,
+            "datum": "2022-09-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Sotheby’s Zürich",
+      "betreff": "Frage nach Einlieferer/Einlieferin",
+      "antwort": "–"
+    }
+  ],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4166/4166_003_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          442.0,
+          334.9,
+          630.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit gelber Kreide «481403/II20», «20» umkreist",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit gelber Kreide «481403/II20», «20» umkreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4166/4166_004_provenienzmerkmale.jpeg",
+            "seite": 4,
+            "bbox": [
+              136.1,
+              692.4,
+              348.0,
+              739.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. waagrechte Mittelstrebe Keilrahmen: Etikett von School Prints Ltd. (13 Motcomb Street, Belgrave Square, London, SW1), handschriftlich beschriftet «To Lady Hamilton | 23, Cheyne Walk, | Chelsea SW3»",
+        "position_traeger": "m. l. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "Etikett von School Prints Ltd. (13 Motcomb Street, Belgrave Square, London, SW1), handschriftlich beschriftet «To Lady Hamilton | 23, Cheyne Walk, | Chelsea SW3»",
+        "kommentar": "Das Etikett wurde nach 1935 angebracht.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4166/4166_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              139.4,
+              349.0,
+              253.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Zur Signatur siehe Fn. 2."
+          },
+          {
+            "nr": 8,
+            "text": "Das Unternehmen School Prints Ltd. wurde 1935 gegründet, siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Verkaufsetikett Auktion Sotheby’s, Juni 1986, Lot 40",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Verkaufsetikett Auktion Sotheby’s, Juni 1986, Lot 40",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4166/4166_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              278.6,
+              353.3,
+              431.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: eingekratzt «Retour von [Hurr?]»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "eingekratzt «Retour von [Hurr?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4166/4166_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              444.0,
+              353.3,
+              506.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1986."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Auktionskatalog Zürich 1986 ist das Werk unten links signiert. Auf den Digitalisaten ist dies nicht klar erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Das Unternehmen wurde 1935 von Derek Rawnsley gegründet, siehe https://www.goldmarkart.com/blogs/art/school-prints [5. September 2022]. Die Eigentumsverhältnisse sind unklar."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1986."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 7,
+      "text": "Zur Signatur siehe Fn. 2."
+    },
+    {
+      "nr": 8,
+      "text": "Das Unternehmen School Prints Ltd. wurde 1935 gegründet, siehe Fn. 3."
+    }
+  ],
+  "bilder_anzahl": 7
+}

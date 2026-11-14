@@ -1,0 +1,358 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_9841_250402.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "2. April 2025",
+  "stand_iso": "2025-04-02",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 9841",
+      "Antoine de Saint-Exupéry (1900–1944)",
+      "Manuskript mit kleinen Zeichnungen (Kartoffel, Schiff, Elefant, Schlange)",
+      "um 1943",
+      "Tinte auf Papier",
+      "28 × 21,5 cm (Blattmass)",
+      "48 × 38 × 0,5 cm (Passepartoutmass)",
+      "50 × 40 × 3,8 cm (Rahmenmass)",
+      "unsigniert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "9841",
+    "status": "Klar",
+    "kuenstler": "Antoine de Saint-Exupéry (1900–1944)",
+    "titel": "Manuskript mit kleinen Zeichnungen (Kartoffel, Schiff, Elefant, Schlange)",
+    "masse": [
+      "28 × 21,5 cm (Blattmass)",
+      "48 × 38 × 0,5 cm (Passepartoutmass)",
+      "50 × 40 × 3,8 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1943",
+    "technik": "Tinte auf Papier",
+    "bezeichnung": "unsigniert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/9841/9841_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.8,
+          538.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG in Anlehnung an die Beschreibung im Auktionskatalog Bevaix 1986."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "um 1943 bis 1944",
+      "besitzer": "Antoine de Saint-Exupéry (1900–1944), New York",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Bevaix 1986 mit der Provenienzangabe «Ensemble exceptionnel de documents originaux provenant d’Antoine de St-Exupéry» sowie telefonische Auskunft von Pierre-Yves Gabus vom 27. März 2025."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1944–1979",
+      "besitzer": "Consuelo de Saint-Exupéry, geb. Suncin (1901–1979), Grasse, erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Fn. 2. Die «Succession Consuelo de Saint-Exupéry» umfasste die persönlichen Objekte aus dem Nachlass des Künstlers. Die Verwertungsrechte am veröffentlichten Werk liegen bei dessen Geschwistern und ihren Nachkommen, siehe https://www.antoinedesaintexupery.com/la-succession [1. April 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1979 bis 22. November 1986",
+      "besitzer": "Nachlass Consuelo de Saint-Exupéry, verwaltet von José Martínez Fructuoso (1936–2015)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Das Ehepaar war kinderlos. Der Nachlass von Consuelo de Saint-Exupéry wurde von José Martínez Fructuoso verwaltet, siehe https://www.versoix.ch/media/document/1/communique_de_presse_saint_exupery.pdf [1. April 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "22./23. November 1986",
+      "besitzer": "Auktion Galerie Pierre-Yves Gabus (Livres anciens et modernes, Lot 22A, Texte autographe accompagné de quatre croquis), Bevaix, eingeliefert aus Nachlass Consuelo de Saint-Exupéry",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bevaix 1986. Gemäss telefonischer Auskunft von Pierre-Yves Gabus vom 27. März 2025 wurden die Objekte vom Nachlassverwalter eingeliefert. Dabei handelt es sich wohl um José Martínez Fructuoso, siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22. November 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Pierre-Yves Gabus, Zuschlagspreis: 5600 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bevaix 1986 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Livres anciens et modernes, Auktionskatalog Galerie Pierre-Yves Gabus, Bevaix, 22./23. November 1986, Bevaix 1986, Lot 22A.",
+        "bilder": [
+          {
+            "datei": "images/9841/9841_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.2,
+              445.2,
+              434.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          },
+          {
+            "datei": "images/9841/9841_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              472.0,
+              445.2,
+              527.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildtitel": "Der Auktionskatalog enthält eine allgemeine Provenienzangabe zum angebotenen Saint-Exupéry-Bestand (o. S.)"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": []
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": []
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": []
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": []
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": []
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": []
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": []
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": []
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": []
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": []
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": []
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": []
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": []
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "27. März 2025",
+      "institution": "Pierre-Yves Gabus, Arts Anciens, Montalchez",
+      "betreff": "Herkunft der Saint-Exupéry-Werke der Auktion im November 1986",
+      "antwort": "Telefonische Auskunft vom 27. März 2025: Die Objekte stammen aus dem Nachlass der Witwe Consuelo de Saint-Exupéry und wurden durch den Nachlassverwalter vermittelt."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "1. April 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/9841/9841_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            532.5,
+            222.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bevaix 1986, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "1. April 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1651.3.2",
+      "bilder": [
+        {
+          "datei": "images/9841/9841_005_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            284.7,
+            533.0,
+            332.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: lotspezifische Kopie aus Auktionskatalog Bevaix 1986, annotiert mit Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. r. Papier: handschriftlich mit brauner/ver-bräunter Tinte «I», unterstrichen",
+        "position_traeger": "o. r. Papier",
+        "merkmal": "handschriftlich mit brauner/ver-bräunter Tinte «I», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/9841/9841_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              293.9,
+              198.0,
+              356.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "o. r. Papier: handschriftlich mit schwarzem Schreibmittel «12»",
+        "position_traeger": "o. r. Papier",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «12»",
+        "kommentar": "vermutlich Nachlassnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/9841/9841_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              368.2,
+              197.7,
+              408.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Rückseite"
+    ],
+    "uebersicht_text": "–",
+    "fussnoten": [
+      {
+        "nr": 7,
+        "text": "In der Objektdatenbank SKKG ist kein Digitalisat der Werkrückseite vorhanden. Ob sich darauf weitere Provenienzmerkmale befinden, ist unklar."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG in Anlehnung an die Beschreibung im Auktionskatalog Bevaix 1986."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Bevaix 1986 mit der Provenienzangabe «Ensemble exceptionnel de documents originaux provenant d’Antoine de St-Exupéry» sowie telefonische Auskunft von Pierre-Yves Gabus vom 27. März 2025."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Fn. 2. Die «Succession Consuelo de Saint-Exupéry» umfasste die persönlichen Objekte aus dem Nachlass des Künstlers. Die Verwertungsrechte am veröffentlichten Werk liegen bei dessen Geschwistern und ihren Nachkommen, siehe https://www.antoinedesaintexupery.com/la-succession [1. April 2025]."
+    },
+    {
+      "nr": 4,
+      "text": "Das Ehepaar war kinderlos. Der Nachlass von Consuelo de Saint-Exupéry wurde von José Martínez Fructuoso verwaltet, siehe https://www.versoix.ch/media/document/1/communique_de_presse_saint_exupery.pdf [1. April 2025]."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bevaix 1986. Gemäss telefonischer Auskunft von Pierre-Yves Gabus vom 27. März 2025 wurden die Objekte vom Nachlassverwalter eingeliefert. Dabei handelt es sich wohl um José Martínez Fructuoso, siehe Fn. 4."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bevaix 1986 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "In der Objektdatenbank SKKG ist kein Digitalisat der Werkrückseite vorhanden. Ob sich darauf weitere Provenienzmerkmale befinden, ist unklar."
+    }
+  ],
+  "bilder_anzahl": 7
+}

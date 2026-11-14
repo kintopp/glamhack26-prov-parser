@@ -1,0 +1,445 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2777_221101.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. November 2022",
+  "stand_iso": "2022-11-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2777",
+      "François Diday (1802–1877)",
+      "Vue sur le Jura près de Genève",
+      "um 1845",
+      "Öl auf Papier auf Karton",
+      "21 × 33 cm (Bildmass)",
+      "27 × 38 × 3 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2777",
+    "status": "Ungeklärt",
+    "kuenstler": "François Diday (1802–1877)",
+    "titel": "Vue sur le Jura près de Genève",
+    "masse": [
+      "21 × 33 cm (Bildmass)",
+      "27 × 38 × 3 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1845",
+    "technik": "Öl auf Papier auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2777/2777_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          317.8,
+          425.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1999, wo das Werk als Vue sur le Jura pres Genève (Fort de l’Écluse) verzeichnet ist. Auf dem Etikett der Sammlung Schreiber-Favre auf der Werkrückseite wird es als Un ciel le soir (Fort de l’Ecluse) bezeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Alfred Schreiber-Favre (1886–1979), Genf",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Provenienzmerkmale sowie Fn. 7."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vor 1931",
+      "besitzer": "Emile Gremaud, Einrahmungen und Vergoldungen, Genf",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. Dezember 1999",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 2, Vue sur le Jura pres Genève [Fort de l’Écluse]), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1999."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. Dezember 1999",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 2400 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1999 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, Auktion ZH0252, 8. Dezember 1999, Zürich 1999, Lot 2."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Alfred Schreiber-Favre, François Diday 1802–1877. Fondateur de l’école suisse de paysage. Contribution à l’histoire de l’art du XIXme siècle, Genf 1942, Nr. 25 (mit Abb.).\n\nHöchstwahrscheinlich befand sich das Werk 1942 in Schreiber-Favres Besitz oder Eigentum (siehe Stempel verso, Lugt-Nummer L178b)."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [12. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [1. November 2022]",
+            "treffer": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Diday» [13. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (28 Ergebnisse) für Suche Filter 1: Volltext/Meta-daten «‹Diday Francois›» [28. Juli 2022]:",
+            "treffer": 1,
+            "ergebnisse": 28,
+            "datum": "2022-07-28"
+          },
+          {
+            "text": "Collection Paul Chavan. Deuxième Partie, Auktionskatalog Galérie Moos, Genf, 3. Juni 1937, Genf 1937, Lot 41 (François Diday, Paysage, Carton, 24,5 × 32 cm, signiert), https://doi.org/10.11588/diglit.12630#0008 [3. August 2022].",
+            "datum": "2022-08-03"
+          },
+          {
+            "text": "Sowohl Masse als auch Technik würden passen, zudem sind beide Werke signiert. Möglich, dass es sich bei diesem Eintrag um die Vue sur le Jura près de Genève handelt; dies kann jedoch nicht eindeutig geklärt werden."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für Suche «Francois Diday» (inklusive Varianten der Namensschreibweise), Filter 1: Object Type «painting» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Diday» [14. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Archives des Musée d’art et d’histoire, Genf",
+      "betreff": "Anfrage zu Archivunterlagen der Galerie Moos, Einliefererliste der Auktion vom 3. Juni 1937, siehe Datenbank-Recherche German Sales.",
+      "antwort": "Die Einliefererliste liegt nicht vor, auch kein annotiertes Exemplar des Auktionskatalogs."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2777/2777_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.4,
+            416.6,
+            533.5,
+            635.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/2777/2777_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.4,
+            133.7,
+            530.4,
+            362.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1999, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2777/2777_004_provenienzmerkmale.png",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.4,
+          317.0,
+          342.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: mit braunem Schreibmittel «F. Diday»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "mit braunem Schreibmittel «F. Diday»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2777/2777_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              379.4,
+              310.6,
+              464.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: rechteckiges beiges Etikett mit blau gestrichelter Bordüre",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett mit blau gestrichelter Bordüre",
+        "kommentar": "Genfer Künstlerbedarf oder Rahmenatelier, vermutlich identisch mit «Emile Gremaud, doreur-encadreur, de 1899 à 1931», entsprechend auf vor 1931 zu datieren.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2777/2777_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              476.6,
+              311.5,
+              562.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "«[D]ans les annuaires de 1899 à 1905, il est inscrit ‹rue du marché 8› – dans les annuaires de 1906 à 1924, il est inscrit ‹rue de la Croix d’or 16› – dans les annuaires de 1925 à 1929, il est inscrit ‹Rue du Rhône 61› – dans l’annuaire de 1930, on le trouve ‹rue du Port Franc 7› – il apparaît une dernière fois à cette adresse en 1931, suivi de la mention Vve (il est donc probablement décédé en 1930 ou 1931).» Gefunden über Suche nach «Téléphone: Stand 52 75», Bibliothèque municipale de la Ville de Genève, http://institutions.ville-geneve.ch/fr/bm/interroge/archives-questions-re-ponses/detail/question/au-dos-dun-cadre-figure-la-mention-emile-gremaud-61-rue-du-rhone-entresol-telephone-sta/[4. August 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «2» und violett gestempelt «8. DEZ 1999»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «2» und violett gestempelt «8. DEZ 1999»",
+        "kommentar": "Lotnummer Auktion Sotheby’s 1999",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2777/2777_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              593.3,
+              214.8,
+              651.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Karton: langrechteckiges beiges Etikett, handschriftlich mit schwarzem Schreibmittel «Un ciel le soir (Fort de l’Ecluse)», oben rechts ovaler roter Stempel «ASF» (siehe unten)",
+        "position_traeger": "u. m. Karton",
+        "merkmal": "langrechteckiges beiges Etikett, handschriftlich mit schwarzem Schreibmittel «Un ciel le soir (Fort de l’Ecluse)», oben rechts ovaler roter Stempel «ASF» (siehe unten)",
+        "kommentar": "offenbar angebracht von Alfred Schreiber-Favre",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2777/2777_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              139.4,
+              312.7,
+              219.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: ovaler roter Stempel «ASF» (Lugt-Nummer L.178b), zugehörig zur Sammlung Alfred Schreiber-Favre, Genf",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "ovaler roter Stempel «ASF» (Lugt-Nummer L.178b), zugehörig zur Sammlung Alfred Schreiber-Favre, Genf",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2777/2777_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              253.2,
+              213.1,
+              322.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "«A. SCHREIBER-FAVRE (né en 1886), avocat et écrivain d’art, Genève. Dessins et estampes. Alfred Schreiber-Favre, né à Zurich, s’est établi à Genève depuis 1909. […] La marque est apposée sur des tableaux, dessins et estampes du XIXe siècle des écoles genevoise, française et italienne.» Frits Lugt, Les Marques de Collections de Dessins & d’Estampes, Lugt-Nummer L.178b, La Haye 1956, zit. nach http://www.marquesdecollections.fr/detail.cfm/marque/5531 [15. Juli 2022]. Wann dieser Stempel angebracht wurde, ist unklar. Vermutlich handelt es sich um den Sammlerstempel von Schreiber-Favre. Ein Verbleib des Gemäldes in dessen Genfer Sammlung ist wahrscheinlich."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: mit schwarzem Schreibmittel handschriftlich «No 99»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "mit schwarzem Schreibmittel handschriftlich «No 99»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2777/2777_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              334.8,
+              311.5,
+              406.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1999, wo das Werk als Vue sur le Jura pres Genève (Fort de l’Écluse) verzeichnet ist. Auf dem Etikett der Sammlung Schreiber-Favre auf der Werkrückseite wird es als Un ciel le soir (Fort de l’Ecluse) bezeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Provenienzmerkmale sowie Fn. 7."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1999."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1999 im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "«[D]ans les annuaires de 1899 à 1905, il est inscrit ‹rue du marché 8› – dans les annuaires de 1906 à 1924, il est inscrit ‹rue de la Croix d’or 16› – dans les annuaires de 1925 à 1929, il est inscrit ‹Rue du Rhône 61› – dans l’annuaire de 1930, on le trouve ‹rue du Port Franc 7› – il apparaît une dernière fois à cette adresse en 1931, suivi de la mention Vve (il est donc probablement décédé en 1930 ou 1931).» Gefunden über Suche nach «Téléphone: Stand 52 75», Bibliothèque municipale de la Ville de Genève, http://institutions.ville-geneve.ch/fr/bm/interroge/archives-questions-re-ponses/detail/question/au-dos-dun-cadre-figure-la-mention-emile-gremaud-61-rue-du-rhone-entresol-telephone-sta/[4. August 2022]."
+    },
+    {
+      "nr": 7,
+      "text": "«A. SCHREIBER-FAVRE (né en 1886), avocat et écrivain d’art, Genève. Dessins et estampes. Alfred Schreiber-Favre, né à Zurich, s’est établi à Genève depuis 1909. […] La marque est apposée sur des tableaux, dessins et estampes du XIXe siècle des écoles genevoise, française et italienne.» Frits Lugt, Les Marques de Collections de Dessins & d’Estampes, Lugt-Nummer L.178b, La Haye 1956, zit. nach http://www.marquesdecollections.fr/detail.cfm/marque/5531 [15. Juli 2022]. Wann dieser Stempel angebracht wurde, ist unklar. Vermutlich handelt es sich um den Sammlerstempel von Schreiber-Favre. Ein Verbleib des Gemäldes in dessen Genfer Sammlung ist wahrscheinlich."
+    }
+  ],
+  "bilder_anzahl": 10
+}

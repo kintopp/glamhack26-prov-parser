@@ -1,0 +1,568 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5228_231015.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "15. Oktober 2023",
+  "stand_iso": "2023-10-15",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5228",
+      "Giovanni Giacometti (1868–1933)",
+      "Wintersonne bei Maloja",
+      "1926",
+      "Öl auf Leinwand",
+      "92 × 121 cm (Bildmass)",
+      "100 × 130,1 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5228",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Giacometti (1868–1933)",
+    "titel": "Wintersonne bei Maloja",
+    "masse": [
+      "92 × 121 cm (Bildmass)",
+      "100 × 130,1 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1926",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5228/5228_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          315.8,
+          438.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller/Radlach 1997."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1930",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ausstellungskatalog Basel 1930."
+        }
+      ]
+    },
+    {
+      "zeitraum": "3. März 1945",
+      "besitzer": "vermutlich Auktion Galerie Bollag (Dernière grande vente aux enchères de tableaux anciens et modernes, Lot 100, La Montagne), Lausanne, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Lausanne 1945."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Bern",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Bern 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17.–30. November 1994",
+      "besitzer": "Auktion Galerie Jürg Stuker (Stuker-Auktionen Herbst 1994, Lot 5125, Wintersonne bei Maloja), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "wahrscheinlich seit 25. November 1994",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, wahrscheinlich auf Auktion Galerie Jürg Stuker, Zuschlagspreis: 60 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Bern 1994 im Archiv SKKG. Im Werkkatalog (Müller/Radlach 1997) ist als aktueller Standort «Privatbesitz» ohne nähere Angabe vermerkt, obwohl bei anderen von Stefanini erworbenen Giacometti-Werken die SKKG als Eigentümerin angeführt wird. Vermutlich entspricht der Eintrag dem Wissensstand vor 1994 und meint die Vorprovenienz «Privatbesitz, Bern»."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller und Viola Radlach, Giovanni Giacometti. 1868–1933. Werkkatalog der Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 16), hrsg. vom Schweizerischen Institut für Kunstgeschichte, Bd. 2.2, Zürich 1997, Nr. 1926.19.",
+        "bilder": [
+          {
+            "datei": "images/5228/5228_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              297.1,
+              313.0,
+              409.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Dernière grande vente aux enchères de tableaux anciens et modernes, Auktionskatalog Galerie Bollag, Lausanne, 3. März 1945, Lausanne 1945, Lot 100, https://doi.org/10.11588/diglit.13252#0022 [14. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/5228/5228_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              478.7,
+              439.5,
+              514.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Stuker-Auktionen Herbst 1994. Gemälde, Helvetica, Bücher, Dekorative Graphik, Auktionskatalog Jürg Stuker, Bern, 17.–30. November 1994, Bern 1994, Lot 5125."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Vermutlich handelt es sich dabei um das vorliegende Werk. Die im Auktionskatalog Lausanne 1945 angegebenen Masse (121 × 100 cm) weichen zwar leicht ab (Bildmass: 121 × 92 cm), die Beschreibung ist jedoch – obschon Datierung und Abbildung fehlen – zutreffend, auch hinsichtlich der Signatur auf der Werkrückseite."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Giovanni Giacometti. Gedächtnisausstellung Paul Altherr, Ausstellungskatalog Kunsthalle Basel, Basel 1930, Nr. 27.",
+        "bilder": [
+          {
+            "datei": "images/5228/5228_004_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              609.1,
+              360.2,
+              639.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunsthalle Basel, Giovanni Giacometti, Gedächtnisausstellung Paul Altherr, 8. Februar bis 9. März 1930, Nr. 27 (Wintersonne)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [8. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche mit Filter: Artist «Giacometti» [13. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Giacometti» [12. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2023-10-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (155 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Giacometti», Filter 2: Titel einschränken «automatisch» [12. Oktober 2023]: Auktionskatalog Lausanne 1945 (siehe oben).",
+            "treffer": 1,
+            "ergebnisse": 155,
+            "datum": "2023-10-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche «Giovanni Giacometti» (inklusive Varianten der Namensschreibweise) [12. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2023-10-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "14. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (9 Ergebnisse) für Volltextsuche «Giovanni Giacometti» im Archivverzeichnis und 0 Treffer (22 Ergebnisse) in den Primärdaten"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5228/5228_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            266.5,
+            533.0,
+            322.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1994, annotiert"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5228/5228_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          306.0,
+          352.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit dunkler Farbe «G. | G.»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit dunkler Farbe «G. | G.»",
+        "kommentar": "Signatur des Künstlers (Monogramm)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              390.2,
+              172.1,
+              436.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit rotem Schreibmittel «199»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «199»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              453.3,
+              221.3,
+              514.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarze Schablonennummer «120 [?]»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarze Schablonennummer «120 [?]»",
+        "kommentar": "wohl Rahmenmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.9,
+              527.3,
+              193.1,
+              569.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: schwarz gestempelt «Spezialgeschäft für Maler | Rupf & Schneider | BERN u. ZÜRICH | Waisenhausplatz 26 · [Neu-Seidenhof?]»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «Spezialgeschäft für Maler | Rupf & Schneider | BERN u. ZÜRICH | Waisenhausplatz 26 · [Neu-Seidenhof?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              590.4,
+              221.3,
+              641.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier-/Keilrahmen: zweimal langrechteckiges weisses Etikett, schwarz gedruckt «33260»",
+        "position_traeger": "o. l. Zier-/Keilrahmen",
+        "merkmal": "zweimal langrechteckiges weisses Etikett, schwarz gedruckt «33260»",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              653.9,
+              221.3,
+              717.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit dunklem Schreibmittel «179/4»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «179/4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              221.3,
+              191.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «E. Burkhalter & Co. | Kunsthandlung | St. Peterstr. 1, Zürich»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «E. Burkhalter & Co. | Kunsthandlung | St. Peterstr. 1, Zürich»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              204.0,
+              221.3,
+              243.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit dunklem Schreibmittel «9/118 [?]»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «9/118 [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              257.0,
+              221.3,
+              325.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: handschriftlich mit blauem Schreibmittel «Giovni Giacometti Maloja 1926»",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «Giovni Giacometti Maloja 1926»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5228/5228_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              338.5,
+              304.1,
+              380.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller/Radlach 1997."
+    },
+    {
+      "nr": 2,
+      "text": "Ausstellungskatalog Basel 1930."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Lausanne 1945."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Bern 1994."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Bern 1994 im Archiv SKKG. Im Werkkatalog (Müller/Radlach 1997) ist als aktueller Standort «Privatbesitz» ohne nähere Angabe vermerkt, obwohl bei anderen von Stefanini erworbenen Giacometti-Werken die SKKG als Eigentümerin angeführt wird. Vermutlich entspricht der Eintrag dem Wissensstand vor 1994 und meint die Vorprovenienz «Privatbesitz, Bern»."
+    },
+    {
+      "nr": 7,
+      "text": "Vermutlich handelt es sich dabei um das vorliegende Werk. Die im Auktionskatalog Lausanne 1945 angegebenen Masse (121 × 100 cm) weichen zwar leicht ab (Bildmass: 121 × 92 cm), die Beschreibung ist jedoch – obschon Datierung und Abbildung fehlen – zutreffend, auch hinsichtlich der Signatur auf der Werkrückseite."
+    }
+  ],
+  "bilder_anzahl": 15
+}

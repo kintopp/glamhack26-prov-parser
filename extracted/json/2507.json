@@ -1,0 +1,530 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2507_221007.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. Oktober 2022",
+  "stand_iso": "2022-10-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2507",
+      "Alexandre Calame (1810–1864)",
+      "Gebirgslandschaft mit Flüsschen, Vollmondnacht",
+      "o. J.",
+      "Öl auf Malkarton",
+      "36,8 × 27 cm (Bildmass)",
+      "69,2 × 56,6 cm × 11 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2507",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Gebirgslandschaft mit Flüsschen, Vollmondnacht",
+    "masse": [
+      "36,8 × 27 cm (Bildmass)",
+      "69,2 × 56,6 cm × 11 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2507/2507_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          264.7,
+          503.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Bern 1985, wo das Werk als Gebirgslandschaft mit Flüsschen mit den beschreibenden Stichworten «Vollmondnacht, Gegenlichtstimmung» verzeichnet ist. In den Auktionskatalogen Bern 1927 und Zürich 1928 ist es als Gebirgsbach aufgeführt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 1864",
+      "besitzer": "Alexandre Calame (1810–1864)"
+    },
+    {
+      "zeitraum": "13.–22. März 1865",
+      "besitzer": "Auktion Hôtel Drouot (Vente Calame), Paris, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Provenienzmerkmale, Wachssiegel der Nachlassauktion «Vente Calame»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16./17. Juni 1927",
+      "besitzer": "Auktion E. Schlaefli (Kunst- und Antiquitäten-Auktion, Lot 21, Gebirgsbach), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Bern 1927. «[Aus] Sammlung F. B. und anderem Privatbesitz: Gemälde, Aquarelle, Handzeichnungen alter und moderner Meister, verschiedener Schulen» (S. 1)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30./31. März 1928",
+      "besitzer": "Auktion Dr. Störi (Auktion […] Gemälde. Sammlung Faure und Pearson, Paris sowie div. Besitz […], Lot 120, Gebirgsbach), Kunstsalon Orell-Füssli-Hof, Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1928. Lot 120 ist Teil der Gruppe B, Abteilung III (S. 18 ff.), die mit «Gemälde, Aquarelle und Zeichnungen» ohne Herkunftsangabe übertitelt ist (siehe auch S. 1)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23.–26. Oktober 1985",
+      "besitzer": "Auktion Dobiaschofsky (Gemälde, Aquarelle, Zeichnungen, Druckgraphik und Helvetica des 16. bis 20. Jahrhunderts […], Lot 122, Gebirgslandschaft mit Flüsschen), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1985."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. Oktober 1985",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Dobiaschofsky, Zuschlagspreis: 3800 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bern 1985 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Kunst- und Antiquitäten-Auktion, Auktionskatalog Salon d’Art et d’Antiquités E. Schlaefli, Bern, 16./17. Juni 1927, Bern 1927, Lot 21 (Alexandre Calame, Gebirgsbach, «charakteristisches Gemälde dieses Meisters auf Holz. hochf.», 35 × 27,5 cm), https://doi.org/10.11588/diglit.36748#0006 [7. Oktober 2022].\n\nAuktion. […] Gemälde. Sammlung Faure und Pearson, Paris sowie div. Besitz […] Stiche, Antiquitäten, Möbel, China-Porzellan aus Sammlung Mme. M., Auktionskatalog Dr. Störi, Kunstsalon Orell-Füssli-Hof, Zürich, 30./31. März 1928, Zürich 1928, Lot 120 (Alexandre Calame, Gebirgsbach, «[c]harakteristisches Gemälde dieses Meisters auf Holz. hochf.», 35 × 27,5 cm), https://doi.org/10.11588/diglit.24601#0020 [7. Oktober 2022].\n\nGemälde, Aquarelle, Zeichnungen, Druckgraphik und Helvetica des 16. bis 20. Jahrhunderts […], Künstlernachlass Carl Theodor Meyer, gen. Meyer-Basel, Auktionskatalog Dobiaschofsky, Bern, Nr. 62, 23.– 26. Oktober 1985, Bern 1985, Lot 122 (Alexandre Calame, Gebirgslandschaft mit Flüsschen, 37,5 × 27 cm).",
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Das Werk kann nicht eindeutig dem Nachlass Carl Theodor Meyers zugeordnet werden, da es auch andere Einlieferer gab."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht verzeichnet].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Calame» in der Rubrik «Malerei» unter «Suchmeldungen» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (138 Ergebnisse) für Volltextsuche «Calame», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [4. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 138,
+            "datum": "2022-10-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (47 Ergebnisse) für Volltextsuche «Calame» [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 47,
+            "datum": "2022-10-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer:",
+            "treffer": 1
+          },
+          {
+            "text": "Siehe Auktionskatalog Bern 1927, Lot 21 (Alexandre Calame, Gebirgsbach, 35 × 27,5 cm)."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vollmond», Filter 1: Artist «Calame» (inklusive aller Namensschreibweisen) [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-07"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Nacht», Filter 1: Artist «Calame» (inklusive aller Namensschreibweisen) [7. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-07"
+          },
+          {
+            "text": "2 mögliche Treffer (45 Ergebnisse) für Volltextsuche «Gebirgsbach», Filter 1: Artist «Calame» (inklusive aller Namensschreibweisen) [7. Oktober 2022]:",
+            "treffer": 2,
+            "ergebnisse": 45,
+            "datum": "2022-10-07"
+          },
+          {
+            "text": "Siehe Auktionskatalog Bern 1927, Lot 21 (Alexandre Calame, Gebirgsbach, 35 × 27,5 cm), sowie Auktionskatalog Zürich 1928, Lot 120 (Alexandre Calame, Gebirgsbach, 35 × 27,5 cm)."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2507/2507_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.6,
+            543.1,
+            534.5,
+            600.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1985, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2507/2507_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.4,
+            139.4,
+            534.7,
+            256.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Dobiaschofsky, Oktober 1985, Lot 122"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2507/2507_004_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.4,
+          292.3,
+          445.9
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Rahmen: Metallplakette, eingraviert «Al. Calame»",
+        "position_traeger": "u. m. Rahmen",
+        "merkmal": "Metallplakette, eingraviert «Al. Calame»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2507/2507_005_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              483.1,
+              327.8,
+              524.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rahmen: Reste einer Aufschrift mit weisser Kreide, erkennbar sind «3» und «L»",
+        "position_traeger": "o. r. Rahmen",
+        "merkmal": "Reste einer Aufschrift mit weisser Kreide, erkennbar sind «3» und «L»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2507/2507_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              536.4,
+              326.2,
+              702.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rahmen: handschriftlich mit Bleistift «B. J. […]» (unleserlich), eventuell «Kimm», «Neum» oder «Nimm»",
+        "position_traeger": "o. r. Rahmen",
+        "merkmal": "handschriftlich mit Bleistift «B. J. […]» (unleserlich), eventuell «Kimm», «Neum» oder «Nimm»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2507/2507_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              139.4,
+              325.9,
+              207.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2507/2507_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              239.0,
+              326.2,
+              306.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Bearbeitete Version"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Rahmen: handschriftlich mit Bleistift, unleserlich; erst drei Buchstaben, möglicherweise «Cuy», dann «42», gefolgt von ein bis zwei Buchstaben oder einer weiteren Zahl mit einem Buchstaben, möglicherweise «N»",
+        "position_traeger": "u. m. Rahmen",
+        "merkmal": "handschriftlich mit Bleistift, unleserlich; erst drei Buchstaben, möglicherweise «Cuy», dann «42», gefolgt von ein bis zwei Buchstaben oder einer weiteren Zahl mit einem Buchstaben, möglicherweise «N»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2507/2507_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              318.5,
+              326.4,
+              398.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2507/2507_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              429.8,
+              326.2,
+              509.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Bearbeitete Version"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Malkarton: ovaler roter Wachsstempel der Vente Calame",
+        "position_traeger": "o. l. Malkarton",
+        "merkmal": "ovaler roter Wachsstempel der Vente Calame",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2507/2507_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              521.3,
+              325.0,
+              665.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2507/2507_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              152.2,
+              325.0,
+              294.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Bearbeitete Version"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rahmen: handschriftlich mit hellrotem Schreibmittel «639», darüber mit schwarzem Schreibmittel «AR 7»",
+        "position_traeger": "o. l. Rahmen",
+        "merkmal": "handschriftlich mit hellrotem Schreibmittel «639», darüber mit schwarzem Schreibmittel «AR 7»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2507/2507_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              306.0,
+              325.0,
+              429.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Bern 1985, wo das Werk als Gebirgslandschaft mit Flüsschen mit den beschreibenden Stichworten «Vollmondnacht, Gegenlichtstimmung» verzeichnet ist. In den Auktionskatalogen Bern 1927 und Zürich 1928 ist es als Gebirgsbach aufgeführt."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Provenienzmerkmale, Wachssiegel der Nachlassauktion «Vente Calame»."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Bern 1927. «[Aus] Sammlung F. B. und anderem Privatbesitz: Gemälde, Aquarelle, Handzeichnungen alter und moderner Meister, verschiedener Schulen» (S. 1)."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1928. Lot 120 ist Teil der Gruppe B, Abteilung III (S. 18 ff.), die mit «Gemälde, Aquarelle und Zeichnungen» ohne Herkunftsangabe übertitelt ist (siehe auch S. 1)."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1985."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis sowie annotierten Auktionskatalog Bern 1985 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Das Werk kann nicht eindeutig dem Nachlass Carl Theodor Meyers zugeordnet werden, da es auch andere Einlieferer gab."
+    }
+  ],
+  "bilder_anzahl": 13
+}

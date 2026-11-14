@@ -1,0 +1,582 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5587_221201.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "1. Dezember 2022",
+  "stand_iso": "2022-12-01",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5587",
+      "Félix Vallotton (1865–1925)",
+      "Le Colisée, Rome",
+      "1913",
+      "Öl auf Holz",
+      "21,9 × 26,9 cm (Bildmass)",
+      "39,9 × 45 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5587",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Le Colisée, Rome",
+    "masse": [
+      "21,9 × 26,9 cm (Bildmass)",
+      "39,9 × 45 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1913",
+    "technik": "Öl auf Holz",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5587/5587_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          306.4,
+          412.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich seit 1923",
+      "besitzer": "Charles Pacquement, Paris, vermutlich erworben bei der Galerie Druet",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005. Die Identität von Charles Pacquement konnte bislang nicht abschliessend geklärt werden. Eine Suche auf Ancestry ergibt mehrere mögliche Personen. Am 12. Dezember 1932 fand bei Georges Petit in Paris eine Vente de la Collection Charles Pacquement statt, in der das vorliegende Werk jedoch nicht aufgeführt ist, siehe: Catalogue des Tableaux Modernes […] composant la Collection Charles Pacquement […], Auktionskatalog Galerie Georges Petit, Paris, 12. Dezember 1932, Paris 1932, https://archive.org/details/tableauxmodernes00gale_17 [1. Dezember 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1999",
+      "besitzer": "Privatbesitz, Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15. Dezember 1999",
+      "besitzer": "Auktion Hôtel Drouot (Vente Piasa, Lot 214), Paris, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "29. Mai 2000",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 126, Le Colisée, Rome), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 2000."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11. Juni 2001",
+      "besitzer": "Auktion Sotheby’s (Möbel und Silber, Schweizer Kunst, Lot 476, Le Colisée, Rome), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 2001."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 11. Juni 2001",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 20 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2001 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1013.",
+        "bilder": [
+          {
+            "datei": "images/5587/5587_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              372.7,
+              296.6,
+              439.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5587/5587_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              446.2,
+              296.7,
+              618.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 954."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 29. Mai 2000, Zürich 2000, Lot 126.\n\nMöbel und Silber, Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 11. Juni 2001, Zürich 2001, Lot 476."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Paris, 1923, Nr. 62 (Le Colisée, Rome)",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter 1: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5587/5587_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            517.6,
+            531.8,
+            683.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini (nicht angekauft)"
+        },
+        {
+          "datei": "images/5587/5587_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            133.8,
+            531.7,
+            230.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2001, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5587/5587_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          500.1,
+          305.6,
+          719.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Malgrund: Signatur mit Datierung",
+        "position_traeger": "u. r. Malgrund",
+        "merkmal": "Signatur mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5587/5587_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              306.2,
+              181.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m., r. m., u. m. und l. m. Rahmung des Bildträgers: je zweimal handschriftlich mit Bleistift «26» und «21»",
+        "position_traeger": "o. m., r. m., u. m. und l. m. Rahmung des Bildträgers",
+        "merkmal": "je zweimal handschriftlich mit Bleistift «26» und «21»",
+        "kommentar": "entspricht Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5587/5587_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              194.3,
+              188.1,
+              236.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5587/5587_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              244.7,
+              188.0,
+              287.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Holzplatte (Bildträger): handschriftlich mit hellblauem Schreibmittel «4345»",
+        "position_traeger": "o. m. Holzplatte (Bildträger)",
+        "merkmal": "handschriftlich mit hellblauem Schreibmittel «4345»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5587/5587_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              299.8,
+              218.0,
+              341.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Holzplatte (Bildträger): rundes Etikett mit gezahntem Rand, handschriftlich mit schwarzem Schreibmittel «62»",
+        "position_traeger": "o. m. Holzplatte (Bildträger)",
+        "merkmal": "rundes Etikett mit gezahntem Rand, handschriftlich mit schwarzem Schreibmittel «62»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5587/5587_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              356.2,
+              191.2,
+              406.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «476», darunter gestempelt «11. JUNI 2001»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «476», darunter gestempelt «11. JUNI 2001»",
+        "kommentar": "Lotnummer und Datum der Auktion Sotheby’s",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5587/5587_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              421.6,
+              196.5,
+              469.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Reste eines weissen Etiketts",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Reste eines weissen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5587/5587_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              522.6,
+              196.5,
+              611.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005. Die Identität von Charles Pacquement konnte bislang nicht abschliessend geklärt werden. Eine Suche auf Ancestry ergibt mehrere mögliche Personen. Am 12. Dezember 1932 fand bei Georges Petit in Paris eine Vente de la Collection Charles Pacquement statt, in der das vorliegende Werk jedoch nicht aufgeführt ist, siehe: Catalogue des Tableaux Modernes […] composant la Collection Charles Pacquement […], Auktionskatalog Galerie Georges Petit, Paris, 12. Dezember 1932, Paris 1932, https://archive.org/details/tableauxmodernes00gale_17 [1. Dezember 2022]."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 2000."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 2001."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2001 im Archiv SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 954."
+    },
+    {
+      "nr": 9,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 10,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    }
+  ],
+  "bilder_anzahl": 13
+}

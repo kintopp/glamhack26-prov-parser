@@ -1,0 +1,678 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_296_241107.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. November 2024",
+  "stand_iso": "2024-11-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 296",
+      "Albert Anker (1831–1910)",
+      "Rosa und Bertha Gugger beim Stricken",
+      "um 1885",
+      "Öl auf Leinwand",
+      "52 × 63 cm (Bildmass)",
+      "70 × 81 × 11 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "296",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Rosa und Bertha Gugger beim Stricken",
+    "masse": [
+      "52 × 63 cm (Bildmass)",
+      "70 × 81 × 11 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1885",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/296/296_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.1,
+          434.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Les sœurs Gugger tricotant."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1. Juli 1898 bis spätestens 1912",
+      "besitzer": "(Johanna) Amalia Im Hof-Rüsch (1831–1911), Basel, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 1. Juli 1898 in Ankers Livre de vente: «de Mad. Imhof Ruesch pour le rossignol les deux Gugger Küffer tricotant 500». Mit «rossignol» bezeichnete Anker im Verkaufsbuch die Ladenhüter, siehe ebd., S. 47. Der Ankaufspreis betrug 500 Franken. Madame Im Hof-Rüsch, geborene Jakob, war die Frau von Johann Jacob Im Hof-Rüsch (1815–1900; auch Imhof-Ruesch oder Imhoff), Präsident des Schweizerischen Kunstvereins und Vereinspräsident des Basler Kunstvereins. Dieser war Lederhändler, Kaufmann, Kunstsachverständiger und Mäzen. Das Paar wohnte ab 1864 im Haus zum Kirschgarten in Basel, siehe https://de.wikipedia.org/wiki/Jo-hann_Jakob_Im_Hof [22. Dezember 2022]. Das Werk soll bis 1912 dort verblieben sein, siehe Auktionskatalog Bern 1984."
+        },
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 erwähnen, allerdings mit Fragezeichen versehen, die Ausstellung im Kunsthaus Zürich, wo das Werk mit dem Titel Bei der Lampe ausgestellt gewesen sein soll (Albert Anker, Ausstellungskatalog Kunsthaus Zürich, 7. Mai bis 5. Juni 1911, S. 8, Nr. 36 [ohne Stern, also unverkäuflich]). Die Zuordnung ist unrichtig, wie eine Rückfrage beim Kunsthaus Zürich ergeben hat. Das Gemälde Bei der Lampe wurde von einer Tochter von Albert Anker aus Neuchâtel als Leihgabe ins Kunsthaus gegeben und wieder retourniert, siehe Archive extern. Am Bild selbst befinden sich keine Hinweise (Provenienzmerkmale), dass es im Nachlass Anker beziehungsweise bei einer Tochter in Neuchâtel – es müsste Marie Quinche-Anker gewesen sein – war, wie es bei Werken im Nachlass sonst der Fall ist. Höchstwahrscheinlich war Bei der Lampe ein anderes Werk und trifft die im Werkkatalog geäusserte Vermutung nicht zu."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 1911 bis mindestens 1960",
+      "besitzer": "Mary Hediger-Wetter (1884–1970), Zürich, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ausstellungskatalog Bern 1960 mit der Angabe «Privatbesitz Zürich». Dabei handelt es sich um Mary Hediger-Wetter, siehe Anfragen. Gemäss Auktionskatalog Bern 1984 ging das Werk im Erbgang der Familie Im Hof-Rüsch nach Zürich und in die Westschweiz. Mary Hediger-Wetter war mit Amalia Im Hof-Rüsch verwandt, denn ihre Mutter, mit ledigem Namen Valérie Rüsch, war mit Johann Jacob Im Hof-Rüsch verwandt, siehe Kontextinformationen. Die genauen verwandtschaftlichen Verhältnisse wurden nicht geklärt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Vermutlich handelt es sich ebenfalls um Mary Hediger-Wetter, siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Westschweiz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "20.–22. Juni 1984",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 12, Die beiden Schwestern beim Stricken. Bertha und Rosa Gugger), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Bern 1984, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22. Juni 1984",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Bern, Zuschlagspreis: 288 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Bern 1984 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 170, Nr. 331.",
+        "bilder": [
+          {
+            "datei": "images/296/296_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              314.5,
+              410.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Moderne Kunst des 19. und 20. Jahrhunderts. Bilder, Aquarelle, Zeichnungen, Graphik, Skulpturen, illustrierte Bücher, Auktionskatalog Galerie Kornfeld, Bern, 20.–22. Juni 1984, Nr. 185, Bern 1984, Lot 12."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker, Ausstellungskatalog Kunstmuseum Bern, 17. September bis 11. Dezember 1960, Bern 1960, Nr. 171.",
+        "bilder": [
+          {
+            "datei": "images/296/296_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              517.4,
+              361.2,
+              543.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweitere Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (38 Ergebnisse) für Volltextsuche «bei der Lampe» und «Anker»",
+            "treffer": 0,
+            "ergebnisse": 38
+          },
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Gugger» und «Anker»",
+            "treffer": 0,
+            "ergebnisse": 13
+          },
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «tricotant» und «Anker»",
+            "treffer": 0,
+            "ergebnisse": 14
+          },
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «beim Stricken» und «Anker»",
+            "treffer": 0,
+            "ergebnisse": 13
+          },
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «tricoteuse» und «Anker»",
+            "treffer": 0,
+            "ergebnisse": 54
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "8. Februar 2023",
+      "institution": "Kunstmuseum Bern",
+      "betreff": "Leihgeber:in Ausstellung 1960",
+      "antwort": "28. Februar 2023: Die Leihgeberin war Mary Hediger-Wetter, Zürich."
+    },
+    {
+      "datum": "10. Januar 2023",
+      "institution": "Kunsthaus Zürich",
+      "betreff": "Identifikation «Bei der Lampe», Ausstellung Zürich 1911",
+      "antwort": "25. Januar 2023: Nr. 36 stammt nicht von Herrn Röthlisberger, sondern von Frau Anker, Neuchâtel. Nr. 210 ist ein anderes Bild (siehe Archive extern)."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "26. April 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/296/296_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            341.6,
+            532.7,
+            481.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1984, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "12. November 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.1.2 (S. 6)\n\nSchreiben von Eberhard Kornfeld, Galerie Kornfeld, Bern, an Bruno Stefanini vom 11. November 1983 mit Hinweis auf die Auktion im Juni 1984 und das vorliegende Werk."
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "10. Januar 2023",
+      "institution": "Kunsthaus Zürich",
+      "bestand": "Es handelt sich um ein anderes Werk, die Angabe des Leihgebers Röthlisberger ist offenbar falsch (siehe Anfragen).",
+      "bilder": [
+        {
+          "datei": "images/296/296_005_archive_extern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            190.7,
+            533.0,
+            226.9
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Albert Anker, Ausstellungskatalog Kunsthaus Zürich, 7. Mai bis 5. Juni 1911, Zürich 1911, S. 8, Nr. 36, https://digital.kunst-haus.ch/viewer/image/47855/10 [10. Januar 2023]."
+        }
+      ]
+    },
+    {
+      "datum": "10. Januar 2023",
+      "institution": "Kunsthaus Zürich",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/296/296_006_archive_extern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            384.5,
+            531.0,
+            457.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Albert Anker, Ausstellungskatalog Kunsthaus Zürich, 7. Mai bis 5. Juni 1911, Zürich 1911, S. 12, Nr. 210 (Bei der Lampe), https://digital.kunsthaus.ch/viewe r/image/47855/14 [10. Januar 2023]. Es handelt sich um ein anderes Werk (Aquarell)."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Johanna Amalia Im Hof-Rüsch",
+      "information": "Eintrag zu Johanna Amalia Jakob Rüsch / Im Hof auf MyHeritage, siehe https://www.myheritage.ch/research/collection-1/myheritage-stammbaume?itemId=310199361-1-500029&action=showRecord [22. Dezember 2022]."
+    },
+    {
+      "thema": "Anna Wetter (Schwester von Johanna Amalia Im Hof-Rüsch)",
+      "information": "Eintrag zu Anna Wetter auf MyHeritage, siehe https://www.myheri-tage.ch/research/collection-1/myheritage-stamm-baume?itemId=257340151-1-505655&action=showRecord [22. Dezember 2022]. Über Anna Wetter waren die Familien Rüsch und Wetter verbunden."
+    },
+    {
+      "thema": "Zur verwandtschaftlichen Beziehung von Amalia Im Hof-Rüsch und Mary Hediger-Wetter",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/296/296_007_kontextinformationen.png",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            139.8,
+            330.3,
+            226.3
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Amalia Im Hof-Rüsch, in: Neue Zürcher Zeitung, Jg. 132, Nr. 61, 2. März 1911, S. 4, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19110302-05.2.19.1 [22. Dezember 2022]. Unter den Angehörigen erscheinen «C. und V. Wetter-Rüsch»."
+        },
+        {
+          "datei": "images/296/296_008_kontextinformationen.png",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            289.4,
+            330.6,
+            414.4
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Todesanzeige Charles Wetter-Rüsch, in: Neue Zürcher Zeitung, Jg. 142, Nr. 63, 14. Januar 1921, S. 7, https://www.e-newspaperar-chives.ch/?a=d&d=NZZ19210114-01.2.30.1 [22. Dezember 2022]. Unter den Angehörigen erscheint «Valerie Wetter-Rüsch»."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/296/296_009_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          533.5,
+          292.3,
+          732.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit dunklem Schreibmittel «Anker»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «Anker»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              232.2,
+              188.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «43 B D [?]»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «43 B D [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              202.9,
+              292.5,
+              247.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: beiges Etikett mit oben und unten perforierten Kanten, schwarz bedruckt und maschinenbeschrieben",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "beiges Etikett mit oben und unten perforierten Kanten, schwarz bedruckt und maschinenbeschrieben",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1960, Nr. 171",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              260.4,
+              292.2,
+              314.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit rotem Schreibmittel «958»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «958»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              336.1,
+              216.6,
+              394.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines entfernten weissen Etiketts",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines entfernten weissen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              407.2,
+              291.3,
+              479.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «Imhoff»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Imhoff»",
+        "kommentar": "Amalia Im Hof kaufte das Werk 1898 vom Künstler.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              492.4,
+              239.4,
+              552.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Malerklebeband, handschriftlich mit blauem Kugelschreiber «64 Glas»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Malerklebeband, handschriftlich mit blauem Kugelschreiber «64 Glas»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              568.1,
+              240.9,
+              621.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Malerklebeband",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Malerklebeband",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/296/296_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              634.6,
+              291.3,
+              695.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Les sœurs Gugger tricotant."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 1. Juli 1898 in Ankers Livre de vente: «de Mad. Imhof Ruesch pour le rossignol les deux Gugger Küffer tricotant 500». Mit «rossignol» bezeichnete Anker im Verkaufsbuch die Ladenhüter, siehe ebd., S. 47. Der Ankaufspreis betrug 500 Franken. Madame Im Hof-Rüsch, geborene Jakob, war die Frau von Johann Jacob Im Hof-Rüsch (1815–1900; auch Imhof-Ruesch oder Imhoff), Präsident des Schweizerischen Kunstvereins und Vereinspräsident des Basler Kunstvereins. Dieser war Lederhändler, Kaufmann, Kunstsachverständiger und Mäzen. Das Paar wohnte ab 1864 im Haus zum Kirschgarten in Basel, siehe https://de.wikipedia.org/wiki/Jo-hann_Jakob_Im_Hof [22. Dezember 2022]. Das Werk soll bis 1912 dort verblieben sein, siehe Auktionskatalog Bern 1984."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 erwähnen, allerdings mit Fragezeichen versehen, die Ausstellung im Kunsthaus Zürich, wo das Werk mit dem Titel Bei der Lampe ausgestellt gewesen sein soll (Albert Anker, Ausstellungskatalog Kunsthaus Zürich, 7. Mai bis 5. Juni 1911, S. 8, Nr. 36 [ohne Stern, also unverkäuflich]). Die Zuordnung ist unrichtig, wie eine Rückfrage beim Kunsthaus Zürich ergeben hat. Das Gemälde Bei der Lampe wurde von einer Tochter von Albert Anker aus Neuchâtel als Leihgabe ins Kunsthaus gegeben und wieder retourniert, siehe Archive extern. Am Bild selbst befinden sich keine Hinweise (Provenienzmerkmale), dass es im Nachlass Anker beziehungsweise bei einer Tochter in Neuchâtel – es müsste Marie Quinche-Anker gewesen sein – war, wie es bei Werken im Nachlass sonst der Fall ist. Höchstwahrscheinlich war Bei der Lampe ein anderes Werk und trifft die im Werkkatalog geäusserte Vermutung nicht zu."
+    },
+    {
+      "nr": 4,
+      "text": "Ausstellungskatalog Bern 1960 mit der Angabe «Privatbesitz Zürich». Dabei handelt es sich um Mary Hediger-Wetter, siehe Anfragen. Gemäss Auktionskatalog Bern 1984 ging das Werk im Erbgang der Familie Im Hof-Rüsch nach Zürich und in die Westschweiz. Mary Hediger-Wetter war mit Amalia Im Hof-Rüsch verwandt, denn ihre Mutter, mit ledigem Namen Valérie Rüsch, war mit Johann Jacob Im Hof-Rüsch verwandt, siehe Kontextinformationen. Die genauen verwandtschaftlichen Verhältnisse wurden nicht geklärt."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Vermutlich handelt es sich ebenfalls um Mary Hediger-Wetter, siehe Fn. 4."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Bern 1984, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Bern 1984 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 17
+}

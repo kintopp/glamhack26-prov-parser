@@ -1,0 +1,858 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4764_221025.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. Oktober 2022",
+  "stand_iso": "2022-10-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4764",
+      "Arnold Böcklin (1827–1901)",
+      "Angela Böcklin mit schwarzem Schleier",
+      "um 1854",
+      "Öl auf Leinwand",
+      "47 × 39 cm (Bildmass)",
+      "62 × 57 × 6 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4764",
+    "status": "Ungeklärt",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Angela Böcklin mit schwarzem Schleier",
+    "masse": [
+      "47 × 39 cm (Bildmass)",
+      "62 × 57 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1854",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4764/4764_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.6,
+          484.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 2005."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich 1854 bis 1901",
+      "besitzer": "Arnold Böcklin (1821–1901)",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ausstellungskatalog Berlin 1897, wo als Besitzer «Der Künstler» vermerkt ist."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1901 bis spätestens 1915",
+      "besitzer": "Erbinnen und Erben von Arnold Böcklin, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Andree 1977, wonach das Gemälde 1915 an Sohn Carlo Böcklin, Florenz, ging; siehe auch Provenienzmerkmal «CB1» auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1915 bis vermutlich 1934",
+      "besitzer": "Carlo Böcklin (1870–1934), Florenz, erworben im Erbgang aus dem Nachlass, verwahrt als Depositum im Kunsthaus Zürich ab 1916",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Bis zum Tod von Mutter Angela Böcklin (1836–1915) war das Werk innerhalb der Erbengemeinschaft vermutlich im Besitz von Carlo Böcklin in Italien. 1916 gab dieser im Namen der Erbinnen und Erben vierzehn Gemälde als Depositum beziehungsweise Leihgaben ins Kunsthaus Zürich, siehe Andree 1977, S. 98; Zürcher Kunstgesellschaft, Jahresbericht 1916, Zürich 1917, S. 9, https://digital.kunsthaus.ch/viewer/image/20416_1916/13/LOG_0012 [25. Oktober 2022]. Im Versicherungsbuch der Zürcher Kunstgesellschaft sind die Werke einzeln aufgeführt, siehe Zürcher Kunstgesellschaft, Versicherungsbuch Ausstellung, Bd. VI, 28. Mai 1915 bis 1. Dezember 1919, S. 37 (Kunsthaus Zürich, Archiv, 10.30.40.7, siehe «Archive extern»), Eintrag vom 24. April 1916: «Name und Wohnort des Künstlers Arnold Böcklin», «Titel des Werkes idem [Ritratto della Sig. A. Böcklin] con velo nero», «Versicherungswert 10.000», «Herkunft Carlo Böcklin Florenz». Im Ausstellungskatalog Basel 1927 ist «Carlo Böcklin, Florenz», als Leihgeber aufgeführt, im Ausstellungskatalog Berlin 1927 ist «Standort: Kunsthaus Zürich; seit 1916» angegeben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1934 bis spätestens 1942",
+      "besitzer": "Nadina Böcklin (1879–1957), Florenz, erworben im Erbgang vom Ehemann Carlo Böcklin, verwahrt als Depositum im Kunsthaus Zürich bis mindestens 1939",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Andree 1977 verweist ab 1934 auf Nadina Böcklin, Carlo Böcklins Ehefrau Nadina (Nadia, Nadeschda) Böcklin-von Gringmuth (Moskau), wohnhaft in Florenz, siehe Holenweg 1998, S. 601. Wahrscheinlich liess sie das Werk im Depot des Kunsthauses, möglicherweise sogar bis 1942. Dann findet sich der nächste Hinweis auf einen Handwechsel, nämlich die Kunsthandlung Weder, Luzern, siehe Andree 1977. Die Angabe «Luzern» korrespondiert mit dem vom Kunsthaus Zürich zu ungesichertem Zeitpunkt aufgebrachten, unvollständig erhaltenen Etikett auf der Rückseite, das «Luzern» sowie «Haldenstrasse» vermerkt und somit sehr wahrscheinlich die Galerie Weder als Eigentümerin bezeichnet, siehe Fn. 7 sowie intaktes Vergleichsetikett unter Kontextinformationen, woraus ersichtlich wird, dass die dritte Zeile den Besitzer festhält. Dies könnte dafür sprechen, dass das im Kunsthaus deponierte Werk aus dem Eigentum von Nadina Böcklin an die Kunsthandlung Weder ging und möglicherweise für unbestimmte Zeit im Kunsthaus als Leihgabe blieb."
+        },
+        {
+          "nr": 6,
+          "text": "Gemäss Auskunft des Kunsthauses Zürich wurde das Werk am 17. März 1939 an die Öffentliche Kunstsammlung Basel geschickt, siehe Anfragen. Der Anlass des Transfers wurde im Rahmen des Erstchecks nicht weiterverfolgt. Es ist auch denkbar, dass das Werk anlässlich dieses Transfers mit dem Etikett versehen wurde und dann also bereits im Besitz der Kunsthandlung Weder war. Allenfalls hatte diese ein Mandat von Nadina Böcklin und liess das Werk von Zürich nach Basel bringen, wo vielleicht ein Ankauf geprüft wurde. Siehe auch Fn. 5."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1942 bis mindestens 1951",
+      "besitzer": "Kunsthandlung Theodor Weder, Luzern",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Andree 1977. Die Kunsthandlung Theodor Weder befand sich an der Haldenstrasse 7 und später an der Haldenstrasse 15, unweit der Galerien Thannhauser (Haldenstrasse 11) und Fischer (Haldenstrasse 19). Die Angabe von Andree lässt sich mit dem Rückseitenetikett in Verbindung bringen, auf dem «Haldenstrasse» – die Hausnummer ist undeutlich, möglicherweise «15» – und darunter «Luzern» steht (siehe Fn. 5, «Archive extern» und «Kontextinformationen»). Bestätigt wird die Kunsthandlung «Th. Weder, Haldenstr. 15» 1951 als Einlieferin im annotierten Ausstellungskatalog der Kunsthalle Basel 1951, siehe «Archive extern». Das Werk stand damals zum Verkauf (Preisangabe: 10 000 Franken)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1956",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Andree 1977. Wohin das Werk 1951 verkauft wurde, könnte möglicherweise im Staatsarchiv Basel-Stadt recherchiert werden, wo sich die Unterlagen zur Ausstellung befinden, darunter die Verkaufsbücher sowie die Korrespondenz mit den Leihgebern und Leihgeberinnen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "5. Dezember 2005",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 14, Angela Böcklin mit schwarzem Schleier), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Zürich 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Dezember 2005",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Ankaufspreis: 190 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2005 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 214–215, Nr. 79.\n\nHans Holenweg, Supplementum, in: Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel 1998, 2., ergänzte und überarbeitete Auflage mit einem Supplementum von Hans Holenweg, S. 585–602.\n\nHans Holenweg, Arnold Böcklin. Ergänzungen, Nachträge und Korrekturen zum Katalog der Gemälde, Stand: 1. November 2021, S. 6, Nr. 79, https://www.sikart.ch/pdf/holenweg_gemaelde.pdf [25. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/4764/4764_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              411.0,
+              354.4,
+              529.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4764/4764_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              535.5,
+              351.7,
+              668.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4764/4764_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              674.1,
+              532.2,
+              700.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 5. Dezember 2005, Zürich 2005, Lot 14."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, Ausstellungskatalog Akademie der Künste, Berlin, Berlin 1897, möglicherweise Nr. 32, S. 27, https://doi.org/10.11588/diglit.48226#0031.\n\nArnold Böcklin 1827/1927. Ausstellung zur Feier des 100. Geburtsjahres, Ausstellungskatalog Kunsthalle Basel, Basel 1927, S. 15, Nr. 20.",
+        "bilder": [
+          {
+            "datei": "images/4764/4764_005_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              234.2,
+              381.2,
+              270.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Böcklin-Ausstellung 1917, Ausstellungskatalog Kunsthalle Basel, Basel 1917, Nr. 64."
+          },
+          {
+            "datei": "images/4764/4764_006_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              365.2,
+              386.5,
+              395.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Gemälde und Zeichnungen von Arnold Böcklin, ausgestellt zur Feier seines 100. Geburtstages, Ausstellungskatalog Nationalgalerie, Berlin, Berlin 1927, S. 35, Nr. 45."
+          },
+          {
+            "datei": "images/4764/4764_007_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              451.8,
+              386.4,
+              506.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Arnold Böcklin. Ausstellung zum Gedächtnis an seinen 50. Todestag, Ausstellungskatalog Kunsthalle Basel, Basel 1951, S. 24, Nr. 26."
+          },
+          {
+            "datei": "images/4764/4764_008_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              550.3,
+              386.7,
+              586.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Matthias Frehner (Hrsg.), Sesam öffne Dich! Anker, Hodler, Segantini, Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, Bern 2014, Nr. 119."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Akademie der Künste, Berlin, Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, 2. Dezember 1897 bis 16. Januar 1898, möglicherweise Nr. 32.\n\n– Kunsthalle Basel, Arnold Böcklin, Traute Haack, Cesar Knapen, Max Oppenheimer, Eduard Stiefel. Mai-Ausstellung, 20. Mai bis 10. Juni 1917, Nr. 64.\n\n– Kunsthalle Basel, Arnold Böcklin 1827/1927. Ausstellung zur Feier des 100. Geburtsjahres, 10. April bis 6. Juni 1927, Nr. 20.\n\n– Nationalgalerie, Berlin, Gemälde und Zeichnungen von Arnold Böcklin, ausgestellt zur Feier seines 100. Geburtstages, 16. Oktober 1927 bis 5. Februar 1928, Nr. 45.\n\n– Kunsthalle Basel, Arnold Böcklin. Ausstellung zum Gedächtnis an seinen 50. Todestag, 23. Juni bis 5. August 1951, Nr. 26.\n\n– Kunstmuseum Bern / Fondation Gianadda, Martigny, Sesam öffne Dich! Anker, Hodler, Segantini, Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, 7. März 2014 bis 14. Juni 2015, Nr. 119."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv/Ad-ressat:in",
+      "betreff": "Betreff",
+      "antwort": "Antwort"
+    },
+    {
+      "datum": "10. Oktober 2022",
+      "institution": "Kunsthalle Basel",
+      "betreff": "Einlieferer Ausstellung 1951",
+      "antwort": "annotierter Ausstellungskatalog Basel 1951, siehe «Archive extern»"
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Kunsthaus Zürich",
+      "betreff": "Depositum Böcklin im Kunsthaus",
+      "antwort": "Hinweis auf Transfer am 17. März 1939 an die Öffentliche Kunstsammlung Basel",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe Fn. 6."
+        }
+      ]
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4764/4764_009_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            190.7,
+            534.4,
+            414.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2005, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "–",
+      "institution": "Kunsthalle Basel, Archiv",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4764/4764_010_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            533.5,
+            535.7,
+            563.7
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Annotierter Ausstellungskatalog Basel 1951, Nr. 26, mit handschriftlichem Hinweis auf «Th. Weder, Haldenstr. 15» als Einlieferer, Preisangabe «10.000.–» und Haken, der auf abgeschlossenen Verkauf hinweisen könnte."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Kunsthaus Zürich, Archiv",
+      "bestand": "Signatur: 10.30.40.7",
+      "bilder": [
+        {
+          "datei": "images/4764/4764_011_archive_extern.jpeg",
+          "seite": 8,
+          "bbox": [
+            368.6,
+            158.4,
+            535.0,
+            212.7
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Zürcher Kunstgesellschaft, Versicherungsbuch Ausstellung, Bd. VI, 28. Mai 1915 bis 1. Dezember 1919, S. 37. Zweites Werk von oben: «idem [Ritratto della Sig. A. Böcklin] con velo nero»."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Theodor Weder, Inserat in Kurkarte 1928",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/4764/4764_012_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            370.0,
+            268.4,
+            481.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        },
+        {
+          "datei": "images/4764/4764_013_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            487.7,
+            270.5,
+            598.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Kurkarte Luzern 1928: Theodor Weder, Haldenstrasse 7, https://www.ebay.com/itm/162531844736, https://www.etsy.com/ie/listing/788085746 [25. Januar 2023]."
+        }
+      ]
+    },
+    {
+      "thema": "Etikett Kunsthaus Zürich zum Vergleich",
+      "information": "Vollständig erhaltenes Etikett des Kunsthauses Zürich (1939–1959) mit lesbaren Zeilen, https://www.galerie20.smb.mu-seum/werke/961273.html [25. Januar 2023].",
+      "bilder": [
+        {
+          "datei": "images/4764/4764_014_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            655.2,
+            344.8,
+            724.9
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4764/4764_015_provenienzmerkmale.jpeg",
+        "seite": 9,
+        "bbox": [
+          62.5,
+          234.3,
+          321.0,
+          506.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: aufgeschraubtes braunes Schild, graviert «1093. ARNOLD BÖCKLIN.»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "aufgeschraubtes braunes Schild, graviert «1093. ARNOLD BÖCKLIN.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              543.6,
+              320.9,
+              574.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit Bleistift «Demenga»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Demenga»",
+        "kommentar": "allenfalls Verweis auf die Galerie Demenga, Basel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              594.0,
+              322.3,
+              642.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Hansruedi Demenga Art Collection, Henric-Petri-Strasse 19, 4051 Basel, gegründet 1951."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit rotem Schreibmittel ein Strich",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel ein Strich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              247.4,
+              234.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit grauem Schreibmittel vermutlich «HFSf | 9HSS | FSBG»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel vermutlich «HFSf | 9HSS | FSBG»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_019_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              246.8,
+              247.9,
+              408.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: rechteckiges beiges Etikett, rot umrandet, rot und schwarz gedruckt «INVENTAR | N 1093»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "rechteckiges beiges Etikett, rot umrandet, rot und schwarz gedruckt «INVENTAR | N 1093»",
+        "kommentar": "Die Nummer korrespondiert mit der Angabe auf dem Provenienzmerkmal auf der Vorderseite (siehe oben).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_020_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              421.3,
+              248.0,
+              502.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Das gleiche Etikett findet sich bei Böcklins Euterpe, SKKG-Inventarnummer 15042, das ebenfalls im Besitz der Erbinnen und Erben Böcklins und als Depositum im Kunsthaus Zürich war."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit blauem Schreibmittel «R 45»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «R 45»",
+        "kommentar": "Katalognummer der Ausstellung Berlin 1927/28",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_021_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              522.3,
+              247.2,
+              604.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: verbräuntes rechteckiges Etikett der Ausstellung Kunsthalle Basel 1951, schwarz bedruckt, handschriftlich mit grauem Schreibmittel möglicherweise «ak BESB/cgf LSBB – GSBSB»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett der Ausstellung Kunsthalle Basel 1951, schwarz bedruckt, handschriftlich mit grauem Schreibmittel möglicherweise «ak BESB/cgf LSBB – GSBSB»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_022_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              139.8,
+              319.3,
+              258.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «CB1»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «CB1»",
+        "kommentar": "vermutlich vom Sohn Carlo Böcklin (Initialen)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_023_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              270.8,
+              251.6,
+              345.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: verbräuntes rechteckiges Etikett des Kunsthauses Zürich, unten und oben gezahnt, schwarz bedruckt und handschriftlich «Böcklin | Haldenstrasse [?] | Luzern»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett des Kunsthauses Zürich, unten und oben gezahnt, schwarz bedruckt und handschriftlich «Böcklin | Haldenstrasse [?] | Luzern»",
+        "kommentar": "Damit dürfte die Kunsthandlung Theodor Weder an der Haldenstrasse 7 (später Haldenstrasse 15) in Luzern gemeint sein.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_024_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              358.3,
+              321.5,
+              454.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Ein vollständig erhaltenes Etikett ist unter «Kontextinformationen» abgebildet."
+          },
+          {
+            "nr": 15,
+            "text": "Dies korrespondiert mit den Angaben in Andree 1977 und im annotierten Ausstellungskatalog Basel 1951, siehe «Archive extern»."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Reste eines Klebeetiketts",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Reste eines Klebeetiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4764/4764_025_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              497.3,
+              254.2,
+              565.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977, ebenso im Auktionskatalog Zürich 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Ausstellungskatalog Berlin 1897, wo als Besitzer «Der Künstler» vermerkt ist."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977, wonach das Gemälde 1915 an Sohn Carlo Böcklin, Florenz, ging; siehe auch Provenienzmerkmal «CB1» auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "Bis zum Tod von Mutter Angela Böcklin (1836–1915) war das Werk innerhalb der Erbengemeinschaft vermutlich im Besitz von Carlo Böcklin in Italien. 1916 gab dieser im Namen der Erbinnen und Erben vierzehn Gemälde als Depositum beziehungsweise Leihgaben ins Kunsthaus Zürich, siehe Andree 1977, S. 98; Zürcher Kunstgesellschaft, Jahresbericht 1916, Zürich 1917, S. 9, https://digital.kunsthaus.ch/viewer/image/20416_1916/13/LOG_0012 [25. Oktober 2022]. Im Versicherungsbuch der Zürcher Kunstgesellschaft sind die Werke einzeln aufgeführt, siehe Zürcher Kunstgesellschaft, Versicherungsbuch Ausstellung, Bd. VI, 28. Mai 1915 bis 1. Dezember 1919, S. 37 (Kunsthaus Zürich, Archiv, 10.30.40.7, siehe «Archive extern»), Eintrag vom 24. April 1916: «Name und Wohnort des Künstlers Arnold Böcklin», «Titel des Werkes idem [Ritratto della Sig. A. Böcklin] con velo nero», «Versicherungswert 10.000», «Herkunft Carlo Böcklin Florenz». Im Ausstellungskatalog Basel 1927 ist «Carlo Böcklin, Florenz», als Leihgeber aufgeführt, im Ausstellungskatalog Berlin 1927 ist «Standort: Kunsthaus Zürich; seit 1916» angegeben."
+    },
+    {
+      "nr": 5,
+      "text": "Andree 1977 verweist ab 1934 auf Nadina Böcklin, Carlo Böcklins Ehefrau Nadina (Nadia, Nadeschda) Böcklin-von Gringmuth (Moskau), wohnhaft in Florenz, siehe Holenweg 1998, S. 601. Wahrscheinlich liess sie das Werk im Depot des Kunsthauses, möglicherweise sogar bis 1942. Dann findet sich der nächste Hinweis auf einen Handwechsel, nämlich die Kunsthandlung Weder, Luzern, siehe Andree 1977. Die Angabe «Luzern» korrespondiert mit dem vom Kunsthaus Zürich zu ungesichertem Zeitpunkt aufgebrachten, unvollständig erhaltenen Etikett auf der Rückseite, das «Luzern» sowie «Haldenstrasse» vermerkt und somit sehr wahrscheinlich die Galerie Weder als Eigentümerin bezeichnet, siehe Fn. 7 sowie intaktes Vergleichsetikett unter Kontextinformationen, woraus ersichtlich wird, dass die dritte Zeile den Besitzer festhält. Dies könnte dafür sprechen, dass das im Kunsthaus deponierte Werk aus dem Eigentum von Nadina Böcklin an die Kunsthandlung Weder ging und möglicherweise für unbestimmte Zeit im Kunsthaus als Leihgabe blieb."
+    },
+    {
+      "nr": 6,
+      "text": "Gemäss Auskunft des Kunsthauses Zürich wurde das Werk am 17. März 1939 an die Öffentliche Kunstsammlung Basel geschickt, siehe Anfragen. Der Anlass des Transfers wurde im Rahmen des Erstchecks nicht weiterverfolgt. Es ist auch denkbar, dass das Werk anlässlich dieses Transfers mit dem Etikett versehen wurde und dann also bereits im Besitz der Kunsthandlung Weder war. Allenfalls hatte diese ein Mandat von Nadina Böcklin und liess das Werk von Zürich nach Basel bringen, wo vielleicht ein Ankauf geprüft wurde. Siehe auch Fn. 5."
+    },
+    {
+      "nr": 7,
+      "text": "Andree 1977. Die Kunsthandlung Theodor Weder befand sich an der Haldenstrasse 7 und später an der Haldenstrasse 15, unweit der Galerien Thannhauser (Haldenstrasse 11) und Fischer (Haldenstrasse 19). Die Angabe von Andree lässt sich mit dem Rückseitenetikett in Verbindung bringen, auf dem «Haldenstrasse» – die Hausnummer ist undeutlich, möglicherweise «15» – und darunter «Luzern» steht (siehe Fn. 5, «Archive extern» und «Kontextinformationen»). Bestätigt wird die Kunsthandlung «Th. Weder, Haldenstr. 15» 1951 als Einlieferin im annotierten Ausstellungskatalog der Kunsthalle Basel 1951, siehe «Archive extern». Das Werk stand damals zum Verkauf (Preisangabe: 10 000 Franken)."
+    },
+    {
+      "nr": 8,
+      "text": "Andree 1977. Wohin das Werk 1951 verkauft wurde, könnte möglicherweise im Staatsarchiv Basel-Stadt recherchiert werden, wo sich die Unterlagen zur Ausstellung befinden, darunter die Verkaufsbücher sowie die Korrespondenz mit den Leihgebern und Leihgeberinnen."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Zürich 2005."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2005 im Archiv SKKG."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Fn. 6."
+    },
+    {
+      "nr": 12,
+      "text": "Hansruedi Demenga Art Collection, Henric-Petri-Strasse 19, 4051 Basel, gegründet 1951."
+    },
+    {
+      "nr": 13,
+      "text": "Das gleiche Etikett findet sich bei Böcklins Euterpe, SKKG-Inventarnummer 15042, das ebenfalls im Besitz der Erbinnen und Erben Böcklins und als Depositum im Kunsthaus Zürich war."
+    },
+    {
+      "nr": 14,
+      "text": "Ein vollständig erhaltenes Etikett ist unter «Kontextinformationen» abgebildet."
+    },
+    {
+      "nr": 15,
+      "text": "Dies korrespondiert mit den Angaben in Andree 1977 und im annotierten Ausstellungskatalog Basel 1951, siehe «Archive extern»."
+    }
+  ],
+  "bilder_anzahl": 25
+}

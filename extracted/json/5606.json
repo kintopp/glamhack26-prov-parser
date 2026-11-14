@@ -1,0 +1,520 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5606_230608.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5606",
+      "Albert Anker (1831–1910)",
+      "Auf dem Friedhof",
+      "1872",
+      "Öl auf Leinwand",
+      "34 × 62 cm (Bildmass)",
+      "50 × 77 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5606",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Auf dem Friedhof",
+    "masse": [
+      "34 × 62 cm (Bildmass)",
+      "50 × 77 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1872",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5606/5606_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          319.0,
+          426.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Au cimetière."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1.–31. Mai 1872",
+      "besitzer": "Ausstellung (Quinzième exposition de la Sociéte des Amis des Arts, Nr. 1), Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "15. Mai 1872 bis spätestens 1923",
+      "besitzer": "Auguste Châtelain (1838–1923), St-Blaise, angekauft auf der Ausstellung in Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 15. Mai 1872 in Albert Ankers Livre de vente: «Expos. de Neuchâtel […] 2. Cimitère à M. Châtelain 350», und identifizieren den Käufer als «Dr. Châtelain, St-Blaise». Sehr wahrscheinlich handelt es sich um den Arzt Auguste Châtelain, siehe https://fr.wikipedia.org/wiki/Auguste_Ch%C3%A2telain [21. März 2023]. Gemäss Werkkatalog war das Gemälde vom 6. bis 20. Juni 1872 in Le Locle an der Exposition de la Société des amis des arts au Locle (Nr. 1)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 1954 bis mindestens 1962",
+      "besitzer": "Privatbesitz, Liestal",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ausstellungskatalog Konolfingen 1954, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1981",
+      "besitzer": "Ausstellung Sporthalle Ins (Albert Anker. Der Maler und seine Welt, Nr. 45, Auf dem Friedhof von Ins)",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 2008."
+        }
+      ]
+    },
+    {
+      "zeitraum": "27. Mai 2008",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst / Swiss Art, Lot 28, Auf dem Friedhof), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 27. Mai 2008",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 500 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2008 sowie Rechnung von Sotheby’s vom 28. Mai 2008 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 115, Nr. 164.",
+        "bilder": [
+          {
+            "datei": "images/5606/5606_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.4,
+              324.3,
+              505.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst / Swiss Art, Auktionskatalog Sotheby’s, Zürich, 27. Mai 2008, Zürich 2008, Lot 28."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Albert Anker, Ausstellungskatalog Gemeindehaus Konolfingen, Konolfingen 1954, Nr. 89d.",
+        "bilder": [
+          {
+            "datei": "images/5606/5606_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              588.0,
+              454.1,
+              606.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Albert Anker. Der Maler und seine Welt, Ausstellungskatalog Sporthalle Ins, Ins 1981, Nr. 45."
+          },
+          {
+            "datei": "images/5606/5606_004_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              654.9,
+              454.0,
+              662.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Siehe Werkkatalog."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (243 Ergebnisse) für Volltextsuche «Friedhof» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 243,
+            "datum": "2023-03-16"
+          },
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Volltextsuche «cimetière» und «Anker» [16. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2023-03-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5606/5606_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            291.3,
+            530.7,
+            424.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2008, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1672.2.2\n\nRechnung von Sotheby’s vom 28. Mai 2008 sowie Kopie des Erwerbsnachweises"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5606/5606_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          319.4,
+          331.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «Anker»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Anker»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5606/5606_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              369.2,
+              259.2,
+              421.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit rotem Wachsstift «Liestal»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Wachsstift «Liestal»",
+        "kommentar": "Wohnort des Eigentümers oder der Eigentümerin von 1954/1962",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5606/5606_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              433.4,
+              259.2,
+              486.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, maschinenbeschrieben",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, maschinenbeschrieben",
+        "kommentar": "Ausstellung Ins 1981, Nr. 45",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5606/5606_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              509.2,
+              259.5,
+              588.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: vergilbtes rechteckiges Etikett mit dreiseitig gezahntem Rand, handschriftlich mit verbräunter Tinte «Kat. Nr. | 89d»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "vergilbtes rechteckiges Etikett mit dreiseitig gezahntem Rand, handschriftlich mit verbräunter Tinte «Kat. Nr. | 89d»",
+        "kommentar": "Ausstellung Konolfingen 1954, Nr. 89d",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5606/5606_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              600.2,
+              258.9,
+              656.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit dunkelblauem Kugelschreiber «3 MS N4»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit dunkelblauem Kugelschreiber «3 MS N4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5606/5606_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              688.6,
+              259.1,
+              733.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Au cimetière."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 15. Mai 1872 in Albert Ankers Livre de vente: «Expos. de Neuchâtel […] 2. Cimitère à M. Châtelain 350», und identifizieren den Käufer als «Dr. Châtelain, St-Blaise». Sehr wahrscheinlich handelt es sich um den Arzt Auguste Châtelain, siehe https://fr.wikipedia.org/wiki/Auguste_Ch%C3%A2telain [21. März 2023]. Gemäss Werkkatalog war das Gemälde vom 6. bis 20. Juni 1872 in Le Locle an der Exposition de la Société des amis des arts au Locle (Nr. 1)."
+    },
+    {
+      "nr": 4,
+      "text": "Ausstellungskatalog Konolfingen 1954, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 2008."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2008 sowie Rechnung von Sotheby’s vom 28. Mai 2008 im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 11
+}

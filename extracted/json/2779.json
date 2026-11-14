@@ -1,0 +1,685 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2779_221027.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. Oktober 2022",
+  "stand_iso": "2022-10-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2779",
+      "Alexandre Calame (1810–1864)",
+      "Église de montagne avec les tours",
+      "d’Aï",
+      "1842–1845",
+      "Öl auf Malkarton",
+      "27 × 38 cm (Bildmass)",
+      "41 × 51,5 × 6,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2779",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Église de montagne avec les tours d’Aï",
+    "masse": [
+      "27 × 38 cm (Bildmass)",
+      "41 × 51,5 × 6,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1842–1845",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2779/2779_001_objekt.png",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          246.2,
+          338.4,
+          457.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Anker 1987."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "frühestens 1842 bis 1864",
+      "besitzer": "Alexandre Calame (1810–1864)"
+    },
+    {
+      "zeitraum": "13.–22. März 1865",
+      "besitzer": "Auktion Hôtel Drouot (Vente Calame), Paris, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Siegel und Aufschrift der Nachlassauktion «Vente Calame» auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1865–1907",
+      "besitzer": "Amélie Calame (1815–1907), Genf, erworben im Erbgang vom Ehemann (dem Künstler)",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Anker 1987."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1907–1919",
+      "besitzer": "Arthur Calame (1843–1919), Genf, erworben im Erbgang von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1919–1924",
+      "besitzer": "Marguerite Buscarlet-Calame, Genf, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1924–1942",
+      "besitzer": "Louis Buscarlet (1861–1942), Genf, erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1942 bis o. D.",
+      "besitzer": "Privatbesitz, Genf",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 13. Mai bis mindestens 3. Juni 1966",
+      "besitzer": "Privatbesitz, Carouge",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Gemäss Auktionskatalog Zürich 1999 befand sich das Werk in der Ausstellung «Cent ans de peinture genevoise, 1830–1930: collections privées carougeoises, 13. Mai – 3. Juni 1966, Salle des fêtes, Ville de Carouge». Demnach war es in Privateigentum in Carouge im Kanton Genf. Möglicherweise blieb das Werk durchgehend in der Erbfolge der Nachfahrinnen und Nachfahren von Alexandre Calame."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. Juni 1991",
+      "besitzer": "Auktion Galerie Pierre-Yves Gabus (Tableaux importants art moderne et art contemporain, Lot 22, Église de montagne avec les tours d’Aï), Genf, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Genf 1991. Dieser ist zwar mit dem Datum 20.–23. Juni 1991 bezeichnet, die Auktion fand jedoch ausschliesslich am 23. Juni statt, während die übrigen Tage sich auf die der Auktion vorausgehende Ausstellung beziehen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "9. Juni 1993",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica. 18. bis 20. Jahrhundert, Lot 31, Église de montagne avec les tours d’Aï), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Auktionskatalog Zürich 1993."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. Dezember 1999",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 16, Église de montagne avec les tours d’Aï), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Auktionskatalog Zürich 1999."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. Dezember 1999",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 11 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987, S. 356/357, Nr. 205.",
+        "bilder": [
+          {
+            "datei": "images/2779/2779_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              133.7,
+              334.8,
+              380.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/2779/2779_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              387.1,
+              326.4,
+              447.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Tableaux importants art moderne et art contemporain, Auktionskatalog Galerie Pierre-Yves Gabus, Genf, 20.–23. Juni 1991, Genf 1991, Lot 22.\n\nSchweizer Kunst und Helvetica. 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 9. Juni 1993, Zürich 1993, Lot 31.",
+        "bilder": [
+          {
+            "datei": "images/2779/2779_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              503.5,
+              323.5,
+              707.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          },
+          {
+            "datei": "images/2779/2779_005_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              192.7,
+              177.6,
+              533.5,
+              318.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 8. Dezember 1999, Zürich 1999, Lot 16."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Provenienzangabe im Auktionskatalog Genf 1991: «Provenance: Succession Buscarlet, Genève, Collection particulière, suisse, ancienne collection Amélie Calame.»"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935, Nr. 9.\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935, Nr. 7.\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936, Nr. 16.\n\n– Cent ans de peinture genevoise. 1830–1930. Collections privées carougeoises. 13 mai – 3 juin 1966, Ausstellungskatalog Ville de Carouge, Salle des fêtes, Carouge 1966, Nr. 12.",
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Provenienzangabe im Ausstellungskatalog Luzern 1935: «Privatbesitz Genf»."
+          },
+          {
+            "nr": 15,
+            "text": "Dieser Ausstellungskatalog liegt laut Swisscovery in Genf, eine Fernleihe ist nicht möglich."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Kunstmuseum Luzern, A. Calame, 22. September bis 20. Oktober 1935, Nr. 9.\n\n– Kunstmuseum Winterthur, Alexandre Calame, 27. Oktober bis 24. November 1935, Nr. 7.\n\n– Athénée Genève, Alexandre Calame, September 1936, Nr. 16.\n\n– Ville de Carouge, Cent ans de peinture genevoise. 1830–1930, 13. Mai bis 3. Juni 1966, Nr. 12."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Künstlersuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Alexandre Calame» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          },
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [8. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [7. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer für freie Suche Filter 1: Artist «Calame» (inklusive aller Varianten der Namensschreibweise), Filter 2: «painting» [26. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer für Künstlersuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Künstlersuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2779/2779_006_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.6,
+            189.6,
+            531.4,
+            406.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1999, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2779/2779_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          164.2,
+          326.3,
+          375.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton: ovales rotes Wachssiegel, dazu handschriftlich mit schwarzem Schreibmittel «Cachet de la „Vente Calame“ | Paris 1865»",
+        "position_traeger": "o. m. Malkarton",
+        "merkmal": "ovales rotes Wachssiegel, dazu handschriftlich mit schwarzem Schreibmittel «Cachet de la „Vente Calame“ | Paris 1865»",
+        "kommentar": "Lugt-Nummer L.426a",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              437.8,
+              326.6,
+              503.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 16,
+            "text": "«VENTE : 1865, 13-22 mars, Paris (expert Petit). Atelier, 496 tableaux et études, puis 158 dessins portant l’estampille», https://www.marquesdecollections.fr/FtRecherche [10. August 2022] unter Eingabe der Lugt-Nummer."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Rahmen: vergilbtes rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel vermutlich «V» oder Darstellung eines Dreiecks",
+        "position_traeger": "o. r. Rahmen",
+        "merkmal": "vergilbtes rechteckiges Etikett, handschriftlich mit schwarzem Schreibmittel vermutlich «V» oder Darstellung eines Dreiecks",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              526.1,
+              237.6,
+              642.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Rahmen: rechteckiges weisses Etikett mit blauer Bordüre, gezahnt, handschriftlich mit rotem Schreibmittel «24», darüber mit schwarzem Schreibmittel «Exposition | à | Florence | 1949»; oben rechts runder grüner Stempelabdruck",
+        "position_traeger": "u. l. Rahmen",
+        "merkmal": "rechteckiges weisses Etikett mit blauer Bordüre, gezahnt, handschriftlich mit rotem Schreibmittel «24», darüber mit schwarzem Schreibmittel «Exposition | à | Florence | 1949»; oben rechts runder grüner Stempelabdruck",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              139.4,
+              269.8,
+              241.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Malkarton: runder dunkelblauer Stempel, «DOGANA FIRENZE»",
+        "position_traeger": "u. l. Malkarton",
+        "merkmal": "runder dunkelblauer Stempel, «DOGANA FIRENZE»",
+        "kommentar": "Zollstempel Florenz",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              254.2,
+              218.2,
+              337.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 17,
+            "text": "Keine Treffer bei Lugt unter Suchwort «Dogana Firenze» [10. August 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Malkarton: ovaler roter Stempel «ASF»",
+        "position_traeger": "u. l. Malkarton",
+        "merkmal": "ovaler roter Stempel «ASF»",
+        "kommentar": "Lugt-Nummer L.178b, zugehörig zur Sammlung Alfred Schreiber-Favre, Genf",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              349.4,
+              218.2,
+              411.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Malkarton: runder schwarzer Stempel, unbekanntes Blütenmuster in der Mitte, unleserlich",
+        "position_traeger": "u. l. Malkarton",
+        "merkmal": "runder schwarzer Stempel, unbekanntes Blütenmuster in der Mitte, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              437.8,
+              260.9,
+              559.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 18,
+            "text": "Keine Treffer bei Lugt bei einer Suche mit den Suchkriterien «technique: marque estampée» und «couleur: noir» [10. August 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rahmen: angehefteter weisser Zettel von Sotheby’s, Zürich, 8. Dezember 1999, mit schwarzem Schreibmittel handschriftlich «Z 11’000.–»",
+        "position_traeger": "o. l. Rahmen",
+        "merkmal": "angehefteter weisser Zettel von Sotheby’s, Zürich, 8. Dezember 1999, mit schwarzem Schreibmittel handschriftlich «Z 11’000.–»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              571.4,
+              324.5,
+              678.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rahmen: mit weisser Kreide «D», verdeckt durch Zettel und Metallschiene",
+        "position_traeger": "o. m. Rahmen",
+        "merkmal": "mit weisser Kreide «D», verdeckt durch Zettel und Metallschiene",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2779/2779_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.1,
+              139.4,
+              260.9,
+              283.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Anker 1987."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Siegel und Aufschrift der Nachlassauktion «Vente Calame» auf der Werkrückseite."
+    },
+    {
+      "nr": 3,
+      "text": "Anker 1987."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd."
+    },
+    {
+      "nr": 8,
+      "text": "Gemäss Auktionskatalog Zürich 1999 befand sich das Werk in der Ausstellung «Cent ans de peinture genevoise, 1830–1930: collections privées carougeoises, 13. Mai – 3. Juni 1966, Salle des fêtes, Ville de Carouge». Demnach war es in Privateigentum in Carouge im Kanton Genf. Möglicherweise blieb das Werk durchgehend in der Erbfolge der Nachfahrinnen und Nachfahren von Alexandre Calame."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Genf 1991. Dieser ist zwar mit dem Datum 20.–23. Juni 1991 bezeichnet, die Auktion fand jedoch ausschliesslich am 23. Juni statt, während die übrigen Tage sich auf die der Auktion vorausgehende Ausstellung beziehen."
+    },
+    {
+      "nr": 10,
+      "text": "Auktionskatalog Zürich 1993."
+    },
+    {
+      "nr": 11,
+      "text": "Auktionskatalog Zürich 1999."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 13,
+      "text": "Provenienzangabe im Auktionskatalog Genf 1991: «Provenance: Succession Buscarlet, Genève, Collection particulière, suisse, ancienne collection Amélie Calame.»"
+    },
+    {
+      "nr": 14,
+      "text": "Provenienzangabe im Ausstellungskatalog Luzern 1935: «Privatbesitz Genf»."
+    },
+    {
+      "nr": 15,
+      "text": "Dieser Ausstellungskatalog liegt laut Swisscovery in Genf, eine Fernleihe ist nicht möglich."
+    },
+    {
+      "nr": 16,
+      "text": "«VENTE : 1865, 13-22 mars, Paris (expert Petit). Atelier, 496 tableaux et études, puis 158 dessins portant l’estampille», https://www.marquesdecollections.fr/FtRecherche [10. August 2022] unter Eingabe der Lugt-Nummer."
+    },
+    {
+      "nr": 17,
+      "text": "Keine Treffer bei Lugt unter Suchwort «Dogana Firenze» [10. August 2022]."
+    },
+    {
+      "nr": 18,
+      "text": "Keine Treffer bei Lugt bei einer Suche mit den Suchkriterien «technique: marque estampée» und «couleur: noir» [10. August 2022]."
+    }
+  ],
+  "bilder_anzahl": 15
+}

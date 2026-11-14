@@ -1,0 +1,987 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7014_220811.pdf",
+  "seiten": 12,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "11. August 2022",
+  "stand_iso": "2022-08-11",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7014",
+      "Ferdinand Hodler (1853–1918)",
+      "Der Geschichtsschreiber",
+      "1886",
+      "Öl auf Leinwand",
+      "63 × 61 cm (Bildmass)",
+      "64 × 80 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "7014",
+    "status": "Klar",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Der Geschichtsschreiber",
+    "masse": [
+      "63 × 61 cm (Bildmass)",
+      "64 × 80 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1886",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7014/7014_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.9,
+          480.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Bolleter 2017."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1886–1888",
+      "besitzer": "Edouard Landolt, Genf, wohl erworben vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ebd. Edouard Landolt war Inhaber eines Genfer «Bierlokal[s], das wegen eines ausgestopften und im Restaurant präsentierten Krokodils auch Taverne du Crocodile genannt wurde», siehe Regula Bolleter, Taverne du Crocodile, https://re-cherche.sik-isea.ch/fr/everything/in/catalogues.hodler.band3.werkgruppen-fh-3%5bsik:work-13128993%5d:exp/publica-tion/list?0.0.type=work&0.0.sikapi:is_part_of_work_group=sik:work-13128993 [4. Dezember 2025]. Vermutlich befand sich das Gemälde dort, denn beim folgenden Besitzer, Hermann Herth, handelt es sich um den neuen Inhaber der Brasserie."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1903",
+      "besitzer": "Hermann Charles Herth, Genf",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1915",
+      "besitzer": "möglicherweise Paul Linder (1871–1941), Basel",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd. Der Rechtsanwalt und Kunstsammler Dr. Paul Linder besass mehrere Werke von Hodler und war mit dem Künstler befreundet, siehe Kontextinformationen. Worauf die als Vermutung geäusserte Angabe im Werkkatalog beruht, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1917 bis mindestens 1923",
+      "besitzer": "Willy Russ-Young (1877–1959), Neuenburg",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Bolleter 2017; siehe auch Loosli 1924."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1924",
+      "besitzer": "Galerie Fischer, Luzern",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Bolleter 2017."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1924–1949",
+      "besitzer": "Fritz Schwarz-von Spreckelsen (1880–1949), Basel, vermutlich angekauft von Galerie Fischer",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ebd. Fritz Schwarz-von Spreckelsen war Generalkonsul, Kunstsammler und Mäzen. Bereits 1925 tritt er als Leihgeber des Werks auf, siehe Ausstellungsetikett der Kunsthalle Basel in der Objektdatenbank SKKG. Auch die Bleistiftnotiz auf der Werkrückseite verweist auf diese Provenienzstation, siehe Provenienzmerkmale."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1949–1980",
+      "besitzer": "Sigrid Schwarz-von Spreckelsen (1886–1980), Basel, erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Bolleter 2017 mit der Angabe «Privatbesitz». Das Leihgeberetikett des Kunstmuseums Bern aus dem Jahr 1968 auf der Werkrückseite («Frau Schwarz, Basel») legt nahe, dass es sich dabei um die Witwe des Vorbesitzers handelt. Die Jahresangaben des Werkkatalogs zum Handwechsel korrespondieren denn auch mit dem Todesjahr ihres Gatten und ihrer selbst. Zur Familie Schwarz-von Spreckelsen siehe auch Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1980–1986",
+      "besitzer": "Sigrid Katharina Schwarz (1914–1992), Basel, erworben im Erbgang von der Mutter",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Bolleter 2017 mit der Angabe «Privatbesitz». Dabei handelt es sich um Sigrid Katharina Schwarz, die Tochter der Vorbesitzerin, siehe Etikett der Ausstellung Zürich 1983 auf der Werkrückseite sowie Rechnung von Daniel Blaise Thorens Fine Art Gallery AG an Stiftung für Kunst, Kultur und Geschichte vom 18. September 1986 im Archiv SKKG. Siehe auch Fn. 12."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1986 bis 18. September 1986",
+      "besitzer": "Daniel Blaise Thorens, Fine Art Gallery, Basel",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Bolleter 2017; siehe Fn. 11."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 18. September 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Daniel Blaise Thorens, Fine Art Gallery, Ankaufspreis: 470 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe Rechnung von Daniel Blaise Thorens Fine Art Gallery AG an Stiftung für Kunst, Kultur und Geschichte vom 18. September 1986 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Regula Bolleter, Der Geschichtsschreiber, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012 [2017], Nr. 1166, https://recherche.sik-isea.ch/sik:work-6005621 [11. August 2022]",
+        "bilder": [
+          {
+            "datei": "images/7014/7014_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              238.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/7014/7014_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              244.8,
+              533.2,
+              415.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/7014/7014_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              421.8,
+              533.2,
+              754.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/7014/7014_005_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              133.8,
+              370.9,
+              288.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Carl Albert Loosli, Ferdinand Hodler. Leben, Werk und Nachlass, Bd. 4, Bern 1924, S. 87, Nr. 850."
+          },
+          {
+            "datei": "images/7014/7014_006_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              332.3,
+              507.1,
+              362.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (36 Ergebnisse) für Volltextsuche mit Filter: Künstler «Ferdinand Hodler» [11. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 36,
+            "datum": "2022-08-11"
+          },
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [7. Juli 2024]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2024-07-07"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Selbstbildnis» mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [4. August 2024]",
+            "treffer": 0,
+            "datum": "2024-08-04"
+          },
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [24. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2024-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Ferdinand Hodler» und «Geschichtsschreiber» [11. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2022-08-11"
+          },
+          {
+            "text": "0 Treffer (42 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Hodler», Filter 2: Volltext/Metadaten «Geschichtsschreiber», Filter 3: Titel einschränken «Automatisch» [5. August 2024]",
+            "treffer": 0,
+            "ergebnisse": 42,
+            "datum": "2024-08-05"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Hodler», Filter 2: Volltext/Metadaten: «Schreibender Mann», Filter 3: Titel einschränken «Automatisch» [5. August 2024]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2024-08-05"
+          },
+          {
+            "text": "0 Treffer (85 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Hodler», Filter 2: Volltext/Metadaten «Sitzender Mann», Filter 3: Titel einschränken «Automatisch» [5. August 2024]",
+            "treffer": 0,
+            "ergebnisse": 85,
+            "datum": "2024-08-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Ferdinand Hodler» und «Geschichtsschreiber» [11. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "11. August 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7014/7014_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            190.7,
+            534.1,
+            322.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Ausstellungsetikett Karlsruhe 1925: verbräuntes rechteckiges Etikett, schwarz bedruckt, handschriftlich mit Bleistift «Hodler | der Geschichtsschreiber | Konsul Schwarz-Sprekelsen [sic] | Basel | Kunsthalle Basel», vormals am Werk befestigt"
+        }
+      ]
+    },
+    {
+      "datum": "11. August 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7014/7014_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            442.4,
+            534.1,
+            498.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "unbekanntes Ausstellungsetikett: rechteckiges weisses Etikett, schwarz bedruckt und handschriftlich mit rotem Schreibmittel beschrieben, vormals am Werk befestigt, Provenienz: «Sammlung Sigrid Katharina Schwarz, Basel»"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Möglicherweise handelt es sich um das Leihgeberetikett der Ausstellung Basel 1979 und Sigrid Katharina Schwarz war bereits vor dem Ableben ihrer Mutter, die ein hohes Alter erreichte, Eigentümerin oder Besitzerin des Gemäldes."
+        }
+      ]
+    },
+    {
+      "datum": "11. August 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7014/7014_009_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            139.8,
+            534.3,
+            225.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis zum Freihandkauf bei Daniel Blaise Thorens 1986: rechteckiges weisses Etikett, schwarz maschinenbeschrieben und handschriftlich mit schwarzem Filzstift annotiert, vormals am Werk befestigt"
+        }
+      ]
+    },
+    {
+      "datum": "11. August 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1396.8.2 (PDF, S. 68)",
+      "bilder": [
+        {
+          "datei": "images/7014/7014_010_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            364.0,
+            533.0,
+            426.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis zum Freihandkauf bei Daniel Blaise Thorens 1986"
+        }
+      ]
+    },
+    {
+      "datum": "11. August 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1396.8.2 (PDF, S. 71)\n\nRechnung von Daniel Blaise Thorens Fine Art Gallery AG an Stiftung für Kunst, Kultur und Geschichte vom 18. September 1986, Provenienz: «Sammlung Sigrid Katharina SCHWARZ, Basel», Ankaufspreis: 470 000 Franken",
+      "bilder": [
+        {
+          "datei": "images/7014/7014_011_archiv_intern.png",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            502.1,
+            533.4,
+            746.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        }
+      ]
+    },
+    {
+      "datum": "21. Februar 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1396.8.2 (PDF, S. 69)\n\nDankesschreiben von Daniel Blaise Thorens an Bruno Stefanini vom 24. September 1986 anlässlich Besuch in Basel"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Familie Schwarz-von Spreckelsen",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/7014/7014_012_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            486.8,
+            419.7,
+            679.7
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Die Lebensdaten der Familienmitglieder finden sich auf dem Grabstein auf dem Friedhof am Hörnli, Riehen, siehe https://de.finda-grave.com/memorial/231684585 [19. November 2025]."
+        }
+      ]
+    },
+    {
+      "thema": "Paul Linder, Basel",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/7014/7014_013_kontextinformationen.png",
+          "seite": 9,
+          "bbox": [
+            193.0,
+            139.8,
+            530.5,
+            344.9
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Arnold Fiechter, Bildnis des Sammlers Dr. Paul Linder, 1914, in der Online-Sammlung des Kunstmuseum Basels mit weiterführenden Informationen, siehe https://sammlungonline.kunstmuseumba-sel.ch/eMP/eMuseumPlus?service=ExternalInterface&module=collec-tion&objectId=1634&viewType=detailView [19. November 2025]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7014/7014_014_provenienzmerkmale.jpeg",
+        "seite": 10,
+        "bbox": [
+          62.5,
+          165.3,
+          326.3,
+          441.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit brauner Farbe «1886 F.Hodler»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit brauner Farbe «1886 F.Hodler»",
+        "kommentar": "Datierung und Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              478.7,
+              329.3,
+              521.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: vermutlich Negativ eines Etiketts",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "vermutlich Negativ eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              541.8,
+              241.9,
+              593.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «X» (Kreuz)",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «X» (Kreuz)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              606.8,
+              197.1,
+              670.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: verbräuntes langrechteckiges Etikett, schwarz bedruckt (beschädigt)",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "verbräuntes langrechteckiges Etikett, schwarz bedruckt (beschädigt)",
+        "kommentar": "Ausstellung Helmhaus, Zürich, 1951",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.2,
+              682.6,
+              326.5,
+              719.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett, braun bedruckt und schwarz maschinenbeschrieben",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, braun bedruckt und schwarz maschinenbeschrieben",
+        "kommentar": "Ausstellung Seedamm-Kulturzentrum, Pfäffikon SZ, 1981",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_019_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              139.8,
+              280.0,
+              218.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit rotem Schreibmittel «X» (Kreuz)",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «X» (Kreuz)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_020_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              230.3,
+              201.2,
+              306.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt, schwarz maschinengeschrieben «20 Frau Schwarz, Basel»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt, schwarz maschinengeschrieben «20 Frau Schwarz, Basel»",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1968, Nr. 20",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_021_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              318.6,
+              279.9,
+              411.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit Bleistift «Herrn Schwarz | Böcklinstr.»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Herrn Schwarz | Böcklinstr.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_022_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              424.0,
+              236.4,
+              513.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: handschriftlich mit Bleistift «S[chwarz?] Gellert st[r?] 101 [B]asel» (unleserlich und teilweise verdeckt)",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «S[chwarz?] Gellert st[r?] 101 [B]asel» (unleserlich und teilweise verdeckt)",
+        "kommentar": "Adresse der Familie Schwarz in Basel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_023_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              135.9,
+              525.6,
+              235.9,
+              565.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/7014/7014_024_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              571.5,
+              328.5,
+              610.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich mit Bleistift «Historien»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Historien»",
+        "kommentar": "vermutlich französischer Bildtitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_025_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.2,
+              622.9,
+              219.0,
+              710.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "An der Ausstellung Bern 1921 wurde das Werk gemäss Bolleter 2017 unter dem Doppeltitel «Der Geschichtschreiber [sic] / L’Historien» ausgestellt."
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_026_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.3,
+              140.2,
+              233.0,
+              191.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: handschriftlich mit Bleistift «361»",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «361»",
+        "kommentar": "Ausstellung Basel 1943, Nr. 361",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_027_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              203.7,
+              233.7,
+              276.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33 294», unterstrichen",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 33 294», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_028_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              289.7,
+              233.7,
+              324.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: handschriftlich mit rotem Schreibmittel «[Basel?] […] | […]» (unleserlich)",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «[Basel?] […] | […]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_029_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              365.4,
+              328.0,
+              428.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: rechteckiges weisses Etikett, schwarz bedruckt und maschinenbeschrieben, Besitzerin: «Frau Katharina Schwarz», Adresse: «Gellertstrasse 101 | 4052 Basel»",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt und maschinenbeschrieben, Besitzerin: «Frau Katharina Schwarz», Adresse: «Gellertstrasse 101 | 4052 Basel»",
+        "kommentar": "Ausstellung Kunsthaus Zürich 1983",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_030_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              440.9,
+              327.9,
+              531.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Fehlt im Werkkatalog (Bolleter 2017)."
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: verbräuntes rechteckiges Etikett, schwarz bedruckt, schwarz gestempelt «361»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz bedruckt, schwarz gestempelt «361»",
+        "kommentar": "Ausstellung Kunsthalle Basel 1943, Nr. 361",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7014/7014_031_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              544.9,
+              324.6,
+              642.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Bolleter 2017."
+    },
+    {
+      "nr": 2,
+      "text": "Ebd. Edouard Landolt war Inhaber eines Genfer «Bierlokal[s], das wegen eines ausgestopften und im Restaurant präsentierten Krokodils auch Taverne du Crocodile genannt wurde», siehe Regula Bolleter, Taverne du Crocodile, https://re-cherche.sik-isea.ch/fr/everything/in/catalogues.hodler.band3.werkgruppen-fh-3%5bsik:work-13128993%5d:exp/publica-tion/list?0.0.type=work&0.0.sikapi:is_part_of_work_group=sik:work-13128993 [4. Dezember 2025]. Vermutlich befand sich das Gemälde dort, denn beim folgenden Besitzer, Hermann Herth, handelt es sich um den neuen Inhaber der Brasserie."
+    },
+    {
+      "nr": 3,
+      "text": "Bolleter 2017."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd. Der Rechtsanwalt und Kunstsammler Dr. Paul Linder besass mehrere Werke von Hodler und war mit dem Künstler befreundet, siehe Kontextinformationen. Worauf die als Vermutung geäusserte Angabe im Werkkatalog beruht, ist nicht bekannt."
+    },
+    {
+      "nr": 5,
+      "text": "Bolleter 2017; siehe auch Loosli 1924."
+    },
+    {
+      "nr": 6,
+      "text": "Bolleter 2017."
+    },
+    {
+      "nr": 7,
+      "text": "Ebd. Fritz Schwarz-von Spreckelsen war Generalkonsul, Kunstsammler und Mäzen. Bereits 1925 tritt er als Leihgeber des Werks auf, siehe Ausstellungsetikett der Kunsthalle Basel in der Objektdatenbank SKKG. Auch die Bleistiftnotiz auf der Werkrückseite verweist auf diese Provenienzstation, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 8,
+      "text": "Bolleter 2017 mit der Angabe «Privatbesitz». Das Leihgeberetikett des Kunstmuseums Bern aus dem Jahr 1968 auf der Werkrückseite («Frau Schwarz, Basel») legt nahe, dass es sich dabei um die Witwe des Vorbesitzers handelt. Die Jahresangaben des Werkkatalogs zum Handwechsel korrespondieren denn auch mit dem Todesjahr ihres Gatten und ihrer selbst. Zur Familie Schwarz-von Spreckelsen siehe auch Kontextinformationen."
+    },
+    {
+      "nr": 9,
+      "text": "Bolleter 2017 mit der Angabe «Privatbesitz». Dabei handelt es sich um Sigrid Katharina Schwarz, die Tochter der Vorbesitzerin, siehe Etikett der Ausstellung Zürich 1983 auf der Werkrückseite sowie Rechnung von Daniel Blaise Thorens Fine Art Gallery AG an Stiftung für Kunst, Kultur und Geschichte vom 18. September 1986 im Archiv SKKG. Siehe auch Fn. 12."
+    },
+    {
+      "nr": 10,
+      "text": "Bolleter 2017; siehe Fn. 11."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Rechnung von Daniel Blaise Thorens Fine Art Gallery AG an Stiftung für Kunst, Kultur und Geschichte vom 18. September 1986 im Archiv SKKG."
+    },
+    {
+      "nr": 12,
+      "text": "Möglicherweise handelt es sich um das Leihgeberetikett der Ausstellung Basel 1979 und Sigrid Katharina Schwarz war bereits vor dem Ableben ihrer Mutter, die ein hohes Alter erreichte, Eigentümerin oder Besitzerin des Gemäldes."
+    },
+    {
+      "nr": 13,
+      "text": "An der Ausstellung Bern 1921 wurde das Werk gemäss Bolleter 2017 unter dem Doppeltitel «Der Geschichtschreiber [sic] / L’Historien» ausgestellt."
+    },
+    {
+      "nr": 14,
+      "text": "Fehlt im Werkkatalog (Bolleter 2017)."
+    }
+  ],
+  "bilder_anzahl": 31
+}

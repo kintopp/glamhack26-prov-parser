@@ -1,0 +1,945 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3999_241107.pdf",
+  "seiten": 13,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. November 2024",
+  "stand_iso": "2024-11-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3999",
+      "Ferdinand Hodler (1853–1918)",
+      "Am Ufer des Vierwaldstättersees (nach Alexandre",
+      "Calame)",
+      "um 1871",
+      "Öl auf Karton",
+      "39 × 32 cm (Bildmass)",
+      "62 × 55 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3999",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Am Ufer des Vierwaldstättersees (nach Alexandre Calame)",
+    "masse": [
+      "39 × 32 cm (Bildmass)",
+      "62 × 55 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1871",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3999/3999_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.3,
+          492.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Brunner 2008. Auf der Werkrückseite findet sich die mit der Identifikation des Vierwaldstättersees nicht vereinbare Aufschrift «Am Brienzersee», siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "24.–26. Oktober 1968",
+      "besitzer": "Auktion Galerie Dobiaschofsky (Gemälde und Graphik 16. bis 20. Jahrhundert, Lot 210, Am Brienzersee), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Bern 1968, Brunner 2008."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1.–3. November 1979",
+      "besitzer": "Auktion Kurt Huber, Villa Ulmberg (Auktion Schweizer Malerei, Lot 710, Brienzer See), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1979. Das Lot 710 befindet sich ausserhalb des Katalogs beziehungsweise ist auf einem Beiblatt verzeichnet, siehe Archiv intern."
+        },
+        {
+          "nr": 4,
+          "text": "Die Angabe der Sotheby’s-Auktion vom 14. November 1979 im Werkkatalog (Brunner 2008) ist unrichtig, dort wurde ein Werk von Ferdinand Sommer mit gleichem Motiv versteigert. Das Werk von Sommer, das ebenfalls im November 1979 in Zürich versteigert wurde, befindet sich ebenfalls im Eigentum der SKKG (Inventarnummer 2089). Das vorliegende Werk von Hodler wurde nicht bei Sotheby’s, sondern bei Kurt Huber, Villa Ulmberg, erworben, und zwar 1979, nicht erst wie im Werkkatalog angegeben 1983. Zum Zusammenhang zwischen Sommer und Hodler siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "3. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, erworben auf Auktion Kurt Kurt Huber, Villa Ulmberg, Zuschlagspreis: 27 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1979 sowie Rechnung von Kurt Huber, Villa Ulmberg, an Bruno Stefanini wohl vom 22. November 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Monika Brunner, Am Ufer des Vierwaldstättersees (nach Alexandre Calame), in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 1. Die Landschaften, Teilband 1, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2008, Nr. 12, https://www.ferdinand-hod-ler.ch/werke.aspx?id=6005205 [22. November 2023].",
+        "bilder": [
+          {
+            "datei": "images/3999/3999_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              497.7,
+              420.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/3999/3999_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              426.1,
+              334.8,
+              482.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Carl Albert Loosli, Ferdinand Hodler. Leben, Werk und Nachlass, Bd. 1, Bern 1921, S. 150, sowie Bd. 3, Bern 1923, S. 65."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Zu Abweichungen in der Provenienzkette siehe Fn. 4."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Gemälde und Graphik 16. bis 20. Jahrhundert, Auktionskatalog Dobiaschofsky, Bern, 24.–26. Oktober 1968, Bern 1968, Lot 210 [nicht konsultiert, fehlt im Archiv SKKG].\n\nAuktion Schweizer Malerei, Auktionskatalog Kurt Huber, Villa Ulmberg, 1.–3. November 1979, Zürich 1979, Lot 710."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Jura Brüschweiler, Ferdinand Hodler als Schüler von Ferdinand Sommer, hrsg. von der Kunstkommission Steffisburg, Steffisburg/Thun 1984, S. 72, 74, 81, 85, 89, 160, Fn. 46, Abb. 111, 229."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Ferdinand Hodler als Schüler von Ferdinand Sommer, Kunstsammlung Steffisburg, 11. September bis 30. Oktober 1983 /Fondation Pierre Gianadda, Martigny, 12. November 1983 bis 29. Januar 1984 / Museo Civico di Belle Arti, Lugano, 25. Februar bis 13. Mai 1984, Nr. 125 (Souvenir-Landschaft am Vierwaldstättersee [nach Ferdinand Sommer])."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Vierwaldstättersee›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Vierwaldstättersee» mit Filter: Künstler «Ferdinand Hodler» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Vierwaldstättersee›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Ufer›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Calame›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Brienzersee›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Vierwaldstättersee›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Ufer›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Calame›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Brienzersee›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Vierwaldstättersee» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Ufer» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Vierwaldstättersee» und Autor «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "654 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Vierwaldstättersee» [21. November 2023]",
+            "treffer": 654,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Vierwaldstättersee» und Schlagwort «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (55 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler Vierwaldstättersee» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 55,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Vierwaldstättersee›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Ufer›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Calame›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Brienzersee›» [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [2. August 2022]",
+            "treffer": 0,
+            "datum": "2022-08-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Brienzersee» [2. Oktober 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-10-02"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche «Vierwaldstättersee» [2. Oktober 2024]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2024-10-02"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche «Hodler» [2. Oktober 2024]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2024-10-02"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «nach Calame» [2. Oktober 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-10-02"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/3999/3999_004_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              544.3,
+              384.0,
+              671.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Kunsthandlung Böhler",
+            "bildtitel": "1 möglicher Treffer (Ergebnisse unbekannt) für Volltextsuche «Hodler» [21. November 2023]",
+            "bildunterschrift": "Steinmeyer & Söhne, «Gemälde von Hodler», «Baum am See, signiert», Provenienz: «Sammlung Klein Cöln», Technik: «Leinwand», Masse: «46,5 × 33,5 cm», Eingangsdatum: 16. September 1919, Ausgangsdatum: 19. November 1924, siehe http://boeh-ler.zikg.eu/wisski/navigate/203221/view [21. November 2023]. Masse und Technik passen nicht ganz."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "4. Juni 2024",
+      "institution": "SBB Historic, Windisch",
+      "betreff": "Informationen zu den Transportetiketten auf der Werkrückseite",
+      "antwort": "6. Juni 2024: Bei beiden handelt es sich um SBB-Etiketten. Das Objekt wurde zwischen 1928 und 1965 von Bern aus verschickt. Der Aufkleber «074» bezeichnet die Stückgutnummer, das andere ist ein Warnaufkleber."
+    },
+    {
+      "datum": "6. Juni 2024",
+      "institution": "Dobiaschofsky Auktionen, Bern",
+      "betreff": "Informationen zur Auktion 1968, Lot 210",
+      "antwort": "7. Juni 2024: Lotspezifischer Scan des Auktionskatalogs (siehe Archive extern). Der Name hinter «BL 15» lässt sich mangels erhaltener Unterlagen nicht mehr rekonstruieren."
+    },
+    {
+      "datum": "13. November 2024",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich",
+      "betreff": "Hat das SIK Unterlagen zum Werk mit der Inventarnummer 11394 respektive zur Verzeichnisnummer 4508?",
+      "antwort": "13. November 2024: Verweis auf Verantwortliche des Werkkatalogprojekts\n\n(wurde nicht weiterverfolgt)"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "21. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.1.2 (PDF, S. 159)",
+      "bilder": [
+        {
+          "datei": "images/3999/3999_005_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            265.7,
+            534.3,
+            494.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Expertise von Prof. Max Huggler, Sent, vom 20. August 1974"
+        }
+      ]
+    },
+    {
+      "datum": "11. Februar 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3999/3999_006_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            383.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierter Auktionskatalog Zürich 1979 mit Hinweis auf Lot 710, das im Nachtrag des Katalogs beschrieben wird (siehe Beiblatt unten)"
+        }
+      ]
+    },
+    {
+      "datum": "21. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.1.2 (PDF, S. 288)",
+      "bilder": [
+        {
+          "datei": "images/3999/3999_007_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            483.8,
+            532.9,
+            703.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/3999/3999_008_archiv_intern.jpeg",
+          "seite": 8,
+          "bbox": [
+            368.5,
+            152.4,
+            532.9,
+            270.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildtitel": "Nachtrag/Beiblatt zum Auktionskatalog Zürich 1979, annotiert lotspezifischer Ausschnitt"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3999/3999_009_archiv_intern.jpeg",
+          "seite": 8,
+          "bbox": [
+            368.5,
+            283.4,
+            532.9,
+            420.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Nachtrag/Beiblatt zum Auktionskatalog Zürich 1979, lotspezifischer Ausschnitt, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "21. Mai 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.4.1424.1.2 (PDF, S. 67)",
+      "bilder": [
+        {
+          "datei": "images/3999/3999_010_archiv_intern.png",
+          "seite": 8,
+          "bbox": [
+            368.5,
+            495.4,
+            532.9,
+            613.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung von Kurt Huber, Villa Ulmberg, Zürich, an Bruno Stefanini, Winterthur, vom 22. November (?) 1979, annotiert"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "7. Juni 2024",
+      "institution": "Dobiaschofsky Auktionen, Bern",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3999/3999_011_archive_extern.jpeg",
+          "seite": 9,
+          "bbox": [
+            368.6,
+            190.7,
+            533.0,
+            251.8
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierter Auktionskatalog Bern 1968, Lot 210, Annotation «BL 15» (analog auf Werkrückseite, siehe Provenienzmerkmale)"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Ferdinand Hodler und Ferdinand Sommer",
+      "information": "«Ferdinand Sommer war ab 1855 in Thun tätig und wurde Grossmeister der sog. Thuner Vedutenschule. Als solcher fertigte er zahlreiche Gemälde der Schweizer Berge, die er an die ersten Touristen der Alpen verkaufte. Von 1868 bis 1871 hatte er Ferdinand Hodler als Lehrling, wobei dieser anfangs Flachmalerarbeiten, namentlich Ladenschilder, verrichten musste.»\n\nBeide, Sommer und Hodler, fertigten ein Gemälde mit dem Motiv des Vierwaldstätter- oder Brienzersees an, das denselben Ausschnitt aufweist. Beide Werke sind im Besitz der SKKG und wurden an der Ausstellung Steffisburg/Martigny/Lugano 1983/84 (Ferdinand Hodler als Schüler von Ferdinand Sommer) gezeigt. Gemäss Brunner 2008 handelt es sich um eine Kopie einer Lithografie von Alexandre Calame. Von Hodler existieren drei Fassungen, zwei davon sind signiert.",
+      "bilder": [
+        {
+          "datei": "images/3999/3999_012_kontextinformationen.jpeg",
+          "seite": 10,
+          "bbox": [
+            314.5,
+            152.4,
+            433.2,
+            292.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Zum Vergleich: links Hodler (Inv. 2089), rechts Sommer (Inv. 3999)"
+        },
+        {
+          "datei": "images/3999/3999_013_kontextinformationen.jpeg",
+          "seite": 10,
+          "bbox": [
+            193.0,
+            153.1,
+            314.1,
+            292.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "https://www.kornfeld.ch/d365/d4309113470_Ferdinand-Sommer-Jungfrau-mit-Bergbach.html [7. Juli 2025]."
+        },
+        {
+          "nr": 8,
+          "text": "Siehe Fn. 1."
+        },
+        {
+          "nr": 9,
+          "text": "Siehe Werkkatalog, Nr. 11–13."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3999/3999_014_provenienzmerkmale.jpeg",
+        "seite": 11,
+        "bbox": [
+          62.5,
+          165.3,
+          289.2,
+          421.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      },
+      {
+        "datei": "images/3999/3999_015_provenienzmerkmale.jpeg",
+        "seite": 11,
+        "bbox": [
+          62.5,
+          446.5,
+          289.2,
+          707.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "ohne Rückseitenschutz"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubte Plakette, eingraviert «FERD. HODLER | 1853–1918»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubte Plakette, eingraviert «FERD. HODLER | 1853–1918»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_016_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.4,
+              139.8,
+              288.6,
+              192.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Malkarton (Bildträger): mit hellbrauner Farbe «HODLER»",
+        "position_traeger": "u. r. Malkarton (Bildträger)",
+        "merkmal": "mit hellbrauner Farbe «HODLER»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_017_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.4,
+              205.0,
+              288.6,
+              276.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Bildträger: rechteckiger beiger Aufkleber, rot und schwarz gedruckt «[Vo]n | [D]e Da Bern H[B] | 074 | nach | à a […] | via […]»",
+        "position_traeger": "o. m. Bildträger",
+        "merkmal": "rechteckiger beiger Aufkleber, rot und schwarz gedruckt «[Vo]n | [D]e Da Bern H[B] | 074 | nach | à a […] | via […]»",
+        "kommentar": "Aufkleber der Schweizerischen Bundesbahnen (SBB) mit Stückgutnummer, aufgebracht zwischen 1928 und 1965 (möglicherweise 21. Juni 1955, siehe folgendes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_018_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              137.1,
+              289.5,
+              289.2,
+              476.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Siehe Anfragen."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Bildträger: handschriftlich mit blauem Kugelschreiber «21.6.1955»",
+        "position_traeger": "o. m. Bildträger",
+        "merkmal": "handschriftlich mit blauem Kugelschreiber «21.6.1955»",
+        "kommentar": "vermutlich zugehörig zum SBB-Aufkleber (siehe vorausgehendes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_019_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.4,
+              488.7,
+              288.6,
+              571.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Bildträger: rechteckiger beiger Aufkleber, rot gedruckt ein stilisiertes, eingerahmtes Glas",
+        "position_traeger": "o. r. Bildträger",
+        "merkmal": "rechteckiger beiger Aufkleber, rot gedruckt ein stilisiertes, eingerahmtes Glas",
+        "kommentar": "SBB-Warnaufkleber («zerbrechlich»), wohl aus der Zeit zwischen 1928 und 1965",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_020_provenienzmerkmale.jpeg",
+            "seite": 12,
+            "bbox": [
+              136.2,
+              584.0,
+              233.3,
+              717.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Siehe Anfragen."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. Bildträger: handschriftlich mit schwarzer Tinte «Am Brienzersee»",
+        "position_traeger": "m. Bildträger",
+        "merkmal": "handschriftlich mit schwarzer Tinte «Am Brienzersee»",
+        "kommentar": "früherer Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_021_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.4,
+              139.8,
+              288.1,
+              191.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: Reste eines angehefteten weissen Zettels",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "Reste eines angehefteten weissen Zettels",
+        "kommentar": "vermutlich entfernter Erwerbsnachweis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_022_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.4,
+              204.8,
+              292.0,
+              297.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Bildträger: rechteckiges beiges Etikett, handschriftlich mit schwarzem Schreibmittel «0 4508 x»",
+        "position_traeger": "o. l. Bildträger",
+        "merkmal": "rechteckiges beiges Etikett, handschriftlich mit schwarzem Schreibmittel «0 4508 x»",
+        "kommentar": "SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_023_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.4,
+              310.3,
+              240.6,
+              351.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «4508»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «4508»",
+        "kommentar": "SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_024_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.4,
+              386.0,
+              242.8,
+              428.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit rotem Filzstift «125»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit rotem Filzstift «125»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_025_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.4,
+              449.1,
+              242.9,
+              515.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «BL 15»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «BL 15»",
+        "kommentar": "Käuferkürzel der Auktion Dobiaschofsky 1968, siehe Archive extern",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_026_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.4,
+              527.7,
+              242.8,
+              562.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges weisses Etikett, schwarz gedruckt «4508», mit blauem Kugelschreiber unterstrichen",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «4508», mit blauem Kugelschreiber unterstrichen",
+        "kommentar": "SIK-Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3999/3999_027_provenienzmerkmale.jpeg",
+            "seite": 13,
+            "bbox": [
+              136.4,
+              603.4,
+              252.7,
+              655.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Brunner 2008. Auf der Werkrückseite findet sich die mit der Identifikation des Vierwaldstättersees nicht vereinbare Aufschrift «Am Brienzersee», siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Bern 1968, Brunner 2008."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1979. Das Lot 710 befindet sich ausserhalb des Katalogs beziehungsweise ist auf einem Beiblatt verzeichnet, siehe Archiv intern."
+    },
+    {
+      "nr": 4,
+      "text": "Die Angabe der Sotheby’s-Auktion vom 14. November 1979 im Werkkatalog (Brunner 2008) ist unrichtig, dort wurde ein Werk von Ferdinand Sommer mit gleichem Motiv versteigert. Das Werk von Sommer, das ebenfalls im November 1979 in Zürich versteigert wurde, befindet sich ebenfalls im Eigentum der SKKG (Inventarnummer 2089). Das vorliegende Werk von Hodler wurde nicht bei Sotheby’s, sondern bei Kurt Huber, Villa Ulmberg, erworben, und zwar 1979, nicht erst wie im Werkkatalog angegeben 1983. Zum Zusammenhang zwischen Sommer und Hodler siehe Kontextinformationen."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1979 sowie Rechnung von Kurt Huber, Villa Ulmberg, an Bruno Stefanini wohl vom 22. November 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Zu Abweichungen in der Provenienzkette siehe Fn. 4."
+    },
+    {
+      "nr": 7,
+      "text": "https://www.kornfeld.ch/d365/d4309113470_Ferdinand-Sommer-Jungfrau-mit-Bergbach.html [7. Juli 2025]."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Fn. 1."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Werkkatalog, Nr. 11–13."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Anfragen."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Anfragen."
+    }
+  ],
+  "bilder_anzahl": 27
+}

@@ -1,0 +1,591 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2592_230126.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Januar 2023",
+  "stand_iso": "2023-01-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2592",
+      "Giovanni Segantini (1858–1899)",
+      "Ritratto di Emilio Longoni / Bildnis Emilio Longoni",
+      "1881–1883",
+      "Öl auf Malkarton",
+      "86 × 58 cm (Bildmass)",
+      "90 × 62 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2592",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Ritratto di Emilio Longoni / Bildnis Emilio Longoni",
+    "masse": [
+      "86 × 58 cm (Bildmass)",
+      "90 × 62 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "1881–1883",
+    "technik": "Öl auf Malkarton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2592/2592_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.9,
+          549.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel nach Quinsac 1982, möglicherweise Originaltitel (dort mit Fragezeichen versehen). Allerdings zweifelt Quinsac die gängige Interpretation, nach der es sich beim Abgebildeten um den Maler Emilio Longoni handelt, an."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG, wohl nach Kaufquittung vom 2. Oktober 1986 im Archiv SKKG, auf der das Werk als Porträt von Emilio Longoni bezeichnet wird."
+      },
+      {
+        "nr": 3,
+        "text": "Der Malkarton wurde auf Sperrholz aufgezogen."
+      },
+      {
+        "nr": 4,
+        "text": "Laut Quinsac 1982 ist das Werk oben rechts signiert; auf den Digitalisaten ist dies nicht klar erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 1953",
+      "besitzer": "Agnese Borsa Toqui, Monza",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Quinsac 1982."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1953 bis vermutlich 1974",
+      "besitzer": "Sammlung Emil Oesch (1894–1974), Thalwil",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Quinsac 1982."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1957",
+      "besitzer": "Kunstmarkt, Zürich",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Arcangeli/Gozzoli 1973. Stand das Werk 1957 tatsächlich zum Verkauf, ist anzunehmen, dass es nicht veräussert wurde, zumal es in den Nachlass von Emil Oesch überging."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich frühestens 1974 bis mindestens 1982",
+      "besitzer": "Erbinnen und Erben von Emil Oesch, Thalwil",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Quinsac 1982. Quinsac nennt diese Station als aktuellen Standort des Werks. Folglich muss es sich bis mindestens 1982, dem Erscheinungsjahr des Werkkatalogs, dort befunden haben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "2. Oktober 1986",
+      "besitzer": "Dr. Giancarlo a Marca, Zürich",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Kaufvereinbarung vom 2. Oktober 1986 und Quittung vom 10. Oktober 1986 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 2. Oktober 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, als Freihandkauf bei Dr. Giancarlo a Marca, vermittelt durch Dino Comuzzi, Zürich, Ankaufspreis: 70 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe Fn. 9."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973, Nr. 103.\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, Bd. 1, Mailand 1982, Nr. 168.",
+        "bilder": [
+          {
+            "datei": "images/2592/2592_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.1,
+              328.2,
+              367.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/2592/2592_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              328.2,
+              180.0,
+              462.9,
+              367.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 150,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Volltext/Metadaten «Longoni», Filter 3: Titel einschränken «automatisch» [23. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 151,
+            "datum": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.45, NF_0001",
+      "bilder": [
+        {
+          "datei": "images/2592/2592_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            209.4,
+            532.5,
+            441.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kaufvereinbarung vom 2. Oktober 1986 zwischen Giancarlo a Marca und Bruno Stefanini, vermittelt durch Dino Comuzzi"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.45, NF_0001",
+      "bilder": [
+        {
+          "datei": "images/2592/2592_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            529.6,
+            532.4,
+            636.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Quittung vom 10. Oktober 1986 zum Erhalt des Werks, unterzeichnet von Dora Bösiger"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2592/2592_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          341.4,
+          291.2,
+          667.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Sperrholzplatte: handschriftlich mit weisser Kreide «86»",
+        "position_traeger": "o. m. Sperrholzplatte",
+        "merkmal": "handschriftlich mit weisser Kreide «86»",
+        "kommentar": "Möglicherweise handelt es sich um die Lotnummer einer unbekannten Auktion.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2592/2592_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              139.8,
+              192.9,
+              193.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Sperrholzplatte: handschriftlich mit Bleistift «Ritratto del Longoni – eseguito da Segantini nel suo studio di Via San Marco 26, Milano», verdeckt durch neuere (nach Erwerb durch die SKKG aufgebrachte) Etiketten",
+        "position_traeger": "o. r. Sperrholzplatte",
+        "merkmal": "handschriftlich mit Bleistift «Ritratto del Longoni – eseguito da Segantini nel suo studio di Via San Marco 26, Milano», verdeckt durch neuere (nach Erwerb durch die SKKG aufgebrachte) Etiketten",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2592/2592_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              215.5,
+              293.9,
+              301.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Transkription nach Quinsac 1982."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Sperrholzplatte: weisses rechteckiges Etikett mit handschriftlichem Hinweis des Restaurators Hans Arnold, Regensberg",
+        "position_traeger": "m. r. Sperrholzplatte",
+        "merkmal": "weisses rechteckiges Etikett mit handschriftlichem Hinweis des Restaurators Hans Arnold, Regensberg",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2592/2592_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              315.0,
+              292.6,
+              420.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. Sperrholzplatte: weisses rechteckiges Etikett mit gedrucktem konservatorischem Hinweis vom 23. April 1987 mit Personenkürzel «pa»",
+        "position_traeger": "m. l. Sperrholzplatte",
+        "merkmal": "weisses rechteckiges Etikett mit gedrucktem konservatorischem Hinweis vom 23. April 1987 mit Personenkürzel «pa»",
+        "kommentar": "italienische Übersetzung des handschriftlichen Hinweises von Hans Arnold (siehe vorausgehendes Provenienzmerkmal)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2592/2592_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              433.1,
+              292.6,
+              496.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Sperrholzplatte: Reste einer handschriftlichen Aufschrift unter neuerem Etikett, «Oe[…]»",
+        "position_traeger": "o. l. Sperrholzplatte",
+        "merkmal": "Reste einer handschriftlichen Aufschrift unter neuerem Etikett, «Oe[…]»",
+        "kommentar": "allenfalls Oesch, Thalwil",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2592/2592_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              546.8,
+              221.2,
+              614.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Sperrholzplatte: rechteckiges weisses Etikett, handschriftlich «710»",
+        "position_traeger": "o. l. Sperrholzplatte",
+        "merkmal": "rechteckiges weisses Etikett, handschriftlich «710»",
+        "kommentar": "Vermutlich stammt das Etikett aus der Sammlung Oesch. Auf der Rückseite des Werks mit der Inventarnummer 2072, ebenfalls aus jener\n\nSammlung, befindet sich ein sehr ähnliches Etikett (dort Nummer 670).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2592/2592_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.2,
+              626.8,
+              221.2,
+              677.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Etikett des Freihandkaufs durch Bruno Stefanini von Dr. Giancarlo a Marca, Zürich, 2. Oktober 1986",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Etikett des Freihandkaufs durch Bruno Stefanini von Dr. Giancarlo a Marca, Zürich, 2. Oktober 1986",
+        "kommentar": "Erwerbsnachweis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2592/2592_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              171.6,
+              291.9,
+              256.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 11,
+        "text": "Siehe Fn. 2."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel nach Quinsac 1982, möglicherweise Originaltitel (dort mit Fragezeichen versehen). Allerdings zweifelt Quinsac die gängige Interpretation, nach der es sich beim Abgebildeten um den Maler Emilio Longoni handelt, an."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG, wohl nach Kaufquittung vom 2. Oktober 1986 im Archiv SKKG, auf der das Werk als Porträt von Emilio Longoni bezeichnet wird."
+    },
+    {
+      "nr": 3,
+      "text": "Der Malkarton wurde auf Sperrholz aufgezogen."
+    },
+    {
+      "nr": 4,
+      "text": "Laut Quinsac 1982 ist das Werk oben rechts signiert; auf den Digitalisaten ist dies nicht klar erkennbar."
+    },
+    {
+      "nr": 5,
+      "text": "Quinsac 1982."
+    },
+    {
+      "nr": 6,
+      "text": "Quinsac 1982."
+    },
+    {
+      "nr": 7,
+      "text": "Arcangeli/Gozzoli 1973. Stand das Werk 1957 tatsächlich zum Verkauf, ist anzunehmen, dass es nicht veräussert wurde, zumal es in den Nachlass von Emil Oesch überging."
+    },
+    {
+      "nr": 8,
+      "text": "Quinsac 1982. Quinsac nennt diese Station als aktuellen Standort des Werks. Folglich muss es sich bis mindestens 1982, dem Erscheinungsjahr des Werkkatalogs, dort befunden haben."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Kaufvereinbarung vom 2. Oktober 1986 und Quittung vom 10. Oktober 1986 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Fn. 9."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe Fn. 2."
+    },
+    {
+      "nr": 12,
+      "text": "Transkription nach Quinsac 1982."
+    }
+  ],
+  "bilder_anzahl": 13
+}

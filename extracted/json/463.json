@@ -1,0 +1,941 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_463_221108.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. November 2022",
+  "stand_iso": "2022-11-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 463",
+      "Félix Vallotton (1865–1925)",
+      "Marée montante le soir / Entrée du chenal",
+      "d’Honfleur",
+      "1915",
+      "Öl auf Leinwand",
+      "61 × 73 × 3 cm (Bildmass)",
+      "85 × 98 × 9 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "463",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Marée montante le soir / Entrée du chenal d’Honfleur",
+    "masse": [
+      "61 × 73 × 3 cm (Bildmass)",
+      "85 × 98 × 9 cm (Rahmenmass)"
+    ],
+    "datierung": "1915",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/463/463_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          304.8,
+          432.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005; siehe auch Fn. 2. In der Objektdatenbank SKKG ist zudem die Übersetzung des Originaltitels Meeresflut am Abend verzeichnet und im Auktionskatalog Zürich 1979 neben dem Originaltitel auch Abendstimmung: Blick auf das Meer bei Flut."
+      },
+      {
+        "nr": 2,
+        "text": "Zusätzlicher Originaltitel nach Ducrey 2005 sowie Notat auf der Werkrückseite."
+      },
+      {
+        "nr": 3,
+        "text": "Zur abweichenden Datierung 1916 auf der Werkvorderseite siehe Ducrey 2005."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton, Lausanne, Nr. 225",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, Nr. 747",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1973",
+      "besitzer": "Galerie Bruno Meissner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1975",
+      "besitzer": "Gerhard Saner, Worben",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ducrey 2005, ohne Jahresangabe. Die Datierung beruht auf dem Etikett der Ausstellung in der Villa Malpensata, Lugano, auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1976 bis vermutlich 14. November 1979",
+      "besitzer": "Kurt Gratwohl (1918–1979), Erlenbach",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ducrey 2005 mit Angabe der Jahreszahl 1976; wahrscheinlich wurde das Werk direkt aus der Sammlung Gratwohl eingeliefert, siehe Fn. 10. Zu Kurt Gratwohl siehe Kontextinformationen. Gemäss Zeitungsartikel vom 25. April 1979 sollte die Sammlung Kurt Gratwohl am 19. Mai 1979 versteigert werden – möglicherweise liefen die dort nicht verkauften Lose am 14. November 1979 noch einmal. Kurt Gratwohl ist am 31. Dezember 1979 verstorben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst des 19. und 20. Jahrhunderts, Lot 100, Abendstimmung: Blick auf das Meer bei Flut / Marée montante le soir), Zürich, vermutlich eingeliefert von Kurt Gratwohl, Erlenbach",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Zürich 1979, Ducrey 2005."
+        },
+        {
+          "nr": 10,
+          "text": "Der Auktionskatalog Zürich 1979 nennt als Provenienz die «Sammlung Bubenberg, Erlenbach», womit die Sammlung Gratwohl gemeint ist; Kurt Gratwohl residierte laut Mitgliederverzeichnis des Schweizerischen Burgenvereins, Stand 1. Januar 1973, im Haus Bubenberg in Erlenbach, siehe Nachrichten des Schweizerischen Burgenvereins, Jg. 46 (1973), Bd. 9, Nr. 2, S. 16, https://www.e-periodica.ch/digbib/view?pid=mit-002%3A1973%3A46%3A%3A18#18 [8. November 2022]. Angesichts der zeitlichen Nähe zur letzten gesicherten Station (1976) ist es sehr wahrscheinlich, dass das Werk bei der Auktion 1979 aus dieser Sammlung eingeliefert wurde."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. November 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby’s, Zuschlagspreis: 90 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Ducrey 2005 sowie annotierter Auktionskatalog Zürich 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1114.",
+        "bilder": [
+          {
+            "datei": "images/463/463_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              311.0,
+              372.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/463/463_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              378.8,
+              296.4,
+              702.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1049."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby’s, Zürich, 14. November 1979, Zürich 1979, Lot 100."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Basel, 1926, Nr. 174 (Entrée du chenal d’Honfleur)\n\n– Zürich, 1928, Nr. 121 (Hafeneinfahrt, Honfleur)\n\n– Lugano, 1975, Collezione Gerhard Saner, Nr. 21 (Presso Honfleur)\n\n– Biberist, 1976, Sammlung Gerhard Saner, Nr. 73 (Entrée au chenal d’Honfleur)\n\n– Winterthur, 1978/79, Nr. 129 (Marée montante, le soir)\n\n– Lyon/Marseille, 2001, Nr. 69\n\n– Bietigheim-Bissingen, 2003, Nr. 23 (Meer bei Flut im Abendlicht)",
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche, Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.824, NF_0088 (Meissner, Bruno: Erwerbsliste, Presseartikel (1987–2014)): keine relevanten Informationen zu diesem Werk\n\nA.216.434, NF_0035 (Diverse Künstler: Korrespondenz (1985–\n\n2014)): Faszikel zu «Vallotton» konsultiert, keine relevanten Informationen zu diesem Werk"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/463/463_004_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            184.2,
+            532.1,
+            404.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/463/463_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            410.7,
+            534.7,
+            583.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini. Provenienzangabe: «Sammlung Bubenberg, Erlenbach»."
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 15,
+          "text": "Siehe Fn. 10."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Kurt Gratwohl",
+      "information": "Allerlei Schweizer Malerei, in: Neue Zürcher Zeitung, Jg. 200 (1979), Nr. 95, 25. April 1979, S. 37, www.e-newspaperar-chives.ch/?a=d&d=NZZ19790425-01.2.51.2 [4. November 2022].\n\nEhemaliger Bankdirektor Kurt Gratwohl tödlich verunfallt. Strafverfahren kurz vor Abschluss eingestellt, in: Neue Zürcher Nachrichten, Jg. 74 (1980), Nr. 7, 10. Januar 1980, S. 5, https://www.e-newspa-perarchives.ch/?a=d&d=NZN19800110-01.2.15.3 [4. November 2022]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/463/463_006_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          184.0,
+          319.4,
+          405.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Zierrahmen (mit Rückseitenschutz)"
+      },
+      {
+        "datei": "images/463/463_007_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          437.3,
+          319.4,
+          648.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Keilrahmen"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur des Künstlers mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur des Künstlers mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              686.2,
+              259.3,
+              717.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich «Entree du chenal d’Honfleur 1916 ne pas vernir»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich «Entree du chenal d’Honfleur 1916 ne pas vernir»",
+        "kommentar": "wohl angebracht von Vallotton selbst, der den Gebrauch von Firnis ablehnte",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_009_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              139.8,
+              319.4,
+              178.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/463/463_010_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              184.8,
+              270.2,
+              214.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 16,
+            "text": "Ducrey 1998/2015, Félix Vallotton, in: SIKART-Lexikon, https://recherche.sik-isea.ch/sik:person-4022849 [3. November 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit blauer Kreide «PC. 1/4»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit blauer Kreide «PC. 1/4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              227.5,
+              255.3,
+              270.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: langrechteckiges weisses Etikett der Ausstellung der Sammlung Gerhard Saner 1975 in der Villa Malpensata, Lugano",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett der Ausstellung der Sammlung Gerhard Saner 1975 in der Villa Malpensata, Lugano",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              287.5,
+              319.6,
+              367.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit gelbem Schreibmittel «[…?]7», möglicherweise verdeckt durch Etikett der Ausstellung 1975 in Lugano",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit gelbem Schreibmittel «[…?]7», möglicherweise verdeckt durch Etikett der Ausstellung 1975 in Lugano",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              379.5,
+              188.8,
+              430.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: zwei SIK-Etiketten mit der Nummer 11243",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "zwei SIK-Etiketten mit der Nummer 11243",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              443.0,
+              248.9,
+              506.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «P. V. W»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «P. V. W»",
+        "kommentar": "bezeichnet vermutlich die Galerie Paul Vallotton",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.7,
+              518.8,
+              282.9,
+              581.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: rechteckiges beiges Etikett mit handschriftlichen Massangaben",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett mit handschriftlichen Massangaben",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              137.3,
+              594.6,
+              230.1,
+              664.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: Stempel «20 F | 73 X 60» mit Rautensymbol",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "Stempel «20 F | 73 X 60» mit Rautensymbol",
+        "kommentar": "Formatstempel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.6,
+              139.8,
+              259.5,
+              194.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 17,
+            "text": "Siehe Stefan Schreier, SIK-ISEA, Zustandsuntersuchung und Restaurierungsbericht, 12. Juni 2018, in der Objektdatenbank SKKG."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: verbräuntes Etikett, handschriftlich «Exposition à Winterthur | Mr Picasso»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "verbräuntes Etikett, handschriftlich «Exposition à Winterthur | Mr Picasso»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              206.9,
+              311.9,
+              288.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «BJ 859»",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «BJ 859»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_019_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              137.0,
+              301.6,
+              286.9,
+              347.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: langrechteckiges Etikett der Galerie Bruno Meissner, Zürich",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "langrechteckiges Etikett der Galerie Bruno Meissner, Zürich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_020_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              360.1,
+              315.5,
+              404.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: handschriftlich «PH 17»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "handschriftlich «PH 17»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_021_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              416.8,
+              305.4,
+              471.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich «144»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich «144»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_022_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              483.7,
+              197.8,
+              529.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, blau gedruckt vermutlich «100»; verknüllt und schlecht lesbar",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, blau gedruckt vermutlich «100»; verknüllt und schlecht lesbar",
+        "kommentar": "entspricht vermutlich Lotnummer der Auktion Sotheby’s 1979",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_023_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              541.5,
+              237.2,
+              618.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Reste eines langrechteckigen weissen Etiketts mit gedruckter Aufschrift, unleserlich",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen weissen Etiketts mit gedruckter Aufschrift, unleserlich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_024_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              631.0,
+              320.3,
+              694.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: langrechteckiges Etikett von Pro Helvetia, gedruckt «Adresse:Sammlung Bubenberg | Erlenbach CH | Kat.-Nr.:129», darunter Reste eines geschwungenen Buchstabens in Rot",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "langrechteckiges Etikett von Pro Helvetia, gedruckt «Adresse:Sammlung Bubenberg | Erlenbach CH | Kat.-Nr.:129», darunter Reste eines geschwungenen Buchstabens in Rot",
+        "kommentar": "Das Etikett wurde vermutlich im Zusammenhang mit einer von Pro Helvetia organisierten Auslandausstellung Ende der 1970er-Jahre aufgebracht.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/463/463_025_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.4,
+              140.5,
+              319.4,
+              211.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 18,
+            "text": "Vallotton war an diversen Auslandsausstellungen von Pro Helvetia vertreten. Für einen Überblick siehe: Christoph Eggenberger, Die Stiftung «Pro Helvetia» als Vermittlerin schweizerischer Kunst im Ausland, in: Zeitschrift für schweizerische Archäologie und Kunstgeschichte, Nr. 43 (1986), S. 417–428, http://doi.org/10.5169/seals-168800 [3. November 2022]."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005; siehe auch Fn. 2. In der Objektdatenbank SKKG ist zudem die Übersetzung des Originaltitels Meeresflut am Abend verzeichnet und im Auktionskatalog Zürich 1979 neben dem Originaltitel auch Abendstimmung: Blick auf das Meer bei Flut."
+    },
+    {
+      "nr": 2,
+      "text": "Zusätzlicher Originaltitel nach Ducrey 2005 sowie Notat auf der Werkrückseite."
+    },
+    {
+      "nr": 3,
+      "text": "Zur abweichenden Datierung 1916 auf der Werkvorderseite siehe Ducrey 2005."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 7,
+      "text": "Ducrey 2005, ohne Jahresangabe. Die Datierung beruht auf dem Etikett der Ausstellung in der Villa Malpensata, Lugano, auf der Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Ducrey 2005 mit Angabe der Jahreszahl 1976; wahrscheinlich wurde das Werk direkt aus der Sammlung Gratwohl eingeliefert, siehe Fn. 10. Zu Kurt Gratwohl siehe Kontextinformationen. Gemäss Zeitungsartikel vom 25. April 1979 sollte die Sammlung Kurt Gratwohl am 19. Mai 1979 versteigert werden – möglicherweise liefen die dort nicht verkauften Lose am 14. November 1979 noch einmal. Kurt Gratwohl ist am 31. Dezember 1979 verstorben."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Zürich 1979, Ducrey 2005."
+    },
+    {
+      "nr": 10,
+      "text": "Der Auktionskatalog Zürich 1979 nennt als Provenienz die «Sammlung Bubenberg, Erlenbach», womit die Sammlung Gratwohl gemeint ist; Kurt Gratwohl residierte laut Mitgliederverzeichnis des Schweizerischen Burgenvereins, Stand 1. Januar 1973, im Haus Bubenberg in Erlenbach, siehe Nachrichten des Schweizerischen Burgenvereins, Jg. 46 (1973), Bd. 9, Nr. 2, S. 16, https://www.e-periodica.ch/digbib/view?pid=mit-002%3A1973%3A46%3A%3A18#18 [8. November 2022]. Angesichts der zeitlichen Nähe zur letzten gesicherten Station (1976) ist es sehr wahrscheinlich, dass das Werk bei der Auktion 1979 aus dieser Sammlung eingeliefert wurde."
+    },
+    {
+      "nr": 11,
+      "text": "Ducrey 2005 sowie annotierter Auktionskatalog Zürich 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 12,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1049."
+    },
+    {
+      "nr": 13,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 14,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 15,
+      "text": "Siehe Fn. 10."
+    },
+    {
+      "nr": 16,
+      "text": "Ducrey 1998/2015, Félix Vallotton, in: SIKART-Lexikon, https://recherche.sik-isea.ch/sik:person-4022849 [3. November 2022]."
+    },
+    {
+      "nr": 17,
+      "text": "Siehe Stefan Schreier, SIK-ISEA, Zustandsuntersuchung und Restaurierungsbericht, 12. Juni 2018, in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 18,
+      "text": "Vallotton war an diversen Auslandsausstellungen von Pro Helvetia vertreten. Für einen Überblick siehe: Christoph Eggenberger, Die Stiftung «Pro Helvetia» als Vermittlerin schweizerischer Kunst im Ausland, in: Zeitschrift für schweizerische Archäologie und Kunstgeschichte, Nr. 43 (1986), S. 417–428, http://doi.org/10.5169/seals-168800 [3. November 2022]."
+    }
+  ],
+  "bilder_anzahl": 25
+}

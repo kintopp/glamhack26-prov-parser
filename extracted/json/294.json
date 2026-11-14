@@ -1,0 +1,813 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_294_221107.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. November 2022",
+  "stand_iso": "2022-11-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 294",
+      "Félix Vallotton (1865–1925)",
+      "Baigneuse au rocher",
+      "1909",
+      "Öl auf Leinwand",
+      "116 × 89 × 3 cm (Bildmass)",
+      "127 × 99 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "294",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Baigneuse au rocher",
+    "masse": [
+      "116 × 89 × 3 cm (Bildmass)",
+      "127 × 99 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1909",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/294/294_001_objekt.png",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.4,
+          263.6,
+          548.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005. In der Objektdatenbank SKKG ist zudem der deskriptive Werktitel Rothaarige Badende, auf einem Felsen sitzend verzeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (1865–1925), Paris",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1925 bis 1968",
+      "besitzer": "Jacques Rodrigues-Henriques (1886–1968), Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005. Das Werk blieb nach Vallottons Tod in seinem Nachlass in Paris und damit beim Pariser Teil der Familie. Danach war es bei seinem Stiefsohn Jacques Rodrigues-Henriques und anschliessend in dessen Nachlass."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vor 1938",
+      "besitzer": "Galerie Druet, Paris, Nr. 5577",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Etikett der Galerie Druet sowie handschriftliche Druet-Notiz auf der Werkrückseite. Ob sich das Werk vor oder nach der Station Jacques Rodrigues-Henriques bei Druet befand, ist unklar; jedenfalls vor 1938 (Schliessung Galerie)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "nach 1968",
+      "besitzer": "Nachlass Jacques Rodrigues-Henriques (1886–1968), Paris",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. November 1992",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Lot 83, Baigneuse au rocher), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 1992."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. November 1992",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 135 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 2, Lausanne/Zürich 2005, Nr. 730.",
+        "bilder": [
+          {
+            "datei": "images/294/294_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              139.4,
+              311.8,
+              493.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/294/294_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              192.7,
+              499.4,
+              304.6,
+              543.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 685."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert, Auktionskatalog Sotheby’s, Zürich, 25. November 1992, Zürich 1992, Lot 83.",
+        "bilder": [
+          {
+            "datei": "images/294/294_004_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              192.7,
+              170.9,
+              376.6,
+              474.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet].",
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Laut Auktionskatalog Zürich 1992 Nr. 685."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Paris, 1910, Nr. 4 (Baigneuse au rocher)\n\n– Kunsthaus Zürich, Ausstellung zur Eröffnung des Kunsthauses am Heimplatz, April bis Juli 1910, Nr. 419\n\n– Paris, Trente ans d’art indépendant, 1884–1914, 20. Februar bis 21. März 1926, Nr. 3257\n\n– Paris, Salon d’Automne, 1963, Nr. 20 (Nu au rocher)",
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Grundsätzlich möglich wäre das Gemälde Jeune femme (https://www.errproject.org/jeudepaume/card_view.php?Car-dId=57221 [28. Oktober 2022]). Jedoch kann es mangels weiterer Angaben nicht identifiziert werden. Zudem befand sich das vorliegende Werk in der Zeit um 1940 laut Ducrey 2005 woanders.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche mit Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/294/294_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.4,
+            479.5,
+            534.0,
+            647.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis (Kopie des lotspezifischen Ausschnitts aus dem Auktionskatalog Zürich 1992) mit handschriftlich annotiertem Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/294/294_006_provenienzmerkmale.png",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          184.0,
+          266.1,
+          441.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Zierrahmen (mit Rückseitenschutz)"
+      },
+      {
+        "datei": "images/294/294_007_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          473.3,
+          266.1,
+          740.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Keilrahmen"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur des Künstlers mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur des Künstlers mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_008_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.1,
+              158.2,
+              328.1,
+              198.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit weisser Kreide «Lot 83»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «Lot 83»",
+        "kommentar": "entspricht Lotnummer der Erwerbsauktion Sotheby’s, Zürich, 24./25. November 1992",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_009_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.1,
+              211.0,
+              329.5,
+              253.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit weisser Kreide «22. | 11[…]», durch Aufhängung teilweise verdeckt",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «22. | 11[…]», durch Aufhängung teilweise verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_010_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.1,
+              299.3,
+              183.8,
+              433.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Reste eines langrechteckigen beigen Etiketts mit handschriftlicher Notiz «Vallotton | Baigneuse au rocher», gedruckter Nummer 5577, handschriftlichen Massangaben und verblassten Resten eines runden, vermutlich blau-weissen Symbols",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen beigen Etiketts mit handschriftlicher Notiz «Vallotton | Baigneuse au rocher», gedruckter Nummer 5577, handschriftlichen Massangaben und verblassten Resten eines runden, vermutlich blau-weissen Symbols",
+        "kommentar": "Etikett der Galerie Druet",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.1,
+              445.4,
+              328.1,
+              553.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Siehe analoges Rückseitenetikett in der Recherchedokumentation zum Werk mit der Inventarnummer 466, dort auf 1924 zu datieren."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. senkrechte Mittelstrebe Keilrahmen: handschriftlich «15», umkreist",
+        "position_traeger": "o. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich «15», umkreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.8,
+              571.9,
+              216.7,
+              614.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Reste eines rechteckigen hellblauen Etiketts mit gezahntem Rand, unten perforiert",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Reste eines rechteckigen hellblauen Etiketts mit gezahntem Rand, unten perforiert",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_013_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.1,
+              139.4,
+              216.5,
+              228.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Reste eines langrechteckigen beigen Etiketts, gedruckt «3307», darunter «[…]TION […]»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen beigen Etiketts, gedruckt «3307», darunter «[…]TION […]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_014_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.1,
+              240.5,
+              326.4,
+              354.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich «A. A[?] | 4/5 55»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich «A. A[?] | 4/5 55»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.1,
+              366.2,
+              242.4,
+              475.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: weisses Etikett der Auktion Sotheby’s, möglicherweise Erwerbsauktion",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "weisses Etikett der Auktion Sotheby’s, möglicherweise Erwerbsauktion",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.1,
+              487.9,
+              242.4,
+              553.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Von welcher Sotheby’s-Auktion das Etikett stammt, ist unklar. Auf die Erwerbsauktion Sotheby’s, Zürich, 25. November 1992, passen – sofern die numerischen Angaben auf dem Etikett dafür stehen – Lotnummer und Datum nicht. Möglich wäre die Sotheby’s-Auktion vom 10. Juni 1992 in London, obschon abgesehen vom Datum nichts auf diese hindeutet [Auktionskatalog nicht konsultiert]."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: Reste eines Etiketts mit gedruckten Massangaben",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "Reste eines Etiketts mit gedruckten Massangaben",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.1,
+              566.4,
+              308.6,
+              636.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. waagrechte Mittelstrebe Keilrahmen sowie o. l. Keilrahmen: Schweizer Zollstempel «II-29»",
+        "position_traeger": "l. waagrechte Mittelstrebe Keilrahmen sowie o. l. Keilrahmen",
+        "merkmal": "Schweizer Zollstempel «II-29»",
+        "kommentar": "ist dem Zollkreis Schaffhausen (II) zuzuordnen",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_018_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.1,
+              139.4,
+              204.5,
+              211.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Schweizerisches Bundesarchiv, Flüchtlingsakten 1930–1950. Thematische Übersicht zu Beständen im Schweizerischen Bundesarchiv, Bern 1999, S. 34, https://www.bar.admin.ch/dam/bar/de/dokumente/archivalien/inventar_fluecht-lingsakteni.pdf [8. November 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Aufkleber mit SIK-Nummer 33279",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Aufkleber mit SIK-Nummer 33279",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_019_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.1,
+              228.0,
+              264.5,
+              259.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit weisser Kreide «apporté [?] par Druet»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «apporté [?] par Druet»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_020_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.1,
+              271.9,
+              327.4,
+              319.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit blauem Schreibmittel «PH[oto?] | 1212 | Ma[rs?] 55»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «PH[oto?] | 1212 | Ma[rs?] 55»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/294/294_021_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.1,
+              331.4,
+              329.5,
+              449.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005. In der Objektdatenbank SKKG ist zudem der deskriptive Werktitel Rothaarige Badende, auf einem Felsen sitzend verzeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, S. 2."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005. Das Werk blieb nach Vallottons Tod in seinem Nachlass in Paris und damit beim Pariser Teil der Familie. Danach war es bei seinem Stiefsohn Jacques Rodrigues-Henriques und anschliessend in dessen Nachlass."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Etikett der Galerie Druet sowie handschriftliche Druet-Notiz auf der Werkrückseite. Ob sich das Werk vor oder nach der Station Jacques Rodrigues-Henriques bei Druet befand, ist unklar; jedenfalls vor 1938 (Schliessung Galerie)."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 1992."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 685."
+    },
+    {
+      "nr": 9,
+      "text": "Laut Auktionskatalog Zürich 1992 Nr. 685."
+    },
+    {
+      "nr": 10,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 11,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe analoges Rückseitenetikett in der Recherchedokumentation zum Werk mit der Inventarnummer 466, dort auf 1924 zu datieren."
+    },
+    {
+      "nr": 13,
+      "text": "Von welcher Sotheby’s-Auktion das Etikett stammt, ist unklar. Auf die Erwerbsauktion Sotheby’s, Zürich, 25. November 1992, passen – sofern die numerischen Angaben auf dem Etikett dafür stehen – Lotnummer und Datum nicht. Möglich wäre die Sotheby’s-Auktion vom 10. Juni 1992 in London, obschon abgesehen vom Datum nichts auf diese hindeutet [Auktionskatalog nicht konsultiert]."
+    },
+    {
+      "nr": 14,
+      "text": "Schweizerisches Bundesarchiv, Flüchtlingsakten 1930–1950. Thematische Übersicht zu Beständen im Schweizerischen Bundesarchiv, Bern 1999, S. 34, https://www.bar.admin.ch/dam/bar/de/dokumente/archivalien/inventar_fluecht-lingsakteni.pdf [8. November 2022]."
+    }
+  ],
+  "bilder_anzahl": 21
+}

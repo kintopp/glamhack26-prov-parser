@@ -1,0 +1,932 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2806_260120.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "20. Januar 2026",
+  "stand_iso": "2026-01-20",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2806",
+      "Alice Bailly (1872–1938)",
+      "Essai pour un autre portrait de moi-même non exécuté / Selbstporträt",
+      "1928",
+      "Öl auf Leinwand",
+      "64 × 54 cm (Bildmass)",
+      "88 × 77 × 6 cm (Rahmenmass)",
+      "unsigniert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2806",
+    "status": "Ungeklärt",
+    "kuenstler": "Alice Bailly (1872–1938)",
+    "titel": "Essai pour un autre portrait de moi-même non exécuté / Selbstporträt",
+    "masse": [
+      "64 × 54 cm (Bildmass)",
+      "88 × 77 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "1928",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "unsigniert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2806/2806_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.3,
+          476.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Bezeichnung auf der Werkrückseite, siehe auch Fn. 3."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1982, orthografisch modernisiert."
+      },
+      {
+        "nr": 3,
+        "text": "Das Werk ist unsigniert, auf der Rückseite findet sich jedoch eine wahrscheinlich von der Künstlerin aufgebrachte Werkbezeichnung, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "18.–20. November 1982",
+      "besitzer": "Auktion Kurt Huber, Villa Ulmberg (Auktion Schweizer Malerei, Lot 655, Selbstportrait), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1982."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 19. November 1982",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Kurt Huber, Villa Ulmberg, Zuschlagspreis: 4800 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1982 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion Schweizer Malerei, Auktionskatalog Kurt Huber, Villa Ulmberg, Zürich, 18.–20. November 1982, Zürich 1982, Lot 655."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Ob das Werk vor dem Ankauf durch die SKKG in Ausstellungen gezeigt wurde, ist nicht bekannt. Mehrere Ausstellungskataloge wurden diesbezüglich ergebnislos durchgesehen: Alice Bailly, 1872–1938. Éxposition rétrospective des œuvres du peintre, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne, 17. November 1968 bis 5. Januar 1969, Lausanne 1968; Alice Bailly, Ausstellungskatalog Galerie Strunskaja, Zürich, 12. Dezember 1974 bis 8. Februar 1975, Zürich 1974; Alice Bailly. Werke 1908–1923, Ausstellungskatalog Galerie nächst St. Stephan, Wien, 16. April bis 18. Mai 1985 / Galerie Krinzinger, Innsbruck, 29. Mai bis 29. Juni 1985 / Aargauer Kunsthaus, Aarau, 16. August bis 15. September 1985, Wien 1985."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Hersteller/Künstler/Au-tor:in «Alice Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche mit Filter: Titel «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (85 Ergebnisse) für Suche mit Filter: Titel «Selbstporträt» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 85,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter: Titel «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter: Titel «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Suche mit Filter: Titel «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (29 Ergebnisse) für Suche mit Filter: Titel «Selbstporträt» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 29,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Suche mit Filter: Titel «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Suche mit Filter: Titel «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Titel «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für Suche mit Filter: Titel «Selbstporträt» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (71 Ergebnisse) für Suche mit Filter: Titel «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 71,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Filter: Titel «Selbstporträt» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (165 Ergebnisse) für Volltextsuche «Alice Bailly» [11. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 165,
+            "datum": "2025-11-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Alice Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «A. Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche «Bailly» (inklusive Varianten der Namensschreibweise) [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche mit Filter: Titel «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (104 Ergebnisse) für Suche mit Filter: Titel «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 104,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Selbstporträt» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Selbstportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Autoporträt» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (19 Ergebnisse) für Suche mit Filter: Titel «Selbstporträt» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 19,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Autoportrait» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (3 Ergebnisse) für Volltextsuche «Alice Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 3,
+            "datum": "2025-11-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2806/2806_002_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            435.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1982 (Nachtrag), annotiert von Bruno Stefanini"
+        },
+        {
+          "datei": "images/2806/2806_003_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            510.5,
+            453.5,
+            573.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildtitel": "Detail zu Lot 655"
+        }
+      ]
+    },
+    {
+      "datum": "6. November 2025",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "Bailly, Alice | Selbstportrait | Oel Lw 4’8», verfasst von Bruno Stefanini, zudem von anderer, späterer Hand «Inv.nr.2806»",
+      "bilder": [
+        {
+          "datei": "images/2806/2806_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            586.3,
+            533.1,
+            704.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: vergilbter rechteckiger Zettel, handschriftlich mit schwarzem Filzstift «Huber Nov 82 | 655"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2806/2806_005_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          423.0,
+          319.8,
+          716.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. m. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «655»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «655»",
+        "kommentar": "Lotnummer der Auktion Kurt Huber, Villa Ulmberg, 1982",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_006_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              204.2,
+              194.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Das Provenienzmerkmal auf der Werkvorderseite ist auf einer früheren Aufnahme der SKKG zu finden und muss zwischenzeitlich entfernt worden sein."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Leinwand: quadratisches weisses Etikett, links gezahnt, handschriftlich mit schwarzer Tinte «Essai pour un | autre portrait de | moi-même | non exécuté | 1928»",
+        "position_traeger": "o. m. Leinwand",
+        "merkmal": "quadratisches weisses Etikett, links gezahnt, handschriftlich mit schwarzer Tinte «Essai pour un | autre portrait de | moi-même | non exécuté | 1928»",
+        "kommentar": "Werktitel und Datierung, wahrscheinlich von der Hand der Künstlerin",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              228.2,
+              316.7,
+              399.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: blau gestempelt «54» mit Sternsymbol (verdeckt von Halterung)",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "blau gestempelt «54» mit Sternsymbol (verdeckt von Halterung)",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              412.0,
+              239.7,
+              477.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: Reste eines beigen Klebeetiketts, handschriftlich mit schwarzem Schreibmittel «1[… ?]–»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "Reste eines beigen Klebeetiketts, handschriftlich mit schwarzem Schreibmittel «1[… ?]–»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              489.6,
+              239.5,
+              544.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «15»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «15»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              557.6,
+              320.2,
+              671.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit rotem Wachsstift «A»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Wachsstift «A»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              229.3,
+              251.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «20»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «20»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              263.5,
+              229.9,
+              342.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «X» (Kreuz)",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «X» (Kreuz)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              354.5,
+              229.7,
+              436.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: blau gestempelt «54» mit Sternsymbol (verdeckt von Halterung)",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "blau gestempelt «54» mit Sternsymbol (verdeckt von Halterung)",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              449.4,
+              318.8,
+              546.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzem Schreibmittel «[…] | 1928» (teilweise verdeckt), möglicherweise «Portrait Bailly | 1928»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «[…] | 1928» (teilweise verdeckt), möglicherweise «Portrait Bailly | 1928»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              559.5,
+              320.5,
+              625.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: gestempelt «61» mit Sternsymbol (verblasst)",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "gestempelt «61» mit Sternsymbol (verblasst)",
+        "kommentar": "Massangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.1,
+              638.7,
+              229.7,
+              694.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «4000.–»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «4000.–»",
+        "kommentar": "wahrscheinlich Preisangabe",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              229.7,
+              233.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 140212 0021», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 140212 0021», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              245.7,
+              267.0,
+              270.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 140212 0021», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 140212 0021», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              321.5,
+              267.5,
+              348.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit rotem Wachsstift «46», eingekreist",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Wachsstift «46», eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              397.2,
+              197.9,
+              455.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Reste eines quadratischen weissen Klebeetiketts, schwarz gedruckt «6, RU […]»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Reste eines quadratischen weissen Klebeetiketts, schwarz gedruckt «6, RU […]»",
+        "kommentar": "möglicherweise Etikett eines französischen Rahmenbauers (möglicherweise «Rue» [Strasse] mit vorangestellter Hausnummer)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              468.2,
+              244.4,
+              578.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit schwarzem Filzstift «64 x 54 huile Mon [?] Po[rtrait?]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Filzstift «64 x 54 huile Mon [?] Po[rtrait?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              590.7,
+              320.4,
+              627.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 18,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit schwarzem Filzstift «15F»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Filzstift «15F»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2806/2806_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              641.2,
+              244.4,
+              727.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Bezeichnung auf der Werkrückseite, siehe auch Fn. 3."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1982, orthografisch modernisiert."
+    },
+    {
+      "nr": 3,
+      "text": "Das Werk ist unsigniert, auf der Rückseite findet sich jedoch eine wahrscheinlich von der Künstlerin aufgebrachte Werkbezeichnung, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1982."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1982 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Ob das Werk vor dem Ankauf durch die SKKG in Ausstellungen gezeigt wurde, ist nicht bekannt. Mehrere Ausstellungskataloge wurden diesbezüglich ergebnislos durchgesehen: Alice Bailly, 1872–1938. Éxposition rétrospective des œuvres du peintre, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne, 17. November 1968 bis 5. Januar 1969, Lausanne 1968; Alice Bailly, Ausstellungskatalog Galerie Strunskaja, Zürich, 12. Dezember 1974 bis 8. Februar 1975, Zürich 1974; Alice Bailly. Werke 1908–1923, Ausstellungskatalog Galerie nächst St. Stephan, Wien, 16. April bis 18. Mai 1985 / Galerie Krinzinger, Innsbruck, 29. Mai bis 29. Juni 1985 / Aargauer Kunsthaus, Aarau, 16. August bis 15. September 1985, Wien 1985."
+    },
+    {
+      "nr": 7,
+      "text": "Das Provenienzmerkmal auf der Werkvorderseite ist auf einer früheren Aufnahme der SKKG zu finden und muss zwischenzeitlich entfernt worden sein."
+    }
+  ],
+  "bilder_anzahl": 23
+}

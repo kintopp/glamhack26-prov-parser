@@ -1,0 +1,573 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4952_231026.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2023",
+  "stand_iso": "2023-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4952",
+      "Ferdinand Hodler (1853–1918)",
+      "Selbstbildnis",
+      "um 1914",
+      "Grafitstift und Öl auf Leinwand",
+      "50 × 70 cm (Bildmass)",
+      "57 × 77 × 5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4952",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Selbstbildnis",
+    "masse": [
+      "50 × 70 cm (Bildmass)",
+      "57 × 77 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1914",
+    "technik": "Grafitstift und Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4952/4952_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.4,
+          405.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Walter 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1918 bis vermutlich mindestens 24. März 1924",
+      "besitzer": "Berthe Hodler-Jacques (1868–1957), Genf, erworben im Erbgang vom Künstler/Ehemann",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Walter 2012. Siehe Echtheitsbestätigung von Berthe Hodler-Jacques auf der Werkrückseite, aufgebracht am 24. März 1924. Ob das Werk zu diesem Zeitpunkt noch in ihrem Eigentum oder lediglich in ihrem Besitz war, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "möglicherweise Gertrud Dübi-Müller (1888–1980), Solothurn",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Bleistiftaufschrift «Getrud Müller» auf der Werkrückseite. Da Getrud Müller erst ab 1921 den Doppelnamen Dübi-Müller führte (Heirat mit Otto Dübi), ist es möglich, dass die Aufschrift davor aufgebracht wurde. Es ist unklar, ob sie ein Besitz- oder Eigentumsverhältnis belegt und von wem sie stammt – möglicherweise von Hodler selbst. Der Künstler hatte für Gertrud Müller zwei Selbstporträts (Nr. 938 und 940) angefertigt und ihr zur Auswahl zukommen lassen, siehe Walter 2012. Ob das vorliegende (Nr. 939) ursprünglich ebenfalls dafür vorgesehen war und die Aufschrift in diesem Zusammenhang entstanden ist, ist unklar. Jedenfalls blieb das Werk unvollendet, da Hodler das gewählte Querformat «nicht befriedigt zu haben schien», siehe ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 25. März 2002",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 2002."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25. März 2002",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 28, Selbstbildnis), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 2002, Walter 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 25. März 2002",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 220 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Bernadette Walter, Selbstbildnis, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 939, https://www.ferdinand-hodler.ch/werke.aspx?id=10658592 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/4952/4952_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              347.6,
+              334.7,
+              549.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4952/4952_003_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              556.1,
+              334.7,
+              637.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4952/4952_004_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              643.7,
+              334.7,
+              694.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 25. März 2002, Zürich 2002, Lot 28.",
+        "bilder": [
+          {
+            "datei": "images/4952/4952_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              171.1,
+              335.0,
+              277.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "",
+        "bilder": [
+          {
+            "datei": "images/4952/4952_006_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              340.4,
+              334.7,
+              392.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungen"
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (37 Ergebnisse) für Volltextsuche «Hodler» [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 37,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Ferdinand Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2023-10-26"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Selbstbildnis›» [17. Februar 2023]",
+            "treffer": 0,
+            "datum": "2023-02-17"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Studie›» [17. Februar 2023]",
+            "treffer": 0,
+            "datum": "2023-02-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Selbstbildnis›» [17. Februar 2023]",
+            "treffer": 0,
+            "datum": "2023-02-17"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Studie›» [17. Februar 2023]",
+            "treffer": 0,
+            "datum": "2023-02-17"
+          },
+          {
+            "text": "Die Jahreszahlen (1915 und 1916) stimmen nicht ganz überein. Da aber im Werkkatalog «um 1914» steht, könnte das Werk auch 1915 oder 1916 gemalt worden sein. Da es unvollendet ist, hätte dann jedoch «Studie» oder ähnlich erwähnt worden sein dürfen."
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/4952/4952_007_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              207.6,
+              363.0,
+              279.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "German Sales",
+            "bildtitel": "1 möglicher Treffer (347 Ergebnisse) für Volltextsuche «‹Ferdinand Hodler› und ‹Selbstbildnis›» [26. Oktober 2023]",
+            "bildunterschrift": "Ferdinand Hodler, Ausstellungkatalog Galerien Thannhauser, München/Luzern, München 1925, Nr. 48 und 54, https://doi.org/10.11588/diglit.68070#0012 [27. Oktober 2023]."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Zu weiteren Selbstporträts von Hodler siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) ohne Filter [23. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2023-10-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [26. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Hodler» [17. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (54 Ergebnisse) für Volltextsuche «Hodler» [24. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 54,
+            "datum": "2023-10-24"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "23. Oktober 2023",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4952/4952_008_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            530.2,
+            260.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis der Auktion Christie’s 2002 mit annotiertem Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4952/4952_009_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          542.7,
+          319.6,
+          730.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Leinwand: schwarzer Stempel, handschriftlich ergänzt",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "schwarzer Stempel, handschriftlich ergänzt",
+        "kommentar": "Echtheitsbestätigung von Berthe Hodler-Jacques, notariell beglaubigt von Ernest Ramseyer, Bern, 24. März 1924",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4952/4952_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              164.9,
+              321.7,
+              235.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe: schwarzer Stempel, Brachard & Fils, Genf",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "schwarzer Stempel, Brachard & Fils, Genf",
+        "kommentar": "Geschäft für Künstlerbedarf",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4952/4952_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              253.3,
+              271.5,
+              305.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier-/Keilrahmen: zweimal weisses Etikett, schwarz gedruckt «30360», unterstrichen",
+        "position_traeger": "o. l. Zier-/Keilrahmen",
+        "merkmal": "zweimal weisses Etikett, schwarz gedruckt «30360», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4952/4952_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              318.3,
+              193.2,
+              340.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4952/4952_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              346.9,
+              193.1,
+              366.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «Gertrud Müller»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Gertrud Müller»",
+        "kommentar": "Getrud Dübi-Müller",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4952/4952_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              394.1,
+              279.6,
+              444.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Siehe Fn. 3."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «202»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «202»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4952/4952_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              457.6,
+              234.9,
+              498.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Walter 2012."
+    },
+    {
+      "nr": 2,
+      "text": "Walter 2012. Siehe Echtheitsbestätigung von Berthe Hodler-Jacques auf der Werkrückseite, aufgebracht am 24. März 1924. Ob das Werk zu diesem Zeitpunkt noch in ihrem Eigentum oder lediglich in ihrem Besitz war, ist nicht bekannt."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Bleistiftaufschrift «Getrud Müller» auf der Werkrückseite. Da Getrud Müller erst ab 1921 den Doppelnamen Dübi-Müller führte (Heirat mit Otto Dübi), ist es möglich, dass die Aufschrift davor aufgebracht wurde. Es ist unklar, ob sie ein Besitz- oder Eigentumsverhältnis belegt und von wem sie stammt – möglicherweise von Hodler selbst. Der Künstler hatte für Gertrud Müller zwei Selbstporträts (Nr. 938 und 940) angefertigt und ihr zur Auswahl zukommen lassen, siehe Walter 2012. Ob das vorliegende (Nr. 939) ursprünglich ebenfalls dafür vorgesehen war und die Aufschrift in diesem Zusammenhang entstanden ist, ist unklar. Jedenfalls blieb das Werk unvollendet, da Hodler das gewählte Querformat «nicht befriedigt zu haben schien», siehe ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 2002."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 2002, Walter 2012."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Zu weiteren Selbstporträts von Hodler siehe Fn. 3."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Fn. 3."
+    }
+  ],
+  "bilder_anzahl": 15
+}

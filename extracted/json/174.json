@@ -1,0 +1,447 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_174_230630.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "30. Juni 2023",
+  "stand_iso": "2023-06-30",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 174",
+      "Albert Anker (1831–1910)",
+      "Grossvater mit Enkelkindern",
+      "um 1881",
+      "Kohle auf Papier",
+      "95 × 68 cm (Lichtmass)",
+      "113,8 × 86,8 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "174",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Grossvater mit Enkelkindern",
+    "masse": [
+      "95 × 68 cm (Lichtmass)",
+      "113,8 × 86,8 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1881",
+    "technik": "Kohle auf Papier",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/174/174_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          520.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel nach Originaltitel des finalen Werks, siehe Kuthy/Bhattacharya-Stettler 1995, Nr. 280, S. 152–153. Französischer Titel: Vieillard et deux enfants. Auf der Plakette auf der Vorderseite wird das Werk als Grossvater mit Enkel bezeichnet (siehe Provenienzmerkmale), auf der Erwerbsliste vom 8. April 1982 im Archiv SKKG als Der Grossvater mit seinen Enkeln. Mit der im Werkkatalog erwähnten «Kohlestudie in Privatbesitz» dürfte das vorliegende Werk gemeint sein."
+      },
+      {
+        "nr": 2,
+        "text": "Datierung in Anlehnung an finales Werk, siehe Fn. 1."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 8. April 1982",
+      "besitzer": "Walter Zehnder, Wallisellen",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Erwerbsliste vom 8. April 1982 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. April 1982",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, von Walter Zehnder, Ankaufspreis: 45 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsliste vom 8. April 1982 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Freitextsuche «Albert Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Freitextsuche «Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Freitextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Title Collection «Holocaust» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Freitextsuche «Albert Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Freitextsuche «Albert Anker» und «Grossvater» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Freitextsuche «Albert Anker» und «Kinder» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Freitextsuche «Albert Anker» und «Enkel» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (77 Ergebnisse) für Freitextsuche «Albert Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 77,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Freitextsuche «A. Anker» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Freitextsuche «Grossvater», Filter: Künstler «Albert Anker» (inklusive aller Namensschreibweisen) [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-30"
+          },
+          {
+            "text": "0 Treffer (303 Ergebnisse) für Künstlersuche «Albert Anker» (inklusive aller Namensschreibweisen), Filter: Object Type «Drawing» [30. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 303,
+            "datum": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [5. Juli 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-07-05"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "12. Juli 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.1382, NF_0158",
+      "bilder": [
+        {
+          "datei": "images/174/174_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            209.4,
+            533.2,
+            284.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Liste vom 8. April 1982 mit 22 Werken, die Bruno Stefanini von Walter Zehnder erwarb. Für das vorliegende Werk siehe Eintrag Nr. 20 mit der Anmerkung: «Entwurf für Gemälde im Kunstmuseum Bern (1:1) aus Sammlung Arthur Stoll im Oeuvre-Verzeichnis auch erwähnt»."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubte Metallplakette, eingraviert «ALBERT ANKER 1831 – 1910 | „Grossvater mit Enkel“»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubte Metallplakette, eingraviert «ALBERT ANKER 1831 – 1910 | „Grossvater mit Enkel“»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/174/174_003_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              292.2,
+              292.0,
+              323.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Bildträger: handschriftlich mit Bleistift «Anker»",
+        "position_traeger": "u. r. Bildträger",
+        "merkmal": "handschriftlich mit Bleistift «Anker»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/174/174_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              342.6,
+              213.9,
+              409.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit blauem Kugelschreiber «L. 114»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Kugelschreiber «L. 114»",
+        "kommentar": "entspricht Rahmenlänge",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/174/174_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              421.8,
+              290.7,
+              494.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit Bleistift «1114 / Lpp | 2 Vorne»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «1114 / Lpp | 2 Vorne»",
+        "kommentar": "«pp» könnte für Passepartout (Umrahmung) stehen.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/174/174_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              508.2,
+              290.7,
+              565.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Bildträger: rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber «W. Zehnder | 20. Anker Albert | Der Grossvater mit | seinen Enkeln | 45’» und schwarz gestempelt «- 8. April 1982»",
+        "position_traeger": "o. l. Bildträger",
+        "merkmal": "rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber «W. Zehnder | 20. Anker Albert | Der Grossvater mit | seinen Enkeln | 45’» und schwarz gestempelt «- 8. April 1982»",
+        "kommentar": "Erwerbsnachweis",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/174/174_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              583.6,
+              290.7,
+              693.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Die Nummer 20 entspricht der Position in der Liste der von Walter Zehnder erworbenen Werke im Archiv SKKG, siehe Archiv intern."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen und Bildträger: rechteckiges weisses SIK-Etikett mit Kontrollnummer 14578, mit schwarzem Kugelschreiber unterstrichen",
+        "position_traeger": "o. l. Zierrahmen und Bildträger",
+        "merkmal": "rechteckiges weisses SIK-Etikett mit Kontrollnummer 14578, mit schwarzem Kugelschreiber unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/174/174_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              221.5,
+              180.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/174/174_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              186.4,
+              221.4,
+              226.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [],
+    "uebersicht_text": "–"
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel nach Originaltitel des finalen Werks, siehe Kuthy/Bhattacharya-Stettler 1995, Nr. 280, S. 152–153. Französischer Titel: Vieillard et deux enfants. Auf der Plakette auf der Vorderseite wird das Werk als Grossvater mit Enkel bezeichnet (siehe Provenienzmerkmale), auf der Erwerbsliste vom 8. April 1982 im Archiv SKKG als Der Grossvater mit seinen Enkeln. Mit der im Werkkatalog erwähnten «Kohlestudie in Privatbesitz» dürfte das vorliegende Werk gemeint sein."
+    },
+    {
+      "nr": 2,
+      "text": "Datierung in Anlehnung an finales Werk, siehe Fn. 1."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Erwerbsliste vom 8. April 1982 im Archiv SKKG."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsliste vom 8. April 1982 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 5,
+      "text": "Die Nummer 20 entspricht der Position in der Liste der von Walter Zehnder erworbenen Werke im Archiv SKKG, siehe Archiv intern."
+    }
+  ],
+  "bilder_anzahl": 9
+}

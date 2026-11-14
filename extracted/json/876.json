@@ -1,0 +1,658 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_876_221107.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. November 2022",
+  "stand_iso": "2022-11-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 876",
+      "Félix Vallotton (1865–1925)",
+      "Le cadavre",
+      "1916",
+      "Öl auf Leinwand",
+      "40 × 130 cm (Bildmass)",
+      "55 × 144 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und",
+      "Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "876",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Le cadavre",
+    "masse": [
+      "40 × 130 cm (Bildmass)",
+      "55 × 144 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1916",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/876/876_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.5,
+          362.0,
+          376.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1912",
+      "besitzer": "Arthur (1870–1936) und Hedy Hahnloser-Bühler (1873–1952), Winterthur",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005. Félix Vallotton malte mehrere Versionen des Cadavre. Das vorliegende Werk entstand in seiner ursprünglichen Form 1912 auf Bestellung von Arthur Hahnloser. Da der «Conseil du musée du Winterthour» das Bild nicht guthiess, nahm Vallotton es 1916 zurück und überarbeitete es. Für Hahnloser malte er ein neues Werk (Ducrey 2005, Nr. 1140)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1916",
+      "besitzer": "Félix Vallotton, Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "nach 1925",
+      "besitzer": "Nachlass Félix Vallotton (1865–1925), Paris",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Jacques Rodrigues-Henriques (1886–1968), Paris",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005. Das Werk blieb nach Vallottons Tod in seinem Nachlass in Paris und damit beim Pariser Teil der Familie; vermutlich ging es ziemlich bald, möglicherweise direkt, zum Stiefsohn Jacques Rodrigues-Henriques."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Alfred Vallotton (1896–1984), Paris",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005. Alfred Vallotton war ein Neffe von Félix Vallotton, siehe Ducrey 2005, Bd. 1, S. 72."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatsammlung",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "29. Mai 2000",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 125, Le cadavre), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Ducrey 2005 (mit falschem Datum) und Auktionskatalog Zürich 2000."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 29. Mai 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 25 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Ankaufsbeleg auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2000 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1141.",
+        "bilder": [
+          {
+            "datei": "images/876/876_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.2,
+              334.5,
+              457.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/876/876_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              305.2,
+              499.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1078a."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 29. Mai 2000, Zürich 2000, Lot 125."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936, S. 60 (Abb. 95), S. 222/223.",
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Offenbar war das Werk 1936 noch unbeschnitten; zur Beschneidung der Leinwand siehe Ducrey 2005."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Lausanne, 1987, Nr. 13\n\n– Galerie Paul Vallotton, Lausanne, Maîtres suisses et français des XIXè et XXè siècles, 25. Juni bis 5. September 1987, Nr. 105",
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche mit Filter: Artist «Vallotton» [28. Oktober 2022]:",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche, Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "29. Mai 2000",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/876/876_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            404.1,
+            530.9,
+            635.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/876/876_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            133.8,
+            530.7,
+            343.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Galerie du Chêne, Lausanne / Donald Vallotton (Etikett auf der Werkrückseite)",
+      "information": "Galerie du Chêne. Exposition inaugurale, in: Le Nouvelliste, Jg. 25 (1992), Nr. 203, 3. September 1992, S. 11, https://www.e-newspaper-archives.ch/?a=d&d=NVE19920903-01.2.21.10 [7. November 2022]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/876/876_006_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          320.3,
+          263.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur des Künstlers mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur des Künstlers mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/876/876_007_provenienzmerkmale.png",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              312.0,
+              320.4,
+              351.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m., r. m., u. m. und l. m. Zierrahmen: handschriftlich «130 x 40»",
+        "position_traeger": "o. m., r. m., u. m. und l. m. Zierrahmen",
+        "merkmal": "handschriftlich «130 x 40»",
+        "kommentar": "entspricht dem Rahmenmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/876/876_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              364.1,
+              318.7,
+              412.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: weisses Etikett der Auktion Sotheby’s vom 29. Mai 2000 mit Lotnummer 125",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "weisses Etikett der Auktion Sotheby’s vom 29. Mai 2000 mit Lotnummer 125",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/876/876_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              427.2,
+              223.8,
+              487.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. Zierrahmen: handschriftlich «1411», eingekreist, und «40 x 130»",
+        "position_traeger": "m. r. Zierrahmen",
+        "merkmal": "handschriftlich «1411», eingekreist, und «40 x 130»",
+        "kommentar": "Die zweite Angabe entspricht dem Rahmenmass.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/876/876_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              499.7,
+              318.7,
+              574.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/876/876_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              581.3,
+              318.3,
+              648.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: handschriftlich «44», eingekreist",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "handschriftlich «44», eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/876/876_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              660.9,
+              244.1,
+              714.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel der Auktion Sotheby’s vom 29. Mai 2000 mit gedrucktem Text zum Gemälde und handschriftlich annotiertem Zuschlagspreis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel der Auktion Sotheby’s vom 29. Mai 2000 mit gedrucktem Text zum Gemälde und handschriftlich annotiertem Zuschlagspreis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/876/876_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              139.8,
+              318.9,
+              270.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. linke Strebe Keilrahmen: langrechteckiges beiges Etikett, Galerie du Chêne, Lausanne",
+        "position_traeger": "m. linke Strebe Keilrahmen",
+        "merkmal": "langrechteckiges beiges Etikett, Galerie du Chêne, Lausanne",
+        "kommentar": "Offenbar eine weitere Galerie, die in Familienbesitz war: Betreiber der Galerie du Chêne war ein gewisser Donald Vallotton, vermutlich ein Grossneffe des Künstlers.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/876/876_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              283.6,
+              319.6,
+              369.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "m Stammbaum von Ducrey 2005, Bd. 1, S. 72, ist Donald Vallotton nicht aufgeführt. Vermutlich ist er 2021 verstorben, siehe https://everlife.ch/avis-deces/vaud/monsieur-donald-vallotton [7. November 2022]. Zur Galerie du Chêne siehe Kontextinformationen."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005. Félix Vallotton malte mehrere Versionen des Cadavre. Das vorliegende Werk entstand in seiner ursprünglichen Form 1912 auf Bestellung von Arthur Hahnloser. Da der «Conseil du musée du Winterthour» das Bild nicht guthiess, nahm Vallotton es 1916 zurück und überarbeitete es. Für Hahnloser malte er ein neues Werk (Ducrey 2005, Nr. 1140)."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses keine Nachlassnummer erhalten haben, sind beim Pariser Teil der Familie verblieben, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005. Das Werk blieb nach Vallottons Tod in seinem Nachlass in Paris und damit beim Pariser Teil der Familie; vermutlich ging es ziemlich bald, möglicherweise direkt, zum Stiefsohn Jacques Rodrigues-Henriques."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005. Alfred Vallotton war ein Neffe von Félix Vallotton, siehe Ducrey 2005, Bd. 1, S. 72."
+    },
+    {
+      "nr": 7,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 8,
+      "text": "Ducrey 2005 (mit falschem Datum) und Auktionskatalog Zürich 2000."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Ankaufsbeleg auf der Werkrückseite sowie annotierten Auktionskatalog Zürich 2000 im Archiv SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 1078a."
+    },
+    {
+      "nr": 11,
+      "text": "Offenbar war das Werk 1936 noch unbeschnitten; zur Beschneidung der Leinwand siehe Ducrey 2005."
+    },
+    {
+      "nr": 12,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 13,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 14,
+      "text": "m Stammbaum von Ducrey 2005, Bd. 1, S. 72, ist Donald Vallotton nicht aufgeführt. Vermutlich ist er 2021 verstorben, siehe https://everlife.ch/avis-deces/vaud/monsieur-donald-vallotton [7. November 2022]. Zur Galerie du Chêne siehe Kontextinformationen."
+    }
+  ],
+  "bilder_anzahl": 14
+}

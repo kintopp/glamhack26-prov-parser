@@ -1,0 +1,816 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_71_241107.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. November 2024",
+  "stand_iso": "2024-11-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 71",
+      "Albert Anker (1831–1910)",
+      "Die Bourbakis II",
+      "1871",
+      "Öl auf Leinwand",
+      "94 × 150 cm (Bildmass)",
+      "109 × 165 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "71",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Die Bourbakis II",
+    "masse": [
+      "94 × 150 cm (Bildmass)",
+      "109 × 165 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1871",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/71/71_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          313.5,
+          424.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Les Bourbakis II."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "14./15. Februar bis 8. Mai 1872",
+      "besitzer": "Adolphe Goupil (1806–1893), Galerie Goupil & Cie, Paris, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 15. Februar 1872 in Ankers Livre de vente: «de Goupil pour les Bourbakis qui seront gravés 2500». Adolphe Goupil war der wichtigste Händler für Anker in Frankreich, siehe ebd., S. 46; siehe auch https://en.wikipedia.org/wiki/Goupil_%26_Cie [21. Dezember 2022]. Im Verkaufsbuch von Goupil (Stockbook Goupil & Cie, Nr. 5, S. 191, Z. 1, Nr. 6130) steht als Ankaufsdatum der 14. statt der 15. Februar 1872. Der Ankaufspreis betrug 2500 Francs, siehe Datenbankrecherche. Der Werkkatalog verweist auf die Salonausstellung im Mai 1872 in Paris (siehe Ausstellungskatalog Paris 1872), für die Goupil das Gemälde einlieferte. Laut Verkaufsbuch wurde es unter dem Titel En Suisse! Soldats français secourus am 8. Mai 1872 nach London – wohl aus der Salonausstellung – verkauft, siehe Datenbankrecherche."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. Mai 1872 bis o. D.",
+      "besitzer": "Wallis, French Gallery, London, angekauft von Galerie Goupil & Cie",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Laut Verkaufsbuch von Goupil (Stockbook Goupil & Cie, Nr. 5, S. 191, Z. 1, Nr. 6130) wurde das Werk für 4500 Francs an «Mr Wallis Londres» verkauft, siehe Datenbankrecherche. Es handelt sich dabei um Henry Wallis (1805–1890) beziehungsweise Thomas Wallis (1837–1916). Diese führten die French Gallery am Pall Mall in London und hatten Kontakte zu Goupil, siehe https://wolfeeboy.wordpress.com/tag/wallis-and-son [20. Dezember 2022]. Das Gemälde wurde 1873 unter dem Titel Swiss Peasants attending Wounded Soldiers of Bourbaki’s Division in der French Gallery ausgestellt, siehe The Art-Journal 1874, S. 8. Für weitere Informationen zur French Gallery siehe ebd., S. 145. Möglicherweise blieb es bei Henry/Thomas Wallis und ging nach 1916 an Sohn Harry Wallis über, siehe Fn. 4. Zu Ankers Kontakten zu Wallis siehe Kuthy/Bhattacharya-Stettler 1995, S. 46."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1959",
+      "besitzer": "Privatbesitz, England",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Ob das Werk von 1872 bis 1959 in gleicher Hand blieb, das heisst in der Familie Wallis beziehungsweise der French Gallery, ist nicht bekannt. Thomas Wallis starb 1916. Geschäftsnachfolger war der Sohn Harry Wallis (1871–1949). Dessen Sohn Thomas Howard Wallis war ebenfalls Kunsthändler, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1959 bis mindestens 11. Dezember 1960",
+      "besitzer": "Galerie Jürg Stuker, Bern",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8.–15. Mai und 6. Juni 1959",
+      "besitzer": "Auktion Galerie Jürg Stuker (Grosse Auktionen, Lot 2160), Bern, unverkauft",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Bern 1959, Kuthy/Bhattacharya-Stettler 1995. Offenbar blieb das Werk an der Auktion unverkauft, denn 1960 war es als Leihgabe der Galerie Stuker in der Anker-Ausstellung im Kunstmuseum Bern, wo es zum Verkauf stand, siehe Ausstellungskatalog Bern 1960."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 1959 bis spätestens 1967",
+      "besitzer": "Gino Vincenzo Santi, Schloss-Galerie, Zürich",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Die Werkrückseite weist drei Stempel der Schloss-Galerie von Gino Vincenzo Santi in Zürich auf, siehe Provenienzmerkmale. Deren Geschäftstätigkeit lässt sich zwischen 1959 und 1967 fassen, siehe Kontextinformationen. Möglicherweise ist diese Station identisch mit «Privatbesitz, Zürich»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17. Juni 1988",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 4, Die Bourbakis), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Bern 1988, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 17. Juni 1988",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 650 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 111, Nr. 150.",
+        "bilder": [
+          {
+            "datei": "images/71/71_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              209.5,
+              294.8,
+              424.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Grosse Auktionen. Das Vermeil-Service der Kaiserin Josephine. Kollektion des Marquis de F. Bedeutende Fayencen-Sammlungen. Aquarelle. Goldmünzen. Teppiche, Auktionskatalog Galerie Jürg Stuker, Bern, 8.–15. Mai und 6. Juni 1959, Bern 1959, Lot 2160 [nicht konsultiert; fehlt im Archiv SKKG].\n\nModerne Kunst des 19. und 20. Jahrhunderts. Teil 1, Auktionskatalog Galerie Kornfeld, 17. Juni 1988, Bern, 1988, Lot 4."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Salon de 1872, 89e exposition officielle depuis l’année 1673 […], Ausstellungskatalog Palais des Champs-Elysées, Paris, 1. Mai 1872, hrsg. vom Ministère d’Instruction Publique, des Cultes et des Beaux-Arts, Direction des Beaux-Arts, Paris 1872, S. 3, Nr. 15, https://gal-lica.bnf.fr/ark:/12148/bpt6k9811923f/f135.item.r=livret charles blanc salon paris 1872 anker [20. Dezember 2022].",
+        "bilder": [
+          {
+            "datei": "images/71/71_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              632.7,
+              363.1,
+              682.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Catalogue du Musée des Beaux-Arts de la ville de Neuchâtel, Ausstellungskatalog Musée des Beaux-Arts, Neuchâtel, Neuchâtel 1898, S. 4, Nr. 2, https://gallica.bnf.fr/ark:/12148/bpt6k62331639/f19.item.r=%22al-bert%20anker%22.zoom [20. Dezember 2022]"
+          },
+          {
+            "datei": "images/71/71_004_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              165.1,
+              363.3,
+              217.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Anker Albert, Ausstellung 17. September bis 11. Dezember 1960, Ausstellungskatalog Kunstmuseum Bern, Bern 1960, Nr. 33."
+          },
+          {
+            "datei": "images/71/71_005_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              261.5,
+              363.0,
+              286.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "The Art-Journal, Bd. 13, London 1874, S. 8 (Bourbaki) und S. 145 (French Gallery, Pall Mall), https://upload.wikimedia.org/wikipe-dia/commons/e/e8/The_Art_jour-nal_%28IA_gri_33125006187468%29.pdf [20. Dezember 2022]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «Bourbaki» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (108 Ergebnisse) für Volltextsuche «hospitalité» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 108,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (162 Ergebnisse) für Volltextsuche «en Suisse» und «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 162,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 1,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/71/71_006_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              221.7,
+              532.3,
+              269.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "Stockbook Goupil & Cie, Nr. 5, S. 191, Z. 1, Nr. 6130, https://roset-taapp.getty.edu/delivery/DeliveryManagerSer-vlet?dps_pid=FL1655520 [20. Dezember 2022]",
+            "bildunterschrift": "«59 6130 En Suisse! Soldats français secourus peinture Anker 14 février 72 MSXX cad. [cadré] 4050 fr. Mr Wallis Londres 8 Mai 72»"
+          },
+          {
+            "datei": "images/71/71_007_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              357.6,
+              532.3,
+              430.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Getty Provenance Index",
+            "bildtitel": "Alphabetisches Namensverzeichnis (ebd., o. S. [S. 258 im PDF]), https://rosettaapp.getty.edu/delivery/DeliveryManagerServ-let?dps_pid=FL1655520 [20. Dezember 2022]",
+            "bildunterschrift": "Anker: «[…] Soldats del’ [sic] armée | de Bourbaki secourus par des Suisses | 191.»"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Die Codierung «MSXX» steht für «2500» und bezeichnet die Ankaufskosten von Goupil."
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Darunter befindet sich ein Ergebnis (Auktion Manzi, Joyant & Company, New York, März 1919) zu L’Hospitalité, das jedoch nicht das Gemälde betrifft, sondern eine Fotogravur: https://digitalprojects.wpi.art/auctions/catalogue/45348?se-arch=anker,%20albert [14. Dezember 2022]."
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "19. Dezember 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/71/71_008_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            391.6,
+            530.9,
+            606.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kopie des lotspezifischen Ausschnitts aus dem Auktionskatalog Bern 1988, annotiert mit Zuschlagspreis (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Gino Santi, Schloss-Galerie",
+      "information": "Anzeige der Schloss-Galerie aus dem Jahr 1959 in: Neue Zürcher Zeitung, Jg. 180, Nr. 3983, 18. Dezember 1959, S. 31, https://www.e-newspaperarchives.ch/?a=d&d=NZZ19591218-03.2.63.1 [19. Dezember 2022].",
+      "bilder": [
+        {
+          "datei": "images/71/71_009_kontextinformationen.jpeg",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            322.8,
+            306.0,
+            379.6
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Adressbuch der Stadt Zürich, 1962, S. 760: Gino Santi, Kunsthandel. Die Galerie Schlossgasse unter Gino Santi ist im Adressbuch zwischen 1961 und 1967 fassbar."
+        },
+        {
+          "datei": "images/71/71_010_kontextinformationen.png",
+          "seite": 7,
+          "bbox": [
+            196.1,
+            436.4,
+            309.5,
+            491.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    },
+    {
+      "thema": "Wallis & Son, The French Gallery",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/71/71_011_kontextinformationen.png",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            503.3,
+            306.4,
+            627.4
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "https://wolfeeboy.wordpress.com/tag/wallis-and-son/#jp-carousel-1509 [19. Dezember 2022]."
+        }
+      ]
+    },
+    {
+      "thema": "Thomas Wallis",
+      "information": "Eintrag zu Thomas Wallis (geb. 1837) auf MyHeritage, https://www.myheritage.ch/research/collection-40001/familysearch-stammbaum?itemId=2067998774&action=showRecord [19. Dezember 2022]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/71/71_012_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          275.3,
+          305.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit dunkler Farbe «Anker 1871»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit dunkler Farbe «Anker 1871»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              343.7,
+              275.4,
+              392.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallschild, graviert «Albert Anker»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallschild, graviert «Albert Anker»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              404.2,
+              275.5,
+              446.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. und o. r. Keilrahmen: dreimal verblasster dunkler Stempel, «Gino Vincenzo Santi | Schloss-Galerie | ZÜRICH Schlossgasse | Tel. 35 82 32»",
+        "position_traeger": "o. m. und o. r. Keilrahmen",
+        "merkmal": "dreimal verblasster dunkler Stempel, «Gino Vincenzo Santi | Schloss-Galerie | ZÜRICH Schlossgasse | Tel. 35 82 32»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              458.7,
+              250.0,
+              522.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/71/71_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              528.2,
+              250.0,
+              588.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/71/71_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              594.2,
+              249.7,
+              645.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «5»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «5»",
+        "kommentar": "Allenfalls aufgebracht von der Galerie Kornfeld im Zusammenhang mit der Auktion 1988, allerdings wäre dann 4 die richtige Lotnummer.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.2,
+              657.7,
+              185.8,
+              698.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: langrechteckiges beiges Etikett, rechts und unten mit gezahntem Rand",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "langrechteckiges beiges Etikett, rechts und unten mit gezahntem Rand",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              139.8,
+              275.8,
+              176.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe: schwarz gestempelt (schabloniert) «[59] 6130»",
+        "position_traeger": "m. waagrechte Mittelstrebe",
+        "merkmal": "schwarz gestempelt (schabloniert) «[59] 6130»",
+        "kommentar": "Laufnummer 59/6130 im Stockbook von Goupil, vergeben 1872",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_020_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              207.2,
+              278.6,
+              243.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Siehe Datenbankrecherche."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. waagrechte Mittelstrebe: verbräuntes Etikett, schwarz gedruckt «9» (oder «6»)",
+        "position_traeger": "m. waagrechte Mittelstrebe",
+        "merkmal": "verbräuntes Etikett, schwarz gedruckt «9» (oder «6»)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_021_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              283.6,
+              193.2,
+              360.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Leinwand: handschriftlich mit weisser Kreide «G81» oder «681»",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "handschriftlich mit weisser Kreide «G81» oder «681»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_022_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              373.4,
+              233.5,
+              438.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit Bleistift «E[…] Anke[…]gold»?",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «E[…] Anke[…]gold»?",
+        "kommentar": "möglicherweise aufgebracht durch Rahmenatelier",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_023_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              450.7,
+              279.3,
+              499.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit weisser Kreide «S C H O E I L T A R [?]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «S C H O E I L T A R [?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/71/71_024_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.2,
+              513.8,
+              279.3,
+              538.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Les Bourbakis II."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 15. Februar 1872 in Ankers Livre de vente: «de Goupil pour les Bourbakis qui seront gravés 2500». Adolphe Goupil war der wichtigste Händler für Anker in Frankreich, siehe ebd., S. 46; siehe auch https://en.wikipedia.org/wiki/Goupil_%26_Cie [21. Dezember 2022]. Im Verkaufsbuch von Goupil (Stockbook Goupil & Cie, Nr. 5, S. 191, Z. 1, Nr. 6130) steht als Ankaufsdatum der 14. statt der 15. Februar 1872. Der Ankaufspreis betrug 2500 Francs, siehe Datenbankrecherche. Der Werkkatalog verweist auf die Salonausstellung im Mai 1872 in Paris (siehe Ausstellungskatalog Paris 1872), für die Goupil das Gemälde einlieferte. Laut Verkaufsbuch wurde es unter dem Titel En Suisse! Soldats français secourus am 8. Mai 1872 nach London – wohl aus der Salonausstellung – verkauft, siehe Datenbankrecherche."
+    },
+    {
+      "nr": 3,
+      "text": "Laut Verkaufsbuch von Goupil (Stockbook Goupil & Cie, Nr. 5, S. 191, Z. 1, Nr. 6130) wurde das Werk für 4500 Francs an «Mr Wallis Londres» verkauft, siehe Datenbankrecherche. Es handelt sich dabei um Henry Wallis (1805–1890) beziehungsweise Thomas Wallis (1837–1916). Diese führten die French Gallery am Pall Mall in London und hatten Kontakte zu Goupil, siehe https://wolfeeboy.wordpress.com/tag/wallis-and-son [20. Dezember 2022]. Das Gemälde wurde 1873 unter dem Titel Swiss Peasants attending Wounded Soldiers of Bourbaki’s Division in der French Gallery ausgestellt, siehe The Art-Journal 1874, S. 8. Für weitere Informationen zur French Gallery siehe ebd., S. 145. Möglicherweise blieb es bei Henry/Thomas Wallis und ging nach 1916 an Sohn Harry Wallis über, siehe Fn. 4. Zu Ankers Kontakten zu Wallis siehe Kuthy/Bhattacharya-Stettler 1995, S. 46."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Ob das Werk von 1872 bis 1959 in gleicher Hand blieb, das heisst in der Familie Wallis beziehungsweise der French Gallery, ist nicht bekannt. Thomas Wallis starb 1916. Geschäftsnachfolger war der Sohn Harry Wallis (1871–1949). Dessen Sohn Thomas Howard Wallis war ebenfalls Kunsthändler, siehe Kontextinformationen."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Fn. 6."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Bern 1959, Kuthy/Bhattacharya-Stettler 1995. Offenbar blieb das Werk an der Auktion unverkauft, denn 1960 war es als Leihgabe der Galerie Stuker in der Anker-Ausstellung im Kunstmuseum Bern, wo es zum Verkauf stand, siehe Ausstellungskatalog Bern 1960."
+    },
+    {
+      "nr": 7,
+      "text": "Die Werkrückseite weist drei Stempel der Schloss-Galerie von Gino Vincenzo Santi in Zürich auf, siehe Provenienzmerkmale. Deren Geschäftstätigkeit lässt sich zwischen 1959 und 1967 fassen, siehe Kontextinformationen. Möglicherweise ist diese Station identisch mit «Privatbesitz, Zürich»."
+    },
+    {
+      "nr": 8,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Bern 1988, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 11,
+      "text": "Die Codierung «MSXX» steht für «2500» und bezeichnet die Ankaufskosten von Goupil."
+    },
+    {
+      "nr": 12,
+      "text": "Darunter befindet sich ein Ergebnis (Auktion Manzi, Joyant & Company, New York, März 1919) zu L’Hospitalité, das jedoch nicht das Gemälde betrifft, sondern eine Fotogravur: https://digitalprojects.wpi.art/auctions/catalogue/45348?se-arch=anker,%20albert [14. Dezember 2022]."
+    },
+    {
+      "nr": 13,
+      "text": "Siehe Datenbankrecherche."
+    }
+  ],
+  "bilder_anzahl": 24
+}

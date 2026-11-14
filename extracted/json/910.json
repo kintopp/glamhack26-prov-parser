@@ -1,0 +1,838 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_910_221025.pdf",
+  "seiten": 12,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. Oktober 2022",
+  "stand_iso": "2022-10-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 910",
+      "Arnold Böcklin (1827–1901)",
+      "Zwei fischende Pane",
+      "1874",
+      "Öl auf Leinwand",
+      "76 × 55 × 3 cm (Bildmass)",
+      "108 × 84 × 9 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "910",
+    "status": "Klar",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Zwei fischende Pane",
+    "masse": [
+      "76 × 55 × 3 cm (Bildmass)",
+      "108 × 84 × 9 cm (Rahmenmass)"
+    ],
+    "datierung": "1874",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/910/910_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          294.5,
+          572.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977, ebenso in Ausstellungskatalog Basel 1977, Auktionskatalog Zürich 1978 und 2000. Titelvarianten: Die fischenden Pane (Ausstellungskatalog Basel 1897), Der fischende Pan (Ausstellungskatalog Berlin 1897), Zwei Faune fischen eine Seejungfrau (Etikett der Ausstellung Basel 1977 auf der Werkrückseite). Lillie 2004, S. 165, bezeichnet das Werk als Der Fischzug."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "spätestens September 1897 bis 1915",
+      "besitzer": "Leopold von Lieben (1835–1915), Wien",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Zur jüdischen Familie von Lieben siehe https://www.hohenemsgenealogie.at/gen/getperson.php?per-sonID=I12154&tree=Hohenems [8. September 2022] sowie Lillie 2004, S. 165/166, Fn. 22. Bei Lillie ist die Inventarnummer 15 innerhalb der Sammlung Leopold von Lieben angegeben (dessen Nachlassverzeichnis ist überliefert, siehe ebd.). Ein entsprechendes Provenienzmerkmal ist nicht auszumachen. Möglicherweise stehen die Zollstempel auf der Werkrückseite (siehe Provenienzmerkmale) in Zusammenhang mit der Verzollung bei der Einfuhr von Österreich in die Schweiz; zumindest einer der drei Stempel dürfte in der Schweiz auf die Rückseite gekommen sein. Das Werk wurde 1905 gestohlen und konnte 1909 in den USA sichergestellt werden, siehe Kontextinformationen."
+        },
+        {
+          "nr": 3,
+          "text": "Andree 1977, wonach das Werk seit 1898 bei Leopold von Lieben nachweisbar ist. Tatsächlich gehörte es diesem bereits 1897, denn er ist als Leihgeber für die Ausstellung in der Kunsthalle Basel im September/Oktober 1897 nachgewiesen, siehe Ausstellungskatalog Basel 1897. Wenig später, im Dezember 1897 und Januar 1898, wurde das Gemälde in Berlin gezeigt, siehe Ausstellungskatalog Berlin 1897."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1917 bis vermutlich 1961",
+      "besitzer": "Ilse Leembruggen-von Lieben (1873–1961), Den Haag / Amsterdam, erworben im Erbgang von ihrem Vater",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ilse von Lieben heiratete 1895 den Unternehmer Willem Leembruggen (1870–1925) und zog zu ihm nach Den Haag. Sie wurde zu Kriegszeiten mehrmals verhaftet und kam ins Durchgangslager Westerbork, siehe Arolsen Archives, Kartothek des Judenrats in Amsterdam mit Vermerk zu Inhaftierungen und Entlassungen 1943, https://collections.arolsen-archives.org/de/document/130328190 [8. September 2022]; dazu auch Ines Schlenker, Marie-Louise von Motesiczky. 1906–1996. A Catalogue Raisonné of the Paintings with a Selection of Drawings, New York 2009, S. 532. Ilse Leembruggen-von Lieben wurde von ihrer Nichte, der Künstlerin Marie-Louise von Motesiczky, porträtiert. Im Katalog wird erwähnt, dass Max Beckmann und seine Frau, beide 1937 bis 1947 in Amsterdam und mit ihr befreundet, sich bei Erhard Göpel für sie einsetzten, als sie in Westerbork interniert war. 1948 machte sie Aussagen an den Nürnberger Prozessen im Zusammenhang mit Erich Naumann, siehe National Archives and Records Service (Hrsg.), Nuernberg War Crimes Trials. Records of Case 9. United States of America vs. Otto Ohlendorf et al. Compiled by John Mendelsohn, Washington 1978, S. 61 (https://books.google.ch/books?id=BozjoHNJVRoC&pg=PA61&dq=%22ilse+leembruggen [8. September 2022])."
+        },
+        {
+          "nr": 5,
+          "text": "Andree 1977. Andree gibt als Jahr des Erbgangs 1917 an, der Ausstellungskatalog Wien 2005, S. 165, hingegen 1915. Es ist möglich, dass ein oder mehrere Zollstempel beim Umzug von Ilse von Lieben-Leembruggen von Wien nach Holland aufgebracht worden sind."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1961 bis mindestens 1977",
+      "besitzer": "Louise Rupé-Leembruggen (1898–1985), erworben im Erbgang von ihrer Mutter",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Andree 1977, «Privatbesitz seit 1961». Diese Angabe dürfte mit dem Erbgang an die älteste Tochter Louise Rupé-Leembruggen korrespondieren, die 1977 als Eigentümerin nachgewiesen ist, siehe Etikett der Basler Böcklin-Ausstellung auf der Werkrückseite, das «L. Rupé-Lembruggen» als Leihgeberin nennt, sowie Ausstellungskatalog Basel 1977. Zu den Lebensdaten der Familie Rupe (oder Rupé) siehe Grabstein im Waldfriedhof München, https://www.finda-grave.com/memorial/209898002/louise-rupe [8. September 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "25./26. Mai 1978",
+      "besitzer": "Auktion Galerie Koller (Bilder, Graphik, Bücher und Plastiken des 20. Jahrhunderts, Lot 5034, Zwei fischende Pane), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Holenweg 2021."
+        },
+        {
+          "nr": 8,
+          "text": "Vermutlich erfolgte die Einlieferung durch Louise Rupé-Leembruggen, denn das im Mai 1978 bei Koller, Zürich, zum Verkauf stehende Bild befand sich bis mindestens Mitte September 1977 im Kunstmuseum Basel, wo sie als Leihgeberin belegt ist."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1978–2000",
+      "besitzer": "Baron Otto von Steinhart, Thalwil",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Holenweg 2022, siehe «Archive extern». Ob Baron von Steinhart das Werk bei Sotheby’s angekauft hat, ist nicht bekannt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "29. Mai 2000",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 104, Zwei fischende Pane), Zürich, eingeliefert von Baron Otto von Steinhart, Thalwil",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Holenweg 2021. Holenweg 2022, siehe «Archive extern»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 29. Mai 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 230 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG sowie Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 374, Nr. 285.",
+        "bilder": [
+          {
+            "datei": "images/910/910_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              347.4,
+              342.7,
+              537.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Hans Holenweg, Arnold Böcklin. Ergänzungen, Nachträge und Korrekturen zum Katalog der Gemälde, Stand: 1. November 2021, S. 11, https://www.sikart.ch/pdf/holenweg_gemaelde.pdf [18. August 2022]."
+          },
+          {
+            "datei": "images/910/910_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              588.2,
+              525.3,
+              625.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Bilder, Graphik, Bücher und Plastiken des 20. Jahrhunderts, Auktionskatalog Galerie Koller, Zürich, 25./26. Mai 1978, Zürich 1978, Lot 5034.\n\nSchweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 29. Mai 2000, Zürich 2000, Lot 104 (mit Abb.)."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Boecklin-Jubiläum. Ausstellung Basel, Ausstellungskatalog Kunsthalle Basel, Basel 1897, Nr. 60.\n\nPamela Kort (Hrsg.), Grotesk! 130 Jahre Kunst der Frechheit, Ausstellungskatalog Schirn Kunsthalle Frankfurt / Haus der Kunst, München, München 2003.\n\nMatthias Frehner (Hrsg.), Sesam öffne Dich! Anker, Hodler, Segantini. Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, Bern 2014, Nr. 74.",
+        "bilder": [
+          {
+            "datei": "images/910/910_004_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              202.9,
+              299.6,
+              251.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, Ausstellungskatalog Akademie der Künste, Berlin, Berlin 1897, Nr. 130, https://doi.org/10.11588/diglit.48226#0047 [18. August 2022]."
+          },
+          {
+            "datei": "images/910/910_005_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              321.6,
+              408.8,
+              362.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Arnold Böcklin. 1827–1902. Gemälde, Zeichnungen, Plastiken, Ausstellung zum 150. Geburtstag, Ausstellungskatalog Kunstmuseum Basel, Basel 1977, S. 193, Nr. 131."
+          },
+          {
+            "datei": "images/910/910_006_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              196.6,
+              422.2,
+              322.6,
+              540.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Rolf Andree, Arnold Böcklin, Diss. Berlin 1962, S. 70 [nicht konsultiert].\n\nJürgen Wissmann, Arnold Böcklin, Diss. Münster 1968, S. 73–74 [nicht konsultiert].\n\nSophie Lillie, Das bürgerliche Leben zu adeln. Die Kunstsammlungen der Familie von Lieben am Beispiel Leopold, Richard und Adolf Lieben sowie Josef und Josefine Winter, in: Evi Fuks, Gabriele Kohlbauer (Hrsg.), Die Liebens. 150 Jahre Geschichte einer Wiener Familie, Ausstellungskatalog Jüdisches Museum Wien, Wien 2004, S. 163–182."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Kunsthalle Basel, Böcklin-Jubiläums-Ausstellung, 20. September bis 24. Oktober 1897, Nr. 60.\n\n– Königliche Akademie der Künste, Berlin, Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, 2. Dezember 1897 bis 16. Januar 1898, Nr. 130.\n\n– Kunstmuseum Basel, Arnold Böcklin. 1827–1902. Gemälde, Zeichnungen, Plastiken, Ausstellung zum 150. Geburtstag, 11. Juni bis 11. September 1977, Nr. 131.\n\n– Schirn Kunsthalle, Frankfurt am Main / Haus der Kunst, München, Grotesk! 130 Jahre Kunst der Frechheit, 27. März bis 9. Juni 2003 / 27. Juni bis 14. September 2003.\n\n– Kunstmuseum Bern / Fondation Gianadda, Martigny, Sesam öffne Dich! Anker, Hodler, Segantini. Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, 7. März bis 24. August 2014 /5. Dezember 2014 bis 14. Juni 2015, Nr. 74."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "Keine Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/910/910_007_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            190.7,
+            535.0,
+            355.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.121, NF_0010",
+      "bilder": [
+        {
+          "datei": "images/910/910_008_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            417.4,
+            532.0,
+            471.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Hans Holenweg an Bruno Stefanini, 17. Oktober 1984. Holenweg möchte den aktuellen Standort des Werks in Erfahrung bringen."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "24. Oktober 2022",
+      "institution": "Böcklin-Archiv, Basel; Hans Holenweg, Muttenz",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/910/910_009_archive_extern.png",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            629.1,
+            527.8,
+            655.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Ergänzung von Hans Holenweg zu den Besitzverhältnissen ab 1978"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Bilderdiebstahl 1905",
+      "information": "Der Bilderdiebstahl beim Gouverneur v. Lieben, in: Neues Wiener Tagblatt, Jg. 43 (1909), Nr. 34, 3. Februar 1909, S. 9, https://anno.onb.ac.at/cgi-content/anno?aid=nwg&da-tum=19090203&seite=9 [18. August 2022].\n\nZeitungsbericht zum Diebstahl des Gemäldes 1905 und zur Verfolgung des Diebs bis in die USA. Die gestohlenen Werke konnten 1909 von einem Fahnder in Passaic, New Jersey, sichergestellt werden.",
+      "bilder": [
+        {
+          "datei": "images/910/910_010_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            222.2,
+            350.9,
+            440.8
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        },
+        {
+          "datei": "images/910/910_011_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            447.2,
+            351.0,
+            741.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/910/910_012_provenienzmerkmale.jpeg",
+        "seite": 9,
+        "bbox": [
+          62.5,
+          234.3,
+          320.9,
+          561.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "o. m. Leinwand: handschriftlich mit weissem und braunem Schreibmittel «A Böcklin»",
+        "position_traeger": "o. m. Leinwand",
+        "merkmal": "handschriftlich mit weissem und braunem Schreibmittel «A Böcklin»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              599.0,
+              238.3,
+              656.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit rotem Schreibmittel möglicherweise «A H»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel möglicherweise «A H»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_014_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              320.4,
+              213.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Hinweis: Zudem ist ein moderner Rückseitenkarton vorhanden, der jedoch ausschliesslich Provenienzmerkmale aus dem Besitzzeitraum der SKKG und somit keine neuen Informationen enthält."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges beiges Etikett, schwarz bedruckt und maschinenbeschrieben, Ausstellung Kunstmuseum Basel 1977, Leihgeberin: «Frau L.Rupé-Leembruggen, Haag»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, schwarz bedruckt und maschinenbeschrieben, Ausstellung Kunstmuseum Basel 1977, Leihgeberin: «Frau L.Rupé-Leembruggen, Haag»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              226.0,
+              319.7,
+              313.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «104» und gestempelt «29. Mai 2[000]»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «104» und gestempelt «29. Mai 2[000]»",
+        "kommentar": "Auktion Sotheby’s 2000 mit Lotnummer und Datum",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              326.0,
+              228.7,
+              397.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: verbräuntes quadratisches Etikett, schwarz und rot gedruckt «1898 | 2415»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "verbräuntes quadratisches Etikett, schwarz und rot gedruckt «1898 | 2415»",
+        "kommentar": "Das Etikett entspricht einem zweiten Etikett (siehe unten). Es könnte sich um Ausstellungen 1898 und 1901 handeln, allerdings lassen sich keine zwei Ausstellungen bei der gleichen Institution in den angegebenen Jahren finden (siehe unten). 1898 war das Werk in Berlin. Für 1901 liegen bislang keine Informationen zu Ausstellungen vor.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              427.0,
+              228.8,
+              514.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit Bleistift «Böcklin»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Böcklin»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              604.0,
+              319.7,
+              664.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "Die hier angewandte Offenbacher Schrift wurde im Jahr 1927 entwickelt. Das Notat wird somit nicht vor diesem Zeitpunkt angebracht worden sein."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: runder schwarzer Stempel, «ZOLL | I – 4 | + [?]»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "runder schwarzer Stempel, «ZOLL | I – 4 | + [?]»",
+        "kommentar": "Das Kreuz deutet darauf hin, dass es sich um einen Schweizer Zollstempel handeln dürfte.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_019_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              139.8,
+              215.1,
+              215.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: verbräuntes quadratisches Etikett, schwarz und rot gedruckt «1901 | 2081»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "verbräuntes quadratisches Etikett, schwarz und rot gedruckt «1901 | 2081»",
+        "kommentar": "Es könnte sich um ein Etikett für eine Ausstellung von 1901 handeln, analog zum Etikett rechts unten auf dem Zierrahmen (siehe oben).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_020_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              228.8,
+              239.7,
+              321.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: runder schwarzer Stempel, «Z [?]»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "runder schwarzer Stempel, «Z [?]»",
+        "kommentar": "vermutlich identisch mit dem Stempel unten links auf dem Zierrahmen (siehe oben)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_021_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              342.5,
+              214.1,
+              420.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: runder schwarzer Stempel, «ZOLL | I – 4 | 0[?]»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "runder schwarzer Stempel, «ZOLL | I – 4 | 0[?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_022_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              433.1,
+              214.0,
+              508.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: oranger Klebepunkt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "oranger Klebepunkt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_023_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              521.1,
+              180.2,
+              564.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit blauem Schreibmittel zwei Kreuze",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel zwei Kreuze",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_024_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              576.0,
+              232.9,
+              629.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: verbräuntes rechteckiges Etikett, schwarz gedruckt «[…]rg […]01 – […]he | Nr. 2987 | […] Wohnung»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz gedruckt «[…]rg […]01 – […]he | Nr. 2987 | […] Wohnung»",
+        "kommentar": "Möglicherweise wurde das Etikett von einer Speditionsfirma im Zusammenhang mit dem Umzug von Ilse Leembruggen von Wien nach Den Haag um 1895 aufgebracht.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/910/910_025_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              641.5,
+              320.9,
+              719.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977, ebenso in Ausstellungskatalog Basel 1977, Auktionskatalog Zürich 1978 und 2000. Titelvarianten: Die fischenden Pane (Ausstellungskatalog Basel 1897), Der fischende Pan (Ausstellungskatalog Berlin 1897), Zwei Faune fischen eine Seejungfrau (Etikett der Ausstellung Basel 1977 auf der Werkrückseite). Lillie 2004, S. 165, bezeichnet das Werk als Der Fischzug."
+    },
+    {
+      "nr": 2,
+      "text": "Zur jüdischen Familie von Lieben siehe https://www.hohenemsgenealogie.at/gen/getperson.php?per-sonID=I12154&tree=Hohenems [8. September 2022] sowie Lillie 2004, S. 165/166, Fn. 22. Bei Lillie ist die Inventarnummer 15 innerhalb der Sammlung Leopold von Lieben angegeben (dessen Nachlassverzeichnis ist überliefert, siehe ebd.). Ein entsprechendes Provenienzmerkmal ist nicht auszumachen. Möglicherweise stehen die Zollstempel auf der Werkrückseite (siehe Provenienzmerkmale) in Zusammenhang mit der Verzollung bei der Einfuhr von Österreich in die Schweiz; zumindest einer der drei Stempel dürfte in der Schweiz auf die Rückseite gekommen sein. Das Werk wurde 1905 gestohlen und konnte 1909 in den USA sichergestellt werden, siehe Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977, wonach das Werk seit 1898 bei Leopold von Lieben nachweisbar ist. Tatsächlich gehörte es diesem bereits 1897, denn er ist als Leihgeber für die Ausstellung in der Kunsthalle Basel im September/Oktober 1897 nachgewiesen, siehe Ausstellungskatalog Basel 1897. Wenig später, im Dezember 1897 und Januar 1898, wurde das Gemälde in Berlin gezeigt, siehe Ausstellungskatalog Berlin 1897."
+    },
+    {
+      "nr": 4,
+      "text": "Ilse von Lieben heiratete 1895 den Unternehmer Willem Leembruggen (1870–1925) und zog zu ihm nach Den Haag. Sie wurde zu Kriegszeiten mehrmals verhaftet und kam ins Durchgangslager Westerbork, siehe Arolsen Archives, Kartothek des Judenrats in Amsterdam mit Vermerk zu Inhaftierungen und Entlassungen 1943, https://collections.arolsen-archives.org/de/document/130328190 [8. September 2022]; dazu auch Ines Schlenker, Marie-Louise von Motesiczky. 1906–1996. A Catalogue Raisonné of the Paintings with a Selection of Drawings, New York 2009, S. 532. Ilse Leembruggen-von Lieben wurde von ihrer Nichte, der Künstlerin Marie-Louise von Motesiczky, porträtiert. Im Katalog wird erwähnt, dass Max Beckmann und seine Frau, beide 1937 bis 1947 in Amsterdam und mit ihr befreundet, sich bei Erhard Göpel für sie einsetzten, als sie in Westerbork interniert war. 1948 machte sie Aussagen an den Nürnberger Prozessen im Zusammenhang mit Erich Naumann, siehe National Archives and Records Service (Hrsg.), Nuernberg War Crimes Trials. Records of Case 9. United States of America vs. Otto Ohlendorf et al. Compiled by John Mendelsohn, Washington 1978, S. 61 (https://books.google.ch/books?id=BozjoHNJVRoC&pg=PA61&dq=%22ilse+leembruggen [8. September 2022])."
+    },
+    {
+      "nr": 5,
+      "text": "Andree 1977. Andree gibt als Jahr des Erbgangs 1917 an, der Ausstellungskatalog Wien 2005, S. 165, hingegen 1915. Es ist möglich, dass ein oder mehrere Zollstempel beim Umzug von Ilse von Lieben-Leembruggen von Wien nach Holland aufgebracht worden sind."
+    },
+    {
+      "nr": 6,
+      "text": "Andree 1977, «Privatbesitz seit 1961». Diese Angabe dürfte mit dem Erbgang an die älteste Tochter Louise Rupé-Leembruggen korrespondieren, die 1977 als Eigentümerin nachgewiesen ist, siehe Etikett der Basler Böcklin-Ausstellung auf der Werkrückseite, das «L. Rupé-Lembruggen» als Leihgeberin nennt, sowie Ausstellungskatalog Basel 1977. Zu den Lebensdaten der Familie Rupe (oder Rupé) siehe Grabstein im Waldfriedhof München, https://www.finda-grave.com/memorial/209898002/louise-rupe [8. September 2022]."
+    },
+    {
+      "nr": 7,
+      "text": "Holenweg 2021."
+    },
+    {
+      "nr": 8,
+      "text": "Vermutlich erfolgte die Einlieferung durch Louise Rupé-Leembruggen, denn das im Mai 1978 bei Koller, Zürich, zum Verkauf stehende Bild befand sich bis mindestens Mitte September 1977 im Kunstmuseum Basel, wo sie als Leihgeberin belegt ist."
+    },
+    {
+      "nr": 9,
+      "text": "Holenweg 2022, siehe «Archive extern». Ob Baron von Steinhart das Werk bei Sotheby’s angekauft hat, ist nicht bekannt."
+    },
+    {
+      "nr": 10,
+      "text": "Holenweg 2021. Holenweg 2022, siehe «Archive extern»."
+    },
+    {
+      "nr": 11,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2000 im Archiv SKKG sowie Objektdatenbank SKKG."
+    },
+    {
+      "nr": 12,
+      "text": "Hinweis: Zudem ist ein moderner Rückseitenkarton vorhanden, der jedoch ausschliesslich Provenienzmerkmale aus dem Besitzzeitraum der SKKG und somit keine neuen Informationen enthält."
+    },
+    {
+      "nr": 13,
+      "text": "Die hier angewandte Offenbacher Schrift wurde im Jahr 1927 entwickelt. Das Notat wird somit nicht vor diesem Zeitpunkt angebracht worden sein."
+    }
+  ],
+  "bilder_anzahl": 25
+}

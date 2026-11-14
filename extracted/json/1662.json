@@ -1,0 +1,661 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1662_260210.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "10. Februar 2026",
+  "stand_iso": "2026-02-10",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1662",
+      "Carl Montag (1880–1956)",
+      "Stillleben auf Gelb",
+      "1908",
+      "Öl auf Leinwand",
+      "60 × 73 cm (Bildmass)",
+      "81 × 93,5 × 7,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1662",
+    "status": "Ungeklärt",
+    "kuenstler": "Carl Montag (1880–1956)",
+    "titel": "Stillleben auf Gelb",
+    "masse": [
+      "60 × 73 cm (Bildmass)",
+      "81 × 93,5 × 7,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1908",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1662/1662_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          315.9,
+          478.4
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Aufschrift auf Werkrückseite, orthografisch modernisiert. Im Auktionskatalog Luzern 1985 lautet der Titel Stilleben vor gelber Draperie."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 23. Mai 1985",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auskunft von Galerie Fischer / Sandra Sykora vom 8. Februar 2026, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21.–23. Mai 1985",
+      "besitzer": "Auktion Galerie Fischer (Grosse Kunstauktionen in Luzern, Lot 1556, Stilleben vor gelber Draperie), Luzern, eingeliefert aus Zürcher Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Luzern 1985."
+        },
+        {
+          "nr": 4,
+          "text": "Siehe Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 23. Mai 1985",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Fischer, Zuschlagspreis: 1600 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Luzern 1985 sowie Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Grosse Kunstauktionen in Luzern. Möbel, Teppiche, Uhren […], Auktionskatalog Galerie Fischer, Luzern, 21.–23. Mai 1985, Luzern 1985, Lot 1556.",
+        "bilder": [
+          {
+            "datei": "images/1662/1662_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              234.7,
+              533.2,
+              276.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Ob das Werk in Ausstellungen gezeigt wurde, ist nicht bekannt. Mehrere Ausstellungskataloge wurden diesbezüglich ergebnislos durchgesehen, darunter: Giovanni Giacometti, Stampa, und Carl Montag, Paris, Ausstellungskatalog Winterthurer Kunsthalle, 4. Oktober bis 1. November 1908, Winterthur 1908; Turnus-Ausstellung des Schweizerischen Kunstvereins, Museum und Stadthaus Winterthur, 21. Mai bis 12. Juni 1916, Winterthur 1916; Margrit Gsell-Heer, Charles Montag, Adolf Thomann, Eugen Zeller, Rudolf Dreher, Ausstellungskatalog Kunsthaus Zürich, 4. August bis 4. September 1949, Zürich 1949; Charles Montag, Ausstellungskatalog Kunstmuseum Winterthur, 1. Dezember 1980 bis 4. Januar 1981, Winterthur 1981; Carl Montag. Maler und Kunstvermittler (1880–1956), Ausstellungskatalog Stiftung Langmatt, Baden, 17. Juni bis 31. Oktober 1992, Baden 1992."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (58 Ergebnisse) für Volltextsuche «Montag» [20. Oktober 2025",
+            "treffer": 0,
+            "ergebnisse": 58
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (127 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Montag» [28. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 127,
+            "datum": "2025-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Montag» [29. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-10-29"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Suche mit Filter: Künstler «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche «Montag» (inklusive Varianten der Namensschreibweise) [29. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2025-10-29"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Carl Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Künstlersuche «Charles Montag» [20. Oktober 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-10-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv/Adressat:in",
+      "betreff": "Betreff",
+      "antwort": "Antwort"
+    },
+    {
+      "datum": "20. Januar 2026",
+      "institution": "Galerie Fischer, Luzern / Sandra Sykora",
+      "betreff": "Anfrage zur Einlieferung an die Auktion 1985",
+      "antwort": "8. Februar 2026:\n\nDas Werk wurde von einer Privatperson aus Zürich eingeliefert. Weitere Angaben sind aus datenschutzrechtlichen Gründen nicht möglich."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "21. Oktober 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (1 Ergebnis im Archivverzeichnis, 3 Ergebnisse in den Primärdaten) für Volltextsuche «Carl Montag»"
+    },
+    {
+      "datum": "21. Oktober 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1662/1662_003_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.6,
+            574.7,
+            532.2,
+            615.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1985, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "10. Februar 2026",
+      "institution": "Archiv SKKG",
+      "bestand": "Erwerbsnachweis für Ankauf auf Auktion Galerie Fischer 1985",
+      "bilder": [
+        {
+          "datei": "images/1662/1662_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            256.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "rechteckiger weisser Zettel, handschriftlich beschrieben mit grünem Filzstift und blauem Kugelschreiber, rot gestempelt, beigelegt dem annotierten Auktionskatalog Luzern 1985"
+        }
+      ]
+    },
+    {
+      "datum": "10. Februar 2026",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "Lotetikett der Auktion Galerie Fischer 1985",
+      "bilder": [
+        {
+          "datei": "images/1662/1662_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            389.1,
+            437.0,
+            427.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "rechteckiges grünes Etikett mit abgerundeten Ecken, schwarz gedruckt «1556», vormals am Werk angebracht"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "–",
+      "institution": "Schweizerisches Kunstarchiv /Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich",
+      "bestand": "HNA 25: Teilnachlass Carl Montag [nicht konsultiert]",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe https://www.sik-isea.anton.ch/objects/567 und https://www.sik-isea.ch/de-ch/Kunstarchiv-Bibliothek/Kunstar-chiv/Nachlassarchiv/Virtuelle-Vitrine/Detail/content/2569 [23. Oktober 2025]."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1662/1662_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          334.6,
+          400.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit roter Farbe «[…]» (verdeckt)",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit roter Farbe «[…]» (verdeckt)",
+        "kommentar": "Signatur des Künstlers und Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1662/1662_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              437.4,
+              277.4,
+              501.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Auktionskatalog Luzern 1985."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. Mittelstrebe Keilrahmen: handschriftlich mit Bleistift «R [?] 27 Stilleben [sic] auf gelb [?]»",
+        "position_traeger": "o. Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «R [?] 27 Stilleben [sic] auf gelb [?]»",
+        "kommentar": "Werktitel",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1662/1662_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              513.4,
+              335.0,
+              556.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Keilrahmen: verbräuntes rechteckiges Etikett, schwarz gedruckt «73 × 6[…]»",
+        "position_traeger": "r. m. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, schwarz gedruckt «73 × 6[…]»",
+        "kommentar": "Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1662/1662_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              589.2,
+              274.7,
+              628.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. Mittelstrebe Keilrahmen: verbräuntes rechteckiges Papierstück, schwarz gedruckt «In der Politik und in der Malerei ist der gute | Wille kein Entschuldigungsgrund für schlechte | Arbeit. Winston Churchill»",
+        "position_traeger": "u. Mittelstrebe Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Papierstück, schwarz gedruckt «In der Politik und in der Malerei ist der gute | Wille kein Entschuldigungsgrund für schlechte | Arbeit. Winston Churchill»",
+        "kommentar": "Ausspruch von Carl Montags Malschüler Winston Churchill, ausgeschnitten aus Buch oder Zeitung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1662/1662_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              139.8,
+              334.2,
+              223.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. Mittelstrebe Keilrahmen: verbräuntes Papierstück, schwarz gedruckt «Churchill als Maler. (United Preß) […] | Churchill eröffnete in Paris eine Ausstellung von | Bildern des britischen Premiers, die von dem Maler | Charles Montag, der Churchill seit dem Jahre 1918 | Malunterricht gegeben hatte, organisiert worden war. | Montag äusserte sich bei dieser Gelegenheit recht aner- | kennend über die künstlerischen Fähigkeiten seines | Schülers. „Der Premier besitzt einen gerade zu groß- | artigen Farbensinn und ein starkes Gefühl für Kompo- | sition; er packt sein Thema mit einer Passion und | einem Feuer an, die eines Marlborough würdig sind. | Immerhin habe ich ihm einmal sagen müssen: Wenn | Sie ebenso Krieg führen, wie Sie malen, so ist Europa | […]!“»",
+        "position_traeger": "u. Mittelstrebe Keilrahmen",
+        "merkmal": "verbräuntes Papierstück, schwarz gedruckt «Churchill als Maler. (United Preß) […] | Churchill eröffnete in Paris eine Ausstellung von | Bildern des britischen Premiers, die von dem Maler | Charles Montag, der Churchill seit dem Jahre 1918 | Malunterricht gegeben hatte, organisiert worden war. | Montag äusserte sich bei dieser Gelegenheit recht aner- | kennend über die künstlerischen Fähigkeiten seines | Schülers. „Der Premier besitzt einen gerade zu groß- | artigen Farbensinn und ein starkes Gefühl für Kompo- | sition; er packt sein Thema mit einer Passion und | einem Feuer an, die eines Marlborough würdig sind. | Immerhin habe ich ihm einmal sagen müssen: Wenn | Sie ebenso Krieg führen, wie Sie malen, so ist Europa | […]!“»",
+        "kommentar": "ausgeschnittener Zeitungsartikel zu einer Ausstellung in Paris mit Werken von Carl Montags Malschüler Winston Churchill, wahrscheinlich 1921 in der Galerie Druet",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1662/1662_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              279.3,
+              333.2,
+              388.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Im SIKART-Eintrag zu Carl Montag steht: «1915 Bekanntschaft mit Winston Churchill, dessen Mallehrer er wurde und dem er 1921 unter dessen Pseudonym Charles Morin zu einer Ausstellung in der Galerie Druet in Paris verhalf», siehe Eva-Maria Preiswerk-Lösel, Carl Montag, in: SIKART, Lexikon zur Kunst in der Schweiz, 2018, https://recherche.sik-isea.ch/sik:person-4023400/in/sikart [9. Februar 2026]."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit blauem Schreibmittel «C M 127»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «C M 127»",
+        "kommentar": "Initialen des Künstlers, gefolgt von nicht zuordenbarer Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1662/1662_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              137.0,
+              139.7,
+              335.8,
+              190.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit Bleistift «3621», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «3621», unterstrichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1662/1662_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              215.5,
+              272.2,
+              305.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Aufschrift auf Werkrückseite, orthografisch modernisiert. Im Auktionskatalog Luzern 1985 lautet der Titel Stilleben vor gelber Draperie."
+    },
+    {
+      "nr": 2,
+      "text": "Auskunft von Galerie Fischer / Sandra Sykora vom 8. Februar 2026, siehe Anfragen."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Luzern 1985."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Fn. 2."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Luzern 1985 sowie Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Ob das Werk in Ausstellungen gezeigt wurde, ist nicht bekannt. Mehrere Ausstellungskataloge wurden diesbezüglich ergebnislos durchgesehen, darunter: Giovanni Giacometti, Stampa, und Carl Montag, Paris, Ausstellungskatalog Winterthurer Kunsthalle, 4. Oktober bis 1. November 1908, Winterthur 1908; Turnus-Ausstellung des Schweizerischen Kunstvereins, Museum und Stadthaus Winterthur, 21. Mai bis 12. Juni 1916, Winterthur 1916; Margrit Gsell-Heer, Charles Montag, Adolf Thomann, Eugen Zeller, Rudolf Dreher, Ausstellungskatalog Kunsthaus Zürich, 4. August bis 4. September 1949, Zürich 1949; Charles Montag, Ausstellungskatalog Kunstmuseum Winterthur, 1. Dezember 1980 bis 4. Januar 1981, Winterthur 1981; Carl Montag. Maler und Kunstvermittler (1880–1956), Ausstellungskatalog Stiftung Langmatt, Baden, 17. Juni bis 31. Oktober 1992, Baden 1992."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe https://www.sik-isea.anton.ch/objects/567 und https://www.sik-isea.ch/de-ch/Kunstarchiv-Bibliothek/Kunstar-chiv/Nachlassarchiv/Virtuelle-Vitrine/Detail/content/2569 [23. Oktober 2025]."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Luzern 1985."
+    },
+    {
+      "nr": 9,
+      "text": "Im SIKART-Eintrag zu Carl Montag steht: «1915 Bekanntschaft mit Winston Churchill, dessen Mallehrer er wurde und dem er 1921 unter dessen Pseudonym Charles Morin zu einer Ausstellung in der Galerie Druet in Paris verhalf», siehe Eva-Maria Preiswerk-Lösel, Carl Montag, in: SIKART, Lexikon zur Kunst in der Schweiz, 2018, https://recherche.sik-isea.ch/sik:person-4023400/in/sikart [9. Februar 2026]."
+    }
+  ],
+  "bilder_anzahl": 13
+}

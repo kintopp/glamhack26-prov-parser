@@ -1,0 +1,579 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1766_251125.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. November 2025",
+  "stand_iso": "2025-11-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1766",
+      "Frank Buchser (1828–1890)",
+      "Art Student / Rising Taste",
+      "1869",
+      "Öl auf Leinwand",
+      "73 × 53 cm (Bildmass)",
+      "93,2 × 73,8 × 9,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1766",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Art Student / Rising Taste",
+    "masse": [
+      "73 × 53 cm (Bildmass)",
+      "93,2 × 73,8 × 9,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1869",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1766/1766_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.9,
+          525.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Aufschrift auf der Werkrückseite, siehe Provenienzmerkmale."
+      },
+      {
+        "nr": 2,
+        "text": "Alternativer Originaltitel nach Aufschrift auf der Werkrückseite, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1981",
+      "besitzer": "Kunsthandel, München",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Gemäss Ausstellungskatalog Solothurn 1990 tauchte das Werk erstmals «1981 im Münchner Kunsthandel» auf."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 5. Dezember 1981",
+      "besitzer": "Galerie Peyer, Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Fn. 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 5. Dezember 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Galerie Peyer, Ankaufspreis: 80 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsbestätigung der Galerie Peyer vom 5. Dezember 1981 für Bruno Stefanini sowie Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Frank Buchser, 1828–1890, Ausstellungskatalog Kunstmuseum Solothurn, 9. Juni bis 16. September 1990, Solothurn 1990, S. 159, Nr. 9.6.",
+        "bilder": [
+          {
+            "datei": "images/1766/1766_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              334.8,
+              452.8,
+              654.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Frank Buchser. A Swiss Artist in America. 1866–1871, Ausstellungskatalog Georgia Museum of Art, Athens, Athens 1996, S. 46, Abb. 5."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Kunstmuseum Solothurn, 9. Juni bis 16. September 1990, Frank Buchser, 1828–1890, Nr. 9.6\n\n– Georgia Museum of Art, Athens, 13. Juli bis 1. September 1996, Frank Buchser. A swiss artist in America 1866–1871"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Hersteller/Künstler/Autor:in «Buchser» [13. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Buchser», Filter 2: Titel einschränken «Automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise) [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "11./25. November 2025",
+      "institution": "Galerie Peyer, Zürich",
+      "betreff": "Anfrage zur Einlieferung",
+      "antwort": "–"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1396.6.2 (PDF, S. 155)",
+      "bilder": [
+        {
+          "datei": "images/1766/1766_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            209.4,
+            533.0,
+            253.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: annotierte Kopie von Werkinformationen mit Hinweis auf Galerie Peyer 1981"
+        }
+      ]
+    },
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1409.3.2 (PDF, S. 156) / A.2152.2.1409.3.2 (PDF, S. 10)",
+      "bilder": [
+        {
+          "datei": "images/1766/1766_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            347.4,
+            533.0,
+            529.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsbestätigung der Galerie Peyer, Zürich, vom 5. Dezember 1981 für Bruno Stefanini (mit Erteilung der Berechtigung zur Entgegennahme des Werks am SIK)"
+        }
+      ]
+    },
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.2.1409.3.2 (PDF, S. 157)",
+      "bilder": [
+        {
+          "datei": "images/1766/1766_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            158.4,
+            533.0,
+            383.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kopie des Erwerbsnachweises (siehe oben); darunter Kopie der Erwerbsbestätigung der Galerie Peyer (siehe oben), annotiert mit Ankaufspreis"
+        }
+      ]
+    },
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565.1.1.2 (PDF, S. 82)\n\nBestätigung der Anerkennung als eigenständiges Werk Frank Buchsers und der Aufnahme ins SIK-Archiv (Nr. 45848)",
+      "bilder": [
+        {
+          "datei": "images/1766/1766_006_archiv_intern.png",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            487.8,
+            533.0,
+            696.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben (Archivauszug) von Schweizerisches Institut für Kunstwissenschaft (SIK), Zürich, an Bruno Stefanini, Winterthur, vom 8. Dezember 1991 mit"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1766/1766_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            196.9,
+            532.7,
+            321.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber «Buchser, Frank | The art student | von Galerie Peyer | ca. Nov. 81 | ca. 80’», verfasst von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1766/1766_008_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          320.4,
+          489.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit dunkelbrauner Farbe «F. Buchser»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit dunkelbrauner Farbe «F. Buchser»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              527.2,
+              291.4,
+              616.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: schwarz schabloniert «2[…]»",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "schwarz schabloniert «2[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              628.6,
+              291.0,
+              674.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: handschriftlich mit Bleistift «P. U. | 65»",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «P. U. | 65»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              686.5,
+              234.0,
+              750.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: schwarz schabloniert «30»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "schwarz schabloniert «30»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              137.4,
+              140.0,
+              238.9,
+              190.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "l. u. Zierrahmen: handschriftlich mit schwarzem Schreibmittel «X X» (zwei Kreuze)",
+        "position_traeger": "l. u. Zierrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «X X» (zwei Kreuze)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              203.3,
+              236.7,
+              259.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: handschriftlich mit Bleistift «[The?] Art Student or rising tast [sic] by Fr[an]k Buchser | Washington DC Dec 16th 1869»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[The?] Art Student or rising tast [sic] by Fr[an]k Buchser | Washington DC Dec 16th 1869»",
+        "kommentar": "Werktitel, Lokalisierung und Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.5,
+              271.8,
+              319.1,
+              289.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Transkription der zweiten Zeile nach Ausstellungskatalog Solothurn 1990."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gestempelt «17370», mit schwarzem Kugelschreiber unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gestempelt «17370», mit schwarzem Kugelschreiber unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              360.2,
+              237.0,
+              411.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gestempelt «1737[0]», mit schwarzem Kugelschreiber unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gestempelt «1737[0]», mit schwarzem Kugelschreiber unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1766/1766_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              436.0,
+              236.1,
+              499.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Aufschrift auf der Werkrückseite, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Alternativer Originaltitel nach Aufschrift auf der Werkrückseite, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 3,
+      "text": "Gemäss Ausstellungskatalog Solothurn 1990 tauchte das Werk erstmals «1981 im Münchner Kunsthandel» auf."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Fn. 4."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsbestätigung der Galerie Peyer vom 5. Dezember 1981 für Bruno Stefanini sowie Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Transkription der zweiten Zeile nach Ausstellungskatalog Solothurn 1990."
+    }
+  ],
+  "bilder_anzahl": 16
+}

@@ -1,0 +1,489 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_7519_250410.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "10. April 2025",
+  "stand_iso": "2025-04-10",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 7519",
+      "Frank Buchser (1828–1890)",
+      "Dudelsackspieler",
+      "1883",
+      "Aquarell und Grafitstift auf Papier",
+      "29 × 19 × 1 cm (Bildmass)",
+      "46 × 35,5 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "7519",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Dudelsackspieler",
+    "masse": [
+      "29 × 19 × 1 cm (Bildmass)",
+      "46 × 35,5 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1883",
+    "technik": "Aquarell und Grafitstift auf Papier",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/7519/7519_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.9,
+          512.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D. bis 24. September 2012",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Zürich 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "24. September 2012",
+      "besitzer": "Auktion Christie’s (Swiss Art, Lot 84, Dudelsackspieler), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. September 2012",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagspreis: 7500 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Bern 1980 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Swiss Art, Auktionskatalog Christie’s, Zürich, 24. September 2012, Zürich 2012, Lot 84."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Frank Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-04-02"
+          },
+          {
+            "text": "0 Treffer (105 Ergebnisse) für Suche «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 105,
+            "datum": "2025-04-02"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche nach Titel «Schweizer See» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank» mit Filter: Publication Name «EU, Ardelia Hall Collection: Wiesbaden Administrative Records, 1945–1952» und «EU, Ardelia Hall Collection: OMGUS Records, 1938–1951» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-04-02"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-04-02"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Suche «Buchser», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (111 Ergebnisse) für Volltextsuche «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 111,
+            "datum": "2025-04-02"
+          },
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Frank Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2025-04-02"
+          },
+          {
+            "text": "0 Treffer (90 Ergebnisse) für Volltextsuche «Dudelsackspieler» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 90,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Volltextsuche «Buchser» (inklusive Varianten der Namensschreibweise) [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-02"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Suche in Auktionskatalogen, Filter: Künstler «Buchser» [2. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2025-04-02"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7519/7519_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            533.0,
+            311.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2012, annotiert"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/7519/7519_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            356.0,
+            533.0,
+            582.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierter lotspezifischer Ausschnitt aus Auktionskatalog Zürich 2012 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/7519/7519_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          322.4,
+          581.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit dunkler Farbe «FB | 4.X.83»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit dunkler Farbe «FB | 4.X.83»",
+        "kommentar": "Monogramm des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7519/7519_005_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              246.1,
+              302.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. Zierrahmen: Fragment eines Klebeetiketts, handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "position_traeger": "r. o. Zierrahmen",
+        "merkmal": "Fragment eines Klebeetiketts, handschriftlich mit Bleistift «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7519/7519_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              314.7,
+              246.1,
+              386.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. o. Zierrahmen (unter Etikett): handschriftlich mit gelbem Wachsstift «2137/2»",
+        "position_traeger": "r. o. Zierrahmen (unter Etikett)",
+        "merkmal": "handschriftlich mit gelbem Wachsstift «2137/2»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7519/7519_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              399.2,
+              300.2,
+              480.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Rückseitenschutz: handschriftlich mit Bleistift «6109»",
+        "position_traeger": "u. m. Rückseitenschutz",
+        "merkmal": "handschriftlich mit Bleistift «6109»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7519/7519_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              493.1,
+              246.0,
+              552.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «84»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «84»",
+        "kommentar": "Auktion Christie’s 2012, Lot 84",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/7519/7519_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              565.6,
+              246.1,
+              615.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 2012."
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Zürich 2012."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 2012."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Bern 1980 im Archiv SKKG sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 9
+}

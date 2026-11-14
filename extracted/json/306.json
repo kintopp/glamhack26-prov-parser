@@ -1,0 +1,763 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_306_241112.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "12. November 2024",
+  "stand_iso": "2024-11-12",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 306",
+      "Albert Anker (1831–1910)",
+      "Bildnis eines alten Mannes",
+      "1897",
+      "Öl auf Leinwand",
+      "42 × 32 cm (Bildmass)",
+      "64 × 54 × 11 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "306",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Bildnis eines alten Mannes",
+    "masse": [
+      "42 × 32 cm (Bildmass)",
+      "64 × 54 × 11 cm (Rahmenmass)"
+    ],
+    "datierung": "1897",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/306/306_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.2,
+          499.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Vieillard. Im Auktionskatalog Bern 1987 ist das Werk als Brustbild eines älteren Mannes mit Mütze aufgeführt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "23. Oktober 1897 bis spätestens 1917",
+      "besitzer": "Fritz Meyer-Fierz (1847–1917), Zürich, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 23. Oktober 1897 in Ankers Livre de vente: «de M. Meyer Fierz pour une tête de Vieillard 250». Dabei dürfte es sich um Fritz Meyer-Fierz gehandelt haben. Der Unternehmer war Kunstsammler und Mäzen, siehe https://de.wikipedia.org/wiki/Fritz_Meyer-Fierz [12. Januar 2023]. Das Kunsthaus Zürich stellte das Werk 1911 unter dem Titel Bauer mit Mütze aus. Im annotierten Ausstellungskatalog des Archivs des Kunsthauses Zürich ist kein Leihgeber vermerkt (siehe Archive extern); wahrscheinlich war es Meyer-Fierz."
+        }
+      ]
+    },
+    {
+      "zeitraum": "30. April 1932",
+      "besitzer": "Auktion G. & L. Bollag (Gemälde, Aquarelle, Zeichnungen, Porzellane, Möbel, Plastik aus Schweizer und ausländischen Privatsammlungen und aus anderem Besitz […], Lot 116, Bauernkopf), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1932, Kuthy/Bhattacharya-Stettler 1995. Der Salon Bollag wurde 1912 von den Brüdern Gustav und Léon Bollag in Zürich gegründet, siehe http://www.bollaggalleries.com/d/portrait/salonbollag.htm [12. Januar 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "23. März 1933",
+      "besitzer": "Auktion G. & L. Bollag (Sammlung Berthe Weill, Paris. Ausserdem Gemälde aus Schweizer Privatsammlungen und aus anderem Besitz, Lot 102, Weinbauer), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1933, Kuthy/Bhattacharya-Stettler 1995. Möglicherweise blieb das Werk an der Auktion 1932 unverkauft und wurde deswegen 1933 erneut angeboten. Die Geschäftsbücher des Salon Bollag, heute Bollag Galleries, sind überliefert, aber nicht zugänglich, siehe Anfragen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "17. Juni 1987",
+      "besitzer": "Auktion Galerie Kornfeld (Moderne Kunst des 19. und 20. Jahrhunderts, Lot 10, Brustbild eines älteren Mannes mit Mütze), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Bern 1987, Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 17. Juni 1987",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 72 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Auktionskatalog Bern 1987 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 231, Nr. 534.",
+        "bilder": [
+          {
+            "datei": "images/306/306_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              473.6,
+              302.4,
+              642.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Gemälde, Aquarelle, Zeichnungen, Porzellane, Möbel, Plastik aus Schweizer und ausländischen Privatsammlungen und aus anderem Besitz […], Auktionskatalog G. & L. Bollag, 30. April 1932, Zürich 1932, Lot 116.",
+        "bilder": [
+          {
+            "datei": "images/306/306_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              196.4,
+              526.4,
+              231.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Sammlung Berthe Weill, Paris. Ausserdem Gemälde aus Schweizer Privatsammlungen und aus anderem Besitz, Auktionskatalog G. & L. Bollag, 23. März 1933, Zürich 1933, Lot 102."
+          },
+          {
+            "datei": "images/306/306_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              287.8,
+              399.1,
+              316.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "Moderne Kunst des 19. und 20. Jahrhunderts, Teil 1, Auktionskatalog Galerie Kornfeld, Bern, 17. Juni 1987, Bern 1987, Lot 10."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Das Lot 102 gehörte nicht zur Sammlung Berthe Weill, sondern erscheint in der Abteilung «Aus diversem Besitz»."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker, Ausstellungskatalog Kunsthaus Zürich, 7. Mai bis 5. Juni 1911, hrsg. von der Zürcher Kunstgesellschaft, Zürich 1911, S. 9, Nr. 81."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "2 Treffer (124 Ergebnisse) für Volltextsuche «Anker» und «Bollag» [11. Januar 2023]: Auktionskatalog Zürich 1932 und Auktionskatalog Zürich 1933 (siehe oben).",
+            "treffer": 2,
+            "ergebnisse": 124,
+            "datum": "2023-01-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 Treffer (21 Ergebnisse) für Volltextsuche «Bollag», Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]: Auktionskatalog Zürich 1932 (siehe oben).",
+            "treffer": 1,
+            "ergebnisse": 21,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "12. Januar 2023",
+      "institution": "Bollag Galleries, Zürich",
+      "betreff": "Anfrage zur Auktion G. & L. Bollag 1933",
+      "antwort": "27. Januar 2023: Das Archiv ist kaum zugänglich."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "27. April 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/306/306_005_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            190.7,
+            532.2,
+            312.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1987, annotiert von Bruno Stefanini mit Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "14. Dezember 2022",
+      "institution": "Archiv Kunsthaus Zürich",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/306/306_006_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            444.1,
+            532.4,
+            483.8
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierter Ausstellungskatalog Zürich 1919, Nr. 81, https://digi-tal.kunsthaus.ch/vie-wer/image/47855/11 [14. Dezember 2022]"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/306/306_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          300.5,
+          449.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. m. Leinwand: handschriftlich mit dunklem Schreibmittel «Anker»",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «Anker»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              486.5,
+              263.5,
+              546.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Messingschild, graviert",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Messingschild, graviert",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              559.0,
+              263.0,
+              589.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit schwarzer Tusche «1897 | Febr in Ins gemalt»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzer Tusche «1897 | Febr in Ins gemalt»",
+        "kommentar": "Datierung und Lokalisierung, offenbar von fremder Hand aufgebracht",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              602.0,
+              264.2,
+              659.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Kuthy/Bhattacharya-Stettler 1995."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit blauem Schreibmittel «A [V?] 5565»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «A [V?] 5565»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              299.8,
+              199.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit weisser Kreide «102»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «102»",
+        "kommentar": "entspricht Lotnummer der Auktion G. & L. Bollag 1933",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              212.4,
+              209.7,
+              260.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: schwarz gestempelt oder schabloniert vermutlich «4»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "schwarz gestempelt oder schabloniert vermutlich «4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              288.1,
+              217.8,
+              374.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit dunklem Schreibmittel «[…]lag [?] 9315», teilweise übermalt",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «[…]lag [?] 9315», teilweise übermalt",
+        "kommentar": "vermutlich Bezug zur Auktion G. & L. Bollag 1932 oder 1933",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              386.7,
+              299.2,
+              419.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «58»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «58»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              474.7,
+              221.8,
+              520.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Keilrahmen: beiger Zettel, schwarz gedruckt «MI | […] | PR | 1[…]»",
+        "position_traeger": "u. r. Keilrahmen",
+        "merkmal": "beiger Zettel, schwarz gedruckt «MI | […] | PR | 1[…]»",
+        "kommentar": "nur teilweise lesbar (unter die Leinwand geklemmt)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              532.9,
+              176.0,
+              605.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. und l. o. Keilrahmen: Reste eines verbräunten Etiketts mit gezahntem Rand",
+        "position_traeger": "l. m. und l. o. Keilrahmen",
+        "merkmal": "Reste eines verbräunten Etiketts mit gezahntem Rand",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              617.5,
+              223.5,
+              670.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/306/306_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              676.7,
+              221.6,
+              740.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: Reste eines Etiketts mit blau linierter Doppelrahmung",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "Reste eines Etiketts mit blau linierter Doppelrahmung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              221.1,
+              198.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Zierrahmen: Zettel, bedruckt und handschriftlich mit schwarzem Schreibmittel ergänzt",
+        "position_traeger": "l. o. Zierrahmen",
+        "merkmal": "Zettel, bedruckt und handschriftlich mit schwarzem Schreibmittel ergänzt",
+        "kommentar": "Erwerbsnachweis Auktion Galerie Kornfeld 1987",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              210.8,
+              298.3,
+              295.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «49»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit Bleistift «49»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              307.9,
+              199.0,
+              352.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (unter vorausgehendem Provenienzmerkmal): Klebereste eines Etiketts",
+        "position_traeger": "o. l. Keilrahmen (unter vorausgehendem Provenienzmerkmal)",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/306/306_022_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              365.4,
+              214.4,
+              451.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Vieillard. Im Auktionskatalog Bern 1987 ist das Werk als Brustbild eines älteren Mannes mit Mütze aufgeführt."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 23. Oktober 1897 in Ankers Livre de vente: «de M. Meyer Fierz pour une tête de Vieillard 250». Dabei dürfte es sich um Fritz Meyer-Fierz gehandelt haben. Der Unternehmer war Kunstsammler und Mäzen, siehe https://de.wikipedia.org/wiki/Fritz_Meyer-Fierz [12. Januar 2023]. Das Kunsthaus Zürich stellte das Werk 1911 unter dem Titel Bauer mit Mütze aus. Im annotierten Ausstellungskatalog des Archivs des Kunsthauses Zürich ist kein Leihgeber vermerkt (siehe Archive extern); wahrscheinlich war es Meyer-Fierz."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1932, Kuthy/Bhattacharya-Stettler 1995. Der Salon Bollag wurde 1912 von den Brüdern Gustav und Léon Bollag in Zürich gegründet, siehe http://www.bollaggalleries.com/d/portrait/salonbollag.htm [12. Januar 2023]."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1933, Kuthy/Bhattacharya-Stettler 1995. Möglicherweise blieb das Werk an der Auktion 1932 unverkauft und wurde deswegen 1933 erneut angeboten. Die Geschäftsbücher des Salon Bollag, heute Bollag Galleries, sind überliefert, aber nicht zugänglich, siehe Anfragen."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Bern 1987, Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Auktionskatalog Bern 1987 im Archiv SKKG sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 8,
+      "text": "Das Lot 102 gehörte nicht zur Sammlung Berthe Weill, sondern erscheint in der Abteilung «Aus diversem Besitz»."
+    },
+    {
+      "nr": 9,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    }
+  ],
+  "bilder_anzahl": 22
+}

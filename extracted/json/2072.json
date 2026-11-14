@@ -1,0 +1,621 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2072_230126.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Januar 2023",
+  "stand_iso": "2023-01-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2072",
+      "Giovanni Segantini (1858–1899)",
+      "Insegna per una salumeria",
+      "1880",
+      "Öl auf Leinwand",
+      "117 × 54 cm (Bildmass)",
+      "126 × 64 × 5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2072",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Insegna per una salumeria",
+    "masse": [
+      "117 × 54 cm (Bildmass)",
+      "126 × 64 × 5 cm (Rahmenmass)"
+    ],
+    "datierung": "1880",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2072/2072_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.9,
+          619.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Quinsac 1982."
+      },
+      {
+        "nr": 2,
+        "text": "Quinsac 1982. Gottardo Segantini zufolge ist das Werk 1878/79 entstanden (siehe Echtheitsbescheinigung im Archiv SKKG)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "nach März 1949",
+      "besitzer": "vermutlich Auktion, Italien, Transaktion unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Provenienzmerkmale, Ausschnitt aus Auktionskatalog mit Werkbeschreibung von G. C. Ghiglione."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Galerie Fasciani-Escher, möglicherweise Locarno",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Quinsac 1982, dort «Fasciani-Echster [sic]», wohl ein Druckfehler. Eine Suche nach «Fasciani-Escher Galerie» in den E-Newspaperarchives ergab über siebzig Treffer aus den 1950er- und 1960er-Jahren [23. Januar 2023]. 1958 gab es offenbar Ableger der Galerie in Ascona, Lugano, Locarno und neuerdings Sion, siehe: Une magnifique galerie d’art à Sion, in: Le Rhône, Jg. 29 (1958), Nr. 130, 6. November 1958, https://www.e-newspaperarchi-ves.ch/?a=d&d=LRE19581106-01.2.15&srpos=73&e=-------de-20--61--img-txIN-Fasciani [23. Januar 2023]. Im Dezember 1960 wirbt Fasciani-Escher, Via Luini, Locarno, für einen «Segantini mit Gutachten», siehe: Der Bund, Jg. 111 (1960), Nr. 523, 7. Dezember 1960, S. 9, https://www.e-newspaperarchives.ch/?a=d&d=DBB19601207-01.2.22.1&srpos=95&e=-------de-20--81--img-txIN-Fasciani%252DEscher-------0----- [23. Januar 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1963",
+      "besitzer": "Privatbesitz, Mailand",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Quinsac 1982."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Sammlung Emil Oesch (1894–1974), Thalwil",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Etikett auf der Werkrückseite mit handschriftlicher Aufschrift. Wann das Werk bei Oesch war, ist unklar. Möglich wäre, dass er es nach 1963 aus der Mailänder Privatsammlung erwarb und es sich anschliessend bis 1982/83 in seiner Sammlung beziehungsweise jener seiner Erbinnen und Erben befand. Er könnte es aber auch früher erworben haben, wohl frühestens im März 1949, auf den Quinsac (1982) den Auktionskatalogs-Ausschnitt auf der Werkrückseite datiert, auf dem sich jene Aufschrift befindet."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1982",
+      "besitzer": "Privatbesitz, Schweiz",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Quinsac 1982. Quinsac nennt als aktuellen Standort eine «collezione privata svizzera». Zumindest 1982, im Erscheinungsjahr des Werkkatalogs, muss sich das Werk dort befunden haben. Möglicherweise handelt es sich um die Sammlung der Erbinnen und Erben von Emil Oesch."
+        }
+      ]
+    },
+    {
+      "zeitraum": "2. Juni 1983",
+      "besitzer": "Auktion Bukowskis (Lot 107, Stillleben mit Würsten und Käse), Zürich",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Ein entsprechender Auktionskatalog ist im Archiv SKKG nicht zu finden. «Bukowskis» ging offenbar Mitte der 1980er-Jahre in das Auktionshaus Eberhart Auktionen über, wie ein Briefkopf aus dem Jahr 1986 belegt, auf dem «Eberhart Auktionen AG, vorm. Bukowskis Zürich» zu lesen ist (siehe Archiv SKKG, A.2152.1.1310.1.2)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 2. Juni 1983",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Bukowskis, Zuschlagspreis: 70 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Fn. 8."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973 [Werk nicht verzeichnet].\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, Bd. 1, Mailand 1982, Nr. 15.",
+        "bilder": [
+          {
+            "datei": "images/2072/2072_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              165.1,
+              359.2,
+              318.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Siehe Fn. 8."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Gemäss den Notizen auf der Rückseite des Fotos im Archiv SKKG war das Werk in Genua, Mailand und Turin ausgestellt (siehe «Archiv intern»). Weitere Angaben wurden im Rahmen des Erstchecks nicht ermittelt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 150,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Segantini», Filter 2: Volltext/Metadaten: «Wurst», Filter 3: Titel einschränken «automatisch» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2023-01-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 151,
+            "datum": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "26. Januar 2023",
+      "institution": "Biblioteca della Fondazione Mario Novaro, Genua",
+      "betreff": "Anfrage zu Katalog: Mostra dei pittori dell’Ottocento da raccolte private, presentazione di G. C. Ghiglione, 11.–23. April 1951",
+      "antwort": "27. Januar 2023: Werk nicht darin enthalten"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.22.1565, NF_0246, NF_0247 und NF_0248\n\nDarüber steht in anderer Handschrift: «misura 54 x 119 | esposto a Genova | Milano | Torino [?] | Torino | catalogato sul catalogo | della Permanente […] | Genova con [?] saggio | […] Prof. Ghiglione». Vermutlich ist folgender Ausstellungskatalog gemeint: Mostra dei pittori dell’Ottocento da raccolte private, presentazione di G. C. Ghiglione, 11.–23. April 1951.",
+      "bilder": [
+        {
+          "datei": "images/2072/2072_003_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            133.8,
+            485.4,
+            362.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/2072/2072_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            369.3,
+            533.7,
+            703.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Foto mit rückseitiger Echtheitsbescheinigung von Gottardo Segantini, Zürich, 23. November 1956"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/2072/2072_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            310.7,
+            529.9,
+            406.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis, vormals auf der Werkrückseite angebracht"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2072/2072_006_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          293.0,
+          619.0
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich «Segantini»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich «Segantini»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2072/2072_007_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              656.5,
+              348.7,
+              742.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Ausschnitt aus einem italienischsprachigen Auktionskatalog, gedruckt «CON-DIZI[ONI] DI VENDITA», darunter handschriftlich «E M. Oesch Thalwil»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Ausschnitt aus einem italienischsprachigen Auktionskatalog, gedruckt «CON-DIZI[ONI] DI VENDITA», darunter handschriftlich «E M. Oesch Thalwil»",
+        "kommentar": "Vermutlich handelt es sich um Emil Oesch (1894–1974), Schriftsteller und Verleger aus Thalwil. Offenbar lief das Werk irgendwann an einer italienischen Auktion. Sofern das nachfolgende Provenienzmerkmal (Textausschnitt von G. C. Ghiglione) zur selben Auktion gehört, hat diese frühestens im März 1949 stattgefunden.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2072/2072_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              350.7,
+              190.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 12,
+            "text": "Ein weiteres, vormals auf der Werkrückseite angebrachtes Provenienzmerkmal findet sich in der Objektdatenbank SKKG, siehe Archiv intern."
+          },
+          {
+            "nr": 13,
+            "text": "Quinsac 1982 datiert die von ihr als Echtheitszertifikat bezeichnete Werkbeschreibung auf März 1949."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Ausschnitt aus einem (Auktions-)Katalog, gedruckte Werkbeschreibung, darunter «MARZO 194[9?] G. C. GHIGLIONE»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Ausschnitt aus einem (Auktions-)Katalog, gedruckte Werkbeschreibung, darunter «MARZO 194[9?] G. C. GHIGLIONE»",
+        "kommentar": "gehört vermutlich zum vorausgehenden Provenienzmerkmal",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2072/2072_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              367.3,
+              350.3,
+              490.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 14,
+            "text": "Siehe Fn. 13."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «Thal[wil?]»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Thal[wil?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2072/2072_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              502.9,
+              249.6,
+              545.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 15,
+            "text": "Siehe Provenienzmerkmal zu Emil Oesch, Thalwil."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, handschriftlich «670»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, handschriftlich «670»",
+        "kommentar": "Vermutlich stammt das Etikett aus der Sammlung Oesch. Auf der Rückseite des Werks mit der Inventarnummer 2592, ebenfalls aus dieser Sammlung, befindet sich ein sehr ähnliches Etikett (dort Nummer 710).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2072/2072_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              558.9,
+              221.5,
+              612.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zier- und Keilrahmen: zweimal weisses Etikett mit SIK-Nummer 33268",
+        "position_traeger": "o. l. Zier- und Keilrahmen",
+        "merkmal": "zweimal weisses Etikett mit SIK-Nummer 33268",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2072/2072_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              171.6,
+              221.2,
+              187.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/2072/2072_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              194.1,
+              221.3,
+              210.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Quinsac 1982."
+    },
+    {
+      "nr": 2,
+      "text": "Quinsac 1982. Gottardo Segantini zufolge ist das Werk 1878/79 entstanden (siehe Echtheitsbescheinigung im Archiv SKKG)."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Provenienzmerkmale, Ausschnitt aus Auktionskatalog mit Werkbeschreibung von G. C. Ghiglione."
+    },
+    {
+      "nr": 4,
+      "text": "Quinsac 1982, dort «Fasciani-Echster [sic]», wohl ein Druckfehler. Eine Suche nach «Fasciani-Escher Galerie» in den E-Newspaperarchives ergab über siebzig Treffer aus den 1950er- und 1960er-Jahren [23. Januar 2023]. 1958 gab es offenbar Ableger der Galerie in Ascona, Lugano, Locarno und neuerdings Sion, siehe: Une magnifique galerie d’art à Sion, in: Le Rhône, Jg. 29 (1958), Nr. 130, 6. November 1958, https://www.e-newspaperarchi-ves.ch/?a=d&d=LRE19581106-01.2.15&srpos=73&e=-------de-20--61--img-txIN-Fasciani [23. Januar 2023]. Im Dezember 1960 wirbt Fasciani-Escher, Via Luini, Locarno, für einen «Segantini mit Gutachten», siehe: Der Bund, Jg. 111 (1960), Nr. 523, 7. Dezember 1960, S. 9, https://www.e-newspaperarchives.ch/?a=d&d=DBB19601207-01.2.22.1&srpos=95&e=-------de-20--81--img-txIN-Fasciani%252DEscher-------0----- [23. Januar 2023]."
+    },
+    {
+      "nr": 5,
+      "text": "Quinsac 1982."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Etikett auf der Werkrückseite mit handschriftlicher Aufschrift. Wann das Werk bei Oesch war, ist unklar. Möglich wäre, dass er es nach 1963 aus der Mailänder Privatsammlung erwarb und es sich anschliessend bis 1982/83 in seiner Sammlung beziehungsweise jener seiner Erbinnen und Erben befand. Er könnte es aber auch früher erworben haben, wohl frühestens im März 1949, auf den Quinsac (1982) den Auktionskatalogs-Ausschnitt auf der Werkrückseite datiert, auf dem sich jene Aufschrift befindet."
+    },
+    {
+      "nr": 7,
+      "text": "Quinsac 1982. Quinsac nennt als aktuellen Standort eine «collezione privata svizzera». Zumindest 1982, im Erscheinungsjahr des Werkkatalogs, muss sich das Werk dort befunden haben. Möglicherweise handelt es sich um die Sammlung der Erbinnen und Erben von Emil Oesch."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG. Ein entsprechender Auktionskatalog ist im Archiv SKKG nicht zu finden. «Bukowskis» ging offenbar Mitte der 1980er-Jahre in das Auktionshaus Eberhart Auktionen über, wie ein Briefkopf aus dem Jahr 1986 belegt, auf dem «Eberhart Auktionen AG, vorm. Bukowskis Zürich» zu lesen ist (siehe Archiv SKKG, A.2152.1.1310.1.2)."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Fn. 8."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Fn. 8."
+    },
+    {
+      "nr": 11,
+      "text": "Gemäss den Notizen auf der Rückseite des Fotos im Archiv SKKG war das Werk in Genua, Mailand und Turin ausgestellt (siehe «Archiv intern»). Weitere Angaben wurden im Rahmen des Erstchecks nicht ermittelt."
+    },
+    {
+      "nr": 12,
+      "text": "Ein weiteres, vormals auf der Werkrückseite angebrachtes Provenienzmerkmal findet sich in der Objektdatenbank SKKG, siehe Archiv intern."
+    },
+    {
+      "nr": 13,
+      "text": "Quinsac 1982 datiert die von ihr als Echtheitszertifikat bezeichnete Werkbeschreibung auf März 1949."
+    },
+    {
+      "nr": 14,
+      "text": "Siehe Fn. 13."
+    },
+    {
+      "nr": 15,
+      "text": "Siehe Provenienzmerkmal zu Emil Oesch, Thalwil."
+    }
+  ],
+  "bilder_anzahl": 13
+}

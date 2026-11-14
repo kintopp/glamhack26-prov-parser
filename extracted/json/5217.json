@@ -1,0 +1,589 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5217_250129.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "29. Januar 2025",
+  "stand_iso": "2025-01-29",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5217",
+      "Albert Anker (1831–1910)",
+      "Alte Frau, den Zollikofer lesend",
+      "1885",
+      "Öl auf Leinwand",
+      "60 × 45 cm (Bildmass)",
+      "85 × 71 × 12 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5217",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Alte Frau, den Zollikofer lesend",
+    "masse": [
+      "60 × 45 cm (Bildmass)",
+      "85 × 71 × 12 cm (Rahmenmass)"
+    ],
+    "datierung": "1885",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5217/5217_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.3,
+          518.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Vieille lisant le Zollikofer."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "27. November 1885 bis o. D.",
+      "besitzer": "Pfarrer Rével, Genf, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 27. November 1885 in Albert Ankers Livre de vente: «de M le pasteur Rével pour une vieille lisant le Zollikofer (Geisler Rudelis Mutter) 350». Pfarrer Rével, vermutlich ein Studienfreund aus Neuveville, besass mehrere Bilder von Anker, siehe Kuthy/Bhattacharya-Stettler 1995, S. 200, 329. Allenfalls handelt es sich um Paul Revel (um 1827 bis 1896), Neuveville, siehe Todesanzeige in: La tribune de Genève, Jg. 18, Nr. 182, 5. August 1896, S. 4, https://www.e-newspaperarchives.ch/?a=d&d=TDG18960805-04.2.28.1 [29. Januar 2025], sowie Nachruf in: Feuille d’Avis de Neuchâtel, Jg. 138, Nr. 188, 10. August 1896, S. 3, https://www.e-newspaperarchi-ves.ch/?a=d&d=EXR18960810-01.2.18 [29. Januar 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Otto Schmidlin-Werner, Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Gemäss Adressbuch der Stadt Zürich von 1941 war Otto Schmidlin-Werner Kunsthändler, siehe Kontextinformationen. Er führte das Geschäft «Kunst & Spiegel» an der Bahnhofstrasse 70. Maria Schmidlin, die ebenfalls einen Anker besass (siehe https://www.kornfeld.ch/d365/d3901100070_Albert-Anker- M%C3%A4dchen-mit-Katze-spielend-Le-petit-ami.html [16. März 2023]), war wahrscheinlich mit ihm verwandt, siehe Neue Zürcher Zeitung, Jg. 167, Nr. 1103, 22. Juni 1946, S. 7, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19460622-01.2.38.2 [29. Januar 2025]. Beide Werke haben eine vergleichbare Provenienz."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1960 bis spätestens 1973",
+      "besitzer": "Oskar Knecht (1882–1973), Binningen",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "1960 wurde das Gemälde im Kunstmuseum Bern gezeigt, siehe Ausstellungsetikett auf der Werkrückseite. Im Ausstellungskatalog Bern 1960 und bei Kuthy/Bhattacharya-Stettler 1995 ist «Privatbesitz, Binningen» vermerkt. Gemäss dem Schreiben des Kunstmuseums Bern vom 28. Februar 2023 war «O. Knecht» der Leihgeber, siehe Anfragen. Dabei dürfte es sich um Oskar Knecht (1882–1973) handeln, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "26. Juni 1981",
+      "besitzer": "Auktion Galerie Kornfeld (Auktion 175, Lot 61, Alte Frau, den Zollikofer lesend), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Bern 1981."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 26. Juni 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 260 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Bern 1981 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 172, Nr. 337.",
+        "bilder": [
+          {
+            "datei": "images/5217/5217_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              385.2,
+              299.0,
+              542.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion 175, Auktionskatalog Galerie Kornfeld, Bern, 26. Juni 1981, Bern 1981, Lot 61."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Albert Anker, Ausstellungskatalog Kunstmuseum Bern, Bern 1960, Nr. 98.",
+        "bilder": [
+          {
+            "datei": "images/5217/5217_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              384.5,
+              156.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (94 Ergebnisse) für Volltextsuche «Anker» und «Zollikofer» [16. März 2022]",
+            "treffer": 0,
+            "ergebnisse": 94,
+            "datum": "2022-03-16"
+          },
+          {
+            "text": "0 Treffer (137 Ergebnisse) für Volltextsuche «Anker» und «vieille» [16. März 2022]",
+            "treffer": 0,
+            "ergebnisse": 137,
+            "datum": "2022-03-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [24. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "24. Januar 2023",
+      "institution": "Kunstmuseum Bern, Archiv",
+      "betreff": "Anfrage zum Einlieferer bei der Ausstellung 1960",
+      "antwort": "28. Februar 2023: Der Leihgeber war O. Knecht."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "8. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5217/5217_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            316.6,
+            533.0,
+            494.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1981, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Otto Schmidlin-Werner",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5217/5217_005_kontextinformationen.png",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            165.6,
+            320.4,
+            282.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Otto Schmidlin, Kunsthändler, Eintrag im Adressbuch der Stadt Zürich 1941, https://www.zop.zb.uzh.ch/handle/123456789/317 [16. März 2023]."
+        },
+        {
+          "datei": "images/5217/5217_006_kontextinformationen.png",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            339.2,
+            335.7,
+            387.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Eintrag der Kunsthandlung «Kunst & Spiegel» mit Angabe von Otto Schmidlin als Direktor im Verzeichnis der Antiquare, Kunsthändler und Buchantiquariate in der Schweiz, Bd. 4, 1925–1927, S. 360, https://www.e-periodica.ch/cntmng?pid=kun-001%3A1925%3A4%3A%3A511 [16. März 2023]."
+        }
+      ]
+    },
+    {
+      "thema": "Oskar Knecht",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5217/5217_007_kontextinformationen.jpeg",
+          "seite": 5,
+          "bbox": [
+            193.0,
+            468.9,
+            489.2,
+            532.8
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Oskar Knecht (1882–1973), bestattet in Binningen, siehe https://de.findagrave.com/memorial/214086255/oskar-knecht [16. März 2023]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5217/5217_008_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          294.2,
+          445.4
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "l. m. Leinwand: handschriftlich mit schwarzer Farbe «Anker 1885»",
+        "position_traeger": "l. m. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Anker 1885»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5217/5217_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              483.2,
+              290.1,
+              535.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit schwarzem Schreibmittel «200»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, maschinenbeschrieben, handschriftlich mit schwarzem Schreibmittel «200»",
+        "kommentar": "Ausstellung Ins 1985, Nr. 200",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5217/5217_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              548.2,
+              291.5,
+              612.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «[…]t | Binningen» (verdeckt)",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «[…]t | Binningen» (verdeckt)",
+        "kommentar": "Oskar Knecht aus Binningen, Leihgeber für die Ausstellung Kunstmuseum Bern 1960",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5217/5217_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              624.1,
+              291.4,
+              709.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Siehe Fn. 4."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «61»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «61»",
+        "kommentar": "Lotnummer Auktion Galerie Kornfeld 1981",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5217/5217_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              198.2,
+              187.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: verbräuntes rechteckiges Etikett mit gezahntem Rand und blauer Bordüre, handschriftlich mit schwarzem Schreibmittel «1[…]»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett mit gezahntem Rand und blauer Bordüre, handschriftlich mit schwarzem Schreibmittel «1[…]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5217/5217_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              202.9,
+              217.0,
+              277.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «9»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «9»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5217/5217_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              290.4,
+              200.5,
+              341.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: verbräuntes rechteckiges Etikett, bedruckt und maschinenbeschrieben",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett, bedruckt und maschinenbeschrieben",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1960, Nr. 98",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5217/5217_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              353.9,
+              288.0,
+              404.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Vieille lisant le Zollikofer."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 zitieren den Eintrag vom 27. November 1885 in Albert Ankers Livre de vente: «de M le pasteur Rével pour une vieille lisant le Zollikofer (Geisler Rudelis Mutter) 350». Pfarrer Rével, vermutlich ein Studienfreund aus Neuveville, besass mehrere Bilder von Anker, siehe Kuthy/Bhattacharya-Stettler 1995, S. 200, 329. Allenfalls handelt es sich um Paul Revel (um 1827 bis 1896), Neuveville, siehe Todesanzeige in: La tribune de Genève, Jg. 18, Nr. 182, 5. August 1896, S. 4, https://www.e-newspaperarchives.ch/?a=d&d=TDG18960805-04.2.28.1 [29. Januar 2025], sowie Nachruf in: Feuille d’Avis de Neuchâtel, Jg. 138, Nr. 188, 10. August 1896, S. 3, https://www.e-newspaperarchi-ves.ch/?a=d&d=EXR18960810-01.2.18 [29. Januar 2025]."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Gemäss Adressbuch der Stadt Zürich von 1941 war Otto Schmidlin-Werner Kunsthändler, siehe Kontextinformationen. Er führte das Geschäft «Kunst & Spiegel» an der Bahnhofstrasse 70. Maria Schmidlin, die ebenfalls einen Anker besass (siehe https://www.kornfeld.ch/d365/d3901100070_Albert-Anker- M%C3%A4dchen-mit-Katze-spielend-Le-petit-ami.html [16. März 2023]), war wahrscheinlich mit ihm verwandt, siehe Neue Zürcher Zeitung, Jg. 167, Nr. 1103, 22. Juni 1946, S. 7, https://www.e-newspaperarchi-ves.ch/?a=d&d=NZZ19460622-01.2.38.2 [29. Januar 2025]. Beide Werke haben eine vergleichbare Provenienz."
+    },
+    {
+      "nr": 4,
+      "text": "1960 wurde das Gemälde im Kunstmuseum Bern gezeigt, siehe Ausstellungsetikett auf der Werkrückseite. Im Ausstellungskatalog Bern 1960 und bei Kuthy/Bhattacharya-Stettler 1995 ist «Privatbesitz, Binningen» vermerkt. Gemäss dem Schreiben des Kunstmuseums Bern vom 28. Februar 2023 war «O. Knecht» der Leihgeber, siehe Anfragen. Dabei dürfte es sich um Oskar Knecht (1882–1973) handeln, siehe Kontextinformationen."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Bern 1981."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Bern 1981 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Fn. 4."
+    }
+  ],
+  "bilder_anzahl": 15
+}

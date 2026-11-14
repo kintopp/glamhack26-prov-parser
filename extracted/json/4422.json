@@ -1,0 +1,810 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4422_221025.pdf",
+  "seiten": 10,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "25. Oktober 2022",
+  "stand_iso": "2022-10-25",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4422",
+      "Arnold Böcklin (1827–1901)",
+      "Der gefesselte Prometheus",
+      "1858",
+      "Öl auf Leinwand auf Holzfaserplatte",
+      "100 × 180 cm (Bildmass)",
+      "104,5 × 184,5 × 4,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4422",
+    "status": "Ungeklärt",
+    "kuenstler": "Arnold Böcklin (1827–1901)",
+    "titel": "Der gefesselte Prometheus",
+    "masse": [
+      "100 × 180 cm (Bildmass)",
+      "104,5 × 184,5 × 4,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1858",
+    "technik": "Öl auf Leinwand auf Holzfaserplatte",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4422/4422_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          303.8,
+          390.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Andree 1977. Das Werk gehörte zu einem Wandbildzyklus zum Thema «Die Beziehungen des Menschen zum Feuer», siehe Ausstellungskatalog Berlin 1897, S. 65."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1858–1881",
+      "besitzer": "Carl (Karl) Wilhelm von Wedekind (1809–1881), Hannover (vermutlich bis um 1868) / Kassel (vermutlich bis um 1883), angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Andree 1977. Prometheus und die anderen Teile des Zyklus wurden 1858 für den Speisesaal der Villa von Konsul Carl Wedekind in Hannover angefertigt. Das Gemälde war über einer Tür als Supraporte angebracht. Die Wandbilder – es handelte sich um an der Wand montierte Leinwände – wurden beim Umzug der Familie nach Kassel transferiert, wo die Familie Karl Wedekind 1868 eine Villa erbauen liess, siehe Holenweg 1977, S. 94, sowie https://de.wikipe-dia.org/wiki/Villa_Glitzerburg [30. September 2022]. Siehe auch Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1881–1910",
+      "besitzer": "Paul von Wedekind (1845–1910), Berlin, erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Andree 1977. Der Zyklus wurde von Sohn Paul Wedekind wohl um 1883 aus dem väterlichen Haus in Kassel nach Berlin verbracht (bis 1888 Bendlerstrasse 9, 1888–1895 Viktoriastrasse 1, ab 1895 Lutherstrasse 38/39), siehe Berliner Adressbücher: https://digital.zlb.de/viewer/berliner-adress-telefon-branchenbuecher [30. September 2022]). Im Rahmen der Berliner Böcklin-Ausstellung 1897/98 konnten Interessierte den Böcklin-Zyklus im Haus der Wedekinds an der Lutherstrasse 38/39 besichtigen, siehe Ausstellungskatalog Berlin 1897, S. 65."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1910 bis vermutlich 1937",
+      "besitzer": "Erbengemeinschaft von Wedekind, vermutlich (Caroline Mathilde) Sophie von Wedekind (1856–1937), Berlin, erworben im Erbgang vom Ehemann",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1937 bis mindestens 1945",
+      "besitzer": "Nachlass Sophie von Wedekind (Erbengemeinschaft Sophie von Wedekind)",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Die Leinwände des Bilderzyklus überdauerten den Zweiten Weltkrieg gerollt im Keller des Hauses der Wedekinds an der Lutherstrasse 38/39 in Berlin, litten aber grossen Schaden, siehe Holenweg 1977, S. 94. Im Amtlichen Fernsprechbuch Berlin 1940 findet sich der Hinweis auf den Nachlassverwalter Alfred Bahrdt für Sophie von Wedekind, siehe https://digital.zlb.de/viewer/image/15849354_1940/1381 [4. Oktober 2022]. Dieser unterzeichnete auch ihre Sterbeurkunde, siehe https://www.ancestry.de/discoveryui-content/view/5905334:2958 [4. Oktober 2022]. Die Situation rund um den Nachlass und die Rolle des Nachlassverwalters ist nicht geklärt. Paul und Sophie von Wedekind hatten vier Kinder, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1965",
+      "besitzer": "Restaurierung",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "1965 wurden die Leinwände stark restauriert und dabei übermalt, siehe Holenweg 1977, S. 94. Holenweg ist der Ansicht, dass die Fragmente des Zyklus infolgedessen «nicht mehr als Originale Böcklins bezeichnet werden dürfen». Wer die Restaurierung in Auftrag gab, ist nicht vermerkt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Privatbesitz, Süddeutschland",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Gemäss Auskunft des Auktionshauses Lempertz, Köln, ging das Werk nach der Auktion unverkauft zurück an den/die Voreigentümer:in beziehungsweise eine «rheinische Sammlung», siehe Anfragen. Bei Andree 1977 ist «Privatbesitz Süddeutschland» für 1970 nach der Lempertz-Auktion vermerkt, was demnach jener Angabe entspricht."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21.–23. Mai 1970",
+      "besitzer": "Auktion Kunsthaus Lempertz (Alte Kunst. Gemälde, Skulpturen, Porzellan […], Lot 407, Der gefesselte Prometheus), Köln, eingeliefert von unbekannt, unverkauft zurück an Einlieferer/Einlieferin",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Andree 1977, Auktionskatalog Köln 1970 sowie Fn. 7."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1970",
+      "besitzer": "Privatbesitz, Süddeutschland",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Andree 1977."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28.–30. April 1972",
+      "besitzer": "Auktion Hilmar Klages, Lugano, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1972",
+      "besitzer": "Kunsthandlung Michel de Vries, München",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "21./22. Juni 1974",
+      "besitzer": "Auktion Galerie Fischer (Grosse Gemäldeauktion in Luzern, Lot 757b, Prometheus), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Ebd., Auktionskatalog Luzern 1974."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1974 bis mindestens 1978",
+      "besitzer": "Galerie Mario Manazza, Meisterschwanden",
+      "fussnoten": [
+        {
+          "nr": 13,
+          "text": "Andree 1977. Gemäss dem digitalen Porträtarchiv «DigiPortA» hatte der Verfasser des Böcklin-Werkkatalogs Rolf Andree zwischen 1974 und 1978 einen Austausch mit dem Galeristen Manazza zum Böcklin-Gemälde, das in Meisterschwanden in dessen Besitz war, siehe http://www.digiporta.net/index.php?id=777912102 [4. Oktober 2022]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vor 16. Dezember 1981",
+      "besitzer": "Associazione Artisti Ascona (AAA), Ascona",
+      "fussnoten": [
+        {
+          "nr": 14,
+          "text": "Als Vermittler zwischen dem/der nicht benannten Eigentümer:in und Bruno Stefanini traten Josef Bäriswyl und ein Herr a Marca auf, die beide Provisionen erhielten. Es kam zum Freihandkauf bei der Galerie Associazione Artisti Ascona (AAA), siehe Kaufvertrag vom 16. Dezember 1981 und Quittung vom 19. Januar 1982 im Archiv SKKG, A.211.71."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 16. Dezember 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, bei der Associazione Artisti Ascona, Ankaufspreis: 18 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 15,
+          "text": "Siehe Fn. 14."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Rolf Andree, Arnold Böcklin. Die Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 6), Basel/München 1977, S. 232, Nr. 110.2.",
+        "bilder": [
+          {
+            "datei": "images/4422/4422_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              309.6,
+              337.6,
+              515.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4422/4422_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              521.1,
+              337.3,
+              537.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog",
+            "bildunterschrift": "Hans Holenweg, Das Schicksal der Gemälde Arnold Böcklins, in: ebd., S. 92–105."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Alte Kunst. Gemälde, Skulpturen, Porzellan, Fayence, Silber, Dosen, Möble, Tapisserien, Orientteppiche, Auktionskatalog Kunsthaus Lempertz, Köln, 21.–23. Mai 1970, Köln 1970, Lot 407.\n\nGrosse Gemäldeauktion in Luzern. Bedeutende Gemälde alter und neuer Meister aus in- und ausländischen Privatsammlungen und Nachlässen. Ikonensammlung, Auktionskatalog Galerie Fischer, Luzern, 21./22. Juni 1974, Luzern 1974, Lot 757c."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, Ausstellungskatalog Akademie der Künste, Berlin, Berlin 1897, Nr. 45.2, https://doi.org/10.11588/diglit.48226#0033 [18. August 2022].",
+        "bilder": [
+          {
+            "datei": "images/4422/4422_004_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              196.4,
+              365.7,
+              310.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog",
+            "bildunterschrift": "Auf S. 65 findet sich ein Hinweis auf die Ausstellung in der Villa Wedekind mit dem Titel «Die Beziehungen des Menschen zum Feuer» an der Lutherstrasse 38/39 in Berlin (https://doi.org/10.11588/diglit.48226#0069 [18. August 2022])."
+          },
+          {
+            "datei": "images/4422/4422_005_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              379.7,
+              327.7,
+              528.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Günther Kleineberg, Die Entwicklung der Naturpersonifizierung im Werk Arnold Böcklins (1827–1901), Diss. Göttingen 1971, S. 175, 177 [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Königliche Akademie der Künste, Berlin, Akademische Ausstellung von Werken Arnold Böcklins zur Feier seines 70. Geburtstages, 2. Dezember 1897 bis 16. Januar 1898, Nr. 45.2."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Arnold Böcklin», Filter 1: Meldungsart «Suchmeldung», Filter 2: Objektgruppe/Objektart «Malerei» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (73 Ergebnisse) für Suche «Böcklin», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 73,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (121 Ergebnisse) für Suche «Boecklin», Filter 1: War/Con-flict «World War II», Filter 2: Collection «Holocaust» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 121,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (2924 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 2924,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (311 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 311,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (377 Ergebnisse) für Volltextsuche «Böcklin» (inklusive Varianten der Namensschreibweise) [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 377,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Böcklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Boecklin» [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Böcklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-08-18"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Boecklin», Filter: Künstler [18. August 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "19. Oktober 2022",
+      "institution": "Kunsthaus Lempertz, Köln",
+      "betreff": "Einlieferer/Einlieferin 1970 angefragt",
+      "antwort": "28. Oktober 2022, Carsten Felgner, Provenienzforschung: Die Böcklin-Gemälde wurden aus einer rheinischen Sammlung eingeliefert. Der Name wird aus Datenschutzgründen nicht offengelegt. Die Gemälde blieben in der Auktion unverkauft."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4422/4422_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            285.0,
+            532.1,
+            343.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Luzern 1974, annotiert (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.71, NF_0002",
+      "bilder": [
+        {
+          "datei": "images/4422/4422_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            370.0,
+            409.0,
+            529.3,
+            626.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kaufvertrag vom 16. Dezember 1981 zwischen der Associazione Artisti Ascona und der SKKG"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "24. Oktober 2022",
+      "institution": "Böcklin-Archiv, Hans Holenweg, Muttenz",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4422/4422_008_archive_extern.png",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            190.7,
+            535.1,
+            207.7
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "verfasst von Hans Holenweg"
+        }
+      ],
+      "fussnoten": [
+        {
+          "nr": 16,
+          "text": "Die von Holenweg vermutungsweise erwähnte Galerie Gloggner, Luzern, spielt hier nachweislich keine Rolle, siehe Provenienzstationen."
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [
+    {
+      "thema": "Paul von Wedekind",
+      "information": "MyHeritage, Eintrag zu Paul von Wedekind (1845–1910), https://www.myheritage.ch/research/collection-1/myheritage-stamm-baume?itemId=303905621-1-506276&action=showRecord [22. Oktober 2022]."
+    },
+    {
+      "thema": "Sophie von Wedekind",
+      "information": "Amtliches Fernsprechbuch Berlin, Ausgabe 1940, https://digi-tal.zlb.de/viewer/resolver?urn=urn:nbn:de:kobv:109-1-13429103 [22. Oktober 2022], mit Hinweis auf die Nachlassverwaltung für das Erbe von Sophie von Wedekind.",
+      "bilder": [
+        {
+          "datei": "images/4422/4422_009_kontextinformationen.png",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            408.8,
+            338.9,
+            449.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    },
+    {
+      "thema": "Lutherstrasse 38/39, von Wedekind",
+      "information": "Berliner Adressbuch, Ausgabe 1942, https://digital.zlb.de/vie-wer/image/34115495_1942/6142 [22. Oktober 2022], mit Hinweis auf die Eigentumsverhältnisse Lutherstrasse 38/39 im Jahr 1942: «v. Wedekind, Geschw[ister] Eigentum», «v. Wedekind, B. Eigentümerin».",
+      "bilder": [
+        {
+          "datei": "images/4422/4422_010_kontextinformationen.png",
+          "seite": 7,
+          "bbox": [
+            193.0,
+            518.6,
+            270.6,
+            609.2
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        }
+      ]
+    },
+    {
+      "thema": "Mario Manazza",
+      "information": "Die Kunstkritikerin Annelise Zwez hat zwischen 1972 und 1980 drei Artikel zur Galerie Mario Manazza in Meisterschwanden verfasst:\n\n– Aargauer Kurier, Sonderausstellung «Schweizer Maler der Jahrhundertwende», 1. November 1972: https://annelisezwez.ch/wp-content/uploads/Maler-um-1900-Mario-Manazza-1972.pdf [22. Oktober 2022].\n\n– Aargauer Kurier, Den Traditionen der Jahrhundertwende treu. Galerie Mario Manazza in Meisterschwanden, 10. April 1975, https://annelisezwez.ch/wp-content/uploads/Mario-Manazza-Meis-terschwanden-1975.pdf [22. Oktober 2022].\n\n– Aargauer Tagblatt, Der Vergessenheit entrissene Bilder. Sonderausstellung mit Werken von Schweizer Malern, 3. November 1980, https://annelisezwez.ch/wp-content/uploads/Mario- Manazza_-Schweizer-K%C3%BCnstler-erste-H%C3%A4lfte-20- Jh-1980.pdf [22. Oktober 2022]."
+    },
+    {
+      "thema": "Hintergrund Wandbildzyklus",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/4422/4422_011_kontextinformationen.jpeg",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            284.8,
+            469.3,
+            384.3
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildtitel": "Andree 1977, S. 94"
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4422/4422_012_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          446.9,
+          334.5,
+          600.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Querleiste: handschriftlich mit grauem Schreibmittel «V I [?] | 407»",
+        "position_traeger": "o. m. Querleiste",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «V I [?] | 407»",
+        "kommentar": "entspricht der Lotnummer der Auktion Lempertz 1970",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4422/4422_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.4,
+              663.0,
+              233.8,
+              723.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 17,
+            "text": "Siehe Auszug aus dem Auktionskatalog auf der Werkrückseite."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Rahmen: handschriftlich mit grauem Schreibmittel «1824331»",
+        "position_traeger": "o. m. Rahmen",
+        "merkmal": "handschriftlich mit grauem Schreibmittel «1824331»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4422/4422_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              139.8,
+              332.9,
+              192.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. u. Querleiste: schwarz gestempelt (allenfalls Brandstempel) «O» oder «0»",
+        "position_traeger": "m. u. Querleiste",
+        "merkmal": "schwarz gestempelt (allenfalls Brandstempel) «O» oder «0»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4422/4422_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              205.0,
+              245.1,
+              305.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rahmen: rechteckiger weisser Zettel, handschriftlich mit Bleistift «von Baeriswyl Ascona | Jan. 82 | Böcklin, Arnold | Fresko aus Villa | Wedekind Hannover | [Pro]metheus ca 18’»",
+        "position_traeger": "o. l. Rahmen",
+        "merkmal": "rechteckiger weisser Zettel, handschriftlich mit Bleistift «von Baeriswyl Ascona | Jan. 82 | Böcklin, Arnold | Fresko aus Villa | Wedekind Hannover | [Pro]metheus ca 18’»",
+        "kommentar": "verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4422/4422_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              318.0,
+              333.0,
+              461.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 18,
+            "text": "Der Ankauf erfolgte laut Kaufvertrag im Archiv SKKG am 16. Dezember 1981, siehe «Archiv intern»."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Holzfaserplatte: weisses Blatt, Fotokopie, Auszug aus dem Auktionskatalog Köln 1970, Zyklus mit den Nummern von 403 bis 408, hier 407",
+        "position_traeger": "o. l. Holzfaserplatte",
+        "merkmal": "weisses Blatt, Fotokopie, Auszug aus dem Auktionskatalog Köln 1970, Zyklus mit den Nummern von 403 bis 408, hier 407",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4422/4422_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.4,
+              474.5,
+              332.9,
+              650.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 19,
+            "text": "Gemäss Augenschein vom 8. Dezember 2022 sind die beiden Zettel auf der Holzfaserplatte vollflächig verklebt und lassen sich nicht anheben. Es kann daher nicht ausgeschlossen werden, dass sich darunter weitere Provenienzmerkmale befinden."
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Holzfaserplatte: weisses Blatt, Fotokopie, Auszug eines Texts zu den Wandmalereien im Haus Wedekind",
+        "position_traeger": "o. l. Holzfaserplatte",
+        "merkmal": "weisses Blatt, Fotokopie, Auszug eines Texts zu den Wandmalereien im Haus Wedekind",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4422/4422_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              139.8,
+              261.8,
+              366.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 20,
+            "text": "Siehe Fn. 19."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Andree 1977. Das Werk gehörte zu einem Wandbildzyklus zum Thema «Die Beziehungen des Menschen zum Feuer», siehe Ausstellungskatalog Berlin 1897, S. 65."
+    },
+    {
+      "nr": 2,
+      "text": "Andree 1977. Prometheus und die anderen Teile des Zyklus wurden 1858 für den Speisesaal der Villa von Konsul Carl Wedekind in Hannover angefertigt. Das Gemälde war über einer Tür als Supraporte angebracht. Die Wandbilder – es handelte sich um an der Wand montierte Leinwände – wurden beim Umzug der Familie nach Kassel transferiert, wo die Familie Karl Wedekind 1868 eine Villa erbauen liess, siehe Holenweg 1977, S. 94, sowie https://de.wikipe-dia.org/wiki/Villa_Glitzerburg [30. September 2022]. Siehe auch Fn. 3."
+    },
+    {
+      "nr": 3,
+      "text": "Andree 1977. Der Zyklus wurde von Sohn Paul Wedekind wohl um 1883 aus dem väterlichen Haus in Kassel nach Berlin verbracht (bis 1888 Bendlerstrasse 9, 1888–1895 Viktoriastrasse 1, ab 1895 Lutherstrasse 38/39), siehe Berliner Adressbücher: https://digital.zlb.de/viewer/berliner-adress-telefon-branchenbuecher [30. September 2022]). Im Rahmen der Berliner Böcklin-Ausstellung 1897/98 konnten Interessierte den Böcklin-Zyklus im Haus der Wedekinds an der Lutherstrasse 38/39 besichtigen, siehe Ausstellungskatalog Berlin 1897, S. 65."
+    },
+    {
+      "nr": 4,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 5,
+      "text": "Die Leinwände des Bilderzyklus überdauerten den Zweiten Weltkrieg gerollt im Keller des Hauses der Wedekinds an der Lutherstrasse 38/39 in Berlin, litten aber grossen Schaden, siehe Holenweg 1977, S. 94. Im Amtlichen Fernsprechbuch Berlin 1940 findet sich der Hinweis auf den Nachlassverwalter Alfred Bahrdt für Sophie von Wedekind, siehe https://digital.zlb.de/viewer/image/15849354_1940/1381 [4. Oktober 2022]. Dieser unterzeichnete auch ihre Sterbeurkunde, siehe https://www.ancestry.de/discoveryui-content/view/5905334:2958 [4. Oktober 2022]. Die Situation rund um den Nachlass und die Rolle des Nachlassverwalters ist nicht geklärt. Paul und Sophie von Wedekind hatten vier Kinder, siehe Kontextinformationen."
+    },
+    {
+      "nr": 6,
+      "text": "1965 wurden die Leinwände stark restauriert und dabei übermalt, siehe Holenweg 1977, S. 94. Holenweg ist der Ansicht, dass die Fragmente des Zyklus infolgedessen «nicht mehr als Originale Böcklins bezeichnet werden dürfen». Wer die Restaurierung in Auftrag gab, ist nicht vermerkt."
+    },
+    {
+      "nr": 7,
+      "text": "Gemäss Auskunft des Auktionshauses Lempertz, Köln, ging das Werk nach der Auktion unverkauft zurück an den/die Voreigentümer:in beziehungsweise eine «rheinische Sammlung», siehe Anfragen. Bei Andree 1977 ist «Privatbesitz Süddeutschland» für 1970 nach der Lempertz-Auktion vermerkt, was demnach jener Angabe entspricht."
+    },
+    {
+      "nr": 8,
+      "text": "Andree 1977, Auktionskatalog Köln 1970 sowie Fn. 7."
+    },
+    {
+      "nr": 9,
+      "text": "Andree 1977."
+    },
+    {
+      "nr": 10,
+      "text": "Ebd."
+    },
+    {
+      "nr": 11,
+      "text": "Ebd."
+    },
+    {
+      "nr": 12,
+      "text": "Ebd., Auktionskatalog Luzern 1974."
+    },
+    {
+      "nr": 13,
+      "text": "Andree 1977. Gemäss dem digitalen Porträtarchiv «DigiPortA» hatte der Verfasser des Böcklin-Werkkatalogs Rolf Andree zwischen 1974 und 1978 einen Austausch mit dem Galeristen Manazza zum Böcklin-Gemälde, das in Meisterschwanden in dessen Besitz war, siehe http://www.digiporta.net/index.php?id=777912102 [4. Oktober 2022]."
+    },
+    {
+      "nr": 14,
+      "text": "Als Vermittler zwischen dem/der nicht benannten Eigentümer:in und Bruno Stefanini traten Josef Bäriswyl und ein Herr a Marca auf, die beide Provisionen erhielten. Es kam zum Freihandkauf bei der Galerie Associazione Artisti Ascona (AAA), siehe Kaufvertrag vom 16. Dezember 1981 und Quittung vom 19. Januar 1982 im Archiv SKKG, A.211.71."
+    },
+    {
+      "nr": 15,
+      "text": "Siehe Fn. 14."
+    },
+    {
+      "nr": 16,
+      "text": "Die von Holenweg vermutungsweise erwähnte Galerie Gloggner, Luzern, spielt hier nachweislich keine Rolle, siehe Provenienzstationen."
+    },
+    {
+      "nr": 17,
+      "text": "Siehe Auszug aus dem Auktionskatalog auf der Werkrückseite."
+    },
+    {
+      "nr": 18,
+      "text": "Der Ankauf erfolgte laut Kaufvertrag im Archiv SKKG am 16. Dezember 1981, siehe «Archiv intern»."
+    },
+    {
+      "nr": 19,
+      "text": "Gemäss Augenschein vom 8. Dezember 2022 sind die beiden Zettel auf der Holzfaserplatte vollflächig verklebt und lassen sich nicht anheben. Es kann daher nicht ausgeschlossen werden, dass sich darunter weitere Provenienzmerkmale befinden."
+    },
+    {
+      "nr": 20,
+      "text": "Siehe Fn. 19."
+    }
+  ],
+  "bilder_anzahl": 18
+}

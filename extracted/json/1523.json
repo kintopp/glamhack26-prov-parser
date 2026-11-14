@@ -1,0 +1,725 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1523_221109.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "9. November 2022",
+  "stand_iso": "2022-11-09",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1523",
+      "Félix Vallotton (1865–1925)",
+      "Plage ciel mauve",
+      "1903",
+      "Öl auf Leinwand",
+      "69 × 50 × 2 cm (Bildmass)",
+      "86 × 66 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1523",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Plage ciel mauve",
+    "masse": [
+      "69 × 50 × 2 cm (Bildmass)",
+      "86 × 66 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "1903",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1523/1523_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.7,
+          549.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005. Im Auktionskatalog Zürich 1979 ist das Werk als Meerestrand [sic] mit drei Figuren /Plage avec trois personnes verzeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Paul Vallotton, Lausanne",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1929",
+      "besitzer": "Galerie Vallotton, Lausanne, Nr. 1249",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 1979 sowie Etikett auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1976 bis vermutlich 19. Mai 1979",
+      "besitzer": "Kurt Gratwohl (1918–1979), Erlenbach",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005, dort mit Angabe des Jahres 1976. Das Werk dürfte sich bis zur Sotheby’s-Auktion am 19. Mai 1979 in der Sammlung Gratwohl befunden haben, siehe Kontextinformationen sowie Geleitwort im Auktionskatalog Zürich 1979 unter «Archiv intern». Kurt Gratwohl ist am 31. Dezember 1979 verstorben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. Mai 1979",
+      "besitzer": "Auktion Sotheby’s (Eine bedeutende Sammlung Schweizer Gemälde des 19. und 20. Jahrhunderts, Lot 109, Meerestrand [sic] mit drei Figuren / Plage avec trois personnes), Zürich, vermutlich eingeliefert von Kurt Gratwohl",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005, Auktionskatalog Zürich 1979."
+        }
+      ]
+    },
+    {
+      "zeitraum": "19. Mai 1979 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Sotheby’s, Zuschlagspreis: 34 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Ducrey 2005 sowie annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 2, Lausanne/Zürich 2005, Nr. 473.",
+        "bilder": [
+          {
+            "datei": "images/1523/1523_002_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              312.6,
+              388.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1523/1523_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              394.8,
+              312.6,
+              511.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 408."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Eine bedeutende Sammlung Schweizer Gemälde des 19. und 20. Jahrhunderts, Auktionskatalog Sotheby’s, Zürich, 19. Mai 1979, Lot 109."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Milano, 1963, Nr. 5 (Spiaggia)\n\n– London, 1967, Nr. 1\n\n– Bologna, 1970, Nr. 8",
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche, Filter: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche, Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1523/1523_004_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            409.6,
+            533.0,
+            619.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1523/1523_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            133.9,
+            533.8,
+            256.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1979, annotiert von Bruno Stefanini, beim Geleitwort mit der Vermutung «Bankier Gratwohl?». Provenienzangabe: «Galerie Paul Vallotton, Lausanne»."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Kurt Gratwohl",
+      "information": "Allerlei Schweizer Malerei, in: Neue Zürcher Zeitung, Jg. 200 (1979), Nr. 95, 25. April 1979, S. 37, www.e-newspaperar-chives.ch/?a=d&d=NZZ19790425-01.2.51.2 [4. November 2022].\n\nEhemaliger Bankdirektor Kurt Gratwohl tödlich verunfallt. Strafverfahren kurz vor Abschluss eingestellt, in: Neue Zürcher Nachrichten, Jg. 74 (1980), Nr. 7, 10. Januar 1980, S. 5, https://www.e-newspa-perarchives.ch/?a=d&d=NZN19800110-01.2.15.3 [4. November 2022]."
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1523/1523_006_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          184.0,
+          261.0,
+          440.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Zierrahmen (mit Rückseitenschutz)"
+      },
+      {
+        "datei": "images/1523/1523_007_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          471.8,
+          262.1,
+          739.6
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Keilrahmen"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur des Künstlers",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur des Künstlers",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_008_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              158.4,
+              326.3,
+              212.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «Honfleur»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «Honfleur»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              224.9,
+              326.2,
+              279.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Honfleur liegt an der Seine-Mündung; Ducrey 2005 verortet das Motiv dagegen in Dieppe."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rotes Präge-Etikett aus Etikettendrucker mit Buchstabe «B»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rotes Präge-Etikett aus Etikettendrucker mit Buchstabe «B»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              291.7,
+              207.7,
+              334.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: Etikett mit SIK-Nummer 33280",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "Etikett mit SIK-Nummer 33280",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              346.6,
+              268.4,
+              376.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Etikett mit SIK-Nummer 33280",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Etikett mit SIK-Nummer 33280",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              389.2,
+              265.9,
+              419.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. Mittelstrebe Keilrahmen: gestempelt «CIACO[…] BOLOGNA»",
+        "position_traeger": "r. Mittelstrebe Keilrahmen",
+        "merkmal": "gestempelt «CIACO[…] BOLOGNA»",
+        "kommentar": "vermutlich angebracht im Rahmen der Ausstellung in Bologna 1970",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              431.8,
+              233.4,
+              517.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 11,
+            "text": "Vermutlich handelt es sich dabei um die Ausstellung in der Galleria Forni, Bologna, 18. November bis 4. Dezember 1970; siehe auch Ausstellungen."
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "m. Mittelstrebe Keilrahmen: zwei langrechteckige Etiketten, weiss/beige, Galerie Paul Vallotton, Nr. 1249",
+        "position_traeger": "m. Mittelstrebe Keilrahmen",
+        "merkmal": "zwei langrechteckige Etiketten, weiss/beige, Galerie Paul Vallotton, Nr. 1249",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              530.2,
+              326.6,
+              570.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. Mittelstrebe Keilrahmen: schwarz gestempelt «PHOTO P.V.»",
+        "position_traeger": "l. Mittelstrebe Keilrahmen",
+        "merkmal": "schwarz gestempelt «PHOTO P.V.»",
+        "kommentar": "Hinweis auf fotografische Aufnahme durch die Galerie Paul Vallotton",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              599.3,
+              240.5,
+              683.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1523/1523_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              133.8,
+              240.5,
+              186.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. Mittelstrebe Keilrahmen: Reste eines Etiketts, in Maschinenschrift «[…]TION»",
+        "position_traeger": "l. Mittelstrebe Keilrahmen",
+        "merkmal": "Reste eines Etiketts, in Maschinenschrift «[…]TION»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              199.0,
+              204.6,
+              299.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: Reste eines Etiketts",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "Reste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_018_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              312.4,
+              182.2,
+              472.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit blauem Schreibmittel «[…] V. 1» (vermutlich «P. V.» für Paul Vallotton), über dem ersten Zeichen ein weisses Etikett mit handschriftlichem «G»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel «[…] V. 1» (vermutlich «P. V.» für Paul Vallotton), über dem ersten Zeichen ein weisses Etikett mit handschriftlichem «G»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1523/1523_019_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              485.4,
+              285.5,
+              554.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005. Im Auktionskatalog Zürich 1979 ist das Werk als Meerestrand [sic] mit drei Figuren /Plage avec trois personnes verzeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 1979 sowie Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005, dort mit Angabe des Jahres 1976. Das Werk dürfte sich bis zur Sotheby’s-Auktion am 19. Mai 1979 in der Sammlung Gratwohl befunden haben, siehe Kontextinformationen sowie Geleitwort im Auktionskatalog Zürich 1979 unter «Archiv intern». Kurt Gratwohl ist am 31. Dezember 1979 verstorben."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005, Auktionskatalog Zürich 1979."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Ducrey 2005 sowie annotierten Auktionskatalog Zürich 1979 im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 408."
+    },
+    {
+      "nr": 8,
+      "text": "Die Angaben von Ducrey 2005 zu den Ausstellungen wurden im Erstcheck nicht systematisch überprüft oder ergänzt."
+    },
+    {
+      "nr": 9,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    },
+    {
+      "nr": 10,
+      "text": "Honfleur liegt an der Seine-Mündung; Ducrey 2005 verortet das Motiv dagegen in Dieppe."
+    },
+    {
+      "nr": 11,
+      "text": "Vermutlich handelt es sich dabei um die Ausstellung in der Galleria Forni, Bologna, 18. November bis 4. Dezember 1970; siehe auch Ausstellungen."
+    }
+  ],
+  "bilder_anzahl": 19
+}

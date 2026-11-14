@@ -1,0 +1,863 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5760_230608.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "8. Juni 2023",
+  "stand_iso": "2023-06-08",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5760",
+      "Albert Anker (1831–1910)",
+      "Kompositionsstudie zu: Das Winzerfest",
+      "1865",
+      "Öl auf Leinwand",
+      "28,5 × 50 cm (Lichtmass)",
+      "30,6 × 51,1 × 1 cm (Bildmass)",
+      "38,5 × 59,9 × 4,8 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5760",
+    "status": "Klar",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Kompositionsstudie zu: Das Winzerfest",
+    "masse": [
+      "28,5 × 50 cm (Lichtmass)",
+      "30,6 × 51,1 × 1 cm (Bildmass)",
+      "38,5 × 59,9 × 4,8 cm (Rahmenmass)"
+    ],
+    "datierung": "1865",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5760/5760_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          317.7,
+          398.8
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Etude pour: Les vendanges. Das vorliegende Werk ist eine Vorstudie; für das finale Werk siehe Kuthy/Bhattacharya-Stettler 1995, S. 89, Nr. 87."
+      },
+      {
+        "nr": 2,
+        "text": "Kuthy/Bhattacharya-Stettler 1995 datieren das Werk auf 1865. Ein Provenienzmerkmal auf der Werkrückseite bestätigt diese Datierung, die jener des finalen Werks (siehe Fn. 1) entspricht."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1.–30. November 1910",
+      "besitzer": "Ausstellung Salles Léopold Robert (Exposition Albert Anker, Nr. 81), Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Kuthy/Bhattacharya-Stettler 1995."
+        }
+      ]
+    },
+    {
+      "zeitraum": "7. Mai bis 5. Juni 1911",
+      "besitzer": "Ausstellung Kunsthaus Zürich (Ausstellung Albert Anker, Nr. 174)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis vermutlich 1918",
+      "besitzer": "(Paul) Moritz (Maurice) Anker (1874–1931)",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 führen Moritz (Maurice) Anker für das Jahr 1919 als Eigentümer an. Das Etikett auf der Werkrückseite gibt dagegen 1918 als Jahr des Handwechsels von Moritz Anker, dem Sohn des Künstlers, zu Alfred Moll-Möschler an, siehe Provenienzmerkmale. Der Widerspruch konnte nicht geklärt werden. Theoretisch liesse sich die Aufschrift auch anders interpretieren (zwei Lesarten von «erwerben von»), nämlich so, dass im Jahr 1918 Moritz Anker das Werk aus dem Nachlass des Vaters erwarb und nicht Moll-Möschler von Moritz Anker."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1918 bis spätestens 1949",
+      "besitzer": "Alfred Moll-Möschler (1869–1949), Biel, vermutlich angekauft von Moritz Anker",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Alfred Moll-Möschler war Leihgeber für die Ausstellung Kunstmuseum Bern 1931, siehe Ausstellungskatalog Bern 1931. Zur Person siehe https://de.wikipedia.org/wiki/Alfred_Moll [28. März 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1949 bis mindestens 1960",
+      "besitzer": "Elsa Häberlin-Moll, Lausanne, vermutlich erworben im Erbgang vom Vater",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe Bleistiftaufschrift auf der Werkrückseite. Die Leihgabe für die Ausstellung im Kunstmuseum Bern 1960 stammte von «E. H.-M., Lausanne», siehe Ausstellungskatalog Bern 1960. Gemäss Auskunft vom Kunstmuseum Bern (siehe Anfragen) handelt es sich dabei um Elsa (Elsy) Häberlin-Moll, Lausanne, die Tochter von Alfred Moll."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Lausanne",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Vermutlich handelt es sich bei dieser Provenienzstation ebenfalls um Elsa Häberlin-Moll."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18. November bis 1. Dezember 1993",
+      "besitzer": "Auktion Galerie Jürg Stuker (Herbst-Auktion 1993, Lot 6006, Das Winzerfest), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Bern 1993."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 26. November 1993",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Jürg Stuker, Ankaufspreis: 15 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 88, Nr. 86.",
+        "bilder": [
+          {
+            "datei": "images/5760/5760_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              423.0,
+              318.7,
+              545.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/5760/5760_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              552.0,
+              317.2,
+              600.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Herbstauktion 1993, Auktionskatalog Galerie Jürg Stuker, Bern, 18. November bis 1. Dezember 1993, Bern 1993, Lot 6006.",
+        "bilder": [
+          {
+            "datei": "images/5760/5760_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.5,
+              133.7,
+              483.4,
+              202.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "Ausstellung Albert Anker. Kunsthaus Zürich. 7. Mai bis 5. Juni 1911. Ausstellungskatalog Kunsthaus Zürich, Zürich 1911, S. 11, Nr. 174.",
+        "bilder": [
+          {
+            "datei": "images/5760/5760_005_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              247.7,
+              292.7,
+              259.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Albert Anker. Jahrhundertausstellung. 20. Juni bis 23. August 1931, Ausstellungskatalog Kunstmuseum Bern, Bern 1931, S. 16, Nr. 157."
+          },
+          {
+            "datei": "images/5760/5760_006_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              303.7,
+              292.7,
+              327.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Albert Anker, Ausstellungskatalog Kunstmuseum Bern, Bern 1960, Nr. 192."
+          },
+          {
+            "datei": "images/5760/5760_007_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              371.6,
+              349.2,
+              395.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Salles Léopold Robert, Neuchâtel, Exposition Albert Anker, 1.– 30. November 1910, Nr. 81."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (39 Ergebnisse) für Volltextsuche «Anker» und «Winzerfest» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 39,
+            "datum": "2023-03-28"
+          },
+          {
+            "text": "0 Treffer (26 Ergebnisse) für Volltextsuche «Anker» und «vendanges» [28. März 2023]",
+            "treffer": 0,
+            "ergebnisse": 26,
+            "datum": "2023-03-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Februar 2023",
+      "institution": "Kunstmuseum Bern, Archiv",
+      "betreff": "Leihgeber/Leihgebe-rin Ausstellung 1960",
+      "antwort": "28. Februar 2023: Die Leihgeberin war Elsa Häberlin-Moll."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.1.1381",
+      "bilder": [
+        {
+          "datei": "images/5760/5760_008_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            618.5,
+            533.0,
+            662.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "annotierte lotspezifische Kopie aus Auktionskatalog Bern 1993 (Erwerbsnachweis)"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5760/5760_009_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          341.4,
+          290.5,
+          489.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «32»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «32»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              552.4,
+              207.8,
+              601.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Karton: handschriftlich mit Bleistift «Häberlin | Lausanne», darüber vermutlich mit Kugelschreiber «Haberlin [sic]»",
+        "position_traeger": "o. m. Karton",
+        "merkmal": "handschriftlich mit Bleistift «Häberlin | Lausanne», darüber vermutlich mit Kugelschreiber «Haberlin [sic]»",
+        "kommentar": "Elsa Häberlin-Moll",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_011_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              613.5,
+              293.1,
+              696.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: handschriftlich mit Bleistift «I[…]S 1865 [?]»",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "handschriftlich mit Bleistift «I[…]S 1865 [?]»",
+        "kommentar": "vermutlich «INS 1865», Lokalisierung und Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              292.1,
+              180.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: handschriftlich mit Bleistift «f 150», halb eingekreist",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "handschriftlich mit Bleistift «f 150», halb eingekreist",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              215.5,
+              265.6,
+              283.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit Bleistift «321»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «321»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              295.5,
+              265.6,
+              355.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Karton: vermutlich Etikett, handschriftlich mit verbräunter Tinte «Erworben von Moritz Anker aus | dem Nachlass seines Vaters Albert | Anker | A. Moll-Möschler. | 1918»",
+        "position_traeger": "r. m. Karton",
+        "merkmal": "vermutlich Etikett, handschriftlich mit verbräunter Tinte «Erworben von Moritz Anker aus | dem Nachlass seines Vaters Albert | Anker | A. Moll-Möschler. | 1918»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              368.2,
+              292.0,
+              416.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Karton: handschriftlich mit Bleistift «32»",
+        "position_traeger": "r. u. Karton",
+        "merkmal": "handschriftlich mit Bleistift «32»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_016_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              431.3,
+              184.9,
+              471.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Zierrahmen: handschriftlich mit Bleistift «157»",
+        "position_traeger": "u. r. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «157»",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1931, Nr. 157",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_017_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              484.3,
+              210.9,
+              530.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit Bleistift «32»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «32»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_018_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              547.4,
+              210.9,
+              605.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich mit Bleistift «Maurice 1917 [?]»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Maurice 1917 [?]»",
+        "kommentar": "Moritz (Maurice) Anker",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_019_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              618.4,
+              289.1,
+              659.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. Karton: handschriftlich mit verbräuntem Schreibmittel «[…]» (unleserlich)",
+        "position_traeger": "o. Karton",
+        "merkmal": "handschriftlich mit verbräuntem Schreibmittel «[…]» (unleserlich)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_020_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              681.5,
+              292.0,
+              712.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Zierrahmen: handschriftlich mit Bleistift «32»",
+        "position_traeger": "l. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «32»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_021_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              206.6,
+              197.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: handschriftlich mit Bleistift «Maurice»",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "handschriftlich mit Bleistift «Maurice»",
+        "kommentar": "Moritz (Maurice) Anker",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_022_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              210.8,
+              291.6,
+              270.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: quadratisches weisses Etikett, rechts gezahnt, handschriftlich mit schwarzer Tinte «81»",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "quadratisches weisses Etikett, rechts gezahnt, handschriftlich mit schwarzer Tinte «81»",
+        "kommentar": "Ausstellung Neuchâtel 1910, Nr. 81",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_023_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              137.0,
+              283.3,
+              190.3,
+              344.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Karton: weisses Etikett, schwarz bedruckt und schwarz gestempelt «157»",
+        "position_traeger": "o. l. Karton",
+        "merkmal": "weisses Etikett, schwarz bedruckt und schwarz gestempelt «157»",
+        "kommentar": "Ausstellung Kunstmuseum Bern 1931, Nr. 157",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_024_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              359.0,
+              291.7,
+              434.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 16,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «6006»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «6006»",
+        "kommentar": "Lotnummer Auktion Galerie Jürg Stuker 1993",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_025_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              446.9,
+              207.8,
+              501.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 17,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: quadratisches weisses Etikett, unten gezahnt mit blauem Streifen, handschriftlich mit schwarzem Filzstift «99.»",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "quadratisches weisses Etikett, unten gezahnt mit blauem Streifen, handschriftlich mit schwarzem Filzstift «99.»",
+        "kommentar": "vermutlich aufgebracht von Ursula Netzer, Schlosswartin Brestenberg (SKKG)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5760/5760_026_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              522.7,
+              207.8,
+              593.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Französischer Titel: Etude pour: Les vendanges. Das vorliegende Werk ist eine Vorstudie; für das finale Werk siehe Kuthy/Bhattacharya-Stettler 1995, S. 89, Nr. 87."
+    },
+    {
+      "nr": 2,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 datieren das Werk auf 1865. Ein Provenienzmerkmal auf der Werkrückseite bestätigt diese Datierung, die jener des finalen Werks (siehe Fn. 1) entspricht."
+    },
+    {
+      "nr": 3,
+      "text": "Kuthy/Bhattacharya-Stettler 1995."
+    },
+    {
+      "nr": 4,
+      "text": "Ebd."
+    },
+    {
+      "nr": 5,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 führen Moritz (Maurice) Anker für das Jahr 1919 als Eigentümer an. Das Etikett auf der Werkrückseite gibt dagegen 1918 als Jahr des Handwechsels von Moritz Anker, dem Sohn des Künstlers, zu Alfred Moll-Möschler an, siehe Provenienzmerkmale. Der Widerspruch konnte nicht geklärt werden. Theoretisch liesse sich die Aufschrift auch anders interpretieren (zwei Lesarten von «erwerben von»), nämlich so, dass im Jahr 1918 Moritz Anker das Werk aus dem Nachlass des Vaters erwarb und nicht Moll-Möschler von Moritz Anker."
+    },
+    {
+      "nr": 6,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Alfred Moll-Möschler war Leihgeber für die Ausstellung Kunstmuseum Bern 1931, siehe Ausstellungskatalog Bern 1931. Zur Person siehe https://de.wikipedia.org/wiki/Alfred_Moll [28. März 2023]."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe Bleistiftaufschrift auf der Werkrückseite. Die Leihgabe für die Ausstellung im Kunstmuseum Bern 1960 stammte von «E. H.-M., Lausanne», siehe Ausstellungskatalog Bern 1960. Gemäss Auskunft vom Kunstmuseum Bern (siehe Anfragen) handelt es sich dabei um Elsa (Elsy) Häberlin-Moll, Lausanne, die Tochter von Alfred Moll."
+    },
+    {
+      "nr": 8,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Vermutlich handelt es sich bei dieser Provenienzstation ebenfalls um Elsa Häberlin-Moll."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Bern 1993."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Erwerbsnachweis im Archiv SKKG."
+    }
+  ],
+  "bilder_anzahl": 26
+}

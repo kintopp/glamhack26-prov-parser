@@ -1,0 +1,875 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_472_260125.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "20. Januar 2026",
+  "stand_iso": "2026-01-20",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 472",
+      "Alice Bailly (1872–1938)",
+      "Portrait de femme",
+      "1911",
+      "Öl auf Leinwand",
+      "81 × 60 cm (Bildmass)",
+      "85 × 64 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "472",
+    "status": "Ungeklärt",
+    "kuenstler": "Alice Bailly (1872–1938)",
+    "titel": "Portrait de femme",
+    "masse": [
+      "81 × 60 cm (Bildmass)",
+      "85 × 64 cm (Rahmenmass)"
+    ],
+    "datierung": "1911",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/472/472_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          262.9,
+          540.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1994. In der Objektdatenbank SKKG ist zudem der vom SIK vergebene Titel Bildnis eines Mädchens festgehalten. In der Ausstellung «Sesam, öffne dich!» 2014/15 trug das Gemälde den Titel Petite fille aux mains jointes, also «Mädchen mit gefalteten Händen», siehe Ausstellungskatalog Bern 2014. Möglicherweise wurde das Werk 1935 als Portrait de jeune femme ausgestellt, siehe Fn. 3."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1911 bis vermutlich mindestens 27. Oktober 1935",
+      "besitzer": "Alice Bailly (1872–1938), Lausanne",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "31. August bis 27. Oktober 1935",
+      "besitzer": "möglicherweise Ausstellung Kunsthaus Zürich (16. Ausstellung der Gesellschaft Schweizerischer Maler, Bildhauer und Architekten [GSMBA], Nr. 187, Portrait de jeune femme), eingeliefert von Alice Bailly, unverkauft",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "1935 war im Kunsthaus Zürich ein Werk von Alice Bailly mit dem Titel Portrait de jeune femme ausgestellt, siehe Ausstellungskatalog Zürich 1935. Eingeliefert wurde es von der Künstlerin selbst; es blieb unverkauft und ging nach der Ausstellung an Bailly zurück, siehe Archive extern. Bei der Nummer 1206 auf dem Etikett der Zürcher Kunstgesellschaft auf der Rückseite des vorliegenden Werks handelt es sich gemäss Auskunft des Kunsthauses Zürich vom 13. November 2025 um eine Leihverkehrsnummer, siehe Anfragen. Da die Zürcher Kunstgesellschaft regelmässig Ausstellungen im Kunsthaus Zürich organisierte, der Titel Portrait de jeune femme zum Motiv des vorliegenden Werks passen würde und für dieses ansonsten keine infrage kommenden Ausstellungen vor dem Ankauf im Jahr 1994 bekannt sind, ist es denkbar, dass es sich um dasselbe Objekt handelt."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11. April 1994",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 52, Portrait de femme), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 11. April 1994",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Christie’s, Zuschlagpreis: 14 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 11. April 1994, Zürich 1994, Lot 52.",
+        "bilder": [
+          {
+            "datei": "images/472/472_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              397.9,
+              532.2,
+              578.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "16. Ausstellung der Gesellschaft Schweizerischer Maler, Bildhauer u[nd] Architekten [GSMBA], Ausstellungskatalog Kunsthaus Zürich, 31. August bis 27. Oktober 1935, Zürich 1935, möglicherweise Nr. 187.",
+        "bilder": [
+          {
+            "datei": "images/472/472_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              165.1,
+              400.1,
+              238.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge",
+            "bildunterschrift": "Sesam, öffne dich! Anker, Hodler, Segantini … Meisterwerke aus der Stiftung für Kunst, Kultur und Geschichte, Ausstellungskatalog Kunstmuseum Bern, 7. März bis 24. August 2014 / Fondation Pierre Gianadda, Martigny, 5. Dezember 2014 bis 14. Juni 2015, Bern 2014, Nr. 106."
+          },
+          {
+            "datei": "images/472/472_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              320.5,
+              399.5,
+              346.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Ausstellungskataloge"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Durchgesehen wurden zudem folgende Ausstellungskataloge: Alice Bailly, Ausstellungskatalog Galerie Léopold-Robert, Neuchâtel, 4. Oktober bis 31. Oktober 1919, Neuchâtel 1919; Alice Bailly, 1872–1938. Éxposition rétrospective des œuvres du peintre, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne, 17. November 1968 bis 5. Januar 1969, Lausanne 1968; Alice Bailly, Ausstellungskatalog Galerie Strunskaja, Zürich, 12. Dezember 1974 bis 8. Februar 1975, Zürich 1974; Alice Bailly. Werke 1908–1923, Ausstellungskatalog Galerie nächst St. Stephan, Wien, 16. April bis 18. Mai 1985 / Galerie Krinzinger, Innsbruck, 29. Mai bis 29. Juni 1985 / Aargauer Kunsthaus, Aarau, 16. August bis 15. September 1985, Wien 1985."
+          }
+        ]
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Kunsthaus Zürich, 31. August bis 27. Oktober 1935, 16. Ausstellung der Gesellschaft Schweizerischer Maler, Bildhauer u[nd] Architekten [GSMBA], Kunsthaus Zürich, möglicherweise Nr. 187."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Hersteller/Künstler/Au-tor:in «Alice Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Titel «Petite fille» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Titel «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Titel «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche, Filter: Titel «Petite fille» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (20 Ergebnisse) für Suche mit Filter: Titel «Little Girl» [8. Dezember 2025]",
+            "treffer": 0,
+            "ergebnisse": 20,
+            "datum": "2025-12-08"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Schnellsuche «Petite Fille» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Schnellsuche «Mädchen» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Suche mit Filter: Titel «Petite fille» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Bailly» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Petite fille aux mains jointes», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-11-05"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Mädchen mit gefalteten Händen», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [5. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-05"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Portrait de Femme» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Titel «Petite fille aux mains jointes» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (165 Ergebnisse) für Volltextsuche «Alice Bailly» [11. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 165,
+            "datum": "2025-11-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Volltextsuche «Alice Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (8 Ergebnisse) für Volltextsuche «A. Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 8,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (39 Ergebnisse) für Volltextsuche «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 39,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Petite fille aux mains jointes» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche «Bailly» (inklusive Varianten der Namensschreibweise) [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Petite fille aux mains jointes» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (48 Ergebnisse) für Volltextsuche «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 48,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Petite fille» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Petite fille» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «kleines Mädchen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Bailly» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Petite fille» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Mädchen mit gefalteten Händen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-11-06"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «kleines Mädchen» [6. November 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-11-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "13. November 2025",
+      "institution": "Kunsthaus Zürich",
+      "betreff": "War das Werk im Eigentum der Zürcher Kunstgesellschaft (Etikett auf der Werkrückseite)? Wurde es 1935 als Portrait de jeune femme ausgestellt?",
+      "antwort": "13. November 2025:\n\nIm Inventarbuch der Zürcher Kunstgesellschaft findet sich unter der angegebenen Nummer ein anderes Werk. Jedoch gibt es Ausstellungskorrespondenz zu einem Gemälde mit dem Titel «Portrait de jeune femme» und zur Ausstellung 1935."
+    },
+    {
+      "datum": "13. November 2025",
+      "institution": "Kunsthaus Zürich",
+      "betreff": "Zusendung des Rückseitenetiketts mit der Nummer 1206 zur Prüfung",
+      "antwort": "13. November 2025:\n\nEs handelt sich um eine Leihverkehrsnummer, die sich bislang nicht zuordnen liess. Das Portrait de jeune femme war an der Ausstellung der GSMBA 1935 im Kunsthaus Zürich zu sehen. Es blieb unverkauft und ging nach der Ausstellung an die Künstlerin zurück.",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe auch Archive extern."
+        }
+      ]
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/472/472_005_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            190.7,
+            530.6,
+            262.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis: annotierter lotspezifischer Ausschnitt aus Auktionskatalog Zürich 1994"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "11. November 2025",
+      "institution": "Kunsthaus Zürich, Archiv",
+      "bestand": "Ausgehende Korrespondenz, Ausstellungen, Bd. 59, 31. Dezember 1934 bis 12. August 1935, fol. 368, siehe https://digi-tal.kunsthaus.ch/vie-wer/image/58689_059/371",
+      "bilder": [
+        {
+          "datei": "images/472/472_006_archive_extern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.6,
+            476.5,
+            533.4,
+            594.2
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Wilhelm Wartmann, Kunsthaus Zürich, an Alice Bailly, Lausanne, vom 25. Juli 1935 mit Bestätigung des Empfangs dreier Ölgemälde für die GSMBA-Ausstellung, darunter «Portrait de jeune femme»"
+        }
+      ]
+    },
+    {
+      "datum": "12. November 2025",
+      "institution": "Kunsthaus Zürich, Archiv",
+      "bestand": "Ausgehende Korrespondenz, Ausstellungen, Bd. 61, 11. Oktober bis 6. Dezember 1935, fol. 122, siehe https://digital.kunsthaus.ch/vie-wer/image/0000-0000/125",
+      "bilder": [
+        {
+          "datei": "images/472/472_007_archive_extern.jpeg",
+          "seite": 8,
+          "bbox": [
+            368.6,
+            165.1,
+            532.5,
+            296.0
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben von Wilhelm Wartmann, Kunsthaus Zürich, an Alice Bailly, Lausanne, vom 9. November 1935 mit Erwähnung zurückgesandter Werke, darunter «Portrait de jeune femme»"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/472/472_008_provenienzmerkmale.jpeg",
+        "seite": 9,
+        "bbox": [
+          62.5,
+          165.3,
+          324.5,
+          511.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «Alice Bally [sic]»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Alice Bally [sic]»",
+        "kommentar": "Signatur der Künstlerin",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_009_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              549.2,
+              306.3,
+              618.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "m. Mittelstrebe: handschriftlich mit blauer Wachskreide «7 B A B 2» (durchgestrichen) und «59 a»",
+        "position_traeger": "m. Mittelstrebe",
+        "merkmal": "handschriftlich mit blauer Wachskreide «7 B A B 2» (durchgestrichen) und «59 a»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_010_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              630.8,
+              327.5,
+              655.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: rechteckiges weissblaues Etikett (verbräunt), schwarz gedruckt «[ZÜRCHER KUNSTGESELL-SCHAFT] | Künstler: | Titel des Werkes:» (verdeckt) und schwarz gestempelt «№ 1206»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "rechteckiges weissblaues Etikett (verbräunt), schwarz gedruckt «[ZÜRCHER KUNSTGESELL-SCHAFT] | Künstler: | Titel des Werkes:» (verdeckt) und schwarz gestempelt «№ 1206»",
+        "kommentar": "Etikett der Zürcher Kunstgesellschaft",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_011_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              324.3,
+              227.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/472/472_012_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              264.2,
+              324.0,
+              344.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Vergleichsetikett"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Zuordnung anhand Vergleichsetikett sowie nach Auktionskatalog Zürich 1994."
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz maschinengeschrieben «GNVBJ377»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, schwarz maschinengeschrieben «GNVBJ377»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_013_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              357.7,
+              222.0,
+              420.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: handschriftlich mit blauer Wachskreide «59 a»",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "handschriftlich mit blauer Wachskreide «59 a»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_014_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.4,
+              432.4,
+              327.8,
+              492.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: handschriftlich mit schwarzem Schreibmittel unbestimmte Markierungen",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel unbestimmte Markierungen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              505.1,
+              326.7,
+              571.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Spannrahmen: handschriftlich mit blauer Wachskreide unbestimmte Markierung",
+        "position_traeger": "u. m. Spannrahmen",
+        "merkmal": "handschriftlich mit blauer Wachskreide unbestimmte Markierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              583.9,
+              208.7,
+              660.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Spannrahmen: handschriftlich mit blauer Wachskreide «59 a»",
+        "position_traeger": "l. m. Spannrahmen",
+        "merkmal": "handschriftlich mit blauer Wachskreide «59 a»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.5,
+              672.8,
+              326.0,
+              730.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «19056», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «19056», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_018_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              139.8,
+              225.5,
+              172.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: rechteckiges weisses Etikett, schwarz gedruckt «19056», unterstrichen",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «19056», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_019_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              215.5,
+              225.5,
+              252.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit roter Wachskreide «X» (Kreuz)",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit roter Wachskreide «X» (Kreuz)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/472/472_020_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              291.3,
+              191.2,
+              353.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1994. In der Objektdatenbank SKKG ist zudem der vom SIK vergebene Titel Bildnis eines Mädchens festgehalten. In der Ausstellung «Sesam, öffne dich!» 2014/15 trug das Gemälde den Titel Petite fille aux mains jointes, also «Mädchen mit gefalteten Händen», siehe Ausstellungskatalog Bern 2014. Möglicherweise wurde das Werk 1935 als Portrait de jeune femme ausgestellt, siehe Fn. 3."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 3,
+      "text": "1935 war im Kunsthaus Zürich ein Werk von Alice Bailly mit dem Titel Portrait de jeune femme ausgestellt, siehe Ausstellungskatalog Zürich 1935. Eingeliefert wurde es von der Künstlerin selbst; es blieb unverkauft und ging nach der Ausstellung an Bailly zurück, siehe Archive extern. Bei der Nummer 1206 auf dem Etikett der Zürcher Kunstgesellschaft auf der Rückseite des vorliegenden Werks handelt es sich gemäss Auskunft des Kunsthauses Zürich vom 13. November 2025 um eine Leihverkehrsnummer, siehe Anfragen. Da die Zürcher Kunstgesellschaft regelmässig Ausstellungen im Kunsthaus Zürich organisierte, der Titel Portrait de jeune femme zum Motiv des vorliegenden Werks passen würde und für dieses ansonsten keine infrage kommenden Ausstellungen vor dem Ankauf im Jahr 1994 bekannt sind, ist es denkbar, dass es sich um dasselbe Objekt handelt."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1994."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Durchgesehen wurden zudem folgende Ausstellungskataloge: Alice Bailly, Ausstellungskatalog Galerie Léopold-Robert, Neuchâtel, 4. Oktober bis 31. Oktober 1919, Neuchâtel 1919; Alice Bailly, 1872–1938. Éxposition rétrospective des œuvres du peintre, Ausstellungskatalog Musée cantonal des Beaux-Arts, Lausanne, 17. November 1968 bis 5. Januar 1969, Lausanne 1968; Alice Bailly, Ausstellungskatalog Galerie Strunskaja, Zürich, 12. Dezember 1974 bis 8. Februar 1975, Zürich 1974; Alice Bailly. Werke 1908–1923, Ausstellungskatalog Galerie nächst St. Stephan, Wien, 16. April bis 18. Mai 1985 / Galerie Krinzinger, Innsbruck, 29. Mai bis 29. Juni 1985 / Aargauer Kunsthaus, Aarau, 16. August bis 15. September 1985, Wien 1985."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe auch Archive extern."
+    },
+    {
+      "nr": 8,
+      "text": "Zuordnung anhand Vergleichsetikett sowie nach Auktionskatalog Zürich 1994."
+    }
+  ],
+  "bilder_anzahl": 20
+}

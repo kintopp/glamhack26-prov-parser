@@ -1,0 +1,411 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_559_250528.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "28. Mai 2025",
+  "stand_iso": "2025-05-28",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 559",
+      "Ernest Biéler (1863–1948)",
+      "Paysage de la plaine du Rhône",
+      "um 1940",
+      "Tempera auf Karton",
+      "115 × 81 cm (Bildmass)",
+      "164 × 100 × 4 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "559",
+    "status": "Klar",
+    "kuenstler": "Ernest Biéler (1863–1948)",
+    "titel": "Paysage de la plaine du Rhône",
+    "masse": [
+      "115 × 81 cm (Bildmass)",
+      "164 × 100 × 4 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1940",
+    "technik": "Tempera auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/559/559_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.6,
+          520.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1996."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "spätestens 1976 bis 10. Dezember 1996",
+      "besitzer": "Marguerite Chappuis-Biéler (1906–1998), Lausanne, erworben vom Künstler oder aus dem Nachlass",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Marguerite Chappuis-Biéler, die Tochter von Théodore (Schreibweise unsicher) Biéler, war die Nichte von Ernest Biéler. Im Auktionskatalog Zürich 1996 steht die Provenienzangabe «Direkt vom Künstler an die Familie des jetzigen Besitzers». Jean-Petit-Matile 1976 gibt Chappuis-Biéler als Eigentümerin an. Der Angabe im Auktionskatalog folgend darf sie als Einlieferin 1996 bei Sotheby’s gelten."
+        }
+      ]
+    },
+    {
+      "zeitraum": "10. Dezember 1996",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 191, Paysage de la plaine du Rhône), Zürich, eingeliefert von Marguerite Chappuis-Biéler beziehungsweise deren Sohn André",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Zürich 1996 sowie Auskunft von Ethel Mathier vom 28. Mai 2025; siehe auch Fn. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 10. Dezember 1996",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 26 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1996 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–",
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 10. Dezember 1996, Zürich 1996, Lot 191."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Matthias Frehner und Ethel Mathier (Hrsg.), Ernest Biéler (1863–1948). Geträumte Wirklichkeit, Ausstellungskatalog Kunstmuseum Bern / Fondation Gianadda, Martigny, Bern 2011, S. 251, Nr. 119."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Maurice Jean-Petit-Matile, Ernest Biéler, Lutry 1976, S. 74."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Biéler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-01"
+          },
+          {
+            "text": "0 Treffer (40 Ergebnisse) für Volltextsuche «Bieler», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 40,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (258 Ergebnisse) für Volltextsuche «Bieler»/«Biéler» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 258,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Suche «Bieler»/«Biéler» mit Filter «Artist» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "Datum",
+      "institution": "Institution/Archiv/Ad-ressat:in",
+      "betreff": "Betreff",
+      "antwort": "Antwort"
+    },
+    {
+      "datum": "2. November 2022",
+      "institution": "Ethel Mathier, Bern",
+      "betreff": "Nachfrage zu Nachlassverzeichnis und Unterlagen zu Biéler",
+      "antwort": "Mathier zufolge gibt es kein Nachlassverzeichnis."
+    },
+    {
+      "datum": "3. November 2022",
+      "institution": "Bibliothèque cantonale et universitaire de Lausanne",
+      "betreff": "Anfrage zum Nachlass Biéler",
+      "antwort": "Nachlass Ernest Biéler, Signatur IS 1908\n\nErhalt von Digitalisat des 1969 erstellten Grobinventars zum Fonds Ernest Biéler"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "1. November 2022",
+      "institution": "Archiv SKKG",
+      "bestand": "Der handschriftliche Hinweis auf die Galerie Fischer, Luzern, wurde nicht weiterverfolgt. Unklar ist auch der prospektive Hinweis auf eine Ausstellung in Lausanne Ende 1997.",
+      "bilder": [
+        {
+          "datei": "images/559/559_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            443.0,
+            532.7,
+            553.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1996, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "1. November 2022",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/559/559_003_archiv_intern.png",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            139.8,
+            526.5,
+            226.4
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Ankaufsbeleg, handschriftlich annotiert mit Rahmenmass und Zuschlagspreis"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/559/559_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          310.1,
+          546.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit brauner Farbe «E. BIELER»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit brauner Farbe «E. BIELER»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/559/559_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.2,
+              584.1,
+              243.6,
+              620.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Karton: handschriftlich mit grauem Schreibmittel, unleserlich",
+        "position_traeger": "o. r. Karton",
+        "merkmal": "handschriftlich mit grauem Schreibmittel, unleserlich",
+        "kommentar": "Es handelt sich wohl nicht um die Handschrift von Ernest Biéler.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/559/559_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              139.8,
+              314.0,
+              275.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Zum Vergleich siehe Biélers Handschrift in folgendem Autograf: https://www.auction.fr/_fr/lot/bieler-ernest-1863-1948-autographe-manuscrit-3372491 [1. Dezember 2022]."
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Karton: handschriftlich mit rotem Schreibmittel «A S»",
+        "position_traeger": "l. m. Karton",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «A S»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/559/559_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              288.8,
+              207.4,
+              330.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rahmen: handschriftlich mit weisser Kreide «Lot 191 | 10/12/96»",
+        "position_traeger": "o. l. Rahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «Lot 191 | 10/12/96»",
+        "kommentar": "Lotnummer und Datum der Auktion Sotheby’s",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/559/559_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              343.3,
+              257.5,
+              446.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Rahmen: weisses quadratisches Etikett mit perforiertem blauem Abriss, handschriftlich mit blauem Filzstift «41»",
+        "position_traeger": "o. l. Rahmen",
+        "merkmal": "weisses quadratisches Etikett mit perforiertem blauem Abriss, handschriftlich mit blauem Filzstift «41»",
+        "kommentar": "vermutlich angebracht von Ursula Netzer, Schlossverwalterin Brestenberg",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/559/559_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.2,
+              459.3,
+              203.1,
+              526.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG, wohl nach Auktionskatalog Zürich 1996."
+    },
+    {
+      "nr": 2,
+      "text": "Marguerite Chappuis-Biéler, die Tochter von Théodore (Schreibweise unsicher) Biéler, war die Nichte von Ernest Biéler. Im Auktionskatalog Zürich 1996 steht die Provenienzangabe «Direkt vom Künstler an die Familie des jetzigen Besitzers». Jean-Petit-Matile 1976 gibt Chappuis-Biéler als Eigentümerin an. Der Angabe im Auktionskatalog folgend darf sie als Einlieferin 1996 bei Sotheby’s gelten."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Zürich 1996 sowie Auskunft von Ethel Mathier vom 28. Mai 2025; siehe auch Fn. 2."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1996 im Archiv SKKG."
+    },
+    {
+      "nr": 5,
+      "text": "Der Werkkatalog zu Ernest Biéler befindet sich gegenwärtig (2022) in Bearbeitung. Von dessen Verfasserin Ethel Mathier konnte punktuell Auskunft zu Werken eingeholt werden."
+    },
+    {
+      "nr": 6,
+      "text": "Zum Vergleich siehe Biélers Handschrift in folgendem Autograf: https://www.auction.fr/_fr/lot/bieler-ernest-1863-1948-autographe-manuscrit-3372491 [1. Dezember 2022]."
+    }
+  ],
+  "bilder_anzahl": 9
+}

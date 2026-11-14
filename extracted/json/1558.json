@@ -1,0 +1,681 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1558_251203.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "3. Dezember 2025",
+  "stand_iso": "2025-12-03",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1558",
+      "Ferdinand Hodler (1853–1918)",
+      "Bildnis Albert Bartholomé",
+      "1873",
+      "Öl auf Leinwand",
+      "33 × 23 cm (Bildmass)",
+      "47 × 36 × 5,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1558",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bildnis Albert Bartholomé",
+    "masse": [
+      "33 × 23 cm (Bildmass)",
+      "47 × 36 × 5,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1873",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1558/1558_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          265.4,
+          540.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Walter 2012. In der Objektdatenbank SKKG ist zudem der frühere Werktitel Homme dessinant verzeichnet. Der Maler und Bildhauer Paul-Albert Bartholomé war ein Freund des Künstlers."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "30. Oktober 1873 bis o. D.",
+      "besitzer": "Paul-Albert Bartholomé (1848–1928), Genf/Paris, vermutlich erhalten als Geschenk vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Walter 2012, Expertise von Jura Brüschweiler vom 8. Dezember 1980 im Archiv SKKG. Zur mutmasslichen Schenkung siehe Hodlers Widmung an Bartholomé auf der Werkvorderseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 1980",
+      "besitzer": "M. de Chocqueuse, Paris",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Expertise von Jura Brüschweiler vom 8. Dezember 1980 im Archiv SKKG. Ob es sich bei «M. de Chocqueuse» um einen Monsieur de Chocqueuse handelt oder eine Person gleichen Nachnamens, deren Vorname mit «M» beginnt, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 16. Oktober 1980",
+      "besitzer": "Jura Brüschweiler (1927–2013), Chêne-Bourg",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Quittung von Jura Brüschweiler vom 16. Oktober 1980 sowie Erwerbsnachweis im Archiv SKKG. Ob Brüschweiler im Jahr 1980 kurzzeitiger Eigentümer des Gemäldes war oder lediglich als Vermittler für den letzten Eigentümer auftrat, ist unklar. Laut seinem Gutachten vom 8. Dezember 1980 im Archiv SKKG war das Werk bis 1980 in der Sammlung de Chocqueuse, auf welche Angabe keine weitere Provenienzstation folgt. Die Rechnung, ausgestellt auf Brüschweilers eigenen Namen, enthält keinen Hinweis auf ein Vermittlungsgeschäft oder eine Kommission."
+        },
+        {
+          "nr": 5,
+          "text": "Welche Rolle die in der Quittung von Jura Brüschweiler erwähnte «Erbengemeinschaft Dr. Franz Meyer, Zürich», die Unterlagen zum Werk zustellen sollte (siehe Archiv intern), genau spielt, ist nicht bekannt. Sie scheint jedoch in keinem Eigentumsverhältnis zum vorliegenden Werk gestanden zu haben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16. Oktober bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, erworben im Freihandkauf von Jura Brüschweiler, Ankaufspreis: 30 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe Quittung von Jura Brüschweiler vom 16. Oktober 1980 sowie Erwerbsnachweis im Archiv SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Bernadette Walter, Bildnis Albert Bartholomé, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 637, https://re-cherche.sik-isea.ch/sik:work-6006222 [21. November 2023]",
+        "bilder": [
+          {
+            "datei": "images/1558/1558_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              397.9,
+              533.2,
+              500.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1558/1558_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              285.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/1558/1558_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              291.3,
+              533.2,
+              380.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Albert Bartholomé» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Homme dessinant» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Suche «Ferdinand Hodler» und «Albert Bartholomé», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [21. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Suche «Ferdinand Hodler» und «Homme dessinant», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [21. Juli 2022]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Albert Bartholomé» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Homme dessinant» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Bartholome» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Bartholomé» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Bartholome» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Bartholomé» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Albert» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Albert» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (20 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Albert» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 20,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Homme» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Homme» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Autor «Hodler» und Titel «Portrait» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Portrait» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche nach Volltext/Metadaten «Hodler» und Titel «Bildnis» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Albert Bartholomé» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «Ferdinand Hodler» und «Homme dessinant» [21. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Volltextsuche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) [22. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-11-22"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [21. November 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-11-21"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "3. Dezember 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2152.4.1424.2.2 (PDF, S. 9) /A.2152.2.1396.1.2 (PDF, S. 62)",
+      "bilder": [
+        {
+          "datei": "images/1558/1558_005_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            222.0,
+            533.0,
+            433.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Quittung (Kopie) von Jura Brüschweiler für Bruno Stefanini, Stiftung für Kunst, Kultur und Geschichte, vom 16. Oktober 1980 mit Annotation zur Zuordnung von Anteilen am Gesamtpreis"
+        }
+      ]
+    },
+    {
+      "datum": "3. Dezember 2025",
+      "institution": "Archiv SKKG",
+      "bestand": "A.2151.1650.1.2 (PDF, S. 27) /A.2152.2.1409.1.2 (PDF, S. 26)",
+      "bilder": [
+        {
+          "datei": "images/1558/1558_006_archiv_intern.png",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            559.5,
+            533.0,
+            594.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis für den Freihandkauf durch Bruno Stefanini von Jura Brüschweiler am 16. Oktober 1980"
+        }
+      ]
+    },
+    {
+      "datum": "21. November 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "A.211.66, NF_0002",
+      "bilder": [
+        {
+          "datei": "images/1558/1558_007_archiv_intern.png",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            158.4,
+            533.5,
+            371.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand"
+        },
+        {
+          "datei": "images/1558/1558_008_archiv_intern.png",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            379.3,
+            534.3,
+            628.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Expertise von Jura Brüschweiler zum Werk Portrait de Paul-Albert Bartholomé à la lumière d’une bougie für Bruno Stefanini, Winterthur, vom 8. Dezember 1980"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1558/1558_009_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          341.4,
+          257.4,
+          597.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit gelbbrauner Farbe «Nuit 30 Oct. 1873 A mon ami | Bartholomé | Hodler» (unleserlich)",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit gelbbrauner Farbe «Nuit 30 Oct. 1873 A mon ami | Bartholomé | Hodler» (unleserlich)",
+        "kommentar": "Datierung, Widmung und Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1558/1558_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              635.3,
+              321.1,
+              675.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Transkription nach Walter 2012."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz schabloniert «4»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz schabloniert «4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1558/1558_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              209.6,
+              216.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber «Interimszettel | Freund Bartholomé | F. Hodler | ca. 1980 von Jura | Brüschweiler | ca. 28’(?)» und rot gestempelt «20. Juni 1981»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "angehefteter rechteckiger weisser Zettel, handschriftlich mit schwarzem Kugelschreiber «Interimszettel | Freund Bartholomé | F. Hodler | ca. 1980 von Jura | Brüschweiler | ca. 28’(?)» und rot gestempelt «20. Juni 1981»",
+        "kommentar": "Erwerbsnachweis, verfasst von Bruno Stefanini",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1558/1558_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              229.3,
+              319.5,
+              352.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen (unter Erwerbsnachweis): handschriftlich mit schwarzem Schreibmittel «F. Hodler»",
+        "position_traeger": "o. l. Keilrahmen (unter Erwerbsnachweis)",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «F. Hodler»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1558/1558_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              368.3,
+              227.3,
+              404.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «16338», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «16338», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1558/1558_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              418.7,
+              227.3,
+              460.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «16338», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit blauem Kugelschreiber «16338», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1558/1558_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              494.5,
+              227.3,
+              521.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «16338», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «16338», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1558/1558_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              582.9,
+              227.3,
+              618.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Walter 2012. In der Objektdatenbank SKKG ist zudem der frühere Werktitel Homme dessinant verzeichnet. Der Maler und Bildhauer Paul-Albert Bartholomé war ein Freund des Künstlers."
+    },
+    {
+      "nr": 2,
+      "text": "Walter 2012, Expertise von Jura Brüschweiler vom 8. Dezember 1980 im Archiv SKKG. Zur mutmasslichen Schenkung siehe Hodlers Widmung an Bartholomé auf der Werkvorderseite."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Expertise von Jura Brüschweiler vom 8. Dezember 1980 im Archiv SKKG. Ob es sich bei «M. de Chocqueuse» um einen Monsieur de Chocqueuse handelt oder eine Person gleichen Nachnamens, deren Vorname mit «M» beginnt, ist unklar."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Quittung von Jura Brüschweiler vom 16. Oktober 1980 sowie Erwerbsnachweis im Archiv SKKG. Ob Brüschweiler im Jahr 1980 kurzzeitiger Eigentümer des Gemäldes war oder lediglich als Vermittler für den letzten Eigentümer auftrat, ist unklar. Laut seinem Gutachten vom 8. Dezember 1980 im Archiv SKKG war das Werk bis 1980 in der Sammlung de Chocqueuse, auf welche Angabe keine weitere Provenienzstation folgt. Die Rechnung, ausgestellt auf Brüschweilers eigenen Namen, enthält keinen Hinweis auf ein Vermittlungsgeschäft oder eine Kommission."
+    },
+    {
+      "nr": 5,
+      "text": "Welche Rolle die in der Quittung von Jura Brüschweiler erwähnte «Erbengemeinschaft Dr. Franz Meyer, Zürich», die Unterlagen zum Werk zustellen sollte (siehe Archiv intern), genau spielt, ist nicht bekannt. Sie scheint jedoch in keinem Eigentumsverhältnis zum vorliegenden Werk gestanden zu haben."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Quittung von Jura Brüschweiler vom 16. Oktober 1980 sowie Erwerbsnachweis im Archiv SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Transkription nach Walter 2012."
+    }
+  ],
+  "bilder_anzahl": 16
+}

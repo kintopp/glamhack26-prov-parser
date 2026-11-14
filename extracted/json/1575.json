@@ -1,0 +1,737 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1575_230921.pdf",
+  "seiten": 9,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "21. September 2023",
+  "stand_iso": "2023-09-21",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1575",
+      "François Emile Barraud (1899–1934)",
+      "L’anxiété",
+      "1918",
+      "Öl auf Leinwand",
+      "34,5 × 30,5 cm (Bildmass)",
+      "45,7 × 41,7 × 6,2 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1575",
+    "status": "Ungeklärt",
+    "kuenstler": "François Emile Barraud (1899–1934)",
+    "titel": "L’anxiété",
+    "masse": [
+      "34,5 × 30,5 cm (Bildmass)",
+      "45,7 × 41,7 × 6,2 cm (Rahmenmass)"
+    ],
+    "datierung": "1918",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1575/1575_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          64.8,
+          247.3,
+          255.5,
+          485.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1981 beziehungsweise Fischer 1961. Bei Genetti 1935 ist das Werk offenbar als François grimaçant verzeichnet. Im Auktionskatalog Bern 1972 ist es artikellos als Anxiété aufgeführt und als «Selbstbildnis» ausgewiesen."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Edmond Kramer (gest. 1971), La Chaux-de-Fonds",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Fischer 1961. Bei Edmond Kramer handelt es sich um einen Schweizer Unternehmer, der als Förderer der Gebrüder Barraud in Erscheinung trat, siehe Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1936 bis spätestens 13. Januar 1971",
+      "besitzer": "Arthur Stoll (1887–1971), Arlesheim",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Fischer 1961, Auktionskatalog Bern 1972 sowie Etikett auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "frühestens 13. Januar 1971 bis mindestens 18. November 1972",
+      "besitzer": "Erbinnen und Erben nach Arthur Stoll",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "An der Auktion wurde der Nachlass von Arthur Stoll versteigert, siehe Auktionskatalog Bern 1972 mit Vorwort von Eberhard Kornfeld zu Sammler und Sammlung."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18. November 1972",
+      "besitzer": "Auktion Galerie Kornfeld und Klipstein (Kunstwerke aus der Sammlung Arthur Stoll, Lot 29, Anxiété – Selbstbildnis), Bern, eingeliefert aus dem Nachlass Arthur Stoll",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Auktionskatalog Bern 1972 sowie Etikett der Galerie Kornfeld und Klipstein auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11./12. November 1981",
+      "besitzer": "Auktion Galerie Koller (Gemälde 17.–20. Jahrhundert, Graphik und Plastiken 19. und 20. Jahrhundert, Lot 5258, L’anxiété), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 1981."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 11. November 1981",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Koller, Zuschlagspreis: 3200 Franken",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1981 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marguerite Genetti, François Barraud, 1899–1934, Genf 1935 [nicht konsultiert]."
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Kunstwerke aus der Sammlung Arthur Stoll, Auktionskatalog Galerie Kornfeld und Klipstein, Bern, 18. November 1972, Bern 1972, Lot 29.\n\nGemälde 17.–20. Jahrhundert, Graphik und Plastiken 19. und 20. Jahrhundert, Auktionskatalog Galerie Koller, Zürich, 11./12. November 1981, Nr. 46/2, Zürich 1981, Lot 5258."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "Lucien de Dardel und Pierre-Yves Gabus, Le réalisme neuchâtelois en 1925. Aimé, Aurèle, Charles, François Barraud, Ausstellungskatalog Galerie Arts Anciens, Bevaix, Bevaix 1981 [Werk nicht enthalten]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Marcel Fischer, Sammlung Arthur Stoll. Skulpturen und Gemälde des 19. und 20. Jahrhunderts, Zürich/Stuttgart 1961, S. 47, Nr. 299."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für «Barraud» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer: Beim Filter «Künstler» ist für «Barraud» nur Maurice Barraud zu finden [20. September 2023].",
+            "treffer": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Barraud» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Barraud» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Stichwort 1: «Barraud», Stichwort 2: «anxiété», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "3 mögliche Treffer (25 Ergebnisse) für Volltextsuche «Barraud», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [20. September 2023]:",
+            "treffer": 3,
+            "ergebnisse": 25,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "1. National Archives and Records Administration, EU, Roberts Commission – Protection of Historical Monuments, 1943–1946, Name Indexes to the Series «Geographical Working Files, 1943–1945», compiled 1943–1945, A–H, Roll 105, S. 128, https://www.fold3.com/image/301070743 [20. September 2023]",
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "Haberstock, Roll 136, S. 116, https://www.fold3.com/im-age/270039494 [20. September 2023].",
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "3. National Archives and Records Administration, EU, Roberts Commission – Protection of Historical Monuments, 1943–1946, Correspondence, compiled 1943–1946, Correspondence, Dr. Paul J. Sachs, Roll 16, S. 55, https://www.fold3.com/image/286968605?terms=war,barraud,world,ii [20. September 2023]",
+            "datum": "2023-09-20"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/1575/1575_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              423.6,
+              419.7,
+              575.1
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Fold3",
+            "bildunterschrift": "2. National Archives and Records Administration, EU, Ardelia Hall Collection: Munich Administrative Records, 1945–1951, Restitution Research Records, compiled 1945–1950, Investigations: Haase–"
+          },
+          {
+            "datei": "images/1575/1575_003_recherche.png",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              165.1,
+              419.7,
+              439.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Fold3",
+            "bildunterschrift": "Korrespondenz zwischen Theodor Fischer und Dr. Hofmann, wohl bezüglich der Auktion mit Kunstwerken aus deutschen Museen, die als ‹entartet› gegolten haben. Vermerkt ist ein Barraud («No. 10»). Dabei dürfte es sich jedoch um eines der beiden auf der Datenbank des Beschlagnahmeinventars «Entartete Kunst» vermerkten Werke von Maurice Barraud handeln."
+          },
+          {
+            "datei": "images/1575/1575_004_recherche.jpeg",
+            "seite": 5,
+            "bbox": [
+              193.0,
+              139.8,
+              419.7,
+              272.4
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Fold3",
+            "bildunterschrift": "Erwähnung von «Knoedler pictures by François Barraud» (New Yorker Galerie M. Knoedler & Co.), ausgestellt von Durand-Ruel."
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "https://emuseum.campus.fu-berlin.de/eMuseumPlus?objectId=110219 [20. September 2023]."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Barraud» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Barraud François Emile›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (11 Ergebnisse) für Volltextsuche «‹Barraud François›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 11,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (27 Ergebnisse) für Volltextsuche «‹François Barraud›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 27,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Barraud› UND ‹anxiété›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «anxiété» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «‹Barraud› UND ‹autoportrait›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (48 Ergebnisse) für Volltextsuche «‹Barraud› UND ‹Selbstbildnis›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 48,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (30 Ergebnisse) für Volltextsuche «‹Barraud› UND ‹Selbstporträt›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 30,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «‹Barraud› UND ‹Selbstportrait›» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (71 Ergebnisse) für Suche «François Emile Barraud» (inklusive aller Namensvarianten) [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 71,
+            "datum": "2023-09-20"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Volltextsuche «anxiété» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Barraud» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Barraud» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Barraud» [20. September 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-09-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1575/1575_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            505.0,
+            533.0,
+            559.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 1972, annotiert von Kurt Meissner, vermutlich mit Zuschlagspreis"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1575/1575_006_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            615.6,
+            533.0,
+            710.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1981, annotiert von Bruno Stefanini"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1575/1575_007_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            139.8,
+            528.2,
+            249.7
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Koller, vormals am Werk angebracht"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Edmond Kramer",
+      "information": "Edmond Kramer war Unternehmer, Mitglied des Grossen Rats von La-Chaux-de-Fonds und Lehrer an der Handelsschule. Zudem war er Präsident der Société des amis des arts und trat als Förderer der Gebrüder Barraud in Erscheinung (offenbar übernahm er die Miete ihres Ateliers). Kramer feierte 1969 seinen 60. Hochzeitstag und verstarb 1971.",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Fn. 10–12."
+        },
+        {
+          "nr": 10,
+          "text": "L’Impartial, Jg. 74, Nr. 23383, 15. Februar 1954, S. 5, http://www.e-newspaperarchives.ch/?a=d&d=IMP19540215-01.2.22 [21. September 2023]."
+        },
+        {
+          "nr": 11,
+          "text": "Feuille d’avis de Neuchâtel (FAN), Nr. 94, 25. April 1969, S. 7, www.e-newspaperarchives.ch/?a=d&d=EXR19690425-01.2.61 [21. September 2023]"
+        },
+        {
+          "nr": 12,
+          "text": "Feuille d’avis de Neuchâtel (FAN), Nr. 146, 28. Juni 1971, S. 2, www.e-newspaperar-chives.ch/?a=d&d=EXR19710628-01.2.25.3 [21. September 2023]."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1575/1575_008_provenienzmerkmale.jpeg",
+        "seite": 8,
+        "bbox": [
+          62.5,
+          165.3,
+          292.5,
+          418.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "r. m. Leinwand: vermutlich «François 1918 | Barraud», Signatur mit Datierung",
+        "position_traeger": "r. m. Leinwand",
+        "merkmal": "vermutlich «François 1918 | Barraud», Signatur mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_009_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              456.2,
+              292.0,
+              515.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: langrechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «5258»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "langrechteckiges weisses Etikett mit abgerundeten Ecken, schwarz gestempelt «5258»",
+        "kommentar": "entspricht Lotnummer der Auktion Galerie Koller 1981",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_010_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              528.7,
+              229.9,
+              570.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: Etikett der Auktion zur Sammlung Arthur Stoll der Galerie Kornfeld und Klipstein, Bern, 18. November 1972, Lot 29",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "Etikett der Auktion zur Sammlung Arthur Stoll der Galerie Kornfeld und Klipstein, Bern, 18. November 1972, Lot 29",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_011_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              617.1,
+              292.0,
+              687.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Zierrahmen: handschriftlich mit Bleistift «neues f[…]» (verdeckt)",
+        "position_traeger": "o. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «neues f[…]» (verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_012_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              139.8,
+              292.8,
+              194.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: handschriftlich mit Bleistift «Herr Dr. Wyss | pro [?] […]burg [?] | 30. Okt. (4787)»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «Herr Dr. Wyss | pro [?] […]burg [?] | 30. Okt. (4787)»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_013_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              206.8,
+              293.4,
+              272.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: halb gelöstes gelbes Klebeetikett, schwarz gedruckt «[…]1»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "halb gelöstes gelbes Klebeetikett, schwarz gedruckt «[…]1»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_014_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              285.3,
+              209.8,
+              342.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: weisses rechteckiges Klebeetikett mit abgerundeten Ecken, mit schwarzem Filzstift «29»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "weisses rechteckiges Klebeetikett mit abgerundeten Ecken, mit schwarzem Filzstift «29»",
+        "kommentar": "entspricht Lotnummer der Auktion Galerie Kornfeld und Klipstein 1972",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_015_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              354.8,
+              209.5,
+              407.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Spannrahmen: handschriftlich mit rotem Filzstift ligiertes «DC» oder allenfalls «GG», darunter Rautezeichen",
+        "position_traeger": "o. l. Spannrahmen",
+        "merkmal": "handschriftlich mit rotem Filzstift ligiertes «DC» oder allenfalls «GG», darunter Rautezeichen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1575/1575_017_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              443.2,
+              209.5,
+              532.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/1575/1575_016_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              303.6,
+              525.1,
+              430.6,
+              562.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Möglicherweise steht «GG» für die Galerie Pierre Yves-Gabus, Bevaix. Zum Vergleich"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1981 beziehungsweise Fischer 1961. Bei Genetti 1935 ist das Werk offenbar als François grimaçant verzeichnet. Im Auktionskatalog Bern 1972 ist es artikellos als Anxiété aufgeführt und als «Selbstbildnis» ausgewiesen."
+    },
+    {
+      "nr": 2,
+      "text": "Fischer 1961. Bei Edmond Kramer handelt es sich um einen Schweizer Unternehmer, der als Förderer der Gebrüder Barraud in Erscheinung trat, siehe Kontextinformationen."
+    },
+    {
+      "nr": 3,
+      "text": "Fischer 1961, Auktionskatalog Bern 1972 sowie Etikett auf der Werkrückseite."
+    },
+    {
+      "nr": 4,
+      "text": "An der Auktion wurde der Nachlass von Arthur Stoll versteigert, siehe Auktionskatalog Bern 1972 mit Vorwort von Eberhard Kornfeld zu Sammler und Sammlung."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Auktionskatalog Bern 1972 sowie Etikett der Galerie Kornfeld und Klipstein auf der Werkrückseite."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 1981."
+    },
+    {
+      "nr": 7,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1981 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 8,
+      "text": "https://emuseum.campus.fu-berlin.de/eMuseumPlus?objectId=110219 [20. September 2023]."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Fn. 10–12."
+    },
+    {
+      "nr": 10,
+      "text": "L’Impartial, Jg. 74, Nr. 23383, 15. Februar 1954, S. 5, http://www.e-newspaperarchives.ch/?a=d&d=IMP19540215-01.2.22 [21. September 2023]."
+    },
+    {
+      "nr": 11,
+      "text": "Feuille d’avis de Neuchâtel (FAN), Nr. 94, 25. April 1969, S. 7, www.e-newspaperarchives.ch/?a=d&d=EXR19690425-01.2.61 [21. September 2023]"
+    },
+    {
+      "nr": 12,
+      "text": "Feuille d’avis de Neuchâtel (FAN), Nr. 146, 28. Juni 1971, S. 2, www.e-newspaperar-chives.ch/?a=d&d=EXR19710628-01.2.25.3 [21. September 2023]."
+    }
+  ],
+  "bilder_anzahl": 17
+}

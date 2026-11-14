@@ -1,0 +1,852 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4961_240904.pdf",
+  "seiten": 11,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "4. September 2024",
+  "stand_iso": "2024-09-04",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4961",
+      "Ferdinand Hodler (1853–1918)",
+      "Bildnis Otto Keller",
+      "1883",
+      "Öl auf Leinwand",
+      "115 × 65 cm (Bildmass)",
+      "131 × 80,5 × 7,5 cm (Rahmenmass)",
+      "nicht signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4961",
+    "status": "Ungeklärt",
+    "kuenstler": "Ferdinand Hodler (1853–1918)",
+    "titel": "Bildnis Otto Keller",
+    "masse": [
+      "115 × 65 cm (Bildmass)",
+      "131 × 80,5 × 7,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1883",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "nicht signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4961/4961_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.8,
+          597.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Walter 2012."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "1883 bis o. D.",
+      "besitzer": "Keller, Langenthal, angekauft vom Künstler",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Walter 2012. Das Auftragswerk, das den etwa fünfjährigen Otto Keller abbildet, haben dessen Eltern beim Künstler angekauft. Der Vater betrieb Otto Keller zufolge ein kleines Fabrikationsgeschäft in Langenthal und lebte in guten finanziellen Verhältnissen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1928 bis o. D.",
+      "besitzer": "Otto Keller (geb. um 1878), Binningen, erhalten von den Eltern, möglicherweise erworben im Erbgang",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Walter 2012. Auf dem Inventaretikett von C. A. Loosli vom 1. August 1928 auf der Werkrückseite wird als Besitzer «Otto Keller, Direktor, Binningen» angegeben. Otto Keller war Mitglied der Stiftungskommission (eine Fürsorgeeinrichtung) der Maschinenfabrik Burckhardt in Basel, siehe Kontextformationen. Er wird als Direktor bezeichnet, wobei unklar ist, von welchem Betrieb oder welcher Institution. Die Angabe von «F. Hodler, Archiv» und der Signatur «2412» auf dem Inventaretikett entspricht dem Eintrag im Werkkatalog von Loosli. Dieser hat in Kellers Auftrag ein Gutachten zum Werk angefertigt, siehe Auktionskatalog Zürich 1976."
+        }
+      ]
+    },
+    {
+      "zeitraum": "16./17. Oktober 1975",
+      "besitzer": "Auktion Dobiaschofsky (Auktion 42. Gemälde des 16. bis 20. Jahrhunderts, Lot 302, Bildnis eines Knaben mit Spielzeuggewehr), Bern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Bern 1975, Walter 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "12./13. November 1976",
+      "besitzer": "Auktion Galerie Koller (Bilder 15.–20. Jh. Graphik 19. und 20. Jh., Lot 5213, Knabenbildnis [Otto Keller]), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1976, Walter 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "mindestens 1976 bis o. D.",
+      "besitzer": "Privatbesitz, vermutlich L. Schoop, Frauenfeld",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Walter 2012. Trotz der drei in diesem Zeitraum aufgeführten Auktionen (Sotheby’s 1990, Fischer 1994, Christie’s 1997) wird diese Provenienzstation im Werkkatalog – dort als unbestimmter «Privatbesitz» – durchgehend von 1976 bis 2001 angegeben. Ob dies so zu verstehen ist, dass das Werk jeweils ohne Zuschlag blieb, ist nicht ganz klar. Im Auktionskatalog Zürich 1997 ist als Provenienz «Privatbesitz Frauenfeld» angegeben. Damit dürfte jene Person gemeint sein, die auf dem im Zusammenhang mit einer Ausstellung – vermutlich Langenthal 1992 – aufgebrachten Transportetikett auf der Werkrückseite mit «L. Schoop, Frauenfeld» als Leihgeber:in genannt wird. Es ist unklar, wie diese genau zu Werner Schoop-Sorjonen, Ostermundigen, steht, der nach Angabe der Galerie Kornfeld, Bern, vom 2. November 2022 Einlieferer des Werks an der Auktion im Jahr 2001 war, siehe Anfragen. Entgegen der summarischen Angabe des Werkkatalogs dürfte es sich um zwei Provenienzstationen handeln, und zwar innerhalb der Familie Schoop."
+        }
+      ]
+    },
+    {
+      "zeitraum": "31. Mai 1990",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica, 18. bis 20. Jahrhundert, Lot 49, Knabenbildnis), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 1990, Walter 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "18. November 1994",
+      "besitzer": "Auktion Galerie Fischer (Gemälde alter und moderner Meister, ausgewählte Möbel des 18. Jahrhunderts, Tapisserie, Lot 2088), Luzern, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auktionskatalog Luzern 1994, Walter 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14. April 1997",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 20, Portrait Otto Keller mit Luftgewehr), Zürich, eingeliefert von unbekannt, vermutlich von L. Schoop",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Auktionskatalog Zürich 1997, Walter 2012. Siehe auch Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 22. Juni 2001",
+      "besitzer": "Werner Schoop-Sorjonen, Ostermundigen, vermutlich erworben im Erbgang von L. Schoop",
+      "fussnoten": [
+        {
+          "nr": 10,
+          "text": "Angabe von Galerie Kornfeld, Bern, vom 2. November 2022. Siehe auch Fn. 6."
+        }
+      ]
+    },
+    {
+      "zeitraum": "22. Juni 2001",
+      "besitzer": "Auktion Galerie Kornfeld (150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts, Lot 59, Knabenbildnis – Bildnis Otto Keller), Bern, eingeliefert von Werner Schoop-Sorjonen",
+      "fussnoten": [
+        {
+          "nr": 11,
+          "text": "Auktionskatalog Bern 2001, Walter 2012."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 22. Juni 2001",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Galerie Kornfeld, Zuschlagspreis: 65 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 12,
+          "text": "Siehe annotierten Auktionskatalog Bern 2001 im Archiv SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Bernadette Walter, Bildnis Otto Keller, in: Ferdinand Hodler. Catalogue raisonné der Gemälde. Band 2. Die Bildnisse, hrsg. von Oskar Bätschmann und Paul Müller (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 23), Zürich 2012, Nr. 719, https://www.ferdinand-hodler.ch/werke.aspx?id=6006170 [26. Oktober 2023].",
+        "bilder": [
+          {
+            "datei": "images/4961/4961_002_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              372.2,
+              505.5,
+              547.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4961/4961_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              553.7,
+              342.2,
+              665.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "– Auktion 42. Gemälde des 16. bis 20. Jahrhunderts, Auktionskatalog Dobiaschofsky, Bern, 16./17. Oktober 1975, Bern 1975\n\nLot 302 [nicht konsultiert, lotspezifische Seite fehlt im Exemplar im Archiv SKKG].\n\n– Bilder 15.–20. Jh. Graphik 19. und 20. Jh., Auktionskatalog Galerie Koller, Zürich, 12./13. November 1976, Zürich 1976, Lot 5213.\n\n– Schweizer Kunst und Helvetica, 18. bis 20. Jahrhundert. Feine Möbel und Zierstücke, Auktionskatalog Sotheby’s, Zürich, 31. Mai 1990, Zürich 1990, Lot 49.\n\n– Gemälde alter und moderner Meister, ausgewählte Möbel des 18. Jahrhunderts, Tapisserie, Auktionskatalog Galerie Fischer, Luzern, 18. November 1994, Luzern 1994, Lot 2088 [nicht konsultiert, fehlt im Archiv SKKG].\n\n– Schweizer Kunst, Auktionskatalog Christie’s, Zürich, 14. April 1997, Zürich 1997, Lot 20.\n\n– 150 ausgewählte Kunstwerke des 19. und 20. Jahrhunderts, Auktionskatalog Galerie Kornfeld, Bern, Nr. 227, 22. Juni 2001, Bern 2001, Lot 59."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "Altes Gemeindehaus, Langenthal, Ferdinand Hodler und der Oberaargau, 24. Oktober bis 6. Dezember 1992, Nr. 52 (Bildnis des kleinen Otto Keller mit Spielgewehr)"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche mit Filter: Künstler «Ferdinand Hodler» [25. Mai 2022]",
+            "treffer": 0,
+            "datum": "2022-05-25"
+          },
+          {
+            "text": "0 Treffer (35 Ergebnisse) für Volltextsuche «Hodler, Ferdinand» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 35,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Knabe›» [25. Mai 2022]",
+            "treffer": 0,
+            "datum": "2022-05-25"
+          },
+          {
+            "text": "0 Treffer (28 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Hodler» [24. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 28,
+            "datum": "2024-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (53 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 53,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Volltextsuche «‹Ferdinand Hodler› und ‹Knabe›» [22. Mai 2022]",
+            "treffer": 0,
+            "datum": "2022-05-22"
+          },
+          {
+            "text": "0 Treffer (69 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Hodler», Filter 2: Volltext/Metadaten «Knabenbildnis», Filter 3: Titel einschränken «automatisch» [24. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 69,
+            "datum": "2024-01-24"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (563 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise) ohne Filter [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 563,
+            "datum": "2024-01-23"
+          },
+          {
+            "text": "0 Treffer (6 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise), Keywords: «Knabe» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 6,
+            "datum": "2024-01-23"
+          },
+          {
+            "text": "0 Treffer (7 Ergebnisse) für Suche «Ferdinand Hodler» (inklusive Varianten der Namensschreibweise), Keywords: «Junge» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 7,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Hodler» [23. Januar 2024]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2024-01-23"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "28. Oktober 2022",
+      "institution": "Galerie Kornfeld, Bern",
+      "betreff": "Anfrage Einlieferer/Einlieferin Auktion 2001",
+      "antwort": "2. November 2022: Angabe von Werner Schoop-Sorjonen, Ostermundigen"
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "4. September 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (2 Ergebnisse) für Suche «Knabenbildnis»\n\n0 Treffer (Ergebnisse unbekannt) für «Otto Keller»\n\n0 Treffer (18 Ergebnisse) für Suche «Hodler» und «Keller» und «Loosli»"
+    },
+    {
+      "datum": "21. Februar 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "A.212.643\n\nAnkaufsbeleg der Auktion Kornfeld 2001"
+    },
+    {
+      "datum": "4. September 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4961/4961_004_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            380.2,
+            533.0,
+            431.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1976, annotiert (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "4. September 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4961/4961_005_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            475.7,
+            528.2,
+            678.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1990, annotiert (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "4. September 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4961/4961_006_archiv_intern.jpeg",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            139.8,
+            533.0,
+            386.6
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1997, annotiert von Bruno Stefanini (nicht angekauft)"
+        }
+      ]
+    },
+    {
+      "datum": "4. September 2024",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4961/4961_007_archiv_intern.png",
+          "seite": 7,
+          "bbox": [
+            368.5,
+            443.7,
+            532.0,
+            622.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Bern 2001, annotiert von Bruno Stefanini"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Maschinenfabrik Burckhardt, Basel",
+      "information": "Ruedi Brassel-Moser, Maschinenfabrik Burckhardt, in: Historisches Lexikon der Schweiz (HLS), Version vom 15. August 2023, https://hls-dhs-dss.ch/de/articles/041893/2023-08-15 [23. Januar 2024].\n\nFür den Zusammenhang mit Otto Keller siehe Fn. 2."
+    },
+    {
+      "thema": "Otto Keller, Direktor",
+      "information": "Otto Keller wird als Direktor aufgeführt in Zusammenhang mit dem Fürsorgefonds und dem Arbeiterpensionsfonds der Maschinenfabrik Burckhardt, Basel.",
+      "bilder": [
+        {
+          "datei": "images/4961/4961_008_kontextinformationen.png",
+          "seite": 8,
+          "bbox": [
+            193.0,
+            241.3,
+            333.4,
+            383.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        },
+        {
+          "datei": "images/4961/4961_009_kontextinformationen.png",
+          "seite": 8,
+          "bbox": [
+            334.0,
+            241.3,
+            508.5,
+            383.0
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Schweizerisches Handelsblatt, Jg. 38, Nr. 224, 1. September 1920, S. 2–3, https://www.e-periodica.ch/digbib/view?pid=sha-001%3A1920%3A38%3A%3A1902&referrer=search#1902."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4961/4961_010_provenienzmerkmale.jpeg",
+        "seite": 9,
+        "bbox": [
+          62.5,
+          165.3,
+          255.1,
+          476.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: rechteckiges weisses Etikett, blau bedruckt und handschriftlich beschrieben, Werktitel: «Der junge Keller mit …», Leihgeber:in: «L. Schoop – Frauenfeld»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, blau bedruckt und handschriftlich beschrieben, Werktitel: «Der junge Keller mit …», Leihgeber:in: «L. Schoop – Frauenfeld»",
+        "kommentar": "Etikett des Transportunternehmens MAT Securitas Express, wahrscheinlich aufgebracht im Zusammenhang mit der Ausstellung Langenthal 1992",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_011_provenienzmerkmale.jpeg",
+            "seite": 9,
+            "bbox": [
+              136.3,
+              538.8,
+              284.6,
+              588.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Leinwand: rechteckiges verbräuntes Etikett, oben gezahnt, schwarz bedruckt, l. u. und r. u. rot gesiegelt («C·A·L») und r. u. schwarz gestempelt («C. A. Loosli | Bümpliz | Tel. Zähr. [?] 69,89 [?]»), handschriftlich mit schwarzer Tinte ausgefüllt und signiert von C. A. Loosli; Nummer: «2412», Titel: «Knabenbildnis (Otto Keller)», Besitzer: «Hr. Otto Keller, Direktor, Binningen-Basel», Datum: «1. August, 1928»",
+        "position_traeger": "o. m. Leinwand",
+        "merkmal": "rechteckiges verbräuntes Etikett, oben gezahnt, schwarz bedruckt, l. u. und r. u. rot gesiegelt («C·A·L») und r. u. schwarz gestempelt («C. A. Loosli | Bümpliz | Tel. Zähr. [?] 69,89 [?]»), handschriftlich mit schwarzer Tinte ausgefüllt und signiert von C. A. Loosli; Nummer: «2412», Titel: «Knabenbildnis (Otto Keller)», Besitzer: «Hr. Otto Keller, Direktor, Binningen-Basel», Datum: «1. August, 1928»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_012_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              139.8,
+              284.9,
+              242.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit dunklem Schreibmittel «II»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit dunklem Schreibmittel «II»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_013_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              266.1,
+              173.7,
+              299.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «59»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «59»",
+        "kommentar": "Lotnummer der Auktion Kornfeld 2001",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_014_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              312.2,
+              186.3,
+              350.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit weisser Kreide vermutlich «31.5.90»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide vermutlich «31.5.90»",
+        "kommentar": "Datum der Auktion Sotheby’s 1990",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_015_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              388.0,
+              284.9,
+              432.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «59»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «59»",
+        "kommentar": "Lotnummer der Auktion Kornfeld 2001",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_016_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              451.1,
+              189.5,
+              491.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit weisser Kreide «[…?] II 88[?]»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «[…?] II 88[?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_017_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              514.2,
+              284.8,
+              543.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. Mittelstrebe: handschriftlich mit gelber Kreide «20 2264/5»",
+        "position_traeger": "l. Mittelstrebe",
+        "merkmal": "handschriftlich mit gelber Kreide «20 2264/5»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_018_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              575.3,
+              284.8,
+              598.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: rechteckiges beiges Etikett, rot bedruckt; Atelier Wiesner und Kohlbrenner, Zürich",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "rechteckiges beiges Etikett, rot bedruckt; Atelier Wiesner und Kohlbrenner, Zürich",
+        "kommentar": "Einrahmungsatelier, Etikett frühestens 1946 aufgebracht",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_019_provenienzmerkmale.jpeg",
+            "seite": 10,
+            "bbox": [
+              136.3,
+              629.6,
+              231.6,
+              702.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 13,
+            "text": "«1946 machen sich der gelernte Vergolder André E. Wiesner (1924–1998) und der Einrahmer Franz Kohlbrenner (1918–2010) selbstständig und gründen ein kleines Einrahmungsatelier, das ‹Atelier Wiesner und Kohlbrenner› an der Seefeldstrasse 69 [sic] / Mainaustrasse in Zürich», siehe https://www.kunstbulletin.ch/de/ausstellung/revival-der-galerie-palette [21. November 2024]. Im Frühjahr 1949 eröffneten sie im selben Gebäude die Galerie Palette, die bis in die 1990er-Jahre Bestand hatte, siehe ebd. sowie https://galeriepalette.ch [21. November 2024]."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «SO 1» oder «50 1»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «SO 1» oder «50 1»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_020_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              139.8,
+              200.0,
+              169.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Reste eines langrechteckigen weissen Etiketts",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Reste eines langrechteckigen weissen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_021_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              182.4,
+              284.6,
+              253.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: handschriftlich mit weisser Kreide «Lot 49»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «Lot 49»",
+        "kommentar": "Lotnummer der Auktion Sotheby’s 1990",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4961/4961_022_provenienzmerkmale.jpeg",
+            "seite": 11,
+            "bbox": [
+              136.3,
+              265.9,
+              284.5,
+              314.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Walter 2012."
+    },
+    {
+      "nr": 2,
+      "text": "Walter 2012. Das Auftragswerk, das den etwa fünfjährigen Otto Keller abbildet, haben dessen Eltern beim Künstler angekauft. Der Vater betrieb Otto Keller zufolge ein kleines Fabrikationsgeschäft in Langenthal und lebte in guten finanziellen Verhältnissen."
+    },
+    {
+      "nr": 3,
+      "text": "Walter 2012. Auf dem Inventaretikett von C. A. Loosli vom 1. August 1928 auf der Werkrückseite wird als Besitzer «Otto Keller, Direktor, Binningen» angegeben. Otto Keller war Mitglied der Stiftungskommission (eine Fürsorgeeinrichtung) der Maschinenfabrik Burckhardt in Basel, siehe Kontextformationen. Er wird als Direktor bezeichnet, wobei unklar ist, von welchem Betrieb oder welcher Institution. Die Angabe von «F. Hodler, Archiv» und der Signatur «2412» auf dem Inventaretikett entspricht dem Eintrag im Werkkatalog von Loosli. Dieser hat in Kellers Auftrag ein Gutachten zum Werk angefertigt, siehe Auktionskatalog Zürich 1976."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Bern 1975, Walter 2012."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1976, Walter 2012."
+    },
+    {
+      "nr": 6,
+      "text": "Walter 2012. Trotz der drei in diesem Zeitraum aufgeführten Auktionen (Sotheby’s 1990, Fischer 1994, Christie’s 1997) wird diese Provenienzstation im Werkkatalog – dort als unbestimmter «Privatbesitz» – durchgehend von 1976 bis 2001 angegeben. Ob dies so zu verstehen ist, dass das Werk jeweils ohne Zuschlag blieb, ist nicht ganz klar. Im Auktionskatalog Zürich 1997 ist als Provenienz «Privatbesitz Frauenfeld» angegeben. Damit dürfte jene Person gemeint sein, die auf dem im Zusammenhang mit einer Ausstellung – vermutlich Langenthal 1992 – aufgebrachten Transportetikett auf der Werkrückseite mit «L. Schoop, Frauenfeld» als Leihgeber:in genannt wird. Es ist unklar, wie diese genau zu Werner Schoop-Sorjonen, Ostermundigen, steht, der nach Angabe der Galerie Kornfeld, Bern, vom 2. November 2022 Einlieferer des Werks an der Auktion im Jahr 2001 war, siehe Anfragen. Entgegen der summarischen Angabe des Werkkatalogs dürfte es sich um zwei Provenienzstationen handeln, und zwar innerhalb der Familie Schoop."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 1990, Walter 2012."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Luzern 1994, Walter 2012."
+    },
+    {
+      "nr": 9,
+      "text": "Auktionskatalog Zürich 1997, Walter 2012. Siehe auch Fn. 6."
+    },
+    {
+      "nr": 10,
+      "text": "Angabe von Galerie Kornfeld, Bern, vom 2. November 2022. Siehe auch Fn. 6."
+    },
+    {
+      "nr": 11,
+      "text": "Auktionskatalog Bern 2001, Walter 2012."
+    },
+    {
+      "nr": 12,
+      "text": "Siehe annotierten Auktionskatalog Bern 2001 im Archiv SKKG."
+    },
+    {
+      "nr": 13,
+      "text": "«1946 machen sich der gelernte Vergolder André E. Wiesner (1924–1998) und der Einrahmer Franz Kohlbrenner (1918–2010) selbstständig und gründen ein kleines Einrahmungsatelier, das ‹Atelier Wiesner und Kohlbrenner› an der Seefeldstrasse 69 [sic] / Mainaustrasse in Zürich», siehe https://www.kunstbulletin.ch/de/ausstellung/revival-der-galerie-palette [21. November 2024]. Im Frühjahr 1949 eröffneten sie im selben Gebäude die Galerie Palette, die bis in die 1990er-Jahre Bestand hatte, siehe ebd. sowie https://galeriepalette.ch [21. November 2024]."
+    }
+  ],
+  "bilder_anzahl": 22
+}

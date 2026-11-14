@@ -1,0 +1,661 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_2262_221027.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. Oktober 2022",
+  "stand_iso": "2022-10-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 2262",
+      "Alexandre Calame (1810–1864)",
+      "Vallée à Chamonix",
+      "1852",
+      "Öl auf Leinwand",
+      "86 × 121 cm (Bildmass)",
+      "112 × 152 × 10 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "2262",
+    "status": "Ungeklärt",
+    "kuenstler": "Alexandre Calame (1810–1864)",
+    "titel": "Vallée à Chamonix",
+    "masse": [
+      "86 × 121 cm (Bildmass)",
+      "112 × 152 × 10 cm (Rahmenmass)"
+    ],
+    "datierung": "1852",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/2262/2262_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.2,
+          247.2,
+          309.8,
+          438.5
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1987. Im Auktionskatalog Berlin 1931 ist das Werk als Das Tal von Chamonix verzeichnet und auf einem Etikett auf der Werkrückseite als Vallée bei Chamonix."
+      },
+      {
+        "nr": 2,
+        "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "2. Juni 1931",
+      "besitzer": "Auktion Internationales Kunst- und Auktionshaus (Antiquitäten. Gemälde alter und neuer Meister […], Lot 389, Das Tal von Chamonix), Berlin, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Auktionskatalog Berlin 1931."
+        }
+      ]
+    },
+    {
+      "zeitraum": "3. Dezember 1987",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst und Helvetica 18. bis 20. Jahrhundert […], Lot 21, Vallée à Chamonix), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 3. Dezember 1987",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 52 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Alfred Schreiber-Favre, Alexandre Calame. Peintre paysagiste, graveur et lithographe, Genf 1934 [Werk nicht verzeichnet].\n\nValentina Anker, Alexandre Calame. Vie et œuvre. Catalogue raisonné de l’œuvre peint, Fribourg 1987 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Antiquitäten. Gemälde alter und neuer Meister. Antike Möbel aus der Sammlung W., Reichshofen (Elsaß). Bildteppiche aus der Sammlung v. O. auf Schloß P. und andere Beiträge, Auktionskatalog Internationales Kunst- und Auktionshaus, Berlin, 2. Juni 1931, Berlin 1931, Lot 389, https://doi.org/10.11588/diglit.6295#0029 [21. Juli 2022].\n\nSchweizer Kunst und Helvetica 18. bis 20. Jahrhundert. Feine Möbel und Zierstücke, Auktionskatalog Sotheby’s, Zürich, 3. Dezember 1987, Zürich 1987, Lot 21."
+      },
+      {
+        "kategorie": "Ausstellungskataloge",
+        "text": "– A. Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Luzern, Luzern 1935 [Werk nicht eindeutig identifizierbar].\n\n– Alexandre Calame. 1810–1864, Ausstellungskatalog Kunstmuseum Winterthur / Kunstverein Winterthur, Winterthur 1935 [Werk nicht verzeichnet].\n\n– Exposition Alexandre Calame. 1810–1864, Ausstellungskatalog Musée de l’Athénée, Genf, Genf 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Emile Schaub-Koch, La Gloire d’Alexandre Calame. Etude esthétique et technique, Paris 1935 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": []
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (41 Ergebnisse) für Volltextsuche «Calame» und «Chamonix» [27. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 41,
+            "datum": "2022-10-27"
+          },
+          {
+            "text": "Es handelt sich dabei um denselben Treffer wie zuvor (Internationales Kunst- und Auktionshaus, 2. Juni 1931, siehe oben)."
+          },
+          {
+            "text": "1 möglicher Treffer (197 Ergebnisse) für Volltextsuche «Calame» und «Vallee» [27. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 197,
+            "datum": "2022-10-27"
+          },
+          {
+            "text": "Es handelt sich dabei um denselben Treffer wie zuvor (Internationales Kunst- und Auktionshaus, 2. Juni 1931, siehe oben)."
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer für Suche Filter 1: Artist «Calame» (inklusive aller Varianten der Namensschreibweise), Filter 2: «painting» [21. Juli 2022]:",
+            "treffer": 1,
+            "datum": "2022-07-21"
+          },
+          {
+            "text": "Internationales Kunst- und Auktionshaus, Berlin, 2. Juni 1931, Verkäufer:in unbekannt, Das Tal von Chamonix, 87 × 118 cm, mit Abbildung (Tafel 14)."
+          },
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Chamonix», Filter 1: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [27. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-10-27"
+          },
+          {
+            "text": "1 möglicher Treffer (14 Ergebnisse) für Volltextsuche «Tal», Filter 1: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [27. Oktober 2022]:",
+            "treffer": 1,
+            "ergebnisse": 14,
+            "datum": "2022-10-27"
+          },
+          {
+            "text": "Es handelt sich dabei um denselben Treffer wie zuvor (Internationales Kunst- und Auktionshaus, 2. Juni 1931, siehe oben)."
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallée», Filter 1: Artist «Calame» (inklusive aller Varianten der Namensschreibweise) [27. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-27"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Siehe Auktionskatalog Berlin 1931."
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer für Volltextsuche «Calame» [20. Juli 2022]",
+            "treffer": 0,
+            "datum": "2022-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/2262/2262_002_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          442.0,
+          334.4,
+          641.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit blauem Schreibmittel unleserliche Beschriftung und mit weissem Schreibmittel möglicherweise «21»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit blauem Schreibmittel unleserliche Beschriftung und mit weissem Schreibmittel möglicherweise «21»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_003_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              139.4,
+              334.3,
+              219.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: Abdruck eines entfernten rechteckigen Etiketts",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "Abdruck eines entfernten rechteckigen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              231.4,
+              334.1,
+              295.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett, gezahnt und mit blauer Umrandung, mit schwarzem Schreibmittel handschriftlich «5857 | Alex. Calame | Vallée bei | Chamonix»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, gezahnt und mit blauer Umrandung, mit schwarzem Schreibmittel handschriftlich «5857 | Alex. Calame | Vallée bei | Chamonix»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              307.0,
+              285.4,
+              398.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: verbräuntes Etikett, links gezahnt, rechts abgerissen, schwarz gedruckt «1352»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "verbräuntes Etikett, links gezahnt, rechts abgerissen, schwarz gedruckt «1352»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              411.1,
+              235.9,
+              501.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: Fragmente eines verbräunten Etiketts, gezahnt, schwarz umrandet, Beschriftung mit Bleistift unkenntlich gemacht",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Fragmente eines verbräunten Etiketts, gezahnt, schwarz umrandet, Beschriftung mit Bleistift unkenntlich gemacht",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.1,
+              513.8,
+              332.9,
+              642.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: mit blauem Schreibmittel handschriftlich «M[…]X»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "mit blauem Schreibmittel handschriftlich «M[…]X»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.6,
+              139.7,
+              265.9,
+              277.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: zwei runde schwarze Zollstempel",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "zwei runde schwarze Zollstempel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              289.9,
+              332.9,
+              444.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: mit blauem Schreibmittel handschriftlich «1394»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "mit blauem Schreibmittel handschriftlich «1394»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.6,
+              456.5,
+              335.8,
+              518.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Ein Abgleich der Nummer in der Datenbank der Sammlung Linz und des Central Collecting Point München ergab keine Übereinstimmung."
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: mit weisser Kreide handschriftlich «3112» oder «3 / 12»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "mit weisser Kreide handschriftlich «3112» oder «3 / 12»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.6,
+              530.4,
+              334.8,
+              619.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: mit weisser Kreide handschriftlich «Lot 21»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "mit weisser Kreide handschriftlich «Lot 21»",
+        "kommentar": "Lotnummer Auktion Sotheby’s, Zürich, Dezember 1987",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.1,
+              631.9,
+              334.1,
+              704.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: Abdruck eines ovalen Etiketts",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "Abdruck eines ovalen Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              139.4,
+              259.0,
+              259.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: mit weisser Kreide handschriftlich «AWF»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "mit weisser Kreide handschriftlich «AWF»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              271.9,
+              259.0,
+              341.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «21»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, blau gedruckt «21»",
+        "kommentar": "Lotnummer Auktion Sotheby’s, Zürich, Dezember 1987",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              353.3,
+              256.6,
+              434.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Etikett Auktion Sotheby’s Zürich, Dezember 1987, handschriftlich ergänzt «Z | 52’000.–»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Etikett Auktion Sotheby’s Zürich, Dezember 1987, handschriftlich ergänzt «Z | 52’000.–»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              446.6,
+              335.0,
+              531.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: mit schwarzem Schreibmittel handschriftlich «1052 /»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "mit schwarzem Schreibmittel handschriftlich «1052 /»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/2262/2262_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.1,
+              543.4,
+              335.0,
+              654.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": [
+      "Vorderseite"
+    ],
+    "fussnoten": [
+      {
+        "nr": 7,
+        "text": "Zur Signatur siehe Fn. 2."
+      }
+    ]
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1987. Im Auktionskatalog Berlin 1931 ist das Werk als Das Tal von Chamonix verzeichnet und auf einem Etikett auf der Werkrückseite als Vallée bei Chamonix."
+    },
+    {
+      "nr": 2,
+      "text": "Gemäss Objektdatenbank SKKG ist das Werk unten rechts signiert. Auf den Digitalisaten ist dies nicht erkennbar."
+    },
+    {
+      "nr": 3,
+      "text": "Auktionskatalog Berlin 1931."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe Auktionskatalog Berlin 1931."
+    },
+    {
+      "nr": 7,
+      "text": "Zur Signatur siehe Fn. 2."
+    },
+    {
+      "nr": 8,
+      "text": "Ein Abgleich der Nummer in der Datenbank der Sammlung Linz und des Central Collecting Point München ergab keine Übereinstimmung."
+    }
+  ],
+  "bilder_anzahl": 17
+}

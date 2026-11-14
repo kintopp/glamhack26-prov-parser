@@ -1,0 +1,717 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5188_241113.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "13. November 2024",
+  "stand_iso": "2024-11-13",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5188",
+      "Albert Anker (1831–1910)",
+      "Gyp",
+      "um 1900",
+      "Öl auf Leinwand",
+      "27 × 21 cm (Bildmass)",
+      "42 × 36 × 7 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5188",
+    "status": "Ungeklärt",
+    "kuenstler": "Albert Anker (1831–1910)",
+    "titel": "Gyp",
+    "masse": [
+      "27 × 21 cm (Bildmass)",
+      "42 × 36 × 7 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1900",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5188/5188_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          258.2,
+          523.3
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Gyp war Ankers Hund."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "um 1900 bis 1910",
+      "besitzer": "Albert Anker (1831–1910), Ins",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe Fn. 3."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1910 bis o. D.",
+      "besitzer": "Nachlass Albert Anker",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Nachlassstempel auf der Werkrückseite, vermutlich aufgebracht von Ankers Ehefrau Anna Rüfli (1835–1917)."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis spätestens 1950",
+      "besitzer": "Marie Quinche-Anker (1872–1950), Neuchâtel, erworben im Erbgang aus dem Nachlass des Vaters/Künstlers",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Kuthy/Bhattacharya-Stettler 1995. Siehe auch Aufschrift auf dem Keilrahmen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1954",
+      "besitzer": "Ausstellung (Ausstellung Albert Anker, Nr. 50), Konolfingen",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ebd. Siehe auch mutmassliches Etikett der Ausstellung Konolfingen auf der Werkrückseite."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1962",
+      "besitzer": "Privatbesitz, Neuchâtel",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ebd. Die Ortsangabe Neuchâtel könnte auf Nachkommen von Marie Quinche-Anker verweisen, möglicherweise blieb das Werk also in der Familie."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 1975 bis 30. März 2004",
+      "besitzer": "Kurt Meissner (1909–2004), Zürich/Zollikon",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Kuthy/Bhattacharya-Stettler 1995 nennen eine Ausstellung in der Galerie Meissner im Jahr 1975 (Nr. 7), wobei Kurt Meissner der Eigentümer gewesen sein dürfte. Jedenfalls weist das Rückseitenetikett des Kunsthauses Zürich 1977 Meissner als Leihgeber beziehungsweise «Besitzer» aus. Es ist davon auszugehen, dass das Werk bis zu seinem Tod durchgehend bei Meissner blieb. Ob er Leihgeber für die vom Werkkatalog angeführten Ausstellungen in dieser Zeit war, wurde allerdings nicht überprüft."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 30. März 2004",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erhalten als Geschenk für Bruno Stefanini (1924–2018), Winterthur, testamentarisch vermacht von Kurt Meissner",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "In der Objektdatenbank SKKG findet sich beim Werkeintrag folgender Vermerk: «Testamentarische Schenkung von Hr. Kurt Meissner als Zeichen der langen harmonischen Freundschaft, 30. März 2004. Schenkung 2008.» Auf welcher Quelle diese Angabe beruht, ist nicht bekannt. Möglicherweise ist die Doppeldatierung so zu verstehen, dass das 2004 (Hinschied Kurt Meissner) vermachte Werk erst im Jahr 2008 ausgehändigt wurde."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Sandor Kuthy und Therese Bhattacharya-Stettler, Albert Anker, 1831–1910. Werkkatalog der Gemälde und Ölstudien, Basel 1995, S. 251, Nr. 595.",
+        "bilder": [
+          {
+            "datei": "images/5188/5188_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              372.6,
+              301.6,
+              525.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Anker» mit Filter: Hersteller/Künstler/Autor:in [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Artist «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (46 Ergebnisse) für Volltextsuche «Albert Anker», Filter 1: Conflict/War «World War II», Filter 2: Collection «Holocaust» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 46,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für erweiterte Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "6938 Ergebnisse für Volltextsuche «Anker» [14. Dezember 2022]: Die Ergebnisse wurden angesichts der Menge mit mehreren Begriffen reduziert.",
+            "ergebnisse": 6938,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (21 Ergebnisse) für Volltextsuche «Albert Anker» und «Gyp» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 21,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Albert Anker» und «Kopf eines Hundes» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (149 Ergebnisse) für Suche mit Filter 1: Artist «Anker, Albert», Filter 2: Objects, Object Type «painting» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 149,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (18 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 18,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter: Künstler «Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-12-14"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Suche mit Keywords «Albert Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-12-14"
+          },
+          {
+            "text": "0 Treffer (56 Ergebnisse) für Suche mit Keywords «Alb. Anker» [14. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 56,
+            "datum": "2022-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5188/5188_003_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          305.6,
+          446.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit dunkler Farbe «ANKER»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit dunkler Farbe «ANKER»",
+        "kommentar": "Künstlersignatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_004_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              484.7,
+              220.3,
+              520.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit braunem/verbräuntem Schreibmittel «M. Quinche-Anker | [Rue?] du Môle 10 | Neuchâtel»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit braunem/verbräuntem Schreibmittel «M. Quinche-Anker | [Rue?] du Môle 10 | Neuchâtel»",
+        "kommentar": "Marie Quinche-Anker war eine Tochter des Künstlers.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              547.8,
+              305.5,
+              624.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: vermutlich schwarz gestempelt «A·ANKER.»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "vermutlich schwarz gestempelt «A·ANKER.»",
+        "kommentar": "Vermutlich Nachlassstempel, der die Signatur imitiert; siehe Provenienzmerkmal am Keilrahmen unten links.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              636.8,
+              277.0,
+              699.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit schwarzem Schreibmittel «un | vieil | ami»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit schwarzem Schreibmittel «un | vieil | ami»",
+        "kommentar": "alternativer Werktitel, möglicherweise aufgebracht im Zusammenhang mit der Ausstellung Neuchâtel 1910",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              250.0,
+              228.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Laut Kuthy/Bhattacharya-Stettler 1995 trug das Bild bei dieser Ausstellung jenen Titel."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: rechteckiges gelbes Etikett, schwarz bedruckt, Ausstellung Kunsthaus Zürich 1977, Leihgeber: Kurt Meissner",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "rechteckiges gelbes Etikett, schwarz bedruckt, Ausstellung Kunsthaus Zürich 1977, Leihgeber: Kurt Meissner",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              240.8,
+              308.0,
+              318.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: rechteckiges beiges Etikett mit gezahntem Rand, handschriftlich mit verbräunter Tinte «Kat. Nr. | 50»; links verblichener Stempel, nur Rahmen zu erkennen",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "rechteckiges beiges Etikett mit gezahntem Rand, handschriftlich mit verbräunter Tinte «Kat. Nr. | 50»; links verblichener Stempel, nur Rahmen zu erkennen",
+        "kommentar": "vermutlich aufgebracht für die Ausstellung Konolfingen 1950",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              331.3,
+              306.1,
+              405.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt; Kurt und Myrtha Meissner, Zollikon",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt; Kurt und Myrtha Meissner, Zollikon",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              445.0,
+              306.3,
+              523.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: handschriftlich mit rotem Schreibmittel «1.»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «1.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              536.2,
+              171.7,
+              567.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: schwarz gestempelt «A·AN-KER.»",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "schwarz gestempelt «A·AN-KER.»",
+        "kommentar": "Nachlassstempel, vermutlich von Ankers Gattin Anna Rüfli (1835–1917)",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              580.2,
+              248.9,
+              618.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Siehe Stempel mit der Lugt-Nummer 3305, https://www.marquesdecollections.fr/FtDetail/eb3a3169-8dd6-f048-b6ee-5dad4843b30d [13. November 2024]."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: Klebereste eines Etiketts",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              249.3,
+              244.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: handschriftlich mit rotem Schreibmittel «10» (oder «70»)",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "handschriftlich mit rotem Schreibmittel «10» (oder «70»)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              257.3,
+              184.9,
+              309.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "l. m. Keilrahmen: langrechteckiges weisses Etikett mit abgerundeten Ecken, schwarz bedruckt, handschriftlich mit schwarzem Schreibmittel «Nr. 50»",
+        "position_traeger": "l. m. Keilrahmen",
+        "merkmal": "langrechteckiges weisses Etikett mit abgerundeten Ecken, schwarz bedruckt, handschriftlich mit schwarzem Schreibmittel «Nr. 50»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              321.9,
+              298.7,
+              372.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz bedruckt, handschriftlich mit blauem Kugelschreiber «2000»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt, handschriftlich mit blauem Kugelschreiber «2000»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              385.1,
+              273.2,
+              455.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 14,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: verbräuntes rechteckiges Etikett mit Rahmenlinie, braun bedruckt",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "verbräuntes rechteckiges Etikett mit Rahmenlinie, braun bedruckt",
+        "kommentar": "Ausstellung Kunsthalle Bern 1928",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              468.1,
+              273.7,
+              562.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 15,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «20557», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «20557», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5188/5188_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              576.6,
+              205.6,
+              608.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Kuthy/Bhattacharya-Stettler 1995. Gyp war Ankers Hund."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe Fn. 3."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Nachlassstempel auf der Werkrückseite, vermutlich aufgebracht von Ankers Ehefrau Anna Rüfli (1835–1917)."
+    },
+    {
+      "nr": 4,
+      "text": "Kuthy/Bhattacharya-Stettler 1995. Siehe auch Aufschrift auf dem Keilrahmen."
+    },
+    {
+      "nr": 5,
+      "text": "Ebd. Siehe auch mutmassliches Etikett der Ausstellung Konolfingen auf der Werkrückseite."
+    },
+    {
+      "nr": 6,
+      "text": "Ebd. Die Ortsangabe Neuchâtel könnte auf Nachkommen von Marie Quinche-Anker verweisen, möglicherweise blieb das Werk also in der Familie."
+    },
+    {
+      "nr": 7,
+      "text": "Kuthy/Bhattacharya-Stettler 1995 nennen eine Ausstellung in der Galerie Meissner im Jahr 1975 (Nr. 7), wobei Kurt Meissner der Eigentümer gewesen sein dürfte. Jedenfalls weist das Rückseitenetikett des Kunsthauses Zürich 1977 Meissner als Leihgeber beziehungsweise «Besitzer» aus. Es ist davon auszugehen, dass das Werk bis zu seinem Tod durchgehend bei Meissner blieb. Ob er Leihgeber für die vom Werkkatalog angeführten Ausstellungen in dieser Zeit war, wurde allerdings nicht überprüft."
+    },
+    {
+      "nr": 8,
+      "text": "In der Objektdatenbank SKKG findet sich beim Werkeintrag folgender Vermerk: «Testamentarische Schenkung von Hr. Kurt Meissner als Zeichen der langen harmonischen Freundschaft, 30. März 2004. Schenkung 2008.» Auf welcher Quelle diese Angabe beruht, ist nicht bekannt. Möglicherweise ist die Doppeldatierung so zu verstehen, dass das 2004 (Hinschied Kurt Meissner) vermachte Werk erst im Jahr 2008 ausgehändigt wurde."
+    },
+    {
+      "nr": 9,
+      "text": "Laut Kuthy/Bhattacharya-Stettler 1995 trug das Bild bei dieser Ausstellung jenen Titel."
+    },
+    {
+      "nr": 10,
+      "text": "Siehe Stempel mit der Lugt-Nummer 3305, https://www.marquesdecollections.fr/FtDetail/eb3a3169-8dd6-f048-b6ee-5dad4843b30d [13. November 2024]."
+    }
+  ],
+  "bilder_anzahl": 18
+}

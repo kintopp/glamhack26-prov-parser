@@ -1,0 +1,623 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_3500_241114.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "14. November 2024",
+  "stand_iso": "2024-11-14",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 3500",
+      "Augusto Giacometti (1877–1947)",
+      "Augusto Giacometti",
+      "um 1911",
+      "Öl auf Leinwand",
+      "52 × 55 cm (Bildmass)",
+      "66 × 69 × 6 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "3500",
+    "status": "Ungeklärt",
+    "kuenstler": "Augusto Giacometti (1877–1947)",
+    "titel": "Augusto Giacometti",
+    "masse": [
+      "52 × 55 cm (Bildmass)",
+      "66 × 69 × 6 cm (Rahmenmass)"
+    ],
+    "datierung": "um 1911",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/3500/3500_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          264.1,
+          467.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Frey 2023."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "7.–30. September 1913",
+      "besitzer": "Ausstellung Kunsthalle Basel (September-Ausstellung, Nr. 145, Augusto Giacometti)",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Frey 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. November 1985",
+      "besitzer": "Galerie Klopfer, Zürich",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ebd."
+        }
+      ]
+    },
+    {
+      "zeitraum": "spätestens 17. Februar bis 8. April 1986",
+      "besitzer": "Galerie Römer, Zürich",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Siehe Schreiben vom Schweizerischen Institut für Kunstwissenschaft (SIK), Zürich, an Galerie Römer, Zürich, vom 17. Februar 1986 sowie Rechnung der Galerie Römer, Zürich, an Bruno Stefanini, Winterthur, vom 8. April 1986 in der Objektdatenbank SKKG. Siehe auch Frey 2023."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. April 1986",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, im Freihandkauf von Galerie Römer, Ankaufspreis: 85 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe Rechnung der Galerie Römer, Zürich, an Bruno Stefanini, Winterthur, vom 8. April 1986 in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Erwin Poeschel, Augusto Giacometti, Zürich 1928, S. 67 [Werk nicht enthalten].\n\nHans Hartmann, Augusto Giacometti. Pionier der abstrakten Malerei. Ein Leben für die Farbe, Chur 1981 [Werk nicht enthalten].\n\nDenise Frey, Augusto Giacometti, in: August Giacometti. Catalogue raisonné. Gemälde, Wandgemälde, Mosaike und Glasgemälde, hrsg. von Michael Egli, Denise Frey, Beat Stutzer und Schweizerisches Institut für Kunstwissenschaft (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 31), Zürich 2023, Nr. 35, https://recherche.sik-isea.ch/sik:work-9608745 [14. November 2024].",
+        "bilder": [
+          {
+            "datei": "images/3500/3500_002_recherche.png",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              398.3,
+              533.2,
+              509.9
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/3500/3500_003_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              133.8,
+              533.2,
+              404.8
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/3500/3500_004_recherche.png",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              411.3,
+              533.2,
+              651.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellung",
+        "text": "Kunsthalle Basel, 7.–30. September 1913, September-Ausstellung, Nr. 145 (Augusto Giacometti)."
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Augusto Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "1 möglicher Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [15. August 2023]: Vier identische Einträge, Verkauf von «Giacometti | 4 Bilder | Angeboten von Nollstadt,Prien | 22.9.1937» ohne weitere Angaben, http://heinemann.gnm.de/de/kunstwerk-40983.htm [15. August 2023].",
+            "treffer": 1,
+            "ergebnisse": 5,
+            "datum": "2023-08-15"
+          }
+        ],
+        "bilder": [
+          {
+            "datei": "images/3500/3500_005_recherche.jpeg",
+            "seite": 4,
+            "bbox": [
+              193.0,
+              461.0,
+              391.4,
+              579.5
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Galerie Heinemann"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (24 Ergebnisse) für Volltextsuche «Giacometti» und «Selbstporträt» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 24,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (34 Ergebnisse) für Volltextsuche «Giacometti» und «gelb» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 34,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Freitextsuche «Selbstportrait» mit Filter: «Augusto Giacometti» (inklusive Varianten der Namensschreibweise) [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Freitextsuche «Selbstbildnis» mit Filter: «Augusto Giacometti» (inklusive Varianten der Namensschreibweise) [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-11-16"
+          },
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche «Augusto Giacometti» (inklusive Varianten der Namensschreibweise) [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [4. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-11-04"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3500/3500_006_archiv_intern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.5,
+            435.9,
+            530.1,
+            675.5
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Schreiben (Archivauszug) vom Schweizerischen Institut für Kunstwissenschaft (SIK), Zürich, an Galerie Römer, Zürich, vom 17. Februar 1986 mit Bestätigung, dass das Gemälde fotografiert und in das SIK-Archiv (Nr. 56308) als eigenhändiges Werk von Augusto Giacometti aufgenommen wurde"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/3500/3500_007_archiv_intern.jpeg",
+          "seite": 6,
+          "bbox": [
+            368.5,
+            196.9,
+            533.0,
+            420.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rechnung der Galerie Römer, Zürich, an Bruno Stefanini, Winterthur, vom 8. April 1986"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/3500/3500_008_provenienzmerkmale.jpeg",
+        "seite": 7,
+        "bbox": [
+          62.5,
+          165.3,
+          328.2,
+          418.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit schwarzer Farbe «AUGUSTO | GIACO-METTI»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «AUGUSTO | GIACO-METTI»",
+        "kommentar": "Signatur des Künstlers",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              456.2,
+              300.4,
+              517.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich mit grünem Schreibmittel «[…]» (unleserlich), allenfalls «Kühnert»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich mit grünem Schreibmittel «[…]» (unleserlich), allenfalls «Kühnert»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              532.0,
+              327.0,
+              602.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/3500/3500_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              627.4,
+              327.5,
+              701.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "bearbeitete Version"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: handschriftlich mit Bleistift «[Au]gusto Giacomet[ti] | Augusto Giacometti», letzte Zeile unterstrichen, wohl von Künstlerhand",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[Au]gusto Giacomet[ti] | Augusto Giacometti», letzte Zeile unterstrichen, wohl von Künstlerhand",
+        "kommentar": "vermutlich Werktitel und Signatur",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_012_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              327.0,
+              237.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Zierrahmen: handschriftlich mit Bleistift «[…]» (unleserlich), allenfalls «Haas Stab oben […] Ka[…] für | […] weiss rosa»",
+        "position_traeger": "r. m. Zierrahmen",
+        "merkmal": "handschriftlich mit Bleistift «[…]» (unleserlich), allenfalls «Haas Stab oben […] Ka[…] für | […] weiss rosa»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_013_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              250.0,
+              326.8,
+              296.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/3500/3500_014_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              327.6,
+              327.0,
+              375.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "bearbeitete Version"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Keilrahmen: Klebereste eines Etiketts",
+        "position_traeger": "u. m. Keilrahmen",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_015_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              388.4,
+              218.8,
+              430.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "l. o. Keilrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «DD | VG | /», vermutlich vertikal zu lesen als «DV» und «DG»",
+        "position_traeger": "l. o. Keilrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit schwarzem Schreibmittel «DD | VG | /», vermutlich vertikal zu lesen als «DV» und «DG»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_016_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              442.9,
+              219.0,
+              493.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «21321», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «21321», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_017_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              518.6,
+              216.7,
+              552.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 21 321», unterstrichen",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 21 321», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_018_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              594.4,
+              216.4,
+              617.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 21 321», unterstrichen",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SIK-ISEA 21 321», unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/3500/3500_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              670.1,
+              219.2,
+              696.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Frey 2023."
+    },
+    {
+      "nr": 2,
+      "text": "Frey 2023."
+    },
+    {
+      "nr": 3,
+      "text": "Ebd."
+    },
+    {
+      "nr": 4,
+      "text": "Siehe Schreiben vom Schweizerischen Institut für Kunstwissenschaft (SIK), Zürich, an Galerie Römer, Zürich, vom 17. Februar 1986 sowie Rechnung der Galerie Römer, Zürich, an Bruno Stefanini, Winterthur, vom 8. April 1986 in der Objektdatenbank SKKG. Siehe auch Frey 2023."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe Rechnung der Galerie Römer, Zürich, an Bruno Stefanini, Winterthur, vom 8. April 1986 in der Objektdatenbank SKKG."
+    }
+  ],
+  "bilder_anzahl": 19
+}

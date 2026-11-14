@@ -1,0 +1,520 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5211_231017.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "17. Oktober 2023",
+  "stand_iso": "2023-10-17",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5211",
+      "Giovanni Giacometti (1868–1933)",
+      "Paesaggio di neve (sole)",
+      "1910",
+      "Öl auf Leinwand",
+      "51 × 62 cm (Bildmass)",
+      "55,3 × 67,1 × 4,3 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "5211",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Giacometti (1868–1933)",
+    "titel": "Paesaggio di neve (sole)",
+    "masse": [
+      "51 × 62 cm (Bildmass)",
+      "55,3 × 67,1 × 4,3 cm (Rahmenmass)"
+    ],
+    "datierung": "1910",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5211/5211_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          319.1,
+          451.9
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Müller/Radlach 1997, wo das Werk zudem als Wintersonne verzeichnet ist. In der Ausstellung St. Moritz 1985 wurde es offenbar als Winterlandschaft bei Maloja mit Piz Lagrev in der Morgensonne bezeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "seit spätestens 1997",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Im 1997 erschienenen Werkkatalog von Müller/Radlach wird die SKKG als aktueller Standort angegeben."
+        },
+        {
+          "nr": 3,
+          "text": "Die Erwerbsumstände sind zum gegenwärtigen Zeitpunkt nicht bekannt."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Paul Müller und Viola Radlach, Giovanni Giacometti. 1868–1933. Werkkatalog der Gemälde (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 16), hrsg. vom Schweizerischen Institut für Kunstgeschichte, Bd. 2, Zürich 1997, Nr. 1910.52.",
+        "bilder": [
+          {
+            "datei": "images/5211/5211_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              222.2,
+              293.4,
+              346.6
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Giovanni Giacometti, Registro dei quadri, hrsg. vom Schweizerischen Institut für Kunstwissenschaft, Zürich 2015, S. 55, Nr. 142."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "– Budapest 1910, Nr. 36 (Winter sunshine)\n\n– Turin, 1911\n\n– St. Moritz, Das Oberengadin in der Malerei / L’Engadina alta nella pittura, 20. Juni bis 20. Oktober 1985 (Winterlandschaft bei Maloja mit Piz Lagrev in der Morgensonne)",
+        "fussnoten": [
+          {
+            "nr": 4,
+            "text": "Die aus Müller/Radlach 1997 stammenden Angaben zu den Ausstellungen wurden im Erstcheck weder systematisch überprüft noch ergänzt."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [8. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche mit Filter: Artist «Giacometti» [13. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (9 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Giacometti» [12. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 9,
+            "datum": "2023-10-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (155 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Giacometti», Filter 2: Titel einschränken «automatisch» [13. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 155,
+            "datum": "2023-10-13"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (142 Ergebnisse) für Suche «Giovanni Giacometti» (inklusive Varianten der Namensschreibweise) [12. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 142,
+            "datum": "2023-10-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Giacometti» [10. Oktober 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-10-10"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "17. Oktober 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (9 Ergebnisse) für Volltextsuche «Giovanni Giacometti» im Archivverzeichnis und 0 Treffer (22 Ergebnisse) in den Primärdaten"
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5211/5211_003_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          259.4,
+          305.9,
+          466.8
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Mit Rückseitenschutz"
+      },
+      {
+        "datei": "images/5211/5211_004_provenienzmerkmale.jpeg",
+        "seite": 4,
+        "bbox": [
+          62.5,
+          498.1,
+          305.9,
+          693.2
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht",
+        "bildtitel": "Ohne Rückseitenschutz"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich «G | G. | 1910»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich «G | G. | 1910»",
+        "kommentar": "Monogramm mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              139.8,
+              221.3,
+              220.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: schwarz gestempelt «Gebrüder Scholl, Zürich | Künstlermagazin»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "schwarz gestempelt «Gebrüder Scholl, Zürich | Künstlermagazin»",
+        "kommentar": "Geschäft für Künstlerbedarf",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              233.3,
+              306.5,
+              323.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken; MAT Securitas Express, Transport für das Institut für Kunstwissenschaft (SIK-ISEA), Zürich",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken; MAT Securitas Express, Transport für das Institut für Kunstwissenschaft (SIK-ISEA), Zürich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              336.4,
+              306.4,
+              429.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. / u. m. Keilrahmen: schwarz gestempelt «50», «61»",
+        "position_traeger": "r. m. / u. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «50», «61»",
+        "kommentar": "entspricht Bildmass",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              442.7,
+              204.6,
+              498.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5211/5211_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              504.3,
+              204.7,
+              561.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Keilrahmen: rechteckiges beiges Etikett, schwarz bedruckt",
+        "position_traeger": "u. l. Keilrahmen",
+        "merkmal": "rechteckiges beiges Etikett, schwarz bedruckt",
+        "kommentar": "Ausstellung St. Moritz 1985",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_010_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              574.4,
+              306.4,
+              661.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: schwarz gestempelt «DO-GANA SVIZZERA CASTASE[GNA]»; Schweizer Zollstempel",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "schwarz gestempelt «DO-GANA SVIZZERA CASTASE[GNA]»; Schweizer Zollstempel",
+        "kommentar": "Castasegna liegt im Bergell, unweit von Stampa (siehe Aufschrift auf der Leinwand), wo Giacometti seit 1904 lebte.",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.9,
+              217.8,
+              224.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: langrechteckiges weisses Etikett mit SIK-Nummer 20580",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "langrechteckiges weisses Etikett mit SIK-Nummer 20580",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              240.8,
+              217.0,
+              278.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit Bleistift «8147», darunter Schweizer Zollstempel",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift «8147», darunter Schweizer Zollstempel",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              290.8,
+              257.8,
+              360.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: Reste eines langrechteckigen beigen Etiketts, schwarz gedruckt «[…]ÜRICH»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "Reste eines langrechteckigen beigen Etiketts, schwarz gedruckt «[…]ÜRICH»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              372.6,
+              308.9,
+              448.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: handschriftlich mit schwarzer Farbe «Giovanni Giacometti | Stampa | Val Bregaglia»",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «Giovanni Giacometti | Stampa | Val Bregaglia»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5211/5211_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              460.5,
+              307.9,
+              549.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Müller/Radlach 1997, wo das Werk zudem als Wintersonne verzeichnet ist. In der Ausstellung St. Moritz 1985 wurde es offenbar als Winterlandschaft bei Maloja mit Piz Lagrev in der Morgensonne bezeichnet."
+    },
+    {
+      "nr": 2,
+      "text": "Im 1997 erschienenen Werkkatalog von Müller/Radlach wird die SKKG als aktueller Standort angegeben."
+    },
+    {
+      "nr": 3,
+      "text": "Die Erwerbsumstände sind zum gegenwärtigen Zeitpunkt nicht bekannt."
+    },
+    {
+      "nr": 4,
+      "text": "Die aus Müller/Radlach 1997 stammenden Angaben zu den Ausstellungen wurden im Erstcheck weder systematisch überprüft noch ergänzt."
+    }
+  ],
+  "bilder_anzahl": 15
+}

@@ -1,0 +1,617 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4744_221122.pdf",
+  "seiten": 6,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "22. November 2022",
+  "stand_iso": "2022-11-22",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4744",
+      "Félix Vallotton (1865–1925)",
+      "Torse blond, fond vert pâle / Femme blonde nue",
+      "1913",
+      "Öl auf Leinwand",
+      "116 × 89 cm (Bildmass)",
+      "150 × 105 × 4,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "4744",
+    "status": "Ungeklärt",
+    "kuenstler": "Félix Vallotton (1865–1925)",
+    "titel": "Torse blond, fond vert pâle / Femme blonde nue",
+    "masse": [
+      "116 × 89 cm (Bildmass)",
+      "150 × 105 × 4,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1913",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4744/4744_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          469.6
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Originaltitel nach Ducrey 2005."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel SKKG nach dem Etikett der Galerie Paul Vallotton auf der Werkrückseite. In der Objektdatenbank SKKG ist zudem der Titel Nu blond nach dem Auktionskatalog Zürich 2000 verzeichnet."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "ab 1925",
+      "besitzer": "Nachlass Félix Vallotton (Paul Vallotton, Lausanne), Nr. 297",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Galerie Paul Vallotton, Lausanne, Nr. 987",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Marianne Vallotton (1893–1989), Pully",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "Claude Vallotton (1905–2000), Pully",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Ducrey 2005."
+        }
+      ]
+    },
+    {
+      "zeitraum": "28./29. November 2000",
+      "besitzer": "Auktion Phillips (Feine Möbel, Objekte und Gemälde, Lot 657, Nu blond), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 2000. Darin ist als Provenienz «Aus dem Besitz der Familie des Künstlers» vermerkt. Vermutlich wurde das Werk aus dem Nachlass von Claude Vallotton bei Phillips eingeliefert. Warum Ducrey (2005) als aktuellen Standort «Collection privée, Suisse» und nicht wie sonst bei Werken der SKKG «Fondation pour l’art, l’histoire et la culture, Winterthour» vermerkt, ist unklar."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 29. November 2000",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Phillips, Zuschlagspreis: 46 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Siehe annotierten Auktionskatalog Zürich 2000 sowie Erwerbsnachweis auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Marina Ducrey, Félix Vallotton. L’œuvre peint, hrsg. von Fondation Félix Vallotton und Schweizerisches Institut für Kunstgeschichte (Œuvrekataloge Schweizer Künstler und Künstlerinnen, Bd. 22), Bd. 3, Lausanne/Zürich 2005, Nr. 1033.",
+        "bilder": [
+          {
+            "datei": "images/4744/4744_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              334.9,
+              271.7,
+              434.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          },
+          {
+            "datei": "images/4744/4744_003_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              441.4,
+              273.7,
+              498.0
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Werkkatalog"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 9,
+            "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 969."
+          }
+        ]
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Feine Möbel, Objekte und Gemälde, Auktionskatalog Phillips, Zürich, 28./29. November 2000, Zürich 2000, Lot 637."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Hedy Hahnloser-Bühler, Félix Vallotton et ses amis, Paris 1936 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Vallotton» [11. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2022-10-11"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für erweiterte Suche, Filter: Artist «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "Möglich wäre die Jeune femme (https://www.errproject.org/jeu-depaume/card_view.php?CardId=57221 [28. Oktober 2022]), die jedoch aufgrund mangelnder Angaben nicht identifiziert werden kann. Zudem scheint das Werk in der fraglichen Zeit um 1940 in Familienbesitz gewesen zu sein.",
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (15 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 15,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (12 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Valotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 12,
+            "datum": "2022-10-28"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (33 Ergebnisse) für erweiterte Suche, Filter 1: Titel «Hotel Drouot», Filter 2: Erscheinungsdatum «20. Jahrhundert», Filter 3: Und enthält «Vallotton» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2022-11-16"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (396 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Vallotton» [25. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 396,
+            "datum": "2022-10-25"
+          },
+          {
+            "text": "0 Treffer (23 Ergebnisse) für Suche mit Filter: Volltext/Metadaten «Valotton» [1. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 23,
+            "datum": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (25 Ergebnisse) für Suche «Felix Vallotton» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 25,
+            "datum": "2022-10-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          },
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Vallotton» [28. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2022-10-28"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (87 Ergebnisse) für Suche in «Sales Catalogues», Filter 1: Keywords «Vallotton», Filter 2: Date «1900–1945», Filter 3: Place «Paris, France» [16. November 2022]",
+            "treffer": 0,
+            "ergebnisse": 87,
+            "datum": "2022-11-16"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "Provenienz: «Aus dem Besitz der Familie des Künstlers».",
+      "bilder": [
+        {
+          "datei": "images/4744/4744_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            479.8,
+            534.3,
+            685.1
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 2000, annotiert von Bruno Stefanini."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4744/4744_005_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          397.7,
+          305.2,
+          707.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: Signatur mit Datierung",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "Signatur mit Datierung",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_006_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              139.8,
+              307.6,
+              169.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: handschriftlich «lot 111»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "handschriftlich «lot 111»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              182.3,
+              275.4,
+              230.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "r. und l. waagrechte Mittelstrebe sowie o. und u. senkrechte Mittelstrebe Keilrahmen: gestempelt «PHOTO P.V.»",
+        "position_traeger": "r. und l. waagrechte Mittelstrebe sowie o. und u. senkrechte Mittelstrebe Keilrahmen",
+        "merkmal": "gestempelt «PHOTO P.V.»",
+        "kommentar": "höchstwahrscheinlich Hinweis von Paul Vallotton auf Anfertigung eines Fotos",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              242.9,
+              214.6,
+              271.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "m. r. waagrechte Mittelstrebe Keilrahmen: handschriftlich «297 P.V.»",
+        "position_traeger": "m. r. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "handschriftlich «297 P.V.»",
+        "kommentar": "von der Galerie Paul Vallotton vergebene Nummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              331.3,
+              284.2,
+              383.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "m. l. waagrechte Mittelstrebe Keilrahmen: langrechteckiges Etikett Galerie Paul Vallotton, Lausanne, handschriftlich «№ 987 | F. Vallotton | Femme blonde nue | 116 x 81», daneben in anderer Schrift «960987»",
+        "position_traeger": "m. l. waagrechte Mittelstrebe Keilrahmen",
+        "merkmal": "langrechteckiges Etikett Galerie Paul Vallotton, Lausanne, handschriftlich «№ 987 | F. Vallotton | Femme blonde nue | 116 x 81», daneben in anderer Schrift «960987»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              407.0,
+              306.2,
+              490.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: handschriftlich «130 x 97» und eingekreist «1240»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "handschriftlich «130 x 97» und eingekreist «1240»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              502.6,
+              261.7,
+              528.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/4744/4744_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              536.7,
+              261.6,
+              567.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich «V8»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich «V8»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              580.7,
+              167.2,
+              629.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: Zettel der Auktion Phillips, Zürich, 29. November 2000, mit handschriftlich annotiertem Preis",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "Zettel der Auktion Phillips, Zürich, 29. November 2000, mit handschriftlich annotiertem Preis",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4744/4744_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              643.6,
+              305.7,
+              709.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Originaltitel nach Ducrey 2005."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel SKKG nach dem Etikett der Galerie Paul Vallotton auf der Werkrückseite. In der Objektdatenbank SKKG ist zudem der Titel Nu blond nach dem Auktionskatalog Zürich 2000 verzeichnet."
+    },
+    {
+      "nr": 3,
+      "text": "Ducrey 2005. Werke aus dem Nachlass, die wie dieses eine Nachlassnummer erhalten haben, gingen zu Paul Vallotton nach Lausanne, siehe Ducrey 2005, Bd. 2, S. 2."
+    },
+    {
+      "nr": 4,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 5,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 6,
+      "text": "Ducrey 2005."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 2000. Darin ist als Provenienz «Aus dem Besitz der Familie des Künstlers» vermerkt. Vermutlich wurde das Werk aus dem Nachlass von Claude Vallotton bei Phillips eingeliefert. Warum Ducrey (2005) als aktuellen Standort «Collection privée, Suisse» und nicht wie sonst bei Werken der SKKG «Fondation pour l’art, l’histoire et la culture, Winterthour» vermerkt, ist unklar."
+    },
+    {
+      "nr": 8,
+      "text": "Siehe annotierten Auktionskatalog Zürich 2000 sowie Erwerbsnachweis auf der Werkrückseite."
+    },
+    {
+      "nr": 9,
+      "text": "Im vom Künstler selbst verfassten Werkkatalog (Livre de raison) lautet die Werknummer 969."
+    },
+    {
+      "nr": 10,
+      "text": "Darunter befinden sich Ergebnisse zum Galeristen Paul Vallotton, dem Bruder des Künstlers, der Görings Kunstagenten Josef Angerer und Walter Andreas Hofer gekannt und Werke an die Sammlung Göring verkauft hatte."
+    }
+  ],
+  "bilder_anzahl": 14
+}

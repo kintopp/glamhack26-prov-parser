@@ -1,0 +1,626 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_31462_250410.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "10. April 2025",
+  "stand_iso": "2025-04-10",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 31462",
+      "Frank Buchser (1828–1890)",
+      "Porträt eines Herrn im Abendanzug / Männerbildnis / Ganzkörperporträt eines Mannes in Anzug mit",
+      "Zylinder",
+      "1875",
+      "Öl auf Leinwand",
+      "99 × 73 × 9 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "31462",
+    "status": "Ungeklärt",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Porträt eines Herrn im Abendanzug / Männerbildnis / Ganzkörperporträt eines Mannes in Anzug mit Zylinder",
+    "masse": [
+      "99 × 73 × 9 cm (Rahmenmass)"
+    ],
+    "datierung": "1875",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/31462/31462_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          263.5,
+          540.1
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel nach Auktionskatalog Zürich 1969, orthografisch angepasst. Auf der Werkvorderseite befindet sich eine nicht eindeutig entzifferbare namentliche Bezeichnung des Dargestellten, siehe Provenienzmerkmale."
+      },
+      {
+        "nr": 2,
+        "text": "Werktitel nach Auktionskatalog Zürich 1978."
+      },
+      {
+        "nr": 3,
+        "text": "Werktitel nach Objektdatenbank SKKG (Quelle unbekannt)."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "29. Mai bis 7. Juni 1969",
+      "besitzer": "Auktion Galerie Koller (Auktion XX [Nr. 20], Lot 2271, Portrait eines Herrn im Abendanzug), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1969."
+        }
+      ]
+    },
+    {
+      "zeitraum": "2.–4. November 1978",
+      "besitzer": "Auktion Kurt Huber, Villa Ulmberg (Auktion Schweizer Malerei mit vielen bedeutenden Werken von Schweizer Künstlern, Lot 14, Männerbildnis), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Zürich 1978."
+        }
+      ]
+    },
+    {
+      "zeitraum": "2. November 1978 bis 24. Dezember 1980",
+      "besitzer": "Bruno Stefanini (1924–2018), Winterthur, angekauft auf Auktion Kurt Huber, Villa Ulmberg, Zuschlagspreis: 13 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1978 sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 24. Dezember 1980",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, übertragen in das Stiftungseigentum durch Bruno Stefanini"
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Auktion XX [Nr. 20], Auktionskatalog Galerie Koller, Zürich, 29. Mai bis 7. Juni 1969, Zürich 1969, Lot 2271.",
+        "bilder": [
+          {
+            "datei": "images/31462/31462_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              372.6,
+              403.8,
+              452.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskatalog",
+            "bildunterschrift": "Auktion Schweizer Malerei mit vielen bedeutenden Werken von Schweizer Künstlern, Auktionskatalog Kurt Huber, Villa Ulmberg, Zürich, 2.–4. November 1978, Zürich 1978, Lot 14."
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Frank Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-04-01"
+          },
+          {
+            "text": "0 Treffer (105 Ergebnisse) für Suche «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 105,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Beschlagnahmeinventar «Entartete Kunst»",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für erweiterte Suche nach Künstler «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank» mit Filter: Publication Name «EU, Ardelia Hall Collection: Wiesbaden Administrative Records, 1945–1952» und «EU, Ardelia Hall Collection: OMGUS Records, 1938–1951» [3. Juni 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-06-03"
+          },
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Suche «Buchser, Frank», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-04-01"
+          },
+          {
+            "text": "0 Treffer (5 Ergebnisse) für Suche «Buchser», Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 5,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Gallica",
+        "suchen": [
+          {
+            "text": "0 Treffer (Ergebnisse unbekannt) für Suche «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (31 Ergebnisse) für Volltextsuche «Frank Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 31,
+            "datum": "2025-04-01"
+          },
+          {
+            "text": "0 Treffer (33 Ergebnisse) für Volltextsuche «F. Buchser» [8. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 33,
+            "datum": "2025-04-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Volltextsuche «Buchser» (inklusive Varianten der Namensschreibweise) [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Kunsthandlung Böhler",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Suche «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche nach Künstler «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2025-04-01"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Suche in Verkaufskatalogen mit Filter Künstler: «Buchser» [1. April 2025]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2025-04-01"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "7. Juni 2023",
+      "institution": "Archiv SKKG",
+      "bestand": "0 Treffer (4 Ergebnisse im Archivverzeichnis, 33 in den Primärdaten) für Volltextsuche «Buchser» [7. Juni 2023]\n\n0 Treffer (3 Ergebnisse im Archivverzeichnis) für Volltextsuche «Kurt Huber» [7. Juni 2023]"
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/31462/31462_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            304.4,
+            533.0,
+            356.8
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1978, annotiert («BSt | 13000.–», Kürzel von Bruno Stefanini)"
+        }
+      ]
+    },
+    {
+      "datum": "3. Juli 2025",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/31462/31462_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            413.4,
+            533.3,
+            488.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis Auktion Kurt Huber, Villa Ulmberg, Zürich 1978, Lot 14, wohl vormals am Zierrahmen. Rechteckiger beiger Zettel, einst angeheftet, schwarz maschinengeschrieben «Huber Ulmberg, Auktion Herbst 1978» und handschriftlich mit Bleistift «14»; darauf weisses Etikett mit abgerundeten Ecken, schwarz maschinengeschrieben «220»."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [
+    {
+      "datum": "8. April 2025",
+      "institution": "RKD (Nederlands Instituut voor Kunstgeschiedenis), Den Haag",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/31462/31462_005_archive_extern.jpeg",
+          "seite": 5,
+          "bbox": [
+            368.6,
+            190.7,
+            528.9,
+            413.5
+          ],
+          "abschnitt": "ARCHIVE EXTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "lotspezifischer Ausschnitt aus Auktionskatalog Zürich 1969, https://rkd.nl/imageslite/2182504 [8. April 2025]"
+        }
+      ]
+    }
+  ],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/31462/31462_006_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          333.8,
+          541.5
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: eingeritzt in die nasse Farbschicht «Dr. Fidel Ivan […] [Zuznov/Lanznov?] | par | Frank Buchser | Paris 1875.»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "eingeritzt in die nasse Farbschicht «Dr. Fidel Ivan […] [Zuznov/Lanznov?] | par | Frank Buchser | Paris 1875.»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_007_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              579.2,
+              333.5,
+              695.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Um wen es sich bei der genannten Person handelt, konnte bislang nicht ermittelt werden."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: viereckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «[…]» (verdeckt)",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "viereckiges weisses Etikett mit abgerundeten Ecken, schwarz gedruckt «[…]» (verdeckt)",
+        "kommentar": "möglicherweise «14» (kopfüber), was der Lotnummer der Auktion Kurt Huber, Villa Ulmberg 1978 entspräche",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_008_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              225.4,
+              208.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: Metallplakette, schwarz graviert «Fr. Buchser»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "Metallplakette, schwarz graviert «Fr. Buchser»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_009_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              240.8,
+              269.4,
+              269.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit schwarzem Kugelschreiber «220», links daneben ein roter Strich",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, handschriftlich mit schwarzem Kugelschreiber «220», links daneben ein roter Strich",
+        "kommentar": "wohl Auktionsnummer der Auktion Kurt Huber, Villa Ulmberg, Zürich, 1979",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_010_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              282.3,
+              214.0,
+              338.2
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 8,
+            "text": "Auf dem Erwerbsnachweis in der Objektdatenbank SKKG befindet sich ein Etikett mit derselben Nummer."
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: handschriftlich mit Bleistift: «X» (Markierung)",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "handschriftlich mit Bleistift: «X» (Markierung)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_011_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              408.7,
+              214.4,
+              467.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. u. Keilrahmen: rechteckiges weisses Klebeetikett, gezahnt, schwarz gedruckt «7116», mit blauem Kugelschreiber unterstrichen",
+        "position_traeger": "r. u. Keilrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett, gezahnt, schwarz gedruckt «7116», mit blauem Kugelschreiber unterstrichen",
+        "kommentar": "SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              479.7,
+              214.6,
+              514.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "u. m. Zierrahmen: rechteckiges Klebeetikett, blau und weiss bedruckt",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "rechteckiges Klebeetikett, blau und weiss bedruckt",
+        "kommentar": "Rahmenbauer Havard Frères, Paris",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              568.1,
+              247.7,
+              640.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Zierrahmen: rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «No. 4»",
+        "position_traeger": "u. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «No. 4»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/31462/31462_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              653.2,
+              214.7,
+              706.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel nach Auktionskatalog Zürich 1969, orthografisch angepasst. Auf der Werkvorderseite befindet sich eine nicht eindeutig entzifferbare namentliche Bezeichnung des Dargestellten, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Werktitel nach Auktionskatalog Zürich 1978."
+    },
+    {
+      "nr": 3,
+      "text": "Werktitel nach Objektdatenbank SKKG (Quelle unbekannt)."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1969."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Zürich 1978."
+    },
+    {
+      "nr": 6,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1978 sowie Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 7,
+      "text": "Um wen es sich bei der genannten Person handelt, konnte bislang nicht ermittelt werden."
+    },
+    {
+      "nr": 8,
+      "text": "Auf dem Erwerbsnachweis in der Objektdatenbank SKKG befindet sich ein Etikett mit derselben Nummer."
+    }
+  ],
+  "bilder_anzahl": 14
+}

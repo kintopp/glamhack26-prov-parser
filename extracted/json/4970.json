@@ -1,0 +1,647 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_4970_250107.pdf",
+  "seiten": 7,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "7. Januar 2025",
+  "stand_iso": "2025-01-07",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 4970",
+      "Frank Buchser (1828–1890)",
+      "Sonntagsfahrt",
+      "1876",
+      "Öl auf Leinwand",
+      "51 × 76 cm (Bildmass)",
+      "75,5 × 97 × 10,9 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "4970",
+    "status": "Klar",
+    "kuenstler": "Frank Buchser (1828–1890)",
+    "titel": "Sonntagsfahrt",
+    "masse": [
+      "51 × 76 cm (Bildmass)",
+      "75,5 × 97 × 10,9 cm (Rahmenmass)"
+    ],
+    "datierung": "1876",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/4970/4970_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          313.3,
+          458.2
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 2004. In der Objektdatenbank SKKG ist zudem der Werktitel Mann mit roter Weste in einer Zweiräderkutsche stehend und Personen im Hintergrund grüssend verzeichnet. Zum Entstehungskontext und Motiv des Werks siehe Auktionskatalog Zürich 1994: «Zwischen Herbst 1875 und 1877 befand sich Frank Buchser in England, wo er einen grossen Erfolg in der Gesellschaft hatte. Auf dem Bild ist wohl ein Grossgrundbesitzer auf einer Spazierfahrt dargestellt.»"
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "vermutlich 1876 bis vermutlich 1900",
+      "besitzer": "vermutlich William Henry Forester Denison (1834–1900), 1st Earl of Londesborough",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Auktionskatalog Genf 1970 mit der Angabe «Earl of Londesborough». Angesichts des Entstehungszeitpunkts des Werks (1876) und der Tatsache, dass im Auktionskatalog keine Provenienzen ausserhalb der Familie Denison vermerkt sind, ist zu vermuten, dass bereits William Henry Forester Denison (1834–1900), 1st Earl of Londesborough, das Gemälde erworben hat. Bei Christie’s, London, wurden zwischen 1910 und 1945 keine Werke von Buchser verkauft, siehe Christie’s London Art Sales Index, Band A–G, 1910–1945, https://archive.org/details/frick-3107300000675/page/n293/mode/2up [7. Juni 2023]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "vermutlich 1900 bis o. D.",
+      "besitzer": "Familie Denison, England",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Fn. 2 und 4."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis vermutlich 24. April 1970",
+      "besitzer": "Lady Zinnia Rosemary Denison (1937–1997)",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Genf 1970. Lady Denison war die Tochter von Hugo William Cecil Denison, 4th Earl of Londesborough. Sie war mehrmalig verheiratet gewesen. Der Name Comins, wie im Auktionskatalog angegeben, stammt aus ihrer ersten, von 1957 bis 1961 währenden Ehe, siehe https://www.thepeerage.com/p23745.htm [19. Juni 2025]."
+        }
+      ]
+    },
+    {
+      "zeitraum": "24. April 1970",
+      "besitzer": "Auktion Christie’s (Tableaux de maîtres suisses, Lot 415a, Homme debout dans une charrette anglaise, tirée par un cheval blanc, saluant des personnages à l’arrière-plan), Genf, vermutlich eingeliefert von Lady Zinnia Rosemary Denison",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Auktionskatalog Genf 1970."
+        }
+      ]
+    },
+    {
+      "zeitraum": "11. April 1994",
+      "besitzer": "Auktion Christie’s (Schweizer Kunst, Lot 9, Sonntagsfahrt), Zürich, eingeliefert von unbekannt",
+      "fussnoten": [
+        {
+          "nr": 6,
+          "text": "Auktionskatalog Zürich 1994."
+        }
+      ]
+    },
+    {
+      "zeitraum": "o. D. bis 17. September 2004",
+      "besitzer": "Privatbesitz, Zürich",
+      "fussnoten": [
+        {
+          "nr": 7,
+          "text": "Auktionskatalog Zürich 2004."
+        }
+      ]
+    },
+    {
+      "zeitraum": "14.–17. September 2004",
+      "besitzer": "Auktion Schuler Auktionen (94. Kunst- und Antiquitätenauktion, Lot 3156, Sonntagsfahrt), Zürich, eingeliefert aus Zürcher Privatbesitz",
+      "fussnoten": [
+        {
+          "nr": 8,
+          "text": "Auktionskatalog Zürich 2004."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 17. September 2004",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Schuler Auktionen, Zuschlagspreis: 40 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 9,
+          "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskataloge",
+        "text": "Tableaux de maîtres suisses. Dessins et sculptures, Auktionskatalog Christie’s, Genf, 24. April 1970, Genf 1970, Lot 415a.\n\nSchweizer Kunst, Auktionskatalog Christie’s, Zürich, 11. April 1994, Zürich 1994, Lot 9.",
+        "bilder": [
+          {
+            "datei": "images/4970/4970_002_recherche.jpeg",
+            "seite": 2,
+            "bbox": [
+              193.0,
+              524.3,
+              402.8,
+              631.2
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          },
+          {
+            "datei": "images/4970/4970_003_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              165.1,
+              403.0,
+              266.7
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge",
+            "bildunterschrift": "94. Kunst- und Antiquitätenauktion, Auktionskatalog Schuler Auktionen, Zürich, Nr. 94, 14.–17. September 2004, Zürich 2004, Lot 3156."
+          },
+          {
+            "datei": "images/4970/4970_004_recherche.jpeg",
+            "seite": 3,
+            "bbox": [
+              193.0,
+              311.0,
+              323.2,
+              405.3
+            ],
+            "abschnitt": "RECHERCHE",
+            "rolle": "Auktionskataloge"
+          }
+        ]
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "Gottfried Wälchli, Frank Buchser. Leben und Werk, Zürich 1941, S. 186."
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für erweiterte Suche mit Filter: Hersteller/Künst-ler/Autor:in «Buchser» [6. Juni 2023].",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "0 Treffer (4 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 4,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (93 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «Buchser», Filter 2: Titel einschränken «automatisch» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 93,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (68 Ergebnisse) für Suche «Frank Buchser» (inklusive Varianten der Namensschreibweise) ohne Filter [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 68,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Buchser» [6. Juni 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "24. Januar 2025",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/4970/4970_005_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            403.9,
+            533.0,
+            510.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Kopie des lotspezifischen Ausschnitts aus Auktionskatalog Zürich 2004, annotiert mit Zuschlagspreis und SKKG-Lotnummer (Erwerbsnachweis). Darauf – vermutlich ursprünglich auf dem Rahmen befindlich – rechteckiges beiges Etikett mit abgerundeten Ecken, schwarz gedruckt «Lot 9 | 11 APR 94 | Sale 1163» (Auktion Christie’s 1994)."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/4970/4970_006_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          240.8,
+          322.5,
+          440.1
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. r. Leinwand: handschriftlich mit schwarzer Farbe «F. Buchser | 76»",
+        "position_traeger": "u. r. Leinwand",
+        "merkmal": "handschriftlich mit schwarzer Farbe «F. Buchser | 76»",
+        "kommentar": "Künstlersignatur mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              477.7,
+              282.7,
+              535.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Keilrahmen: schwarz gestempelt «S12 SP»",
+        "position_traeger": "o. m. Keilrahmen",
+        "merkmal": "schwarz gestempelt «S12 SP»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_008_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              548.7,
+              318.7,
+              590.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: Herstellerstempel von Winsor & Newton, London",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "Herstellerstempel von Winsor & Newton, London",
+        "kommentar": "Londoner Geschäft für Künstlerbedarf",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_009_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.4,
+              603.2,
+              284.0,
+              679.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: vermutlich Klebereste eines Etiketts",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "vermutlich Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              139.8,
+              284.0,
+              215.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Zierrahmen: viereckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «GNVBJ551»",
+        "position_traeger": "o. r. Zierrahmen",
+        "merkmal": "viereckiges weisses Klebeetikett mit abgerundeten Ecken, schwarz gedruckt «GNVBJ551»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              227.4,
+              237.5,
+              298.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "r. Zierrahmen: vermutlich Klebereste eines Etiketts",
+        "position_traeger": "r. Zierrahmen",
+        "merkmal": "vermutlich Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_012_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              311.2,
+              284.1,
+              394.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "l. Zierrahmen (unter Befestigung der Halterung): vermutlich schwarz gestempelt «EL | DÉPOSÉ» (teilweise verdeckt)",
+        "position_traeger": "l. Zierrahmen (unter Befestigung der Halterung)",
+        "merkmal": "vermutlich schwarz gestempelt «EL | DÉPOSÉ» (teilweise verdeckt)",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_013_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.8,
+              407.2,
+              284.4,
+              495.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "l. Zierrahmen: Klebereste eines Etiketts",
+        "position_traeger": "l. Zierrahmen",
+        "merkmal": "Klebereste eines Etiketts",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_014_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.5,
+              508.6,
+              283.6,
+              571.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "l. Zierrahmen: Reste eines angehefteten Zettels",
+        "position_traeger": "l. Zierrahmen",
+        "merkmal": "Reste eines angehefteten Zettels",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_015_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.4,
+              584.3,
+              270.5,
+              674.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 10,
+            "text": "Vermutlich war der Erwerbsnachweis (siehe Archiv intern) an dieser Stelle angebracht gewesen."
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: viereckiges weisses Etikett, befestigt mit Klebestreifen, schwarz gedruckt «8469»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "viereckiges weisses Etikett, befestigt mit Klebestreifen, schwarz gedruckt «8469»",
+        "kommentar": "vermutlich SIK-Kontrollnummer",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              139.8,
+              270.3,
+              202.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Keilrahmen: handschriftlich mit weisser Kreide «415a»",
+        "position_traeger": "o. l. Keilrahmen",
+        "merkmal": "handschriftlich mit weisser Kreide «415a»",
+        "kommentar": "Lotnummer Auktion Christie’s 1970",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/4970/4970_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.4,
+              215.5,
+              321.7,
+              282.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 2004. In der Objektdatenbank SKKG ist zudem der Werktitel Mann mit roter Weste in einer Zweiräderkutsche stehend und Personen im Hintergrund grüssend verzeichnet. Zum Entstehungskontext und Motiv des Werks siehe Auktionskatalog Zürich 1994: «Zwischen Herbst 1875 und 1877 befand sich Frank Buchser in England, wo er einen grossen Erfolg in der Gesellschaft hatte. Auf dem Bild ist wohl ein Grossgrundbesitzer auf einer Spazierfahrt dargestellt.»"
+    },
+    {
+      "nr": 2,
+      "text": "Auktionskatalog Genf 1970 mit der Angabe «Earl of Londesborough». Angesichts des Entstehungszeitpunkts des Werks (1876) und der Tatsache, dass im Auktionskatalog keine Provenienzen ausserhalb der Familie Denison vermerkt sind, ist zu vermuten, dass bereits William Henry Forester Denison (1834–1900), 1st Earl of Londesborough, das Gemälde erworben hat. Bei Christie’s, London, wurden zwischen 1910 und 1945 keine Werke von Buchser verkauft, siehe Christie’s London Art Sales Index, Band A–G, 1910–1945, https://archive.org/details/frick-3107300000675/page/n293/mode/2up [7. Juni 2023]."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Fn. 2 und 4."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Genf 1970. Lady Denison war die Tochter von Hugo William Cecil Denison, 4th Earl of Londesborough. Sie war mehrmalig verheiratet gewesen. Der Name Comins, wie im Auktionskatalog angegeben, stammt aus ihrer ersten, von 1957 bis 1961 währenden Ehe, siehe https://www.thepeerage.com/p23745.htm [19. Juni 2025]."
+    },
+    {
+      "nr": 5,
+      "text": "Auktionskatalog Genf 1970."
+    },
+    {
+      "nr": 6,
+      "text": "Auktionskatalog Zürich 1994."
+    },
+    {
+      "nr": 7,
+      "text": "Auktionskatalog Zürich 2004."
+    },
+    {
+      "nr": 8,
+      "text": "Auktionskatalog Zürich 2004."
+    },
+    {
+      "nr": 9,
+      "text": "Siehe Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 10,
+      "text": "Vermutlich war der Erwerbsnachweis (siehe Archiv intern) an dieser Stelle angebracht gewesen."
+    }
+  ],
+  "bilder_anzahl": 17
+}

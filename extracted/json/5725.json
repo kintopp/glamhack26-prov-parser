@@ -1,0 +1,620 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_5725_221026.pdf",
+  "seiten": 8,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "26. Oktober 2022",
+  "stand_iso": "2022-10-26",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 5725",
+      "Adolf Dietrich (1877–1957)",
+      "Mondscheinlandschaft",
+      "1930",
+      "Öl auf Karton",
+      "37,5 × 42,7 × 0,2 cm (Bildmass)",
+      "53,6 × 58,8 × 4,5 cm (Rahmenmass)",
+      "signiert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Klar"
+    ],
+    "inventarnummer": "5725",
+    "status": "Klar",
+    "kuenstler": "Adolf Dietrich (1877–1957)",
+    "titel": "Mondscheinlandschaft",
+    "masse": [
+      "37,5 × 42,7 × 0,2 cm (Bildmass)",
+      "53,6 × 58,8 × 4,5 cm (Rahmenmass)"
+    ],
+    "datierung": "1930",
+    "technik": "Öl auf Karton",
+    "bezeichnung": "signiert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/5725/5725_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          296.0,
+          424.7
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Werktitel SKKG nach Auktionskatalog Zürich 1999; ebenso auf dem Ausstellungsetikett des Kunsthauses Zürich 1981/82. Auf einem älteren Etikett auf der Rückseite wird das Werk als Mondlandschaft am See bezeichnet, siehe Provenienzmerkmale."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "20. Mai 1930 bis 1991",
+      "besitzer": "Marie Bosshart-Dietrich (1903–1991), vom Künstler als Geschenk zur Hochzeit erhalten",
+      "fussnoten": [
+        {
+          "nr": 2,
+          "text": "Siehe handschriftliche Widmung von Adolf Dietrich («Onkel Adolf») auf der Werkrückseite sowie Kontextinformationen. Marie Bosshart-Dietrich war die Tochter von Heinrich Dietrich-Keller, dem Bruder des Künstlers, und somit die Nichte von Adolf Dietrich. Provenienzangabe in Auktionskatalog Zürich 1999: «Direkt vom Künstler an die Familie des jetzigen Besitzers»."
+        }
+      ]
+    },
+    {
+      "zeitraum": "1991–1999",
+      "besitzer": "Maja Bosshart (geb. 1932), Deroche, Kanada, erworben im Erbgang von ihrer Mutter Marie Bosshart-Dietrich, zur Verwahrung bei ihrem Bruder Walter Bosshart in der Schweiz",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "Siehe Kontextinformationen. Im Zeitungsbericht aus dem Jahr 2018 gibt Maja Bosshart an, 1954 nach Kanada ausgewandert zu sein und das von ihrer Mutter geerbte Bild in der Schweiz gelassen zu haben. Auf dem Etikett des Kunstmuseums Winterthur aus dem Jahr 1994 sowie einem Etikett einer Transportfirma auf der Werkrückseite wird die «Erbengemeinschaft Dietrich-Bosshart» als Eigentümerin genannt. Maja Bosshart berichtet jedoch, sich vom hohen Erlös der Auktion 1999 ein neues Haus in Kanada gebaut zu haben."
+        }
+      ]
+    },
+    {
+      "zeitraum": "8. Dezember 1999",
+      "besitzer": "Auktion Sotheby’s (Schweizer Kunst, Lot 222, Mondscheinlandschaft), Zürich, eingeliefert von Walter Bosshart im Auftrag seiner Schwester Maja Bosshart",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Auktionskatalog Zürich 1999, siehe zudem Kontextinformationen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit 8. Dezember 1999",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, angekauft von Bruno Stefanini (1924–2018), Winterthur, auf Auktion Sotheby’s, Zuschlagspreis: 400 000 Franken",
+      "fussnoten": [
+        {
+          "nr": 5,
+          "text": "Siehe annotierten Auktionskatalog Zürich 1999 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "Schweizer Kunst, Auktionskatalog Sotheby’s, Zürich, 8. Dezember 1999, Zürich 1999, Lot 222."
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "‒ Kunsthaus Zürich, Dreissiger-Jahre Schweiz. Ein Jahrzehnt im Widerspruch, 23. Oktober 1981 bis 10. Januar 1982 ‒ Kunstmuseum Winterthur / Landesmuseum Oldenburg, Adolf Dietrich und die Neue Sachlichkeit in Deutschland, 4. September bis 20. November 1994 / 4. Dezember 1994 bis 5. Februar 1995",
+        "fussnoten": [
+          {
+            "nr": 6,
+            "text": "Für eine Auflistung weiterer Ausstellungen siehe Auktionskatalog Zürich 1999."
+          }
+        ]
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (10 Ergebnisse) für Volltextsuche «Adolf Dietrich» [26. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 10,
+            "datum": "2022-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (14 Ergebnisse) für Volltextsuche «Dietrich» [26. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 14,
+            "datum": "2022-10-26"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (1 Ergebnis) für Volltextsuche «Mondscheinlandschaft», Filter: Künstler «Dietrich» [26. Oktober 2022]",
+            "treffer": 0,
+            "ergebnisse": 1,
+            "datum": "2022-10-26"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5725/5725_002_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            291.3,
+            525.6,
+            443.9
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Erwerbsnachweis mit handschriftlich annotiertem Zuschlagspreis"
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Archiv SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/5725/5725_003_archiv_intern.jpeg",
+          "seite": 3,
+          "bbox": [
+            368.5,
+            488.1,
+            533.0,
+            707.2
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Auktionskatalog Zürich 1999, annotiert von Bruno Stefanini"
+        },
+        {
+          "datei": "images/5725/5725_004_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            133.8,
+            533.0,
+            357.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Rückseite des Auktionskatalogs Zürich 1999 mit Abbildung der Mondscheinlandschaft"
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [
+    {
+      "thema": "Hochzeitsgeschenk",
+      "information": "",
+      "bilder": [
+        {
+          "datei": "images/5725/5725_005_kontextinformationen.png",
+          "seite": 5,
+          "bbox": [
+            167.1,
+            165.6,
+            530.1,
+            453.1
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information"
+        },
+        {
+          "datei": "images/5725/5725_006_kontextinformationen.png",
+          "seite": 5,
+          "bbox": [
+            167.1,
+            453.6,
+            532.5,
+            630.5
+          ],
+          "abschnitt": "KONTEXTINFORMATIONEN",
+          "rolle": "information",
+          "bildunterschrift": "Urs Oskar Keller, «Meiner Mutter hat Adolf Dietrich als Hochzeitsgabe die ‹Mondscheinlandschaft› von 1930 geschenkt», in: Regi (Amtliches Publikationsorgan für den Bezirk Münchwilen), 18. Mai 2018, Nr. 39, S. 1, 3."
+        }
+      ]
+    }
+  ],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/5725/5725_007_provenienzmerkmale.jpeg",
+        "seite": 6,
+        "bbox": [
+          62.5,
+          165.3,
+          291.2,
+          373.7
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. l. Leinwand: handschriftlich mit hellgrauem Schreibmittel «A. Dietrich 1930»",
+        "position_traeger": "u. l. Leinwand",
+        "merkmal": "handschriftlich mit hellgrauem Schreibmittel «A. Dietrich 1930»",
+        "kommentar": "Signatur des Künstlers mit Datierung",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_008_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              411.2,
+              293.9,
+              452.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Malkarton: rechteckiges weisses Etikett, schwarz bedruckt; Angabe der Erbengemeinschaft Bosshart-Dietrich als Eigentümerin des Werks",
+        "position_traeger": "o. l. Malkarton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt; Angabe der Erbengemeinschaft Bosshart-Dietrich als Eigentümerin des Werks",
+        "kommentar": "Ausstellung Kunstmuseum Winterthur 1994",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_009_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              474.3,
+              292.2,
+              561.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "o. m. Malkarton: rechteckiges weisses Etikett, schwarz gedruckt «SFKUG»",
+        "position_traeger": "o. m. Malkarton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gedruckt «SFKUG»",
+        "kommentar": "möglicherweise ältere Bezeichnung der SKKG",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_010_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              574.4,
+              234.1,
+              629.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 4,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Malkarton: rechteckiges weisses Etikett, in Maschinenschrift beschrieben, mit Angabe der früheren Eigentümerin Marie Bosshart-Dietrich aus Oberwangen",
+        "position_traeger": "o. r. Malkarton",
+        "merkmal": "rechteckiges weisses Etikett, in Maschinenschrift beschrieben, mit Angabe der früheren Eigentümerin Marie Bosshart-Dietrich aus Oberwangen",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_011_provenienzmerkmale.jpeg",
+            "seite": 6,
+            "bbox": [
+              136.3,
+              642.4,
+              292.2,
+              718.3
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 5,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Keilrahmen: rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «222» und schwarz gestempelt «8. DEZ. 1999»",
+        "position_traeger": "o. r. Keilrahmen",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, rot gedruckt «222» und schwarz gestempelt «8. DEZ. 1999»",
+        "kommentar": "Lotnummer und Datum der Auktion Sotheby’s 1999",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_012_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              139.8,
+              208.8,
+              190.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 6,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Malkarton: handschriftlich «Kisten № […] | Z. K. G. 1289 | M. Bosshard-D[ietrich?] | Oberwangen» und mit blauem Wachsstift «216»",
+        "position_traeger": "o. r. Malkarton",
+        "merkmal": "handschriftlich «Kisten № […] | Z. K. G. 1289 | M. Bosshard-D[ietrich?] | Oberwangen» und mit blauem Wachsstift «216»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_013_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              228.2,
+              290.9,
+              373.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 7,
+        "seite": "Rückseite",
+        "beschreibung": "o. r. Spannrahmen: handschriftlich «Seiden Pp wie Muster»",
+        "position_traeger": "o. r. Spannrahmen",
+        "merkmal": "handschriftlich «Seiden Pp wie Muster»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_014_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.9,
+              386.1,
+              293.2,
+              411.6
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 8,
+        "seite": "Rückseite",
+        "beschreibung": "m. Malkarton: rechteckiges weisses Etikett, schwarz bedruckt und maschinenschriftlich beschrieben, mit Angabe der Eigentümerin M. Bosshart-Dietrich",
+        "position_traeger": "m. Malkarton",
+        "merkmal": "rechteckiges weisses Etikett, schwarz bedruckt und maschinenschriftlich beschrieben, mit Angabe der Eigentümerin M. Bosshart-Dietrich",
+        "kommentar": "Ausstellung Kunsthaus Zürich 1981/82",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_015_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              424.7,
+              292.8,
+              501.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 9,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Malkarton: rechteckiges weisses Etikett mit abgerundeten Ecken, rot bedruckt und maschinenschriftlich beschrieben; undatiertes Transportetikett der Firma Möbeltransport mit Angabe der Erbengemeinschaft Bosshart-Dietrich",
+        "position_traeger": "r. m. Malkarton",
+        "merkmal": "rechteckiges weisses Etikett mit abgerundeten Ecken, rot bedruckt und maschinenschriftlich beschrieben; undatiertes Transportetikett der Firma Möbeltransport mit Angabe der Erbengemeinschaft Bosshart-Dietrich",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_016_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              515.2,
+              292.2,
+              579.8
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 10,
+        "seite": "Rückseite",
+        "beschreibung": "r. m. Spannrahmen: handschriftlich «2) 54 […] E», teilweise durch Bügel verdeckt",
+        "position_traeger": "r. m. Spannrahmen",
+        "merkmal": "handschriftlich «2) 54 […] E», teilweise durch Bügel verdeckt",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_017_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.5,
+              603.7,
+              255.6,
+              642.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 11,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Malkarton: handschriftlich «Frau M. Bosshart-Dietrich OberwangenThg.»",
+        "position_traeger": "u. r. Malkarton",
+        "merkmal": "handschriftlich «Frau M. Bosshart-Dietrich OberwangenThg.»",
+        "kommentar": "«Thg» steht für «Thurgau».",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_018_provenienzmerkmale.jpeg",
+            "seite": 7,
+            "bbox": [
+              136.3,
+              655.2,
+              292.9,
+              681.4
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 7,
+            "text": "Der Kanton dürfte angegeben worden sein, um eine Verwechslung mit der gleichnamigen Ortschaft im Kanton Bern (Oberwangen BE) auszuschliessen."
+          }
+        ]
+      },
+      {
+        "nr": 12,
+        "seite": "Rückseite",
+        "beschreibung": "u. r. Malkarton: handschriftlich «Frau M. Bosshart-Dietrich | 8371 Oberwangen T[hg.?]»",
+        "position_traeger": "u. r. Malkarton",
+        "merkmal": "handschriftlich «Frau M. Bosshart-Dietrich | 8371 Oberwangen T[hg.?]»",
+        "kommentar": "8371 ist die Postleitzahl von Oberwangen TG (Thurgau).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_019_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              139.8,
+              292.9,
+              171.0
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 13,
+        "seite": "Rückseite",
+        "beschreibung": "u. l. Malkarton: handschriftlich «gewidmet von Onkel Adolf zur Hochzeit 20. Mai 1930», darüber eine Markierung mit Doppelpfeil sowie Notiz «3 x [D?]irsch[?]»",
+        "position_traeger": "u. l. Malkarton",
+        "merkmal": "handschriftlich «gewidmet von Onkel Adolf zur Hochzeit 20. Mai 1930», darüber eine Markierung mit Doppelpfeil sowie Notiz «3 x [D?]irsch[?]»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/5725/5725_020_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              215.5,
+              292.9,
+              274.5
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          },
+          {
+            "datei": "images/5725/5725_021_provenienzmerkmale.jpeg",
+            "seite": 8,
+            "bbox": [
+              136.3,
+              299.2,
+              224.7,
+              354.1
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal",
+            "bildtitel": "Detail o. r."
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Werktitel SKKG nach Auktionskatalog Zürich 1999; ebenso auf dem Ausstellungsetikett des Kunsthauses Zürich 1981/82. Auf einem älteren Etikett auf der Rückseite wird das Werk als Mondlandschaft am See bezeichnet, siehe Provenienzmerkmale."
+    },
+    {
+      "nr": 2,
+      "text": "Siehe handschriftliche Widmung von Adolf Dietrich («Onkel Adolf») auf der Werkrückseite sowie Kontextinformationen. Marie Bosshart-Dietrich war die Tochter von Heinrich Dietrich-Keller, dem Bruder des Künstlers, und somit die Nichte von Adolf Dietrich. Provenienzangabe in Auktionskatalog Zürich 1999: «Direkt vom Künstler an die Familie des jetzigen Besitzers»."
+    },
+    {
+      "nr": 3,
+      "text": "Siehe Kontextinformationen. Im Zeitungsbericht aus dem Jahr 2018 gibt Maja Bosshart an, 1954 nach Kanada ausgewandert zu sein und das von ihrer Mutter geerbte Bild in der Schweiz gelassen zu haben. Auf dem Etikett des Kunstmuseums Winterthur aus dem Jahr 1994 sowie einem Etikett einer Transportfirma auf der Werkrückseite wird die «Erbengemeinschaft Dietrich-Bosshart» als Eigentümerin genannt. Maja Bosshart berichtet jedoch, sich vom hohen Erlös der Auktion 1999 ein neues Haus in Kanada gebaut zu haben."
+    },
+    {
+      "nr": 4,
+      "text": "Auktionskatalog Zürich 1999, siehe zudem Kontextinformationen."
+    },
+    {
+      "nr": 5,
+      "text": "Siehe annotierten Auktionskatalog Zürich 1999 im Archiv SKKG und Erwerbsnachweis in der Objektdatenbank SKKG."
+    },
+    {
+      "nr": 6,
+      "text": "Für eine Auflistung weiterer Ausstellungen siehe Auktionskatalog Zürich 1999."
+    },
+    {
+      "nr": 7,
+      "text": "Der Kanton dürfte angegeben worden sein, um eine Verwechslung mit der gleichnamigen Ortschaft im Kanton Bern (Oberwangen BE) auszuschliessen."
+    }
+  ],
+  "bilder_anzahl": 21
+}

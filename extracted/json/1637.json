@@ -1,0 +1,402 @@
+{
+  "datei": "Datenblatt_Provenienzforschung_1637_230427.pdf",
+  "seiten": 5,
+  "titel": "Dokumentation Recherche Provenienzforschung",
+  "bearbeitet_von": "Team Provenienzforschung SKKG",
+  "stand": "27. April 2023",
+  "stand_iso": "2023-04-27",
+  "objekt": {
+    "zeilen": [
+      "Inventarnummer: 1637",
+      "Giovanni Segantini (1858–1899)",
+      "Studio di anatre",
+      "o. J.",
+      "Öl auf Leinwand",
+      "54 × 45 cm (Bildmass)",
+      "69 × 59,5 × 6,5 cm (Rahmenmass)",
+      "unsigniert",
+      "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+      "Status: Ungeklärt"
+    ],
+    "inventarnummer": "1637",
+    "status": "Ungeklärt",
+    "kuenstler": "Giovanni Segantini (1858–1899)",
+    "titel": "Studio di anatre",
+    "masse": [
+      "54 × 45 cm (Bildmass)",
+      "69 × 59,5 × 6,5 cm (Rahmenmass)"
+    ],
+    "datierung": "o. J.",
+    "technik": "Öl auf Leinwand",
+    "bezeichnung": "unsigniert",
+    "eigentuemer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
+    "bilder": [
+      {
+        "datei": "images/1637/1637_001_objekt.jpeg",
+        "seite": 1,
+        "bbox": [
+          62.5,
+          247.3,
+          256.8,
+          477.0
+        ],
+        "abschnitt": "OBJEKT",
+        "rolle": "Objektfoto"
+      }
+    ],
+    "fussnoten": [
+      {
+        "nr": 1,
+        "text": "Gottardo Segantini bescheinigte im Jahr 1938 die Echtheit des Werks (siehe Provenienzmerkmale). 1974 wurde die Zuschreibung zu Segantini vom SIK angezweifelt (siehe Anfragen)."
+      },
+      {
+        "nr": 2,
+        "text": "Titel nach Echtheitsbescheinigung von Gottardo Segantini auf der Werkrückseite. In der Objektdatenbank SKKG findet sich der Titel Anatre appese, Quelle unbekannt."
+      }
+    ]
+  },
+  "provenienz": [
+    {
+      "zeitraum": "o. D.",
+      "besitzer": "möglicherweise Auktion Galerie Jürg Stuker (Lot 1004), Bern",
+      "fussnoten": [
+        {
+          "nr": 3,
+          "text": "In der Objektdatenbank SKKG ist ein vormals auf dem Werk angebrachtes Etikett mit der Nummer 1004 abgelegt (siehe Archiv intern); es dürfte von einer (derzeit unbekannten) Auktion der Galerie Jürg Stuker stammen."
+        }
+      ]
+    },
+    {
+      "zeitraum": "seit o. D.",
+      "besitzer": "Stiftung für Kunst, Kultur und Geschichte, Winterthur, erworben von Bruno Stefanini (1924–2018), Winterthur, möglicherweise auf Auktion Galerie Jürg Stuker",
+      "fussnoten": [
+        {
+          "nr": 4,
+          "text": "Das Ankaufsdatum ist unbekannt, der Ankaufsort unsicher (siehe Fn. 3). Eine Durchsicht der Expertisen im Archiv SKKG (A.22.1565, NF_0246 bis NF_0248) verlief ergebnislos."
+        }
+      ]
+    }
+  ],
+  "recherche": {
+    "literatur": [
+      {
+        "kategorie": "Werkkatalog",
+        "text": "Francesco Arcangeli und Maria Cristina Gozzoli, Das Gesamtwerk von Segantini, Luzern 1973 [Werk nicht verzeichnet].\n\nAnnie-Paule Quinsac, Segantini. Catalogo generale, 2 Bde., Mailand 1982 [Werk nicht verzeichnet]."
+      },
+      {
+        "kategorie": "Auktionskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungskatalog",
+        "text": "–"
+      },
+      {
+        "kategorie": "Weitere Literatur",
+        "text": "–"
+      },
+      {
+        "kategorie": "Ausstellungen",
+        "text": "–"
+      }
+    ],
+    "datenbanken": [
+      {
+        "datenbank": "Lost Art",
+        "suchen": [
+          {
+            "text": "0 Treffer (13 Ergebnisse) für Volltextsuche «Segantini» [8. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 13,
+            "datum": "2022-12-08"
+          }
+        ]
+      },
+      {
+        "datenbank": "Central Collecting Point München",
+        "suchen": [
+          {
+            "text": "0 Treffer (2 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 2,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Einsatzstab Reichsleiter Rosenberg",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Fold3",
+        "suchen": [
+          {
+            "text": "2 mögliche Treffer (29 Ergebnisse) für Suche mit Filter 1: War/Conflict «World War II», Filter 2: Collection «Holocaust», Filter 3: Name «Segantini» [12. Januar 2023]:",
+            "treffer": 2,
+            "ergebnisse": 29,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "Zwischen dem 19. und 21. März 1946 wurden zwei Segantini-Werke (Nr. 1559 und 1560) aus dem Bunker in Bad Wildungen zum Collecting Point Wiesbaden gebracht, siehe https://www.fold3.com/image/232063330 [12. Januar 2023]. Aufgrund fehlender Angaben ist keine Identifikation möglich.",
+            "datum": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "datenbank": "Galerie Heinemann",
+        "suchen": [
+          {
+            "text": "0 Treffer (150 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 150,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "German Sales",
+        "suchen": [
+          {
+            "text": "0 Treffer (565 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Titel einschränken «automatisch» [12. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 565,
+            "datum": "2023-01-12"
+          },
+          {
+            "text": "0 Treffer (135 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten «Segantini», Filter 2: Volltext/Metadaten «Enten», Filter 3: Titel einschränken «automatisch» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 135,
+            "datum": "2023-01-17"
+          },
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Suche mit Filter 1: Volltext/Metadaten: «‹Due anatre›», Filter 2: Titel einschränken «automatisch» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-17"
+          }
+        ]
+      },
+      {
+        "datenbank": "Getty Provenance Index",
+        "suchen": [
+          {
+            "text": "0 Treffer (151 Ergebnisse) für Suche «Giovanni Segantini» (inklusive Varianten der Namensschreibweise) ohne Filter [20. Dezember 2022]",
+            "treffer": 0,
+            "ergebnisse": 151,
+            "datum": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Göring",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Sammlung Linz",
+        "suchen": [
+          {
+            "text": "0 Treffer (0 Ergebnisse) für Volltextsuche «Segantini» [10. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 0,
+            "datum": "2023-01-10"
+          }
+        ]
+      },
+      {
+        "datenbank": "Wildenstein Plattner Institute",
+        "suchen": [
+          {
+            "text": "0 Treffer (66 Ergebnisse) für Suche mit Filter: Keywords «Segantini» [17. Januar 2023]",
+            "treffer": 0,
+            "ergebnisse": 66,
+            "datum": "2023-01-17"
+          }
+        ]
+      }
+    ]
+  },
+  "anfragen": [
+    {
+      "datum": "–",
+      "institution": "Schweizerisches Institut für Kunstwissenschaft, Zürich",
+      "betreff": "Anfrage SIK-Nummern",
+      "antwort": "28. Februar 2023: Das damals in Privatbesitz befindliche Werk mit der SIK-Kontrollnummer 11301 und der SIK-Archivnummer 28349 wurde 1974 am SIK als zweifelhaftes Werk von Segantini registriert. Quinsac hat es nicht in den Werkkatalog von 1982 aufgenommen."
+    }
+  ],
+  "archiv_intern": [
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1637/1637_002_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            190.7,
+            453.8,
+            240.3
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Grünes Etikett mit abgerundeten Ecken, gestempelte Nummer 1004, ursprünglich auf der Werkvorderseite unten rechts angebracht. Möglicherweise handelt es sich um die Lotnummer einer Auktion der Galerie Jürg Stuker."
+        }
+      ]
+    },
+    {
+      "datum": "–",
+      "institution": "Objektdatenbank SKKG",
+      "bestand": "",
+      "bilder": [
+        {
+          "datei": "images/1637/1637_003_archiv_intern.jpeg",
+          "seite": 4,
+          "bbox": [
+            368.5,
+            347.3,
+            453.8,
+            398.0
+          ],
+          "abschnitt": "ARCHIV INTERN",
+          "rolle": "bestand",
+          "bildunterschrift": "Beiges/oranges Etikett mit SIK-Kontrollnummer 11301. Das Werk wurde am 1974 am SIK registriert (siehe Anfragen). Das gleiche Etikett findet sich auf der Werkrückseite."
+        }
+      ]
+    }
+  ],
+  "archive_extern": [],
+  "kontextinformationen": [],
+  "provenienzmerkmale": {
+    "erklaerung": "Die Provenienzmerkmale werden im Uhrzeigersinn von oben Mitte aus dokumentiert. Provenienzmerkmale aus dem Besitzzeitraum der SKKG, die keine neuen Erkenntnisse bringen, werden im Erstcheck nicht festgehalten. Die Werkautopsie erfolgt in der Regel anhand hochaufgelöster Digitalisate.",
+    "uebersicht": [
+      {
+        "datei": "images/1637/1637_004_provenienzmerkmale.jpeg",
+        "seite": 5,
+        "bbox": [
+          62.5,
+          165.3,
+          283.4,
+          420.3
+        ],
+        "abschnitt": "PROVENIENZMERKMALE",
+        "rolle": "Übersicht"
+      }
+    ],
+    "merkmale": [
+      {
+        "nr": 1,
+        "seite": "Vorderseite",
+        "beschreibung": "u. m. Zierrahmen: angeschraubte Messingplakette, eingraviert «GIOVANNI SEGANTINI»",
+        "position_traeger": "u. m. Zierrahmen",
+        "merkmal": "angeschraubte Messingplakette, eingraviert «GIOVANNI SEGANTINI»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1637/1637_005_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              457.7,
+              283.7,
+              496.7
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ],
+        "fussnoten": [
+          {
+            "nr": 5,
+            "text": "In der Objektdatenbank SKKG befinden sich zwei weitere, vormals auf dem Werk angebrachte Provenienzmerkmale, siehe Archiv intern."
+          }
+        ]
+      },
+      {
+        "nr": 2,
+        "seite": "Rückseite",
+        "beschreibung": "o. l. Zierrahmen: rechteckiges weisses Etikett, schwarz gestempelt «11301»",
+        "position_traeger": "o. l. Zierrahmen",
+        "merkmal": "rechteckiges weisses Etikett, schwarz gestempelt «11301»",
+        "kommentar": "SIK-Kontrollnummer. Das Werk wurde 1974 am SIK registriert (siehe Anfragen).",
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1637/1637_006_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              509.2,
+              215.0,
+              559.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      },
+      {
+        "nr": 3,
+        "seite": "Rückseite",
+        "beschreibung": "m. Leinwand: handschriftliche Echtheitsbescheinigung von Gottardo Segantini, Milano, 5. Juli 1938: «Io sottoscritto dichiaro | questo studio di anatre | lavoro di mio padre | Giovanni Segantini | in fede | Gottardo Segantini | Milano 5 VII 1938 XVI»",
+        "position_traeger": "m. Leinwand",
+        "merkmal": "handschriftliche Echtheitsbescheinigung von Gottardo Segantini, Milano, 5. Juli 1938: «Io sottoscritto dichiaro | questo studio di anatre | lavoro di mio padre | Giovanni Segantini | in fede | Gottardo Segantini | Milano 5 VII 1938 XVI»",
+        "kommentar": null,
+        "bildtext": null,
+        "bilder": [
+          {
+            "datei": "images/1637/1637_007_provenienzmerkmale.jpeg",
+            "seite": 5,
+            "bbox": [
+              136.3,
+              585.0,
+              283.8,
+              680.9
+            ],
+            "abschnitt": "PROVENIENZMERKMALE",
+            "rolle": "Merkmal"
+          }
+        ]
+      }
+    ],
+    "ohne_merkmale": []
+  },
+  "fussnoten": [
+    {
+      "nr": 1,
+      "text": "Gottardo Segantini bescheinigte im Jahr 1938 die Echtheit des Werks (siehe Provenienzmerkmale). 1974 wurde die Zuschreibung zu Segantini vom SIK angezweifelt (siehe Anfragen)."
+    },
+    {
+      "nr": 2,
+      "text": "Titel nach Echtheitsbescheinigung von Gottardo Segantini auf der Werkrückseite. In der Objektdatenbank SKKG findet sich der Titel Anatre appese, Quelle unbekannt."
+    },
+    {
+      "nr": 3,
+      "text": "In der Objektdatenbank SKKG ist ein vormals auf dem Werk angebrachtes Etikett mit der Nummer 1004 abgelegt (siehe Archiv intern); es dürfte von einer (derzeit unbekannten) Auktion der Galerie Jürg Stuker stammen."
+    },
+    {
+      "nr": 4,
+      "text": "Das Ankaufsdatum ist unbekannt, der Ankaufsort unsicher (siehe Fn. 3). Eine Durchsicht der Expertisen im Archiv SKKG (A.22.1565, NF_0246 bis NF_0248) verlief ergebnislos."
+    },
+    {
+      "nr": 5,
+      "text": "In der Objektdatenbank SKKG befinden sich zwei weitere, vormals auf dem Werk angebrachte Provenienzmerkmale, siehe Archiv intern."
+    }
+  ],
+  "bilder_anzahl": 7
+}
