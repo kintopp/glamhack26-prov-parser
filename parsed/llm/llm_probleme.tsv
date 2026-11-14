@@ -223,7 +223,6 @@ Merkmal-ID	Art	Spalte	Wert	Grund	Zitat
 5000#23	foto	Urheber (normalisiert)	Kunsthalle Basel	Das Etikett nennt die Kunsthalle Basel als Veranstalterin.	KUNSTHALLE BASEL
 5000#23	foto	Datum (wie gelesen)	MAI-JUNI 1943	Der Ausstellungszeitraum steht auf dem Etikett.	MAI-JUNI 1943
 5000#23	foto	Datum (ISO 8601-2:2019)	1943-05/1943-06	Der Ausstellungszeitraum steht auf dem Etikett.	MAI-JUNI 1943
-5004#4	foto	Sprache	Französisch	Der gedruckte Text auf dem Etikett ist französisch.	ANTIQUITÉS DORURE RESTAURATION ENCADREMENTS
 5188#14	foto	Datum (wie gelesen)	Oktober 1928	Das Etikett nennt Oktober 1928 als Ausstellungsdatum.	Oktober 1928
 5188#14	foto	Datum (ISO 8601-2:2019)	1928-10	Das Etikett nennt Oktober 1928 als Ausstellungsdatum.	Oktober 1928
 5196#6	foto	Ausstellung	Anker-Jahrhundertausstellung, Kunstmuseum Bern, 1931	Das Etikett nennt diese Ausstellung mit Jahr; das Foto widerspricht dem Kommentar (1993).	Anker-Jahrhundertausstellung 1931

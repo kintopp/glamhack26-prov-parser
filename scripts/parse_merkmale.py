@@ -74,11 +74,13 @@ FORM = [
     ("form.hochrechteckig", "hochrechteckig", rf"\bhochrechteckig{INFL}\b"),
     ("form.achteckig", "achteckig", rf"\bachteckig{INFL}\b"),
     ("form.wappenfoermig", "wappenförmig", rf"\bwappenförmig{INFL}\b"),
+    ("form.rautenfoermig", "rautenförmig", rf"\brautenförmig{INFL}\b|\bin\s+Rautenform\b"),
     ("form.rund", "rund", rf"\brund{INFL}\b"),
     ("form.oval", "oval", rf"\boval{INFL}\b"),
 ]
 RAND = [
     ("rand.abgerundet", "abgerundete Ecken", r"\babgerundete[nm]?\s+Ecken\b"),
+    ("rand.abgeschraegt", "abgeschrägte Ecken", r"\babgeschrägte[nm]?\s+Ecken\b"),
     ("rand.gezackt", "gezackter Rand", r"\bgezackte[nmr]?\s+Rand\w*"),
     ("rand.gezahnt", "gezackter Rand", r"\bgezahnt\w*(?:\s+R[aä]nd\w*)?"),
     ("rand.perforiert", "perforierter Rand", r"\bperforierte[nmr]?\s+(?:Rand|Kante)\w*"),

@@ -393,6 +393,29 @@ def erwerbsnachweis(rec: dict, quellen: dict, werte: dict):
                                  "quelle": q, "span": list(m.span()), "zitat": m.group()})
 
 
+NAMEN = Path(__file__).resolve().parent.parent / "namen-normalisierung.tsv"
+NAMEN_SPALTEN = ["Urheber (normalisiert)", "Besitz"]
+
+
+def lade_namen() -> dict[str, str]:
+    """Variant → standard name, as decided by the user in namen-normalisierung.tsv."""
+    with open(NAMEN, encoding="utf-8") as fh:
+        return {r["Variante"]: r["Normalform"] for r in csv.DictReader(fh, delimiter="\t")
+                if r["Status"] == "zusammenführen"}
+
+
+def normalisiere(rec: dict, namen: dict[str, str]):
+    ds = rec["datensatz"]
+    for col in NAMEN_SPALTEN:
+        vals = [v for v in ds[col].split("; ") if v]
+        neu = list(dict.fromkeys(namen.get(v, v) for v in vals))
+        for v in vals:
+            if v in namen:
+                rec["trace"].append({"feld": col, "wert": namen[v], "methode": "normalisierung",
+                                     "regel": NAMEN.name, "von": v})
+        ds[col] = "; ".join(neu)
+
+
 def kandidat(rec: dict) -> bool:
     return bool(rec["offen"]["llm_auswahlgrund"]) or not rec["datensatz"]["Typ"]
 
@@ -515,10 +538,12 @@ def main():
                     print(f"  {n}/{len(missing)}", file=sys.stderr)
 
     probleme = [(mid, "fehler", "", "", e, "") for mid, e in errors.items()]
+    namen = lade_namen()
     for r in todo:
         mid = r["datensatz"]["Merkmal-ID"]
         if mid in results:
             merge(r, inputs[mid], results[mid], a.model, probleme)
+            normalisiere(r, namen)
     # a full run passes non-candidates through, so OUT holds the whole dataset
     out_recs = todo if (a.ids or a.sample) else recs
     lauf = data["lauf"]
@@ -526,7 +551,8 @@ def main():
         if s["methode"] == "llm":
             s.update({"status": "unvollständig" if errors else "gelaufen", "fehler": len(errors), "skript": "scripts/llm_merkmale.py",
                       "skript_sha256": sha(Path(__file__).resolve()), "modell": a.model,
-                      "effort": a.effort, "fotos": a.fotos, "prompt_sha256": prompt_sha, "merkmale": len(results),
+                      "effort": a.effort, "fotos": a.fotos, "prompt_sha256": prompt_sha,
+                      "namen_sha256": sha(NAMEN), "merkmale": len(results),
                       "lauf": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")})
     a.out.mkdir(parents=True, exist_ok=True)
     (a.out / "merkmale.json").write_text(json.dumps({"lauf": lauf, "merkmale": out_recs}, ensure_ascii=False, indent=1))

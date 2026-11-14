@@ -1,11 +1,11 @@
 {
  "lauf": {
   "parser": "scripts/parse_merkmale.py",
-  "parser_sha256": "5721e030909c",
+  "parser_sha256": "022c32d36329",
   "schema": "merkmal-schema.md",
-  "schema_sha256": "4607b98973c5",
+  "schema_sha256": "4f66e3a2ded8",
   "eingabe": "extracted/json",
-  "lauf": "2026-11-14T13:28:26+00:00",
+  "lauf": "2026-11-14T13:38:02+00:00",
   "schichten": [
    {
     "methode": "regel",
@@ -44,13 +44,14 @@
     "status": "gelaufen",
     "fehler": 0,
     "skript": "scripts/llm_merkmale.py",
-    "skript_sha256": "ea24596547e1",
+    "skript_sha256": "9998ae75036d",
     "modell": "claude-sonnet-5-5",
     "effort": "medium",
     "fotos": true,
     "prompt_sha256": "51e79173cef2",
+    "namen_sha256": "0ffb6f856cb9",
     "merkmale": 1217,
-    "lauf": "2026-11-14T13:30:54+00:00"
+    "lauf": "2026-11-14T14:04:55+00:00"
    }
   ]
  },
@@ -806,11 +807,11 @@
     "Schreibmittel": "",
     "Anbringungsort": "r. Mittelstrebe Keilrahmen",
     "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
-    "Urheber (normalisiert)": "Paul Vallotton",
+    "Urheber (normalisiert)": "Galerie Paul Vallotton",
     "Ort": "Lausanne",
     "Land": "Schweiz",
     "Ereignis": "",
-    "Besitz": "Paul Vallotton",
+    "Besitz": "Galerie Paul Vallotton",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -937,6 +938,20 @@
      ],
      "zitat": "«P.V.» steht für Paul Vallotton",
      "begruendung": "Als Verwalter des Nachlasses mit eigener Nummer ist er Besitzer zur Zeit des Merkmals."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Paul Vallotton"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Paul Vallotton"
     }
    ],
    "kontext": {
@@ -1205,7 +1220,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. l., u. l. und m. l. Keilrahmen",
     "Art des Urhebers": "Zoll",
-    "Urheber (normalisiert)": "Zoll Schweiz",
+    "Urheber (normalisiert)": "Schweizer Zoll",
     "Ort": "",
     "Land": "Schweiz",
     "Ereignis": "Zollabfertigung (erschlossen)",
@@ -1301,6 +1316,13 @@
      ],
      "zitat": "Zollstempel Schweiz",
      "begruendung": "Das Land steht in der Beschreibung."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Schweizer Zoll",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Zoll Schweiz"
     }
    ],
    "kontext": {
@@ -2051,7 +2073,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "u. r. Holzfaserplatte",
     "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
-    "Urheber (normalisiert)": "Buscarlet Calame",
+    "Urheber (normalisiert)": "Marguerite Buscarlet-Calame",
     "Ort": "Genf",
     "Land": "Schweiz",
     "Ereignis": "Inventarisierung",
@@ -2216,6 +2238,13 @@
      ],
      "zitat": "B. [?] Buscarlet Calame",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Marguerite Buscarlet-Calame",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Buscarlet Calame"
     }
    ],
    "kontext": {
@@ -5050,13 +5079,13 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "rechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
     "Schreibmittel": "Tinte",
     "Anbringungsort": "m. r. Karton",
-    "Art des Urhebers": "Gutachter:in",
+    "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
     "Urheber (normalisiert)": "Marie Quinche-Anker",
     "Ort": "",
     "Land": "",
@@ -5101,6 +5130,17 @@
       46
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      51,
+      70
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -5148,7 +5188,7 @@
     },
     {
      "feld": "Art des Urhebers",
-     "wert": "Gutachter:in",
+     "wert": "Privatbesitz / Nachlass (erschlossen)",
      "methode": "llm",
      "modell": "claude-sonnet-5-5",
      "quelle": "kommentar",
@@ -5157,7 +5197,7 @@
       73
      ],
      "zitat": "Echtheitsbestätigung von Marie Quinche-Anker, einer Tochter des Künstlers",
-     "begruendung": "Das Etikett ist eine Echtheitsbestätigung, also ein Gutachten."
+     "begruendung": "Das Etikett wurde von einer Privatperson, der Tochter des Künstlers, verfasst."
     },
     {
      "feld": "Sprache",
@@ -5167,9 +5207,9 @@
      "quelle": "beschreibung",
      "span": [
       109,
-      177
+      197
      ],
-     "zitat": "L’étude à l’huile représentant | un paysage d’hiver : arbres dans un",
+     "zitat": "L’étude à l’huile représentant | un paysage d’hiver : arbres dans un | verger avec neige",
      "begruendung": "Der transkribierte Text ist französisch."
     },
     {
@@ -5183,7 +5223,7 @@
       73
      ],
      "zitat": "Echtheitsbestätigung von Marie Quinche-Anker, einer Tochter des Künstlers",
-     "begruendung": "Sie hat die Bestätigung ausgestellt und unterschrieben."
+     "begruendung": "Sie hat die Echtheitsbestätigung verfasst und unterschrieben."
     }
    ],
    "kontext": {
@@ -5219,7 +5259,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "langrechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "beige",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
@@ -5283,6 +5323,17 @@
      "quelle": "Etikett"
     },
     {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      50,
+      69
+     ],
+     "quelle": "abgeschrägten Ecken"
+    },
+    {
      "feld": "Technik",
      "wert": "handschriftlich",
      "methode": "regel",
@@ -5337,7 +5388,7 @@
       178
      ],
      "zitat": "«Verger, en hiver, près du domicile du peintre A. Anker | à Ins. (Anet)»",
-     "begruendung": "Der transkribierte Text besteht aus französischen Wörtern."
+     "begruendung": "Der transkribierte Text enthält französische Wörter wie «en hiver» und «près du domicile du peintre»."
     }
    ],
    "kontext": {
@@ -5483,13 +5534,13 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "rechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "beige",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "blau",
     "Schreibmittel": "Tinte",
     "Anbringungsort": "u. r. Karton",
-    "Art des Urhebers": "Privatbesitz / Nachlass",
+    "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
     "Urheber (normalisiert)": "Cécile Du Bois-Anker",
     "Ort": "Genf",
     "Land": "Schweiz",
@@ -5547,6 +5598,17 @@
      "quelle": "Etikett"
     },
     {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      46,
+      65
+     ],
+     "quelle": "abgeschrägten Ecken"
+    },
+    {
      "feld": "Technik",
      "wert": "handschriftlich",
      "methode": "regel",
@@ -5592,7 +5654,7 @@
     },
     {
      "feld": "Art des Urhebers",
-     "wert": "Privatbesitz / Nachlass",
+     "wert": "Privatbesitz / Nachlass (erschlossen)",
      "methode": "llm",
      "modell": "claude-sonnet-5-5",
      "quelle": "kommentar",
@@ -5601,7 +5663,7 @@
       52
      ],
      "zitat": "Cécile Du Bois-Anker war eine Tochter des Künstlers.",
-     "begruendung": "Das Etikett wurde von Cécile Du Bois-Anker, einer Privatperson und Erbin, beschriftet."
+     "begruendung": "Das Etikett stammt von der Tochter des Künstlers als privater Besitzerin aus dem Nachlass."
     },
     {
      "feld": "Sprache",
@@ -5627,7 +5689,7 @@
       52
      ],
      "zitat": "Cécile Du Bois-Anker war eine Tochter des Künstlers.",
-     "begruendung": "Sie unterzeichnete das Etikett mit ihrem Namen und ist damit Urheberin."
+     "begruendung": "Sie ist auf dem Etikett namentlich genannt und hat es wohl beschriftet."
     },
     {
      "feld": "Ort",
@@ -5640,7 +5702,7 @@
       74
      ],
      "zitat": "Cécile Du Bois-Anker (Dubois) (1877–1957), Genf",
-     "begruendung": "Cécile Du Bois-Anker lebte in Genf; der Ort stammt aus der Provenienzkette."
+     "begruendung": "Die Urheberin lebte laut Provenienzkette in Genf."
     },
     {
      "feld": "Land",
@@ -5653,7 +5715,7 @@
       74
      ],
      "zitat": "Cécile Du Bois-Anker (Dubois) (1877–1957), Genf",
-     "begruendung": "Genf liegt eindeutig in der Schweiz."
+     "begruendung": "Genf liegt in der Schweiz."
     },
     {
      "feld": "Besitz",
@@ -5666,7 +5728,7 @@
       52
      ],
      "zitat": "Cécile Du Bois-Anker war eine Tochter des Künstlers.",
-     "begruendung": "Als Verfasserin des Etiketts war sie zu dieser Zeit Eigentümerin des Werks."
+     "begruendung": "Sie unterzeichnet das Etikett als Eigentümerin des Werks."
     }
    ],
    "kontext": {
@@ -6409,7 +6471,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Karton",
     "Art des Urhebers": "Restaurator:in (erschlossen)",
-    "Urheber (normalisiert)": "Boissonnas",
+    "Urheber (normalisiert)": "Henri Boissonnas",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
@@ -6553,6 +6615,13 @@
      ],
      "zitat": "im Januar 1988 doubliert haben dürfte",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Henri Boissonnas",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Boissonnas"
     }
    ],
    "kontext": {
@@ -25345,7 +25414,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "",
     "Art des Urhebers": "Gutachter:in (erschlossen)",
-    "Urheber (normalisiert)": "Ernst Ramseyer",
+    "Urheber (normalisiert)": "Ernest Ramseyer",
     "Ort": "Bern",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -25467,6 +25536,13 @@
      ],
      "zitat": "D. d. 17 Mai 1920",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Ernest Ramseyer",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Ernst Ramseyer"
     }
    ],
    "kontext": {
@@ -25502,7 +25578,7 @@
     "Schreibmittel": "Tinte",
     "Anbringungsort": "m./r. Leinwand",
     "Art des Urhebers": "Gutachter:in (erschlossen)",
-    "Urheber (normalisiert)": "Berthe Hodler",
+    "Urheber (normalisiert)": "Berthe Hodler-Jacques",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
@@ -25666,6 +25742,13 @@
      ],
      "zitat": "Echtheitsbestätigung von Berthe Hodler vom 17. Mai 1920",
      "begruendung": "Datum der Ausstellung der Echtheitsbestätigung."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Berthe Hodler-Jacques",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Berthe Hodler"
     }
    ],
    "kontext": {
@@ -31044,7 +31127,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. m. Keilrahmen",
     "Art des Urhebers": "Kunsthandel / Galerie (erschlossen)",
-    "Urheber (normalisiert)": "Paul Vallotton",
+    "Urheber (normalisiert)": "Galerie Paul Vallotton",
     "Ort": "Lausanne",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -31184,6 +31267,13 @@
      ],
      "zitat": "Galerie Paul Vallotton, Lausanne, Nr. 1957",
      "begruendung": "Lausanne liegt in der Schweiz."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Paul Vallotton"
     }
    ],
    "kontext": {
@@ -31747,11 +31837,11 @@
     "Schreibmittel": "Kugelschreiber",
     "Anbringungsort": "l. m. Zierrahmen",
     "Art des Urhebers": "Kunsthandel / Galerie (erschlossen)",
-    "Urheber (normalisiert)": "Galerie Willy Raeber",
+    "Urheber (normalisiert)": "Galerie Dr. Raeber",
     "Ort": "Basel",
     "Land": "Schweiz",
     "Ereignis": "",
-    "Besitz": "Galerie Willy Raeber",
+    "Besitz": "Galerie Dr. Raeber",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -31911,6 +32001,20 @@
      ],
      "zitat": "«5204 | Raeber»",
      "begruendung": "Das Lageretikett eines Händlers macht den Händler zu Urheber und Besitz."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Dr. Raeber",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Galerie Willy Raeber"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Galerie Dr. Raeber",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Galerie Willy Raeber"
     }
    ],
    "kontext": {
@@ -40563,7 +40667,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "l. u. Zierrahmen",
     "Art des Urhebers": "Auktionshaus",
-    "Urheber (normalisiert)": "Auktionshaus Klopfer",
+    "Urheber (normalisiert)": "Galerie Klopfer",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -40742,6 +40846,13 @@
      ],
      "zitat": "Lotnummer Auktion Klopfer, Zürich, Juli 1979",
      "begruendung": "Der Kommentar datiert die Auktion auf Juli 1979."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Klopfer",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Auktionshaus Klopfer"
     }
    ],
    "kontext": {
@@ -40952,7 +41063,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. l. Zierrahmen",
     "Art des Urhebers": "Auktionshaus (erschlossen); Privatbesitz / Nachlass",
-    "Urheber (normalisiert)": "Auktion Klopfer; Bruno Stefanini",
+    "Urheber (normalisiert)": "Galerie Klopfer; Bruno Stefanini",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -41113,6 +41224,13 @@
       33
      ],
      "zitat": "Erwerbsnachweis"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Klopfer",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Auktion Klopfer"
     }
    ],
    "kontext": {
@@ -41564,7 +41682,7 @@
     "Ort": "",
     "Land": "",
     "Ereignis": "Leihgabe",
-    "Besitz": "Sotheby's",
+    "Besitz": "Sotheby’s",
     "Ausstellung": "",
     "Datum (wie gelesen)": "1983/84",
     "Datum (ISO 8601-2:2019)": "1983/1984",
@@ -41761,6 +41879,13 @@
      ],
      "zitat": "Das Etikett wurde vermutlich für die über Sotheby’s organisierte Spedition nach Japan 1983/84 aufgebracht.",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Sotheby’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Sotheby's"
     }
    ],
    "kontext": {
@@ -45206,7 +45331,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "m. r. Holztafel",
     "Art des Urhebers": "Zoll",
-    "Urheber (normalisiert)": "Dogana di Firenze",
+    "Urheber (normalisiert)": "Zollamt Florenz",
     "Ort": "Florenz",
     "Land": "Italien",
     "Ereignis": "Zollabfertigung (erschlossen)",
@@ -45365,6 +45490,13 @@
      ],
      "zitat": "vermutlich Einfuhr",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Zollamt Florenz",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Dogana di Firenze"
     }
    ],
    "kontext": {
@@ -45811,7 +45943,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. l. Holztafel",
     "Art des Urhebers": "Auktionshaus; Institution / Stiftung",
-    "Urheber (normalisiert)": "Christie's; SKKG",
+    "Urheber (normalisiert)": "Christie’s; SKKG",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -46012,6 +46144,13 @@
      ],
      "zitat": "wohl von Ursula Netzer",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Christie’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Christie's"
     }
    ],
    "kontext": {
@@ -47614,7 +47753,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "blau",
     "Farbe der Schrift": "schwarz",
@@ -47626,7 +47765,7 @@
     "Land": "Deutschland",
     "Ereignis": "",
     "Besitz": "",
-    "Ausstellung": "Ausstellung Berlin 1918, Nr. 1",
+    "Ausstellung": "Ausstellung Berlin 1918",
     "Datum (wie gelesen)": "1918",
     "Datum (ISO 8601-2:2019)": "1918",
     "Sprache": "",
@@ -47654,6 +47793,17 @@
       36
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      41,
+      60
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Farbe der Umrandung",
@@ -47721,7 +47871,7 @@
       30
      ],
      "zitat": "Ausstellung Berlin 1918, Nr. 1",
-     "begruendung": "Das Etikett trägt die Katalognummer einer Ausstellung und stammt vom Ausstellungsveranstalter."
+     "begruendung": "Das Etikett trägt die Nummer der Ausstellung und stammt vom Ausstellungsveranstalter."
     },
     {
      "feld": "Ort",
@@ -47734,7 +47884,7 @@
       30
      ],
      "zitat": "Ausstellung Berlin 1918, Nr. 1",
-     "begruendung": "Die Ausstellung fand laut Kommentar in Berlin statt."
+     "begruendung": "Die Ausstellung fand in Berlin statt."
     },
     {
      "feld": "Land",
@@ -47747,11 +47897,11 @@
       30
      ],
      "zitat": "Ausstellung Berlin 1918, Nr. 1",
-     "begruendung": "Berlin liegt eindeutig in Deutschland."
+     "begruendung": "Berlin liegt in Deutschland."
     },
     {
      "feld": "Ausstellung",
-     "wert": "Ausstellung Berlin 1918, Nr. 1",
+     "wert": "Ausstellung Berlin 1918",
      "methode": "llm",
      "modell": "claude-sonnet-5-5",
      "quelle": "kommentar",
@@ -47760,7 +47910,7 @@
       30
      ],
      "zitat": "Ausstellung Berlin 1918, Nr. 1",
-     "begruendung": "Der Kommentar nennt die Ausstellung mit Ort, Jahr und Nummer."
+     "begruendung": "Der Kommentar nennt die Ausstellung mit Ort und Jahr."
     },
     {
      "feld": "Datum (wie gelesen)",
@@ -47773,7 +47923,7 @@
       30
      ],
      "zitat": "Ausstellung Berlin 1918, Nr. 1",
-     "begruendung": "Jahr der Ausstellung, auf die das Etikett verweist."
+     "begruendung": "Jahr der Ausstellung, für die das Etikett angebracht wurde."
     },
     {
      "feld": "Datum (ISO 8601-2:2019)",
@@ -47786,7 +47936,7 @@
       30
      ],
      "zitat": "Ausstellung Berlin 1918, Nr. 1",
-     "begruendung": "Jahr der Ausstellung, auf die das Etikett verweist."
+     "begruendung": "Jahr der Ausstellung, für die das Etikett angebracht wurde."
     }
    ],
    "kontext": {
@@ -59369,7 +59519,7 @@
     "Schreibmittel": "Tinte",
     "Anbringungsort": "r. m. Leinwand",
     "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
-    "Urheber (normalisiert)": "Berthe Hodler",
+    "Urheber (normalisiert)": "Berthe Hodler-Jacques",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
@@ -59507,6 +59657,13 @@
      ],
      "zitat": "Echtheitsbestätigung von Berthe Hodler",
      "begruendung": "Berthe Hodler hat die Echtheitsbestätigung ausgestellt und unterschrieben."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Berthe Hodler-Jacques",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Berthe Hodler"
     }
    ],
    "kontext": {
@@ -59984,11 +60141,11 @@
     "Schreibmittel": "Tinte",
     "Anbringungsort": "l. m. Leinwand",
     "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
-    "Urheber (normalisiert)": "Berthe Hodler",
+    "Urheber (normalisiert)": "Berthe Hodler-Jacques",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
-    "Besitz": "Berthe Hodler",
+    "Besitz": "Berthe Hodler-Jacques",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -60135,6 +60292,20 @@
      ],
      "zitat": "Je soussignée, Berthe Hodler née Jacques",
      "begruendung": "Als Witwe des Künstlers war sie zur Zeit der Bestätigung Besitzerin; die Provenienzkette nennt sie um 1920."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Berthe Hodler-Jacques",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Berthe Hodler"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Berthe Hodler-Jacques",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Berthe Hodler"
     }
    ],
    "kontext": {
@@ -65907,11 +66078,11 @@
     "Schreibmittel": "Bleistift",
     "Anbringungsort": "u. r. Passepartout",
     "Art des Urhebers": "Institution / Stiftung (erschlossen)",
-    "Urheber (normalisiert)": "Stiftung für Kunst, Kultur und Geschichte",
+    "Urheber (normalisiert)": "SKKG",
     "Ort": "",
     "Land": "",
     "Ereignis": "Inventarisierung (erschlossen)",
-    "Besitz": "Stiftung für Kunst, Kultur und Geschichte",
+    "Besitz": "SKKG",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -66038,6 +66209,20 @@
      ],
      "zitat": "vermutlich alte SKKG-Inventarnummer",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
     }
    ],
    "kontext": {
@@ -69373,7 +69558,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. l. Sperrholzplatte",
     "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
-    "Urheber (normalisiert)": "Oesch",
+    "Urheber (normalisiert)": "Emil Oesch",
     "Ort": "Thalwil",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -69482,6 +69667,13 @@
      ],
      "zitat": "allenfalls Oesch, Thalwil",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Emil Oesch",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Oesch"
     }
    ],
    "kontext": {
@@ -95838,7 +96030,7 @@
     "Ort": "Lugano",
     "Land": "Schweiz",
     "Ereignis": "Leihgabe (erschlossen)",
-    "Besitz": "Stiftung für Kunst, Kultur und Geschichte",
+    "Besitz": "SKKG",
     "Ausstellung": "Ausstellung Lugano 1984, Nr. 99",
     "Datum (wie gelesen)": "1984",
     "Datum (ISO 8601-2:2019)": "1984",
@@ -96025,6 +96217,13 @@
      ],
      "zitat": "Ausstellung Lugano 1984, Nr. 99",
      "begruendung": "Jahr der Ausstellung, auf die sich das Etikett bezieht."
+    },
+    {
+     "feld": "Besitz",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
     }
    ],
    "kontext": {
@@ -98768,7 +98967,7 @@
     "Schreibmittel": "Tinte",
     "Anbringungsort": "o. l. Zierrahmen",
     "Art des Urhebers": "Museum / Ausstellungsort",
-    "Urheber (normalisiert)": "Museum Solothurn",
+    "Urheber (normalisiert)": "Kunstmuseum Solothurn",
     "Ort": "Solothurn",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -98982,6 +99181,13 @@
      ],
      "zitat": "[Septe]mber–Oktober 1948",
      "begruendung": "Ausstellungszeitraum von September bis Oktober 1948 als Intervall."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Kunstmuseum Solothurn",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Museum Solothurn"
     }
    ],
    "kontext": {
@@ -106432,7 +106638,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Bildträger",
     "Art des Urhebers": "Transportunternehmen (erschlossen)",
-    "Urheber (normalisiert)": "SBB",
+    "Urheber (normalisiert)": "Schweizerische Bundesbahnen (SBB)",
     "Ort": "",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -106576,6 +106782,13 @@
      ],
      "zitat": "wohl aus der Zeit zwischen 1928 und 1965",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Schweizerische Bundesbahnen (SBB)",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "SBB"
     }
    ],
    "kontext": {
@@ -110135,7 +110348,7 @@
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "",
-    "Besitz": "Fritz Neeser",
+    "Besitz": "Friedrich Neeser",
     "Ausstellung": "Ausstellung Kunsthaus Zürich 1957",
     "Datum (wie gelesen)": "1957",
     "Datum (ISO 8601-2:2019)": "1957",
@@ -110393,6 +110606,13 @@
      ],
      "zitat": "«Hr.Fritz […] Stein […] Rh»",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Friedrich Neeser",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Fritz Neeser"
     }
    ],
    "kontext": {
@@ -116499,7 +116719,7 @@
     "Schreibmittel": "Kugelschreiber",
     "Anbringungsort": "u. r. Keilrahmen",
     "Art des Urhebers": "Museum / Ausstellungsort",
-    "Urheber (normalisiert)": "Bündner Kunstmuseum",
+    "Urheber (normalisiert)": "Bündner Kunstmuseum Chur",
     "Ort": "Chur",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -116723,6 +116943,13 @@
      "span": null,
      "zitat": "20.6.–13.9.1981",
      "begruendung": "Ausstellungszeitraum auf dem Etikett als Intervall."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Bündner Kunstmuseum Chur",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Bündner Kunstmuseum"
     }
    ],
    "kontext": {
@@ -127036,7 +127263,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "weiss",
     "Farbe der Umrandung": "blau",
     "Farbe der Schrift": "",
@@ -127098,6 +127325,17 @@
       57
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      62,
+      81
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -140318,7 +140556,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "r. und l. waagrechte Mittelstrebe sowie o. und u. senkrechte Mittelstrebe Keilrahmen",
     "Art des Urhebers": "Kunsthandel / Galerie (erschlossen)",
-    "Urheber (normalisiert)": "Paul Vallotton",
+    "Urheber (normalisiert)": "Galerie Paul Vallotton",
     "Ort": "Lausanne",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -140427,6 +140665,13 @@
      ],
      "zitat": "höchstwahrscheinlich Hinweis von Paul Vallotton",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Paul Vallotton"
     }
    ],
    "kontext": {
@@ -150180,7 +150425,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. l. Rahmen; angeheftet",
     "Art des Urhebers": "Auktionshaus; Institution / Stiftung",
-    "Urheber (normalisiert)": "Christie's; SKKG",
+    "Urheber (normalisiert)": "Christie’s; SKKG",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -150374,6 +150619,13 @@
       98
      ],
      "zitat": "Erwerbsnachweis"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Christie’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Christie's"
     }
    ],
    "kontext": {
@@ -154577,7 +154829,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. m. Keilrahmen",
     "Art des Urhebers": "Transportunternehmen",
-    "Urheber (normalisiert)": "MAT Securitas Express",
+    "Urheber (normalisiert)": "MAT Securitas Express AG",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
@@ -154766,6 +155018,13 @@
      ],
      "zitat": "wahrscheinlich aufgebracht im Zusammenhang mit der Ausstellung Langenthal 1992",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "MAT Securitas Express AG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "MAT Securitas Express"
     }
    ],
    "kontext": {
@@ -159252,7 +159511,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "u. m. Zierrahmen",
     "Art des Urhebers": "Rahmenmacher:in",
-    "Urheber (normalisiert)": "W. Klopfer",
+    "Urheber (normalisiert)": "Galerie Klopfer",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -159348,6 +159607,13 @@
      ],
      "zitat": "RAHMEN | W. Klopfer | ZÜRICH 8",
      "begruendung": "Zürich liegt eindeutig in der Schweiz."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Klopfer",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "W. Klopfer"
     }
    ],
    "kontext": {
@@ -159382,7 +159648,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "",
-    "Rand / Ecken": "gezackter Rand",
+    "Rand / Ecken": "gezackter Rand; abgeschrägte Ecken",
     "Hintergrundfarbe": "weiss",
     "Farbe der Umrandung": "blau",
     "Farbe der Schrift": "rot",
@@ -159455,6 +159721,17 @@
       50
      ],
      "quelle": "blauer"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      63,
+      82
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -159917,7 +160194,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "m. r. obere Strebe",
     "Art des Urhebers": "Transportunternehmen",
-    "Urheber (normalisiert)": "MSE",
+    "Urheber (normalisiert)": "MAT Securitas Express AG",
     "Ort": "Lausanne",
     "Land": "Schweiz",
     "Ereignis": "Leihgabe",
@@ -160133,6 +160410,13 @@
      ],
      "zitat": "Ausstellung 1999/2000",
      "begruendung": "Die Ausstellung, für die der Transport erfolgte, fand 1999/2000 statt."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "MAT Securitas Express AG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "MSE"
     }
    ],
    "kontext": {
@@ -165697,7 +165981,7 @@
     "Typ": "Etiketten",
     "Technik": "gedruckt",
     "Form": "langrechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "orange",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
@@ -165710,9 +165994,9 @@
     "Ereignis": "",
     "Besitz": "",
     "Ausstellung": "",
-    "Datum (wie gelesen)": "Zu unbestimmtem Zeitpunkt nach 1969",
-    "Datum (ISO 8601-2:2019)": "1969/..",
-    "Sprache": "Französisch",
+    "Datum (wie gelesen)": "",
+    "Datum (ISO 8601-2:2019)": "",
+    "Sprache": "",
     "Bemerkungen": ""
    },
    "trace": [
@@ -165761,6 +166045,17 @@
      "quelle": "Etikett"
     },
     {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      55,
+      74
+     ],
+     "quelle": "abgeschrägten Ecken"
+    },
+    {
      "feld": "Farbe der Schrift",
      "wert": "schwarz",
      "methode": "regel",
@@ -165793,17 +166088,7 @@
       130
      ],
      "zitat": "Rahmenatelier S. Fontannaz, Lausanne",
-     "begruendung": "Ein Rahmenatelier (Einrahmungsgeschäft) hat das Etikett angebracht."
-    },
-    {
-     "feld": "Sprache",
-     "wert": "Französisch",
-     "methode": "llm",
-     "modell": "claude-sonnet-5-5",
-     "quelle": "foto",
-     "span": null,
-     "zitat": "ANTIQUITÉS DORURE RESTAURATION ENCADREMENTS",
-     "begruendung": "Der gedruckte Text auf dem Etikett ist französisch."
+     "begruendung": "Ein Rahmenatelier ist ein Einrahmungsgeschäft, das Etikett stammt von ihm."
     },
     {
      "feld": "Urheber (normalisiert)",
@@ -165816,7 +166101,7 @@
       130
      ],
      "zitat": "Rahmenatelier S. Fontannaz, Lausanne",
-     "begruendung": "Das Atelier ist auf dem Etikett genannt."
+     "begruendung": "Das Atelier hat das Etikett angebracht."
     },
     {
      "feld": "Ort",
@@ -165836,39 +166121,13 @@
      "wert": "Schweiz",
      "methode": "llm",
      "modell": "claude-sonnet-5-5",
-     "quelle": "beschreibung",
+     "quelle": "kommentar",
      "span": [
-      94,
-      130
+      37,
+      68
      ],
-     "zitat": "Rahmenatelier S. Fontannaz, Lausanne",
+     "zitat": "Rue Saint-Laurent 8 in Lausanne",
      "begruendung": "Lausanne liegt eindeutig in der Schweiz."
-    },
-    {
-     "feld": "Datum (wie gelesen)",
-     "wert": "Zu unbestimmtem Zeitpunkt nach 1969",
-     "methode": "llm",
-     "modell": "claude-sonnet-5-5",
-     "quelle": "kommentar",
-     "span": [
-      70,
-      138
-     ],
-     "zitat": "Zu unbestimmtem Zeitpunkt nach 1969 fanden Arbeiten am Rahmen statt.",
-     "begruendung": "Die Arbeiten am Rahmen fanden zu unbestimmter Zeit nach 1969 statt (offenes Intervall)."
-    },
-    {
-     "feld": "Datum (ISO 8601-2:2019)",
-     "wert": "1969/..",
-     "methode": "llm",
-     "modell": "claude-sonnet-5-5",
-     "quelle": "kommentar",
-     "span": [
-      70,
-      138
-     ],
-     "zitat": "Zu unbestimmtem Zeitpunkt nach 1969 fanden Arbeiten am Rahmen statt.",
-     "begruendung": "Die Arbeiten am Rahmen fanden zu unbestimmter Zeit nach 1969 statt (offenes Intervall)."
     }
    ],
    "kontext": {
@@ -165880,7 +166139,10 @@
     "felder": [
      "Ereignis",
      "Besitz",
-     "Ausstellung"
+     "Ausstellung",
+     "Datum (wie gelesen)",
+     "Datum (ISO 8601-2:2019)",
+     "Sprache"
     ],
     "llm_auswahlgrund": [
      "Kommentar"
@@ -166519,7 +166781,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Zierrahmen",
     "Art des Urhebers": "Transportunternehmen",
-    "Urheber (normalisiert)": "MAT Securitas Express",
+    "Urheber (normalisiert)": "MAT Securitas Express AG",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
@@ -166611,6 +166873,13 @@
      ],
      "zitat": "MAT Securitas Express",
      "begruendung": "Das Etikett nennt MAT Securitas Express als Aussteller."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "MAT Securitas Express AG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "MAT Securitas Express"
     }
    ],
    "kontext": {
@@ -173821,7 +174090,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Keilrahmen",
     "Art des Urhebers": "Forschungsinstitut",
-    "Urheber (normalisiert)": "Schweizerisches Institut für Kunstwissenschaft (SIK)",
+    "Urheber (normalisiert)": "SIK-ISEA",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -173952,6 +174221,13 @@
      ],
      "zitat": "Kontrollnummer des Schweizerischen Instituts für Kunstwissenschaft (SIK), Zürich",
      "begruendung": "Zürich liegt in der Schweiz."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "SIK-ISEA",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Schweizerisches Institut für Kunstwissenschaft (SIK)"
     }
    ],
    "kontext": {
@@ -178539,7 +178815,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Keilrahmen",
     "Art des Urhebers": "Transportunternehmen",
-    "Urheber (normalisiert)": "MAT Securitas Express",
+    "Urheber (normalisiert)": "MAT Securitas Express AG",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
@@ -178631,6 +178907,13 @@
      ],
      "zitat": "MAT Securitas Express, Transport für das Institut für Kunstwissenschaft (SIK-ISEA), Zürich",
      "begruendung": "Das Etikett nennt MAT Securitas Express als Transporteur; auf dem Foto steht «MAT SECURITAS EXPRESS AG/SA»."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "MAT Securitas Express AG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "MAT Securitas Express"
     }
    ],
    "kontext": {
@@ -183280,11 +183563,11 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. m. Keilrahmen",
     "Art des Urhebers": "Transportunternehmen",
-    "Urheber (normalisiert)": "Securitas Express MSE",
+    "Urheber (normalisiert)": "MAT Securitas Express AG",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
-    "Besitz": "Galerie Vallotton",
+    "Besitz": "Galerie Paul Vallotton",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -183428,6 +183711,20 @@
      ],
      "zitat": "Leihgeberin: Galerie Vallotton, Lausanne",
      "begruendung": "Die Leihgeberin auf dem Ausstellungs- bzw. Transportetikett ist Besitzerin."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "MAT Securitas Express AG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Securitas Express MSE"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Galerie Vallotton"
     }
    ],
    "kontext": {
@@ -185054,7 +185351,7 @@
     "Originalbeschreibung": "m. waagrechte Mittelstrebe: schwarzer Stempel in Rautenform, unleserliche Schrift",
     "Typ": "Stempel",
     "Technik": "gestempelt",
-    "Form": "",
+    "Form": "rautenförmig",
     "Rand / Ecken": "",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "",
@@ -185117,6 +185414,17 @@
       45
      ],
      "quelle": "Stempel"
+    },
+    {
+     "feld": "Form",
+     "wert": "rautenförmig",
+     "methode": "regel",
+     "regel": "form.rautenfoermig",
+     "span": [
+      46,
+      59
+     ],
+     "quelle": "in Rautenform"
     }
    ],
    "kontext": {
@@ -190363,7 +190671,7 @@
     "Schreibmittel": "Kreide",
     "Anbringungsort": "o. l. Keilrahmen (unter Etikett)",
     "Art des Urhebers": "Auktionshaus (erschlossen)",
-    "Urheber (normalisiert)": "Salon Bollag",
+    "Urheber (normalisiert)": "G. & L. Bollag",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -190531,6 +190839,13 @@
      ],
      "zitat": "Lotnummer Auktion Salon Bollag 1914",
      "begruendung": "Jahr der Auktion, bei der die Lotnummer angebracht wurde."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "G. & L. Bollag",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Salon Bollag"
     }
    ],
    "kontext": {
@@ -193052,7 +193367,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "m. Mittelstrebe Keilrahmen",
     "Art des Urhebers": "Kunsthandel / Galerie (erschlossen)",
-    "Urheber (normalisiert)": "Paul Vallotton",
+    "Urheber (normalisiert)": "Galerie Paul Vallotton",
     "Ort": "Lausanne",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -193172,6 +193487,13 @@
      ],
      "zitat": "höchstwahrscheinlich Hinweis von Paul Vallotton",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Paul Vallotton"
     }
    ],
    "kontext": {
@@ -193335,7 +193657,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "u. Mittelstrebe Keilrahmen",
     "Art des Urhebers": "Kunsthandel / Galerie (erschlossen)",
-    "Urheber (normalisiert)": "Paul Vallotton",
+    "Urheber (normalisiert)": "Galerie Paul Vallotton",
     "Ort": "Lausanne",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -193466,6 +193788,13 @@
      ],
      "zitat": "wahrscheinlich Hinweis auf fotografische Aufnahme durch Paul Vallotton",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Paul Vallotton"
     }
    ],
    "kontext": {
@@ -194641,7 +194970,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. l. Zierrahmen",
     "Art des Urhebers": "Auktionshaus (erschlossen); Institution / Stiftung",
-    "Urheber (normalisiert)": "Sotheby's; SKKG",
+    "Urheber (normalisiert)": "Sotheby’s; SKKG",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion (erschlossen)",
@@ -194861,6 +195190,13 @@
       15
      ],
      "zitat": "Erwerbsnachweis"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Sotheby’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Sotheby's"
     }
    ],
    "kontext": {
@@ -197264,7 +197600,7 @@
     "Typ": "Etiketten",
     "Technik": "gedruckt",
     "Form": "rechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "grün",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "weiss",
@@ -197280,7 +197616,7 @@
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
     "Sprache": "",
-    "Bemerkungen": ""
+    "Bemerkungen": "Ereignis: Der Kauf des Rahmens ist nur vermutet."
    },
    "trace": [
     {
@@ -197328,6 +197664,17 @@
      "quelle": "Etikett"
     },
     {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      50,
+      69
+     ],
+     "quelle": "abgeschrägten Ecken"
+    },
+    {
      "feld": "Farbe der Schrift",
      "wert": "weiss",
      "methode": "regel",
@@ -197360,7 +197707,7 @@
       33
      ],
      "zitat": "Kunstgeschäft und Künstlerbedarf.",
-     "begruendung": "Die Bearbeiterin nennt die Firma Kunstgeschäft und Künstlerbedarf."
+     "begruendung": "Die Bearbeiterin nennt die Firma ausdrücklich Künstlerbedarf."
     },
     {
      "feld": "Art des Urhebers",
@@ -197373,7 +197720,7 @@
       33
      ],
      "zitat": "Kunstgeschäft und Künstlerbedarf.",
-     "begruendung": "Als Kunstgeschäft ist die Firma auch Kunsthandel."
+     "begruendung": "Die Firma wird als Kunstgeschäft bezeichnet, also Kunsthandel."
     },
     {
      "feld": "Ereignis",
@@ -197398,8 +197745,8 @@
       87,
       133
      ],
-     "zitat": "KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70",
-     "begruendung": "Firma auf dem Etikett, normalisiert."
+     "zitat": "«KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70»",
+     "begruendung": "Die Firma steht auf dem Etikett und hat es angebracht."
     },
     {
      "feld": "Ort",
@@ -197411,8 +197758,8 @@
       87,
       133
      ],
-     "zitat": "KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70",
-     "begruendung": "Ort der Firma laut Etikett."
+     "zitat": "«KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70»",
+     "begruendung": "Der Ort der Firma steht auf dem Etikett."
     },
     {
      "feld": "Land",
@@ -197424,8 +197771,21 @@
       87,
       133
      ],
-     "zitat": "KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70",
+     "zitat": "«KUNST & SPIEGEL A.G. | ZÜRICH | BAHNHOFSTR. 70»",
      "begruendung": "Zürich liegt eindeutig in der Schweiz."
+    },
+    {
+     "feld": "Bemerkungen",
+     "wert": "Ereignis: Der Kauf des Rahmens ist nur vermutet.",
+     "methode": "llm",
+     "modell": "claude-sonnet-5-5",
+     "quelle": "kommentar",
+     "span": [
+      34,
+      85
+     ],
+     "zitat": "Vermutlich stammt das Etikett vom Kauf des Rahmens.",
+     "begruendung": "Zweifel oder Fehler in der Quelle"
     }
    ],
    "kontext": {
@@ -198143,7 +198503,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Keilrahmen",
     "Art des Urhebers": "Künstlerbedarf",
-    "Urheber (normalisiert)": "Gebrüder Scholl AG",
+    "Urheber (normalisiert)": "Gebrüder Scholl",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -198250,6 +198610,13 @@
      ],
      "zitat": "Zürcher Geschäft für Malerbedarf",
      "begruendung": "Zürich liegt in der Schweiz."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Gebrüder Scholl",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Gebrüder Scholl AG"
     }
    ],
    "kontext": {
@@ -200587,7 +200954,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Zierrahmen",
     "Art des Urhebers": "Auktionshaus",
-    "Urheber (normalisiert)": "Sotheby's",
+    "Urheber (normalisiert)": "Sotheby’s",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -200788,6 +201155,13 @@
      ],
      "zitat": "schwarz gestempelt «04. Juni 1997»",
      "begruendung": "Das Datum der Auktion ist auf dem Etikett gestempelt."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Sotheby’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Sotheby's"
     }
    ],
    "kontext": {
@@ -200827,7 +201201,7 @@
     "Schreibmittel": "Kugelschreiber",
     "Anbringungsort": "r. m. Spannrahmen",
     "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
-    "Urheber (normalisiert)": "Dr. J. Fritschi",
+    "Urheber (normalisiert)": "Jakob Fritschi",
     "Ort": "Goldach",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -200969,6 +201343,13 @@
      ],
      "zitat": "«Dr. J. FRITSCHI GOLDACH»",
      "begruendung": "Die Namensbeschriftung bezeichnet den Eigentümer; normalisiert nach der Provenienzkette."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Jakob Fritschi",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Dr. J. Fritschi"
     }
    ],
    "kontext": {
@@ -202799,7 +203180,7 @@
     "Schreibmittel": "Filzstift",
     "Anbringungsort": "o. l. Zierrahmen",
     "Art des Urhebers": "Auktionshaus",
-    "Urheber (normalisiert)": "Galerie Koller AG",
+    "Urheber (normalisiert)": "Galerie Koller",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -202995,6 +203376,13 @@
      "span": null,
      "zitat": "Auktion 81 vom 14. - 18.11.1991",
      "begruendung": "Zeitraum der Auktion laut Katalogauszug."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Koller",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Galerie Koller AG"
     }
    ],
    "kontext": {
@@ -210337,7 +210725,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. l. Zierrahmen",
     "Art des Urhebers": "Auktionshaus",
-    "Urheber (normalisiert)": "Sotheby's",
+    "Urheber (normalisiert)": "Sotheby’s",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -210482,6 +210870,13 @@
      ],
      "zitat": "Zettel der Auktion Sotheby’s, 29. Mai 2000",
      "begruendung": "Datum der Auktion, die der Zettel festhält."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Sotheby’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Sotheby's"
     }
    ],
    "kontext": {
@@ -212206,7 +212601,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Keilrahmen",
     "Art des Urhebers": "Kunsthandel / Galerie (erschlossen)",
-    "Urheber (normalisiert)": "Paul Vallotton",
+    "Urheber (normalisiert)": "Galerie Paul Vallotton",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
@@ -212287,6 +212682,13 @@
      ],
      "zitat": "Hinweis auf fotografische Aufnahme von Paul Vallotton",
      "begruendung": "Der Kommentar nennt Paul Vallotton als Urheber der fotografischen Aufnahme, auf die der Stempel hinweist."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Galerie Paul Vallotton",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Paul Vallotton"
     }
    ],
    "kontext": {
@@ -213724,7 +214126,7 @@
     "Schreibmittel": "",
     "Anbringungsort": "l. o. Zierrahmen",
     "Art des Urhebers": "Auktionshaus",
-    "Urheber (normalisiert)": "Sotheby's",
+    "Urheber (normalisiert)": "Sotheby’s",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -213859,6 +214261,13 @@
      ],
      "zitat": "Zettel der Auktion Sotheby’s, Zürich, 11. Juni 2001",
      "begruendung": "Datum der Auktion."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Sotheby’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Sotheby's"
     }
    ],
    "kontext": {
@@ -218365,7 +218774,7 @@
     "Ort": "",
     "Land": "",
     "Ereignis": "",
-    "Besitz": "Stiftung für Kunst, Kultur und Geschichte",
+    "Besitz": "SKKG",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -218512,6 +218921,13 @@
      ],
      "zitat": "vermutlich Etikett der SKKG",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
     }
    ],
    "kontext": {
@@ -220126,11 +220542,11 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. m. Malkarton",
     "Art des Urhebers": "Institution / Stiftung (erschlossen)",
-    "Urheber (normalisiert)": "Stiftung für Kunst, Kultur und Geschichte",
+    "Urheber (normalisiert)": "SKKG",
     "Ort": "Winterthur",
     "Land": "Schweiz",
     "Ereignis": "Inventarisierung (erschlossen)",
-    "Besitz": "Stiftung für Kunst, Kultur und Geschichte",
+    "Besitz": "SKKG",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -220288,6 +220704,20 @@
      ],
      "zitat": "möglicherweise ältere Bezeichnung der SKKG",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
     }
    ],
    "kontext": {
@@ -220923,7 +221353,7 @@
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Leihgabe (erschlossen)",
-    "Besitz": "M. Bosshart-Dietrich",
+    "Besitz": "Marie Bosshart-Dietrich",
     "Ausstellung": "Ausstellung Schweiz 30er-Jahre, Kunsthaus Zürich, 1981/82",
     "Datum (wie gelesen)": "1981/82",
     "Datum (ISO 8601-2:2019)": "1981/1982",
@@ -221124,6 +221554,13 @@
      ],
      "zitat": "Ausstellung Kunsthaus Zürich 1981/82",
      "begruendung": "Zeitraum der Ausstellung, auf die sich das Etikett bezieht."
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Marie Bosshart-Dietrich",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "M. Bosshart-Dietrich"
     }
    ],
    "kontext": {
@@ -226710,23 +227147,23 @@
     "Typ": "Etiketten",
     "Technik": "gedruckt; handschriftlich",
     "Form": "",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
     "Schreibmittel": "",
     "Anbringungsort": "o. m. Keilrahmen",
-    "Art des Urhebers": "",
-    "Urheber (normalisiert)": "",
+    "Art des Urhebers": "Privatbesitz / Nachlass (erschlossen)",
+    "Urheber (normalisiert)": "Karl Burckhardt-Iselin",
     "Ort": "",
     "Land": "",
     "Ereignis": "",
-    "Besitz": "",
+    "Besitz": "Karl Burckhardt-Iselin",
     "Ausstellung": "",
     "Datum (wie gelesen)": "Juni 1867",
     "Datum (ISO 8601-2:2019)": "1867-06",
     "Sprache": "Deutsch",
-    "Bemerkungen": "Art des Urhebers: Der Kommentar nimmt an, die Beschriftung stamme nicht vom Künstler; der Urheber des Etiketts bleibt unbekannt."
+    "Bemerkungen": "Urheber (normalisiert), Art des Urhebers: Der Kommentar hält fest, dass das Etikett vermutlich nicht von der Hand des Künstlers stammt; der Urheber ist unsicher."
    },
    "trace": [
     {
@@ -226750,6 +227187,17 @@
       37
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      42,
+      61
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -226796,6 +227244,19 @@
      "quelle": "handschriftlich"
     },
     {
+     "feld": "Art des Urhebers",
+     "wert": "Privatbesitz / Nachlass (erschlossen)",
+     "methode": "llm",
+     "modell": "claude-sonnet-5-5",
+     "quelle": "beschreibung",
+     "span": [
+      132,
+      193
+     ],
+     "zitat": "Dr C. Burckhardt Iselin | gemalt von A. Boecklin | Juni 1867.",
+     "begruendung": "Das Etikett nennt den Besitzer Dr. C. Burckhardt Iselin und stammt vermutlich aus dessen Privatbesitz, nicht vom Künstler."
+    },
+    {
      "feld": "Sprache",
      "wert": "Deutsch",
      "methode": "llm",
@@ -226805,8 +227266,34 @@
       132,
       193
      ],
-     "zitat": "«Dr C. Burckhardt Iselin | gemalt von A. Boecklin | Juni 1867.»",
+     "zitat": "Dr C. Burckhardt Iselin | gemalt von A. Boecklin | Juni 1867.",
      "begruendung": "Der Text «gemalt von» ist deutsch."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Karl Burckhardt-Iselin",
+     "methode": "llm",
+     "modell": "claude-sonnet-5-5",
+     "quelle": "beschreibung",
+     "span": [
+      132,
+      193
+     ],
+     "zitat": "Dr C. Burckhardt Iselin | gemalt von A. Boecklin | Juni 1867.",
+     "begruendung": "Der Name auf dem Etikett wird mit der Provenienzkette zu Karl Burckhardt-Iselin normalisiert; die Hand des Künstlers ist laut Kommentar unwahrscheinlich."
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Karl Burckhardt-Iselin",
+     "methode": "llm",
+     "modell": "claude-sonnet-5-5",
+     "quelle": "beschreibung",
+     "span": [
+      132,
+      193
+     ],
+     "zitat": "Dr C. Burckhardt Iselin | gemalt von A. Boecklin | Juni 1867.",
+     "begruendung": "Der auf dem Etikett genannte Burckhardt Iselin war 1867 Eigentümer des Werks."
     },
     {
      "feld": "Datum (wie gelesen)",
@@ -226819,7 +227306,7 @@
       193
      ],
      "zitat": "Juni 1867.",
-     "begruendung": "Die Angabe nennt Monat und Jahr der Entstehung, die auf dem Etikett vermerkt ist, und wird hier als Datum der Beschriftung gelesen."
+     "begruendung": "Das Datum steht auf dem Etikett und bezieht sich auf die Entstehung des Bildes, wird aber als Datum des Etiketts gelesen."
     },
     {
      "feld": "Datum (ISO 8601-2:2019)",
@@ -226832,11 +227319,11 @@
       193
      ],
      "zitat": "Juni 1867.",
-     "begruendung": "Die Angabe nennt Monat und Jahr der Entstehung, die auf dem Etikett vermerkt ist, und wird hier als Datum der Beschriftung gelesen."
+     "begruendung": "Das Datum steht auf dem Etikett und bezieht sich auf die Entstehung des Bildes, wird aber als Datum des Etiketts gelesen."
     },
     {
      "feld": "Bemerkungen",
-     "wert": "Art des Urhebers: Der Kommentar nimmt an, die Beschriftung stamme nicht vom Künstler; der Urheber des Etiketts bleibt unbekannt.",
+     "wert": "Urheber (normalisiert), Art des Urhebers: Der Kommentar hält fest, dass das Etikett vermutlich nicht von der Hand des Künstlers stammt; der Urheber ist unsicher.",
      "methode": "llm",
      "modell": "claude-sonnet-5-5",
      "quelle": "kommentar",
@@ -226857,12 +227344,9 @@
    },
    "offen": {
     "felder": [
-     "Art des Urhebers",
-     "Urheber (normalisiert)",
      "Ort",
      "Land",
      "Ereignis",
-     "Besitz",
      "Ausstellung"
     ],
     "llm_auswahlgrund": [
@@ -227096,7 +227580,7 @@
     "Ort": "Basel",
     "Land": "Schweiz",
     "Ereignis": "Leihgabe",
-    "Besitz": "Dr. Thomas Speiser",
+    "Besitz": "Thomas Speiser",
     "Ausstellung": "Arnold Böcklin Ausstellung, Basel 1977",
     "Datum (wie gelesen)": "1977",
     "Datum (ISO 8601-2:2019)": "1977",
@@ -227290,6 +227774,13 @@
      ],
      "zitat": "Ausstellung Basel 1977",
      "begruendung": "Jahr der Ausstellung, auf die sich das Etikett bezieht."
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Thomas Speiser",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Dr. Thomas Speiser"
     }
    ],
    "kontext": {
@@ -241189,7 +241680,7 @@
     "Schreibmittel": "Bleistift; Filzstift; Kugelschreiber",
     "Anbringungsort": "o. l. Zierrahmen; angeheftet",
     "Art des Urhebers": "Institution / Stiftung (erschlossen)",
-    "Urheber (normalisiert)": "Stiftung für Kunst, Kultur und Geschichte",
+    "Urheber (normalisiert)": "SKKG",
     "Ort": "Winterthur",
     "Land": "Schweiz",
     "Ereignis": "",
@@ -241373,6 +241864,13 @@
      ],
      "zitat": "Stiftung für Kunst, Kultur und Geschichte, Winterthur",
      "begruendung": "Winterthur liegt in der Schweiz."
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
     }
    ],
    "kontext": {
@@ -261263,11 +261761,11 @@
     "Schreibmittel": "",
     "Anbringungsort": "o. r. Zierrahmen",
     "Art des Urhebers": "Institution / Stiftung (erschlossen)",
-    "Urheber (normalisiert)": "Stiftung für Kunst, Kultur und Geschichte",
+    "Urheber (normalisiert)": "SKKG",
     "Ort": "",
     "Land": "",
     "Ereignis": "Inventarisierung (erschlossen)",
-    "Besitz": "Stiftung für Kunst, Kultur und Geschichte",
+    "Besitz": "SKKG",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -261383,6 +261881,20 @@
      ],
      "zitat": "möglicherweise «INV.NR. […]41»",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "SKKG",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Stiftung für Kunst, Kultur und Geschichte"
     }
    ],
    "kontext": {
@@ -265125,7 +265637,7 @@
     "Ort": "Solothurn",
     "Land": "Schweiz",
     "Ereignis": "",
-    "Besitz": "Dr. Kottmann",
+    "Besitz": "Dr. W. Kottmann",
     "Ausstellung": "",
     "Datum (wie gelesen)": "",
     "Datum (ISO 8601-2:2019)": "",
@@ -265252,6 +265764,13 @@
      ],
      "zitat": "2,500 [oder 2,550]",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Besitz",
+     "wert": "Dr. W. Kottmann",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Dr. Kottmann"
     }
    ],
    "kontext": {
@@ -266088,7 +266607,7 @@
     "Schreibmittel": "Kugelschreiber",
     "Anbringungsort": "u. r. Zierrahmen",
     "Art des Urhebers": "Auktionshaus (erschlossen)",
-    "Urheber (normalisiert)": "Sotheby's",
+    "Urheber (normalisiert)": "Sotheby’s",
     "Ort": "Zürich",
     "Land": "Schweiz",
     "Ereignis": "Auktion",
@@ -266326,6 +266845,13 @@
      ],
      "zitat": "wohl Angabe des Einlieferers M. Fröhlich",
      "begruendung": "Zweifel oder Fehler in der Quelle"
+    },
+    {
+     "feld": "Urheber (normalisiert)",
+     "wert": "Sotheby’s",
+     "methode": "normalisierung",
+     "regel": "namen-normalisierung.tsv",
+     "von": "Sotheby's"
     }
    ],
    "kontext": {

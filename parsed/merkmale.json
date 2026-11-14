@@ -1,11 +1,11 @@
 {
  "lauf": {
   "parser": "scripts/parse_merkmale.py",
-  "parser_sha256": "5721e030909c",
+  "parser_sha256": "022c32d36329",
   "schema": "merkmal-schema.md",
-  "schema_sha256": "4607b98973c5",
+  "schema_sha256": "4f66e3a2ded8",
   "eingabe": "extracted/json",
-  "lauf": "2026-11-14T13:28:26+00:00",
+  "lauf": "2026-11-14T13:38:02+00:00",
   "schichten": [
    {
     "methode": "regel",
@@ -3959,7 +3959,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "rechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
@@ -4010,6 +4010,17 @@
       46
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      51,
+      70
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -4092,7 +4103,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "langrechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "beige",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
@@ -4154,6 +4165,17 @@
       45
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      50,
+      69
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -4344,7 +4366,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "rechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "beige",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "blau",
@@ -4406,6 +4428,17 @@
       41
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      46,
+      65
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -37715,7 +37748,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "blau",
     "Farbe der Schrift": "schwarz",
@@ -37755,6 +37788,17 @@
       36
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      41,
+      60
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Farbe der Umrandung",
@@ -100026,7 +100070,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "weiss",
     "Farbe der Umrandung": "blau",
     "Farbe der Schrift": "",
@@ -100088,6 +100132,17 @@
       57
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      62,
+      81
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -125048,7 +125103,7 @@
     "Typ": "Etiketten",
     "Technik": "handschriftlich",
     "Form": "",
-    "Rand / Ecken": "gezackter Rand",
+    "Rand / Ecken": "gezackter Rand; abgeschrägte Ecken",
     "Hintergrundfarbe": "weiss",
     "Farbe der Umrandung": "blau",
     "Farbe der Schrift": "rot",
@@ -125121,6 +125176,17 @@
       50
      ],
      "quelle": "blauer"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      63,
+      82
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
@@ -129839,7 +129905,7 @@
     "Typ": "Etiketten",
     "Technik": "gedruckt",
     "Form": "langrechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "orange",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
@@ -129901,6 +129967,17 @@
       50
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      55,
+      74
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Farbe der Schrift",
@@ -144497,7 +144574,7 @@
     "Originalbeschreibung": "m. waagrechte Mittelstrebe: schwarzer Stempel in Rautenform, unleserliche Schrift",
     "Typ": "Stempel",
     "Technik": "gestempelt",
-    "Form": "",
+    "Form": "rautenförmig",
     "Rand / Ecken": "",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "",
@@ -144560,6 +144637,17 @@
       45
      ],
      "quelle": "Stempel"
+    },
+    {
+     "feld": "Form",
+     "wert": "rautenförmig",
+     "methode": "regel",
+     "regel": "form.rautenfoermig",
+     "span": [
+      46,
+      59
+     ],
+     "quelle": "in Rautenform"
     }
    ],
    "kontext": {
@@ -153783,7 +153871,7 @@
     "Typ": "Etiketten",
     "Technik": "gedruckt",
     "Form": "rechteckig",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "grün",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "weiss",
@@ -153845,6 +153933,17 @@
       45
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      50,
+      69
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Farbe der Schrift",
@@ -176482,7 +176581,7 @@
     "Typ": "Etiketten",
     "Technik": "gedruckt; handschriftlich",
     "Form": "",
-    "Rand / Ecken": "",
+    "Rand / Ecken": "abgeschrägte Ecken",
     "Hintergrundfarbe": "",
     "Farbe der Umrandung": "",
     "Farbe der Schrift": "schwarz",
@@ -176522,6 +176621,17 @@
       37
      ],
      "quelle": "Etikett"
+    },
+    {
+     "feld": "Rand / Ecken",
+     "wert": "abgeschrägte Ecken",
+     "methode": "regel",
+     "regel": "rand.abgeschraegt",
+     "span": [
+      42,
+      61
+     ],
+     "quelle": "abgeschrägten Ecken"
     },
     {
      "feld": "Technik",
