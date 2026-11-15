@@ -3,9 +3,9 @@
   "parser": "scripts/parse_merkmale.py",
   "parser_sha256": "022c32d36329",
   "schema": "merkmal-schema.md",
-  "schema_sha256": "4f66e3a2ded8",
+  "schema_sha256": "abad175eff07",
   "eingabe": "extracted/json",
-  "lauf": "2026-11-14T13:38:02+00:00",
+  "lauf": "2026-11-15T15:55:35+00:00",
   "schichten": [
    {
     "methode": "regel",

@@ -42,7 +42,7 @@ from parse_merkmale import COPIED, LLM_COLUMNS, sha, write_csv
 
 ART = ["Kunsthandel / Galerie", "Auktionshaus", "Museum / Ausstellungsort", "Zoll", "Denkmalbehörde",
        "Privatbesitz / Nachlass", "Künstlerbedarf", "Künstler:in", "Forschungsinstitut", "Transportunternehmen",
-       "Rahmenmacher:in", "Restaurator:in", "Gutachter:in", "Institution / Stiftung"]
+       "Rahmenmacher:in", "Restaurator:in", "Gutachter:in", "Institution / Stiftung", "Notar:in"]
 EREIGNIS = ["Auktion", "Verkauf", "Vermietung", "Leihgabe", "Inventarisierung", "Zollabfertigung", "Ausfuhr"]
 TYP = ["Etiketten", "Stempel", "Beschriftungen", "Markierungen", "Inschriften", "Plaketten", "Erwerbsnachweise",
        "Dokumente", "Reste entfernter Provenienzmerkmale"]
@@ -61,6 +61,7 @@ PHYSICAL = COPIED + ["Anbringungsort"]
 GLOSSE = {"Künstler:in": "Signaturen und Inschriften von Künstlerhand", "Forschungsinstitut": "z. B. SIK-ISEA",
           "Transportunternehmen": "Kunstspediteure", "Rahmenmacher:in": "Rahmenbauer, Vergolder, Einrahmungsgeschäfte",
           "Restaurator:in": "Restaurierungs- und Doublierungsvermerke", "Gutachter:in": "Experten, Echtheitszertifikate",
+          "Notar:in": "notarielle Beglaubigungen",
           "Institution / Stiftung": "Kulturförderung, Firmen, Archive; nur wenn kein anderer Wert passt, also nicht für "
                                     "Museen, Kunstvereine und -gesellschaften, Auktionshäuser, Händler oder die SKKG"}
 
@@ -130,7 +131,7 @@ Jeder Eintrag hat:
 - `ereignis`: Art des Provenienzereignisses, das das Merkmal festhält: {liste(EREIGNIS)}. Leer, wenn das Merkmal kein Ereignis festhält (Sammlerstempel, Lieferantenstempel, Signatur). Ein Ausstellungs- oder Transportetikett ist nur dann «Leihgabe», wenn es einen Leihgeber oder Besitzer nennt; sonst bleibt `ereignis` leer und die Ausstellung steht in `ausstellung`.
 - `besitz`: Eigentümer:in des Werks zur Zeit des Merkmals, normalisiert. Nicht dasselbe wie Urheber: Auktionshaus und Zoll stellen Merkmale aus, besitzen das Werk aber nicht. Das Lageretikett eines Händlers macht den Händler zu Urheber und Besitz. Ein Leihgeber auf einem Ausstellungsetikett ist Besitz. Anonymisierungen der SKKG («Privatperson», «Unbekannte:r Eigentümer:in») unverändert übernehmen, nie auflösen.
 - `ausstellung`: die Ausstellung, so wie das Merkmal sie nennt, mit Ort und Jahr, falls angegeben.
-- `daten`: Daten, an denen das Merkmal angebracht wurde oder das Ereignis stattfand, das es festhält; je Datum ein Eintrag mit `wie_gelesen` (genau wie auf dem Merkmal oder in Beschreibung bzw. Kommentar) und `iso` (dasselbe Datum nach ISO 8601-2:2019). Keine Datierungen des Werks, auch nicht die Jahreszahl einer Signatur oder eine Werkdatierung auf einem Ausstellungsetikett. ISO-Formen: `1996-12-10`, `1938-12`, `1865`; Jahreszeiten `1979-21` (Frühling), `-22` (Sommer), `-23` (Herbst), `-24` (Winter); unsicher `1944?`; ungefähr `1900~`; beides `1900%`; unbestimmte Stellen `19XX`, `1996-XX`, `XXXX-09-16`; Intervall `1918-05/1918-06`; offen `1944/..`, `../1944`; eins von mehreren `[1996-12-10,1996-10-12]`. Ein Zeitraum «von … bis …» ist ein Datum (ein Intervall), nicht zwei. Zweistellige Jahre nur auflösen, wenn der Kontext das Jahrhundert klärt, sonst mit `XX` für die Jahrhundertstellen.
+- `daten`: Daten, an denen das Merkmal angebracht wurde oder das Ereignis stattfand, das es festhält, aber nur Daten, die auf dem Merkmal selbst stehen (in `beschreibung`, ihren Transkriptionen oder auf dem Foto). Nie ein Datum aus `kommentar` oder `provenienzkette` übernehmen und auch kein Datum des Merkmals damit ergänzen oder präzisieren. Je Datum ein Eintrag mit `wie_gelesen` (genau wie auf dem Merkmal) und `iso` (dasselbe Datum nach ISO 8601-2:2019). Keine Datierungen des Werks, auch nicht die Jahreszahl einer Signatur oder eine Werkdatierung auf einem Ausstellungsetikett. ISO-Formen: `1996-12-10`, `1938-12`, `1865`; Jahreszeiten `1979-21` (Frühling), `-22` (Sommer), `-23` (Herbst), `-24` (Winter); unsicher `1944?`; ungefähr `1900~`; beides `1900%`; unbestimmte Stellen `19XX`, `1996-XX`, `XXXX-09-16`; Intervall `1918-05/1918-06`; offen `1944/..`, `../1944`; eins von mehreren `[1996-12-10,1996-10-12]`. Ein Zeitraum «von … bis …» ist ein Datum (ein Intervall), nicht zwei. Ein Jahr in `iso` nur, wenn das Merkmal es zeigt; ein zweistelliges Jahr darf um das Jahrhundert ergänzt werden («12.3.58» → `1958-03-12`). Zeigt das Merkmal kein Jahr, bleibt es `XXXX` («Juni» → `XXXX-06`).
 - `sprache`: Sprache des Texts auf dem Merkmal: {liste(SPRACHE)}. Nur wenn `beschreibung` Text des Merkmals wiedergibt (in «…») oder seine Sprache nennt und dieser Text Wörter einer erkennbaren Sprache enthält; nicht bei Zahlen, Namen, Orten oder einem einzelnen Wort oder Kürzel wie «Lot» oder «ZOLL». Beschreibt die Bearbeiterin das Merkmal nur, ohne seinen Text wiederzugeben, bleibt `sprache` leer.
 - `typ`: nur ausfüllen, wenn `regelwerte.Typ` leer ist: {liste(TYP)}. Signaturen und Monogramme sind «Inschriften».
 
