@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Extracts structured data and images from SKKG (Stiftung für Kunst, Kultur und Geschichte) provenance research data sheets: 236 PDFs in `Provenienz_Datenblatt/` named `Datenblatt_Provenienzforschung_<Inventarnummer>_<YYMMDD>.pdf`. Output goes to `extracted/` (generated; safe to delete and rebuild). `extracted/` (except images) and `parsed/` are committed, so a rebuild shows up in `git diff`; `Provenienz_Datenblatt/`, `old/` and `parsed/llm/cache/` are gitignored. Never delete `parsed/llm/cache/`: it is the only copy of the LLM responses (~$10 to redo).
+Extracts structured data and images from SKKG (Stiftung für Kunst, Kultur und Geschichte) provenance research data sheets: 236 PDFs in `Provenienz_Datenblatt/` named `Datenblatt_Provenienzforschung_<Inventarnummer>_<YYMMDD>.pdf`. Output goes to `extracted/` (generated; safe to delete and rebuild). `extracted/` (except images), `parsed/` and `trace/` are committed, so a rebuild shows up in `git diff`; `Provenienz_Datenblatt/`, `old/` and `parsed/llm/cache/` are gitignored. Never delete `parsed/llm/cache/`: it is the only copy of the LLM responses (~$10 to redo).
 
 `old/` is earlier work on a different source, the SKKG label register spreadsheet; it is not used by the current pipeline.
 
@@ -16,7 +16,7 @@ Extracts structured data and images from SKKG (Stiftung für Kunst, Kultur und G
 
 All scripts carry PEP 723 dependency headers, so `uv run` needs no venv.
 
-Pipeline order: `extract_datenblatt.py` → `parse_merkmale.py` → `llm_merkmale.py` → `ui/` (which loads `parsed/llm/merkmale.json` by default).
+Pipeline order: `extract_datenblatt.py` → `parse_merkmale.py` → `llm_merkmale.py` → `trace_pages.py` and `ui/` (which loads `parsed/llm/merkmale.json` by default).
 
 ```sh
 # full run (~30 s): JSON, CSV, Excel, images
@@ -48,6 +48,14 @@ uv run scripts/llm_merkmale.py parsed extracted /tmp/llm --ids 1713#3 4961#2
 ```
 
 It writes `merkmale.json`/`.csv` (rule values plus LLM values, traces with `methode: "llm"`, quote, span and reason), `llm_probleme.tsv` (rejected values, vocabulary proposals, API errors) and `cache/<model>/<id>.json`. The cache key covers prompt, schema, effort, the mark's input and its photo bytes, so a rerun after a validation-only change costs nothing.
+
+Trace pages, one static page per mark showing where each value came from (rule, cross-reference, LLM, photo, normalisation) and why:
+
+```sh
+rm -rf trace && uv run scripts/trace_pages.py parsed/llm extracted trace   # --ids 4084#3 for single marks
+```
+
+Rule IDs link to the line that sets them in the scripts at HEAD on GitHub, and normalisation steps link to their row in `namen-normalisierung.tsv` with the row's commit date as the decision date (`git blame`). So regenerate after committing, and push before sharing. Pages link to `../extracted/` and `../Provenienz_Datenblatt/`, so serve the repository root.
 
 Search UI for the marks (`ui/`, static, no build): serve the repository root, since it loads `../parsed/…/merkmale.json`, `../merkmal-schema.md` (facet hints from the Columns table), `../extracted/` (photos, work data) and `../Provenienz_Datenblatt/` (PDF links).
 
