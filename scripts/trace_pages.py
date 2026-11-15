@@ -219,6 +219,9 @@ def render(rec: dict, doc: dict, lauf: dict, prob_rows: list[dict], nav: tuple) 
                 f'Prompt <code>{e(llm["prompt_sha256"])}</code> · Namen <code>{e(llm["namen_sha256"])}</code> · {e(llm["lauf"])}</dd>'
                 if llm else "")
     prev, nxt = nav
+    arten = {m for v in spans.values() for *_, m in v}
+    legende = ('<p class="legende">Hervorgehoben: ' + " ".join(
+        f'<span class="m m-{m}">{METHODE[m]}</span>' for m in METHODE if m in arten) + "</p>") if arten else ""
     navi = (f'<a href="{page_name(prev)}">← {e(prev)}</a>' if prev else "<span></span>") + \
            (f'<a href="{page_name(nxt)}">{e(nxt)} →</a>' if nxt else "<span></span>")
 
@@ -257,8 +260,7 @@ def render(rec: dict, doc: dict, lauf: dict, prob_rows: list[dict], nav: tuple) 
     <p class="quelltext">{markiert(texte["beschreibung"], spans["beschreibung"])}</p>
     {kommentar}
     {f'<h3>Transkriptionen</h3><ul class="transk">{transk}</ul>' if transk else ""}
-    <p class="legende"><span class="hl hl-regel">Regel</span> <span class="hl hl-verweis">Verweis</span>
-      <span class="hl hl-llm">LLM</span> — Wert oder Zeile anfahren, um die Stelle zu sehen.</p>
+    {legende}
   </section>
 </div>
 
@@ -344,10 +346,11 @@ h3:first-of-type { margin-top: 0; }
 .transk { margin: 0; padding-left: 1.1rem; }
 .legende { margin: 1rem 0 0; font-size: .85rem; color: var(--muted); }
 .hl { border-radius: 2px; padding: 0 1px; transition: outline .1s; }
-.hl-regel { box-shadow: inset 0 -2px var(--regel); background: var(--regel-bg); }
-.hl-verweis { box-shadow: inset 0 -2px var(--verweis); background: var(--verweis-bg); }
+.hl-regel { background: var(--regel-bg); }
+.hl-verweis { background: var(--verweis-bg); }
 .hl-llm { background: var(--llm-bg); }
-.hl-llm.hl-regel { background: linear-gradient(var(--llm-bg), var(--llm-bg)); }
+/* a passage used by both a rule and the LLM shows both tints */
+.hl-llm.hl-regel { background: linear-gradient(var(--llm-bg) 50%, var(--regel-bg) 50%); }
 .hl.aktiv, .schritt.aktiv { outline: 2px solid var(--accent); outline-offset: 1px; }
 .werte { width: 100%; border-collapse: collapse; }
 .werte th, .werte td { text-align: left; vertical-align: top; padding: .45rem .5rem; border-top: 1px solid var(--line); }
