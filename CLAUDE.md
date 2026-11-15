@@ -11,6 +11,7 @@ Extracts structured data and images from SKKG (Stiftung für Kunst, Kultur und G
 ## References
 
 - SKKG Linked Data usage guide (skkg-pipeline wiki): https://github.com/swiss-art-research-net/skkg-pipeline/wiki/6.-How-to-use-the-SKKG-Linked-Data
+- Box viewer (`../glamhack26-box-viewer`, github.com/ruedtim/glamhack26-box-viewer, site https://ruedtim.github.io/glamhack26-box-viewer/): the GLAMhack 2026 «Provenance Pursuit» results site by Tim Rüdiger, locating labels on the backs of works via SKKG IIIF. It consumes this repo's output: `facets.js` and the `facets` block of its `data.json` hold 19 facet groups built from our marks, with names merged to their most frequent spelling. That `data.json` is a snapshot built outside both repos (`prov_parser/facets.py`, not in either repo), so changes here reach the site only when it is rebuilt.
 
 ## Commands
 
