@@ -6,6 +6,8 @@ For the [Provenance Pursuit](https://hack.glam.opendata.ch/project/304) challeng
   <img src="docs/screenshot.jpg" alt="Search UI: detail view of provenance mark 910#3 with its photo and the traced rule and LLM values" width="100%">
 </p>
 
+[Demo interface with sample data](https://claude.ai/artifact/C5gnu88eQKr2kcWMkDgKpu) - Claude Artifact.
+
 ## Pipeline
 
 1. `scripts/extract_datenblatt.py` reads the PDF data sheets and writes JSON, CSV, Excel and images to `extracted/`.
